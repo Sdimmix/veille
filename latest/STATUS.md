@@ -1,4 +1,4 @@
-# STATUS collecte - 2026-11-16T20:12 UTC
+# STATUS collecte - 2026-11-16T20:25 UTC
 
 - OK   RSS Le Monde - Une 16 articles <72h (16 dans le flux)
 - OK   RSS Le Monde - Économie 20 articles <72h (20 dans le flux)
@@ -7,7 +7,7 @@
 - OK   RSS Le Figaro - Actualités 20 articles <72h (20 dans le flux)
 - OK   RSS Le Figaro - Économie 17 articles <72h (19 dans le flux)
 - OK   RSS Le Figaro - Politique 3 articles <72h (20 dans le flux)
-- OK   RSS Le Figaro - Conjoncture 14 articles <72h (20 dans le flux)
+- OK   RSS Le Figaro - Conjoncture 13 articles <72h (20 dans le flux)
 - ÉCHEC RSS Les Échos - Une https://www.lesechos.fr/rss.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss.xml
 - ÉCHEC RSS Les Échos - Économie https://www.lesechos.fr/rss/rss_economie.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss/rss_econ
 - ÉCHEC RSS Les Échos - Politique https://www.lesechos.fr/rss/rss_politique.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss/rss_pol
@@ -41,19 +41,8 @@
 - OK   RSS 20 Minutes 28 articles <72h (30 dans le flux)
 - OK   RSS Le JDD 50 articles <72h (50 dans le flux)
 - OK   RSS Reporterre 12 articles <72h (60 dans le flux)
-- ÉCHEC GDELT "Cour des comptes" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT "dépenses publiques" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT gaspillage HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT "marché public" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT subvention HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT pantouflage HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT "commission d'enquête" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT "chambre régionale des comptes" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT "aide médicale" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- ÉCHEC GDELT "avenant" marché HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
-- OK   GDELT 7/17 requêtes OK, 0 articles
 - OK   JO diagnostic 8416 fichiers dans les archives, exemples : ['20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/08/72/JORFCONT000055087297.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/08/10/JORFCONT000055081098.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/07/51/JORFCONT000055075181.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/06/36/JORFCONT000055063671.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/05/33/JORFCONT000055053315.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/02/30/JORFCONT000055023056.xml']
-- OK   JO (DILA) 290 textes, 86 signalés, archives: ['JORF_20261114-210430.tar.gz', 'JORF_20261115-002320.tar.gz', 'JORF_20261115-205552.tar.gz', 'JORF_20261116-104909.tar.gz']
-- OK   BOAMP 500 avis, 170 signalés
+- OK   JO (DILA) 290 textes, 64 signalés, archives: ['JORF_20261114-210430.tar.gz', 'JORF_20261115-002320.tar.gz', 'JORF_20261115-205552.tar.gz', 'JORF_20261116-104909.tar.gz']
+- OK   BOAMP 500 avis, 145 signalés
 - OK   TED 100 avis
-- OK   Cour des comptes 20 publications listées, 7 nouveaux PDF lus
+- OK   Cour des comptes 20 publications listées, 0 nouveaux PDF lus
