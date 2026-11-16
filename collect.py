@@ -307,7 +307,11 @@ def find_amounts(obj, path="", depth=0, found=None):
         for k, v in obj.items():
             kn = norm(str(k))
             if isinstance(v, (str, int, float)) and re.search(r"montant|valeur|val_tot|prix|cout|total", kn):
-                if str(v).strip() and re.search(r"\d", str(v)):
+                try:
+                    num = float(str(v).replace(" ", "").replace("\u202f", "").replace(",", "."))
+                except ValueError:
+                    num = 0
+                if num >= 10000:
                     found.append(f"{k}={str(v)[:40]}")
             else:
                 find_amounts(v, path + "/" + str(k), depth + 1, found)
