@@ -1,6 +1,6 @@
-# STATUS collecte - 2026-11-16T20:03 UTC
+# STATUS collecte - 2026-11-16T20:12 UTC
 
-- OK   RSS Le Monde - Une 15 articles <72h (15 dans le flux)
+- OK   RSS Le Monde - Une 16 articles <72h (16 dans le flux)
 - OK   RSS Le Monde - Économie 20 articles <72h (20 dans le flux)
 - OK   RSS Le Monde - Politique 20 articles <72h (20 dans le flux)
 - OK   RSS Le Monde - Société 20 articles <72h (20 dans le flux)
@@ -8,9 +8,9 @@
 - OK   RSS Le Figaro - Économie 17 articles <72h (19 dans le flux)
 - OK   RSS Le Figaro - Politique 3 articles <72h (20 dans le flux)
 - OK   RSS Le Figaro - Conjoncture 14 articles <72h (20 dans le flux)
-- ÉCHEC RSS Les Échos - Une 403 Client Error: Forbidden for url: https://services.lesechos.fr/rss/les-echos-une.xml
-- ÉCHEC RSS Les Échos - Économie 403 Client Error: Forbidden for url: https://services.lesechos.fr/rss/les-echos-economie.xml
-- ÉCHEC RSS Les Échos - Politique 403 Client Error: Forbidden for url: https://services.lesechos.fr/rss/les-echos-politique.xml
+- ÉCHEC RSS Les Échos - Une https://www.lesechos.fr/rss.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss.xml
+- ÉCHEC RSS Les Échos - Économie https://www.lesechos.fr/rss/rss_economie.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss/rss_econ
+- ÉCHEC RSS Les Échos - Politique https://www.lesechos.fr/rss/rss_politique.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss/rss_pol
 - OK   RSS Libération 50 articles <72h (50 dans le flux)
 - OK   RSS Franceinfo - Titres 30 articles <72h (31 dans le flux)
 - OK   RSS Franceinfo - Économie 20 articles <72h (20 dans le flux)
@@ -21,8 +21,8 @@
 - OK   RSS La Croix 50 articles <72h (50 dans le flux)
 - OK   RSS L'Humanité 20 articles <72h (20 dans le flux)
 - OK   RSS L'Opinion 57 articles <72h (250 dans le flux)
-- ÉCHEC RSS Marianne 405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml
-- ÉCHEC RSS Le Point 404 Client Error: Not Found for url: https://www.lepoint.fr/rss.xml
+- ÉCHEC RSS Marianne https://www.marianne.net/feed : 405 Client Error: Not Allowed for url: https://www.marianne.net/feed
+- ÉCHEC RSS Le Point https://www.lepoint.fr/economie/rss.xml : 403 Client Error: Forbidden for url: https://www.lepoint.fr/economie/rss.xml
 - OK   RSS L'Express 46 articles <72h (100 dans le flux)
 - OK   RSS Challenges 37 articles <72h (50 dans le flux)
 - OK   RSS La Tribune 12 articles <72h (20 dans le flux)
@@ -33,30 +33,27 @@
 - OK   RSS Europe 1 50 articles <72h (50 dans le flux)
 - OK   RSS Public Sénat 40 articles <72h (60 dans le flux)
 - OK   RSS LCP 11 articles <72h (100 dans le flux)
-- ÉCHEC RSS Acteurs publics 0 articles <72h (0 dans le flux)
-- ÉCHEC RSS Gazette des communes 403 Client Error: Forbidden for url: https://www.lagazettedescommunes.com/feed/
-- ÉCHEC RSS Banque des Territoires 404 Client Error: Not Found for url: https://www.banquedesterritoires.fr/rss.xml
-- ÉCHEC RSS Capital 404 Client Error: Not Found for url: https://www.capital.fr/rss
+- ÉCHEC RSS Acteurs publics https://acteurspublics.fr/rss/actualites : flux vide
+- ÉCHEC RSS Gazette des communes https://www.lagazettedescommunes.com/rss : 403 Client Error: Forbidden for url: https://www.lagazettedescommunes.com/arc
+- ÉCHEC RSS Banque des Territoires https://www.banquedesterritoires.fr/actualites/rss.xml : 404 Client Error: Not Found for url: https://www.banquedesterri
+- ÉCHEC RSS Capital https://www.capital.fr/economie-politique/rss : 404 Client Error: Not Found for url: https://www.capital.fr/economie-pol
 - OK   RSS Ouest-France 10 articles <72h (10 dans le flux)
 - OK   RSS 20 Minutes 28 articles <72h (30 dans le flux)
 - OK   RSS Le JDD 50 articles <72h (50 dans le flux)
 - OK   RSS Reporterre 12 articles <72h (60 dans le flux)
-- ÉCHEC RSS Le Rempart 0 articles <72h (0 dans le flux)
-- ÉCHEC GDELT "Cour des comptes" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "dépenses publiques" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT gaspillage Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "marché public" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT subvention Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "déficit" budget Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "fraude sociale" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "détournement de fonds" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "PLFSS" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "aide médicale" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "avenant" marché Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT "cabinets de conseil" Expecting value: line 1 column 1 (char 0)
-- ÉCHEC GDELT Sanef autoroutes Expecting value: line 1 column 1 (char 0)
-- OK   GDELT 4/17 requêtes OK, 0 articles
-- ÉCHEC JO (DILA) 0 textes, 0 signalés, archives: ['JORF_20261114-210430.tar.gz', 'JORF_20261115-002320.tar.gz', 'JORF_20261115-205552.tar.gz', 'JORF_20261116-104909.tar.gz']
+- ÉCHEC GDELT "Cour des comptes" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT "dépenses publiques" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT gaspillage HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT "marché public" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT subvention HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT pantouflage HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT "commission d'enquête" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT "chambre régionale des comptes" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT "aide médicale" HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- ÉCHEC GDELT "avenant" marché HTTP 429 non JSON : 'Please limit requests to one every 5 seconds or contact kalev.leetaru5@gmail.com for larger queries. All high-traffic us'
+- OK   GDELT 7/17 requêtes OK, 0 articles
+- OK   JO diagnostic 8416 fichiers dans les archives, exemples : ['20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/08/72/JORFCONT000055087297.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/08/10/JORFCONT000055081098.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/07/51/JORFCONT000055075181.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/06/36/JORFCONT000055063671.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/05/33/JORFCONT000055053315.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/02/30/JORFCONT000055023056.xml']
+- OK   JO (DILA) 290 textes, 86 signalés, archives: ['JORF_20261114-210430.tar.gz', 'JORF_20261115-002320.tar.gz', 'JORF_20261115-205552.tar.gz', 'JORF_20261116-104909.tar.gz']
 - OK   BOAMP 500 avis, 170 signalés
 - OK   TED 100 avis
-- OK   Cour des comptes 20 publications listées, 12 nouveaux PDF lus
+- OK   Cour des comptes 20 publications listées, 7 nouveaux PDF lus
