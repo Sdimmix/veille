@@ -73,9 +73,9 @@ FEEDS = {
     "Le Figaro - Économie": "https://www.lefigaro.fr/rss/figaro_economie.xml",
     "Le Figaro - Politique": "https://www.lefigaro.fr/rss/figaro_politique.xml",
     "Le Figaro - Conjoncture": "https://www.lefigaro.fr/rss/figaro_conjoncture.xml",
-    "Les Échos - Une": "https://services.lesechos.fr/rss/les-echos-une.xml",
-    "Les Échos - Économie": "https://services.lesechos.fr/rss/les-echos-economie.xml",
-    "Les Échos - Politique": "https://services.lesechos.fr/rss/les-echos-politique.xml",
+    "Les Échos - Une": ["https://services.lesechos.fr/rss/les-echos-une.xml", "https://www.lesechos.fr/rss/rss_une.xml", "https://www.lesechos.fr/rss.xml"],
+    "Les Échos - Économie": ["https://services.lesechos.fr/rss/les-echos-economie.xml", "https://www.lesechos.fr/rss/rss_economie.xml"],
+    "Les Échos - Politique": ["https://services.lesechos.fr/rss/les-echos-politique.xml", "https://www.lesechos.fr/rss/rss_politique.xml"],
     "Libération": "https://www.liberation.fr/arc/outboundfeeds/rss-all/?outputType=xml",
     "Franceinfo - Titres": "https://www.francetvinfo.fr/titres.rss",
     "Franceinfo - Économie": "https://www.francetvinfo.fr/economie.rss",
@@ -86,8 +86,8 @@ FEEDS = {
     "La Croix": "https://www.la-croix.com/RSS",
     "L'Humanité": "https://www.humanite.fr/rss/actu.rss",
     "L'Opinion": "https://www.lopinion.fr/index.rss",
-    "Marianne": "https://www.marianne.net/rss.xml",
-    "Le Point": "https://www.lepoint.fr/rss.xml",
+    "Marianne": ["https://www.marianne.net/rss.xml", "https://www.marianne.net/rss", "https://www.marianne.net/feed"],
+    "Le Point": ["https://www.lepoint.fr/rss.xml", "https://www.lepoint.fr/rss/", "https://www.lepoint.fr/politique/rss.xml", "https://www.lepoint.fr/economie/rss.xml"],
     "L'Express": "https://www.lexpress.fr/rss/alaune.xml",
     "Challenges": "https://www.challenges.fr/rss.xml",
     "La Tribune": "https://www.latribune.fr/rss/rubriques/actualite.html",
@@ -98,15 +98,14 @@ FEEDS = {
     "Europe 1": "https://www.europe1.fr/rss.xml",
     "Public Sénat": "https://www.publicsenat.fr/rss",
     "LCP": "https://lcp.fr/rss.xml",
-    "Acteurs publics": "https://acteurspublics.fr/rss",
-    "Gazette des communes": "https://www.lagazettedescommunes.com/feed/",
-    "Banque des Territoires": "https://www.banquedesterritoires.fr/rss.xml",
-    "Capital": "https://www.capital.fr/rss",
+    "Acteurs publics": ["https://acteurspublics.fr/rss", "https://acteurspublics.fr/rss.xml", "https://acteurspublics.fr/feed", "https://acteurspublics.fr/rss/actualites"],
+    "Gazette des communes": ["https://www.lagazettedescommunes.com/feed/", "https://www.lagazettedescommunes.com/rss"],
+    "Banque des Territoires": ["https://www.banquedesterritoires.fr/rss.xml", "https://www.banquedesterritoires.fr/rss", "https://www.banquedesterritoires.fr/actualites/rss.xml"],
+    "Capital": ["https://www.capital.fr/rss", "https://www.capital.fr/rss.xml", "https://www.capital.fr/feed", "https://www.capital.fr/economie-politique/rss"],
     "Ouest-France": "https://www.ouest-france.fr/rss/une",
     "20 Minutes": "https://www.20minutes.fr/feeds/rss-une.xml",
     "Le JDD": "https://www.lejdd.fr/rss.xml",
     "Reporterre": "https://reporterre.net/spip.php?page=backend",
-    "Le Rempart": "https://lerempart.fr/feed/",
 }
 
 
@@ -122,8 +121,20 @@ def collect_rss():
     rows = []
     for name, url in FEEDS.items():
         try:
-            r = get(url, timeout=25)
-            feed = feedparser.parse(r.content)
+            urls = url if isinstance(url, list) else [url]
+            feed, last = None, None
+            for u in urls:
+                try:
+                    r = get(u, timeout=25)
+                    f = feedparser.parse(r.content)
+                    if f.entries:
+                        feed = f
+                        break
+                    last = f"{u} : flux vide"
+                except Exception as ex2:
+                    last = f"{u} : {str(ex2)[:80]}"
+            if feed is None:
+                raise RuntimeError(last or "aucun flux")
             n = 0
             for e in feed.entries:
                 d = entry_date(e)
@@ -152,20 +163,28 @@ def collect_gdelt():
     rows = []
     ok = 0
     for q in GDELT_QUERIES:
-        try:
-            r = requests.get("https://api.gdeltproject.org/api/v2/doc/doc",
-                             params={"query": q + " sourcelang:french sourcecountry:FR", "mode": "artlist",
-                                     "maxrecords": 60, "format": "json", "timespan": "2d", "sort": "datedesc"},
-                             headers=HEADERS, timeout=40)
-            data = r.json()
-            arts = data.get("articles", [])
-            for a in arts:
-                rows.append({"q": q, "title": a.get("title", ""), "domain": a.get("domain", ""),
-                             "date": a.get("seendate", ""), "link": a.get("url", "")})
-            ok += 1
-        except Exception as ex:
-            log(f"GDELT {q}", False, str(ex)[:100])
-        time.sleep(6)  # limite GDELT : 1 requête / 5 s
+        for attempt in (1, 2):
+            try:
+                r = requests.get("https://api.gdeltproject.org/api/v2/doc/doc",
+                                 params={"query": q + " sourcelang:french", "mode": "artlist",
+                                         "maxrecords": 60, "format": "json", "timespan": "48h", "sort": "datedesc"},
+                                 headers=HEADERS, timeout=40)
+                try:
+                    data = r.json()
+                except Exception:
+                    raise RuntimeError(f"HTTP {r.status_code} non JSON : {r.text[:120]!r}")
+                arts = data.get("articles", [])
+                for a in arts:
+                    rows.append({"q": q, "title": a.get("title", ""), "domain": a.get("domain", ""),
+                                 "date": a.get("seendate", ""), "link": a.get("url", "")})
+                ok += 1
+                break
+            except Exception as ex:
+                if attempt == 2:
+                    log(f"GDELT {q}", False, str(ex)[:200])
+                else:
+                    time.sleep(12)
+        time.sleep(8)  # limite GDELT : 1 requête / 5 s
     log("GDELT", ok > 0, f"{ok}/{len(GDELT_QUERIES)} requêtes OK, {len(rows)} articles")
     return rows
 
@@ -211,12 +230,17 @@ def collect_jo():
     cutoff = (TODAY - dt.timedelta(days=3)).strftime("%Y%m%d")
     recent = [n for n in names if n[1] >= cutoff]
     items = []
+    members_seen, sample = 0, []
     for fname, d, _ in recent[-4:]:
         try:
             data = get(base + fname, timeout=180).content
             tf = tarfile.open(fileobj=io.BytesIO(data), mode="r:gz")
             for m in tf:
-                if not re.search(r"texte/version/JORFTEXT\d+\.xml$", m.name):
+                members_seen += 1
+                if len(sample) < 6 and m.isfile():
+                    sample.append(m.name)
+                bn = m.name.rsplit("/", 1)[-1]
+                if not (m.isfile() and re.match(r"JORFTEXT\d+\.xml$", bn)) or "/struct/" in m.name:
                     continue
                 xml = tf.extractfile(m).read().decode("utf-8", "ignore")
                 s = BeautifulSoup(xml, "xml")
@@ -226,10 +250,11 @@ def collect_jo():
                     return x.get_text(" ", strip=True) if x else ""
 
                 titre = t("TITREFULL") or t("TITRE")
-                items.append({"id": t("ID"), "nature": t("NATURE"), "titre": titre, "nor": t("NOR"),
+                items.append({"id": t("ID") or bn[:-4], "nature": t("NATURE"), "titre": titre, "nor": t("NOR"),
                               "min": t("MINISTERE"), "date": t("DATE_PUBLI") or t("DATE_TEXTE"), "src": fname})
         except Exception as ex:
             log(f"JO {fname}", False, str(ex)[:120])
+    log("JO diagnostic", True, f"{members_seen} fichiers dans les archives, exemples : {sample}")
     seen, uniq = set(), []
     for it in items:
         if it["id"] in seen:
