@@ -1,0 +1,62 @@
+# STATUS collecte - 2026-11-16T20:03 UTC
+
+- OK   RSS Le Monde - Une 15 articles <72h (15 dans le flux)
+- OK   RSS Le Monde - Économie 20 articles <72h (20 dans le flux)
+- OK   RSS Le Monde - Politique 20 articles <72h (20 dans le flux)
+- OK   RSS Le Monde - Société 20 articles <72h (20 dans le flux)
+- OK   RSS Le Figaro - Actualités 20 articles <72h (20 dans le flux)
+- OK   RSS Le Figaro - Économie 17 articles <72h (19 dans le flux)
+- OK   RSS Le Figaro - Politique 3 articles <72h (20 dans le flux)
+- OK   RSS Le Figaro - Conjoncture 14 articles <72h (20 dans le flux)
+- ÉCHEC RSS Les Échos - Une 403 Client Error: Forbidden for url: https://services.lesechos.fr/rss/les-echos-une.xml
+- ÉCHEC RSS Les Échos - Économie 403 Client Error: Forbidden for url: https://services.lesechos.fr/rss/les-echos-economie.xml
+- ÉCHEC RSS Les Échos - Politique 403 Client Error: Forbidden for url: https://services.lesechos.fr/rss/les-echos-politique.xml
+- OK   RSS Libération 50 articles <72h (50 dans le flux)
+- OK   RSS Franceinfo - Titres 30 articles <72h (31 dans le flux)
+- OK   RSS Franceinfo - Économie 20 articles <72h (20 dans le flux)
+- OK   RSS Franceinfo - Politique 19 articles <72h (19 dans le flux)
+- OK   RSS Le Parisien - Une 100 articles <72h (100 dans le flux)
+- OK   RSS Le Parisien - Économie 100 articles <72h (100 dans le flux)
+- OK   RSS Le Parisien - Politique 100 articles <72h (100 dans le flux)
+- OK   RSS La Croix 50 articles <72h (50 dans le flux)
+- OK   RSS L'Humanité 20 articles <72h (20 dans le flux)
+- OK   RSS L'Opinion 57 articles <72h (250 dans le flux)
+- ÉCHEC RSS Marianne 405 Client Error: Not Allowed for url: https://www.marianne.net/rss.xml
+- ÉCHEC RSS Le Point 404 Client Error: Not Found for url: https://www.lepoint.fr/rss.xml
+- OK   RSS L'Express 46 articles <72h (100 dans le flux)
+- OK   RSS Challenges 37 articles <72h (50 dans le flux)
+- OK   RSS La Tribune 12 articles <72h (20 dans le flux)
+- OK   RSS Mediapart 10 articles <72h (10 dans le flux)
+- OK   RSS BFM - Économie 30 articles <72h (30 dans le flux)
+- OK   RSS BFM - Politique 30 articles <72h (30 dans le flux)
+- OK   RSS RMC 30 articles <72h (30 dans le flux)
+- OK   RSS Europe 1 50 articles <72h (50 dans le flux)
+- OK   RSS Public Sénat 40 articles <72h (60 dans le flux)
+- OK   RSS LCP 11 articles <72h (100 dans le flux)
+- ÉCHEC RSS Acteurs publics 0 articles <72h (0 dans le flux)
+- ÉCHEC RSS Gazette des communes 403 Client Error: Forbidden for url: https://www.lagazettedescommunes.com/feed/
+- ÉCHEC RSS Banque des Territoires 404 Client Error: Not Found for url: https://www.banquedesterritoires.fr/rss.xml
+- ÉCHEC RSS Capital 404 Client Error: Not Found for url: https://www.capital.fr/rss
+- OK   RSS Ouest-France 10 articles <72h (10 dans le flux)
+- OK   RSS 20 Minutes 28 articles <72h (30 dans le flux)
+- OK   RSS Le JDD 50 articles <72h (50 dans le flux)
+- OK   RSS Reporterre 12 articles <72h (60 dans le flux)
+- ÉCHEC RSS Le Rempart 0 articles <72h (0 dans le flux)
+- ÉCHEC GDELT "Cour des comptes" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "dépenses publiques" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT gaspillage Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "marché public" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT subvention Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "déficit" budget Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "fraude sociale" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "détournement de fonds" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "PLFSS" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "aide médicale" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "avenant" marché Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT "cabinets de conseil" Expecting value: line 1 column 1 (char 0)
+- ÉCHEC GDELT Sanef autoroutes Expecting value: line 1 column 1 (char 0)
+- OK   GDELT 4/17 requêtes OK, 0 articles
+- ÉCHEC JO (DILA) 0 textes, 0 signalés, archives: ['JORF_20261114-210430.tar.gz', 'JORF_20261115-002320.tar.gz', 'JORF_20261115-205552.tar.gz', 'JORF_20261116-104909.tar.gz']
+- OK   BOAMP 500 avis, 170 signalés
+- OK   TED 100 avis
+- OK   Cour des comptes 20 publications listées, 12 nouveaux PDF lus
