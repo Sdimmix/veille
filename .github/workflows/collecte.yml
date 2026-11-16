@@ -1,0 +1,37 @@
+name: Collecte nocturne
+
+on:
+  schedule:
+    - cron: "40 4 * * *"   # 04:40 UTC = 05:40 à Paris (l'hiver), la veille démarre à 07:13
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collecte
+  cancel-in-progress: false
+
+jobs:
+  collecte:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Dépendances
+        run: |
+          sudo apt-get update -y && sudo apt-get install -y poppler-utils
+          pip install requests feedparser beautifulsoup4 lxml
+      - name: Collecte
+        run: python collect.py
+      - name: Enregistrer les résultats
+        run: |
+          rm -f tmp.pdf
+          git config user.name "veille-bot"
+          git config user.email "veille-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "Collecte $(date -u +%F)"
+          git push
