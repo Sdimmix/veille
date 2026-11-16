@@ -231,6 +231,7 @@ def collect_jo():
     cutoff = (TODAY - dt.timedelta(days=3)).strftime("%Y%m%d")
     recent = [n for n in names if n[1] >= cutoff]
     items = []
+    arts, struct = {}, {}
     members_seen, sample = 0, []
     for fname, d, _ in recent[-4:]:
         try:
@@ -240,8 +241,19 @@ def collect_jo():
                 members_seen += 1
                 if len(sample) < 6 and m.isfile():
                     sample.append(m.name)
+                if not m.isfile():
+                    continue
                 bn = m.name.rsplit("/", 1)[-1]
-                if not (m.isfile() and re.match(r"JORFTEXT\d+\.xml$", bn)) or "/struct/" in m.name:
+                if re.match(r"JORFARTI\d+\.xml$", bn):
+                    x = BeautifulSoup(tf.extractfile(m).read().decode("utf-8", "ignore"), "xml")
+                    c = x.find("BLOC_TEXTUEL")
+                    arts[bn[:-4]] = (c.get_text(" ", strip=True) if c else "")[:2500]
+                    continue
+                if re.match(r"JORFTEXT\d+\.xml$", bn) and "/struct/" in m.name:
+                    x = BeautifulSoup(tf.extractfile(m).read().decode("utf-8", "ignore"), "xml")
+                    struct[bn[:-4]] = [l.get("id") for l in x.find_all("LIEN_ART") if l.get("id")]
+                    continue
+                if not re.match(r"JORFTEXT\d+\.xml$", bn):
                     continue
                 xml = tf.extractfile(m).read().decode("utf-8", "ignore")
                 s = BeautifulSoup(xml, "xml")
@@ -255,7 +267,7 @@ def collect_jo():
                               "min": t("MINISTERE"), "date": t("DATE_PUBLI") or t("DATE_TEXTE"), "src": fname})
         except Exception as ex:
             log(f"JO {fname}", False, str(ex)[:120])
-    log("JO diagnostic", True, f"{members_seen} fichiers dans les archives, exemples : {sample}")
+    log("JO diagnostic", True, f"{members_seen} fichiers, {len(arts)} articles, {len(struct)} structures, exemples : {sample[:3]}")
     seen, uniq = set(), []
     for it in items:
         if it["id"] in seen:
@@ -268,6 +280,9 @@ def collect_jo():
            "\n## A. Textes à regarder\n"]
     for i in sorted(flagged, key=lambda x: x["date"], reverse=True):
         out.append(f"- {i['date']} | {i['nature']} | {i['titre']} | {i['min']} | https://www.legifrance.gouv.fr/jorf/id/{i['id']}")
+        body = " ".join(arts.get(a, "") for a in struct.get(i["id"], []))[:900].strip()
+        if body:
+            out.append(f"    - extrait : {body}")
     out.append("\n## B. Autres textes\n")
     flagged_ids = {i["id"] for i in flagged}
     for i in sorted(uniq, key=lambda x: x["date"], reverse=True):
@@ -281,6 +296,25 @@ def collect_jo():
 BOAMP_FLAG = ["avenant", "sans mise en concurrence", "sans publicite", "negocie sans", "cabinet de conseil",
               "prestations de conseil", "conseil en", "assistance a maitrise", "audit", "prestations intellectuelles",
               "communication", "evenementiel", "etude strategique", "conseil strategique"]
+
+
+def find_amounts(obj, path="", depth=0, found=None):
+    """Cherche récursivement des clés qui ressemblent à des montants dans le JSON des avis."""
+    found = [] if found is None else found
+    if depth > 8 or len(found) >= 6:
+        return found
+    if isinstance(obj, dict):
+        for k, v in obj.items():
+            kn = norm(str(k))
+            if isinstance(v, (str, int, float)) and re.search(r"montant|valeur|val_tot|prix|cout|total", kn):
+                if str(v).strip() and re.search(r"\d", str(v)):
+                    found.append(f"{k}={str(v)[:40]}")
+            else:
+                find_amounts(v, path + "/" + str(k), depth + 1, found)
+    elif isinstance(obj, list):
+        for v in obj[:20]:
+            find_amounts(v, path, depth + 1, found)
+    return found
 
 
 def collect_boamp():
@@ -302,11 +336,26 @@ def collect_boamp():
                         "famille_libelle", "montant", "valeur", "titulaire", "code_departement", "url_avis", "idweb")
             if k in keys]
     flagged = 0
+    sample_done = False
     for x in recs:
-        txt = norm(json.dumps(x, ensure_ascii=False)[:3000])
-        if any(k in txt for k in BOAMP_FLAG):
+        d = x.get("donnees")
+        if isinstance(d, str):
+            try:
+                d = json.loads(d)
+            except Exception:
+                pass
+        montants = find_amounts(d) if d else []
+        if montants and not sample_done:
+            log("BOAMP exemple de montants", True, f"{x.get('idweb')} : {montants}")
+            sample_done = True
+        txt = norm(json.dumps({k: x.get(k) for k in ("objet", "nature_categorise_libelle", "famille_libelle", "type_marche")}, ensure_ascii=False))
+        attrib = "attribu" in norm(str(x.get("nature_categorise_libelle", ""))) or "resultat" in norm(str(x.get("nature_categorise_libelle", "")))
+        if any(k in txt for k in BOAMP_FLAG) or (attrib and montants):
             flagged += 1
-            out.append("- " + json.dumps({k: x.get(k) for k in keep}, ensure_ascii=False))
+            row = {k: x.get(k) for k in keep}
+            if montants:
+                row["montants"] = montants
+            out.append("- " + json.dumps(row, ensure_ascii=False))
     out.append("\n## B. Tous les avis (objet seulement)\n")
     for x in recs:
         out.append(f"- {x.get('dateparution')} | {x.get('nomacheteur')} | {str(x.get('objet'))[:200]}")
