@@ -1,4 +1,4 @@
-# STATUS collecte - 2026-11-16T20:25 UTC
+# STATUS collecte - 2026-11-16T20:39 UTC
 
 - OK   RSS Le Monde - Une 16 articles <72h (16 dans le flux)
 - OK   RSS Le Monde - Économie 20 articles <72h (20 dans le flux)
@@ -41,8 +41,9 @@
 - OK   RSS 20 Minutes 28 articles <72h (30 dans le flux)
 - OK   RSS Le JDD 50 articles <72h (50 dans le flux)
 - OK   RSS Reporterre 12 articles <72h (60 dans le flux)
-- OK   JO diagnostic 8416 fichiers dans les archives, exemples : ['20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/08/72/JORFCONT000055087297.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/08/10/JORFCONT000055081098.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/07/51/JORFCONT000055075181.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/06/36/JORFCONT000055063671.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/05/33/JORFCONT000055053315.xml', '20261114-210430/jorf/global/conteneur/JORF/CONT/00/00/55/02/30/JORFCONT000055023056.xml']
-- OK   JO (DILA) 290 textes, 64 signalés, archives: ['JORF_20261114-210430.tar.gz', 'JORF_20261115-002320.tar.gz', 'JORF_20261115-205552.tar.gz', 'JORF_20261116-104909.tar.gz']
-- OK   BOAMP 500 avis, 145 signalés
+- OK   JO diagnostic 9147 fichiers, 3372 articles, 260 structures, exemples : ['20261115-002320/jorf/global/conteneur/JORF/CONT/00/00/55/08/84/JORFCONT000055088400.xml', '20261115-002320/jorf/global/section_ta/JORF/SCTA/00/00/55/08/84/JORFSCTA000055088429.xml', '20261115-002320/jorf/global/section_ta/JORF/SCTA/00/00/55/08/84/JORFSCTA000055088430.xml']
+- OK   JO (DILA) 260 textes, 43 signalés, archives: ['JORF_20261115-002320.tar.gz', 'JORF_20261115-205552.tar.gz', 'JORF_20261116-104909.tar.gz', 'JORF_20261116-212357.tar.gz']
+- OK   BOAMP exemple de montants 26-111068 : ['valeur=4']
+- OK   BOAMP 500 avis, 28 signalés
 - OK   TED 100 avis
 - OK   Cour des comptes 20 publications listées, 0 nouveaux PDF lus
