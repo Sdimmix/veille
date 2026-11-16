@@ -213,14 +213,15 @@ def write_presse(rss, gd):
         g.append(f"\n## {q} ({len(arts)})\n")
         for a in arts:
             g.append(f"- {a['domain']} | {a['date']} | {a['title']} | {a['link']}")
-    (LATEST / "gdelt.md").write_text("\n".join(g), encoding="utf-8")
+    pass
 
 
 # ---------------------------------------------------------------- JOURNAL OFFICIEL (DILA)
-JO_FLAG = ["nomination", "nomme", "credit", "annulation", "decret d'avance", "subvention", "remuneration",
-           "indemnite", "marche", "fonds", "budget", "dotation", "taxe", "agence", "autorite", "commission",
-           "cour des comptes", "inspection", "mission", "societe", "etablissement public", "contribution",
-           "plafond", "tarif", "aide", "prime", "cabinet", "directeur", "president du conseil"]
+JO_FLAG = ["nomination", "est nomme", "sont nommes", "nommee", "credit", "annulation", "decret d'avance", "subvention",
+           "remuneration", "indemnite", "marche public", "budget", "dotation", "taxe", "plafond", "tarif", "prime",
+           "cour des comptes", "contribution", "etablissement public", "societe", "fonds", "commission nationale",
+           "inspection", "autorite", "conseil d'administration", "president du conseil", "directeur general",
+           "securite sociale", "financement", "emprunt", "garantie de l'etat", "cession", "concession"]
 
 
 def collect_jo():
@@ -277,8 +278,9 @@ def collect_jo():
 
 
 # ---------------------------------------------------------------- MARCHÉS PUBLICS
-BOAMP_FLAG = ["avenant", "sans mise en concurrence", "sans publicite", "conseil", "audit", "assistance",
-              "prestations intellectuelles", "communication", "evenementiel", "etude"]
+BOAMP_FLAG = ["avenant", "sans mise en concurrence", "sans publicite", "negocie sans", "cabinet de conseil",
+              "prestations de conseil", "conseil en", "assistance a maitrise", "audit", "prestations intellectuelles",
+              "communication", "evenementiel", "etude strategique", "conseil strategique"]
 
 
 def collect_boamp():
@@ -322,7 +324,12 @@ def collect_ted():
     notices = r.json().get("notices", [])
     out = ["# TED - avis français depuis 3 jours\n", f"{len(notices)} avis\n"]
     for n in notices:
-        out.append("- " + json.dumps(n, ensure_ascii=False)[:500])
+        num = n.get("publication-number", "")
+        buyer = n.get("buyer-name")
+        title = n.get("notice-title")
+        out.append("- " + json.dumps({"n": num, "date": n.get("publication-date"), "acheteur": buyer,
+                                      "titre": title, "valeur": n.get("total-value"),
+                                      "url": f"https://ted.europa.eu/fr/notice/{num}/html"}, ensure_ascii=False)[:600])
     (LATEST / "marches_ted.md").write_text("\n".join(out), encoding="utf-8")
     log("TED", len(notices) > 0, f"{len(notices)} avis")
 
@@ -390,8 +397,7 @@ def collect_ccomptes():
 def main():
     LATEST.mkdir(exist_ok=True)
     rss, gd = [], []
-    for name, fn in [("rss", lambda: rss.extend(collect_rss())), ("gdelt", lambda: gd.extend(collect_gdelt())),
-                     ("jo", collect_jo), ("boamp", collect_boamp), ("ted", collect_ted),
+    for name, fn in [("rss", lambda: rss.extend(collect_rss())), ("jo", collect_jo), ("boamp", collect_boamp), ("ted", collect_ted),
                      ("ccomptes", collect_ccomptes)]:
         try:
             fn()
