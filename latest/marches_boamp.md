@@ -5,6 +5,12 @@
 
 ## A. Avis signalés (avenants, prestations intellectuelles, conseil, communication...)
 
+- {"dateparution": "2026-11-17", "nomacheteur": "CAPA.", "objet": "AO-2026-04- Marché de maitrise d’œuvre relatif à la modernisation de l'auditorium et de ses foyers - Cité de l'Architecture et du Patrimoine", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["75"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110984", "idweb": "26-110984"}
+- {"dateparution": "2026-11-17", "nomacheteur": "RTM - Régie des Transports Métropolitains", "objet": "FOURNITURE D'OBJETS PROMOTIONNELS ET PUBLICITAIRES POUR LA COMMUNICATION INTERNE ET EXTERNE DU GROUPE RTM ET SERVICES ASSOCIES", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["FOURNITURES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["13"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110959", "idweb": "26-110959"}
+- {"dateparution": "2026-11-17", "nomacheteur": "Communauté d'Agglomération Territoire de la Côte Ouest (974)", "objet": "Services de télécommunications fixe, mobile, réseaux privés de données, Internet et hébergement.", "nature_categorise_libelle": "Résultat de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": ["CANAL+ TELECOM"], "code_departement": ["974"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110981", "idweb": "26-110981"}
+- {"dateparution": "2026-11-17", "nomacheteur": "ANCT.", "objet": "Accord-cadre à bons de commande relatif à la réalisation d’audits et de contrôles qualité des France services", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["75"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110940", "idweb": "26-110940"}
+- {"dateparution": "2026-11-17", "nomacheteur": "Conseil Départemental de Seine-et-Marne", "objet": "Liaison routière de l’est francilien – TOARC (Terrassement Ouvrages d’art et Rétablissement des Communications) Centre PI7 sur la commune de Messy", "nature_categorise_libelle": "Résultat de marché/", "type_marche": ["TRAVAUX"], "famille_libelle": "Marchés européens", "titulaire": ["WIAME VRD SAS", "mandataire du groupement solidaire constitué avec les cotraitants  suivants : \n- AGILIS SAS \n- FLAN TERRASSEMENT\n- PERRIER SAS"], "code_departement": ["77"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110968", "idweb": "26-110968"}
+- {"dateparution": "2026-11-17", "nomacheteur": "Centre Hospitalier Universitaire de Nice - Hôpital de Cimiez - Établissement support du GHT06", "objet": "PRESTATIONS D'AUDIT ET D'ACCOMPAGNEMENT DES CHARGES SOCIALES ET FISCALES", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["6"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-111025", "idweb": "26-111025"}
 - {"dateparution": "2026-11-16", "nomacheteur": "PNR 974", "objet": "Réalisation de vidéos de communication et de sensibilisation pour le Parc national de La Réunion", "nature_categorise_libelle": "Rectificatif/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés entre 90 k€ et seuils européens", "titulaire": null, "code_departement": ["974"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110938", "idweb": "26-110938"}
 - {"dateparution": "2026-11-16", "nomacheteur": "Conseil Départemental des Ardennes", "objet": "Relance - Assistance à Maîtrise d’Ouvrage – Incorporation du périmètre Collège dans le futur marché d’exploitation et Rédaction du marché d’exploitation des installations de chauffag-.", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés <90 k€ (MAPA)", "titulaire": null, "code_departement": ["8"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110990", "idweb": "26-110990"}
 - {"dateparution": "2026-11-16", "nomacheteur": "ENSAM", "objet": "Marché de maîtrise d'œuvre pour le projet campus vivant du campus Arts et Métiers d'Aix-en-Provence", "nature_categorise_libelle": "Résultat de marché/", "type_marche": null, "famille_libelle": "Marchés <90 k€ (MAPA)", "titulaire": ["TEM"], "code_departement": ["13"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110887", "idweb": "26-110887", "montants": ["valeur=66156.5"]}
@@ -26,16 +32,166 @@
 - {"dateparution": "2026-11-15", "nomacheteur": "COMMUNE DE PETIT-CAUX", "objet": "Prestations de transports pour les activités et les séjours scolaires, extra-scolaires et évènementiels", "nature_categorise_libelle": "Résultat de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": ["TRANSDEV NORMANDIE INTERURBAIN - Etablissement de Dieppe", "TRANSDEV NORMANDIE INTERURBAIN - Etablissement de Dieppe"], "code_departement": ["76"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110580", "idweb": "26-110580"}
 - {"dateparution": "2026-11-15", "nomacheteur": "Métropole européenne de Lille", "objet": "Assistance à Maitrise d’Ouvrage (AMO) pour l’élaboration du Schéma directeur Immobilier du Patrimoine des Transports de la MEL et accompagnement sur des prestations associées", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["59"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110367", "idweb": "26-110367"}
 - {"dateparution": "2026-11-15", "nomacheteur": "Etablissement Public Territorial Plaine Commune", "objet": "CONCEPTION ETADAPTATION  SUPPORTS DE COMMUNICATION EXTERNE DE PLAINE COMMUNE- lot 6", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["93"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110812", "idweb": "26-110812"}
-- {"dateparution": "2026-11-15", "nomacheteur": "Caisse d'Assurance Vieillesse des Pharmaciens", "objet": "Prestations de conseil immobilier pour la Caisse d'assurance vieillesse des pharmaciens (CAVP)", "nature_categorise_libelle": "Résultat de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": ["SAVILLS", "BNP PARIBAS REAL ESTATE TRANSACTION FRANCE", "Knight Frank", "JONES LANG LASALLE SAS", "Cushman & Wakefield France SAS"], "code_departement": ["75"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110480", "idweb": "26-110480"}
-- {"dateparution": "2026-11-15", "nomacheteur": "Eurométropole de Strasbourg", "objet": "Mission d'assistance à maitrise d'ouvrage pour l'accompagnement, l'animation et la mise en oeuvre du 6e Programme Local de l'Habitat en élaboration", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["67"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110514", "idweb": "26-110514"}
-- {"dateparution": "2026-11-15", "nomacheteur": "Parc national des Calanques", "objet": "Assistance à maîtrise d'ouvrage pour études et suivi des travaux d'aménagements paysagers pour les entrées du Parc National des Calanques", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["13"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110435", "idweb": "26-110435"}
-- {"dateparution": "2026-11-15", "nomacheteur": "Communauté de Communes Val de Gray", "objet": "Mission d’assistance à maîtrise d’ouvrage relative à la conception, la réalisation et l’exploitation d’un pôle aquatique", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["70"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110763", "idweb": "26-110763"}
-- {"dateparution": "2026-11-15", "nomacheteur": "PRIF-Prévention Retraite Ile de France", "objet": "Prestations de communication", "nature_categorise_libelle": "Avis de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": null, "code_departement": ["75", "94"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110702", "idweb": "26-110702"}
-- {"dateparution": "2026-11-15", "nomacheteur": "Mucem", "objet": "Prestations de collecte des textes et de l’iconographie et de rédaction selon différents supports de communication et publics visés", "nature_categorise_libelle": "Résultat de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": ["Noëllie Monot et Audrey salor"], "code_departement": ["13"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110351", "idweb": "26-110351"}
-- {"dateparution": "2026-11-15", "nomacheteur": "Société des grands projets", "objet": "Assistance à Maitrise d’Ouvrage relative aux projets du Grand Paris Numérique", "nature_categorise_libelle": "Résultat de marché/", "type_marche": ["SERVICES"], "famille_libelle": "Marchés européens", "titulaire": ["TACTIS", "Ernst & Young Advisory", "SCP Herald Avocats", "LD EXPERTISE", "Sia Partners"], "code_departement": ["93", "75", "77", "78", "91", "92", "94", "95"], "url_avis": "https://www.boamp.fr/pages/avis/?q=idweb:26-110818", "idweb": "26-110818"}
 
 ## B. Tous les avis (objet seulement)
 
+- 2026-11-17 | SYNDICAT A LA CARTE D&#039;ADDUCTION D&#039;EAU POTABLE ET D&#039;ASSAINISSEMENT DE LA REGION D&#039;ANDRES | TRAVAUX DE REFECTION DE CHAUSSEE OU TRITTOIR SUITE AUX INTERVENTIONS DU SIRA
+- 2026-11-17 | ECOLE NAL SUP DES MINES DE ST ETIENNE | Acquisition d’un microscope électronique à balayage (MEB) analytique et d’analyseurs EDS et WDS, ainsi qu’une caméra EBSD pour le centre SMS de Mines Saint-Etienne
+- 2026-11-17 | Territoire d'énergie Mayenne | Fiabilisation de la cartographie des ouvrages enterrés existants - Groupement de commandes
+- 2026-11-17 | DISP Marseille | Le présent accord-cadre a pour objet la fourniture et la livraison de pellets pour le centre de détention du Comtat Venaissin.
+- 2026-11-17 | VILLE de PARIS - DFA - SDA | Accueil et maintenance de l'espace de glisse parisien (Paris 18e arrondissement)
+- 2026-11-17 | Angers Loire Metropole (49) | Collecte, valorisation et élimination de déchets végétaux.
+- 2026-11-17 | Chambre de Commerce et d'Industrie de Vendée | Prestations d'accueil et gestion administrative pour le siège de la CCI Vendée
+- 2026-11-17 | GAESS Manche et Calvados | Fourniture de denrées alimentaires
+- 2026-11-17 | CH de Saint-Brieuc/Paimpol/Tréguier - Etablissement support du GHT d'ARMOR | Agrandissement de la salle de réveil, aménagement de l'accueil et compartimentage de bloc opératoire du Centre Hospitalier Saint-Brieuc-Paimpol-Tréguier - Site de Saint-Brieuc - Relance du lot 03
+- 2026-11-17 | Etablissement public d'aménagement Paris Saclay | Accord-cadre de maitrise d'oeuvre urbaine, technique, environnementale et paysagère de la ZAC du Christ de Saclay - Commune de Saclay
+- 2026-11-17 | 42 CHU | Marché Global Sectoriel portant la construction du pôle de Médecine et Cancérologie du CHU Saint Etienne
+- 2026-11-17 | Département de l'Eure | Fourniture et livraison de CESU préfinancés dans le cadre de l'APA et de la PCH au profit du Conseil Départemental de l'Eure
+- 2026-11-17 | Commune de Saint Francois Longchamp (73) | ATTRIBUTION MARCHÉ PUBLIC MIXTE DE SERVICES ET DE TRAVAUXVIABILITE, DENEIGEMENT ET ENTRETIEN DES VOIRIES COMMUNALES DE SAINT-FRANÇOIS-LONGCHAMP ET MONTGELLAFREY
+- 2026-11-17 | SDIS (17) | ACHAT DE MOBILIER DE STOCKAGE EPI VENTILE
+- 2026-11-17 | CCIT ALSACE EUROMETROPOLE | Marché d'Externalisation des fonctions accueil des sites CCI Campus de Strasbourg et Colmar
+- 2026-11-17 | Etablissement Public du Commerce et de l'Industrie de Corse | Location de véhicules longue durée pour l'ensemble des besoins de l'EPCI-C
+- 2026-11-17 | Atlandes | A63-059 - Travaux de réparation et de remplacement de dispositifs de retenue métalliques sur la section courante, les bretelles des diffuseurs et les dépendances  de l'autoroute A63 entre Salles(33...
+- 2026-11-17 | ALTEMED | Définition, mise en oeuvre et déploiement opérationnel de la stratégie d'intelligence artificielle du groupe ALTEMED
+- 2026-11-17 | Toulouse Métropole | 26MC0317AOO - PRESTATIONS DE SUIVI TECHNIQUE ET ÉCOLOGIQUE DES HERBIERS ANNÉES 2027 À 2031
+- 2026-11-17 | Meteo-France | Reprise et développement de la plateforme « Widget Factory », maintenance applicative, évolutions et hébergement associés
+- 2026-11-17 | Chambre de Métiers et de l&#039;Artisanat d&#039;Ile-de-France | Accord-cadre relatif aux prestations de médecine du travail pour le personnel de la CMA Ile de France
+- 2026-11-17 | Institut le val mandé | FOURNITURE DE CARBURANT ET D'ENTRETIEN DES VÉHICULES
+- 2026-11-17 | SEM SEINE OUEST HABITAT ET PATRIMOINE | Fourniture, installation, mise en service et maintenance de l’éclairage de sécurité des immeubles avec mise à disposition d’une caméra thermographique infrarouge.
+- 2026-11-17 | Société Publique Locale OPÉ (Oser Pour l'Éducation) | FOURNITURE DE SERVICES DE TÉLÉPHONIE MOBILE, DE TERMINAUX ET D'ACCESSOIRES POUR LA SPL OPÉ
+- 2026-11-17 | Port autonome de Strasbourg | Accord-cadre de maîtrise de la végétation sur le Réseau Ferré Portuaire
+- 2026-11-17 | Communauté de Communes du Val de Sully | Gestion et entretien de l'aire d'accueil des gens du voyage de la Communauté de communes du Val de Sully située au Petit Reuilly à Sully sur Loire
+- 2026-11-17 | Ville de Pontarlier | Accord-cadre pour la fourniture et la livraison de sel de déneigement pour la Ville de Pontarlier et la Communauté de Communes du Grand Pontarlier (CCGP)
+- 2026-11-17 | CAPA. | AO-2026-04- Marché de maitrise d’œuvre relatif à la modernisation de l'auditorium et de ses foyers - Cité de l'Architecture et du Patrimoine
+- 2026-11-17 | RTM - Régie des Transports Métropolitains | FOURNITURE D'OBJETS PROMOTIONNELS ET PUBLICITAIRES POUR LA COMMUNICATION INTERNE ET EXTERNE DU GROUPE RTM ET SERVICES ASSOCIES
+- 2026-11-17 | COMMUNE DE LA CIOTAT | RELANCE Transport par autocar et bus avec chauffeurs, d'enfants, d'adolescents, d'adultes et de personnes retraitées avec accompagnateurs pour la Caisse des écoles et la Ville de La Ciotat (13600)
+- 2026-11-17 | SYSEM | Prestations de services d'assurances du SYSEM
+- 2026-11-17 | Communauté d'Agglomération Territoire de la Côte Ouest (974) | Services de télécommunications fixe, mobile, réseaux privés de données, Internet et hébergement.
+- 2026-11-17 | Médiateur national de l'énergie | Réalisation de trois baromètres
+- 2026-11-17 | ENSAM | MARCHE DE MAÎTRISE D’ŒUVRE POUR LA REHABILITATION DU BATIMENT K DE L’ENSAM D’AIX-EN-PROVENCE
+- 2026-11-17 | Société d'Economie Mixte Locale Sorégies (86) | Acquisition d’une solution SASE (Secure Access Service Edge) pour la cybersécurité du Groupe SOREGIES
+- 2026-11-17 | Commune Mauges sur Loire | Révision du Plan Local d'Urbanisme de Mauges-sur-Loire
+- 2026-11-17 | Ville de Livry-Gargan | Accord-cadre relatif à la fourniture de matériaux et matériels pour la signalisation routière et prestation de marquage au sol
+- 2026-11-17 | COMMUNAUTE DE COMMUNES  BEAUCE VAL DE LOIRE | ANIMATION DU SITE
+Zone de Protection Spéciale
+FR2410010
+« PETITE BEAUCE »
+PROCEDURE NATURA 2000 - Directive "Oiseaux"
+- 2026-11-17 | Mairie de Suresnes | Réservation de places dans des structures privées d’accueil collectif de la Petite Enfance situées dans différents quartiers de la ville de Suresnes
+- 2026-11-17 | Communauté d'Agglomération de Dembéni-Mamoudzou (976) | Travaux de curage et d’entretien des réseaux et ouvrages d’eaux pluviales
+- 2026-11-17 | Conseil départemental du Gard | FOURNITURE D'ARTICLES PROMOTIONNELS POUR LES BESOINS DU CONSEIL DEPARTEMENTAL DU GARD
+- 2026-11-17 | SM EPTB Vistre Vistrenque | Etudes pour l'élaboration et la labellisation du PAPI 4 Vistre
+- 2026-11-17 | Communauté de Communes de la Haute Ariège | Marché d'entretien des itinéraires de randonnée, circuits VTT labellisés, chemins d'accès à des sites de pratique des activités de pleine nature et aires d'accueil d'intérêt communautaire
+Accord
+- 2026-11-17 | METROPOLE NICE COTE D'AZUR | 26N0385 - Commune de Saint Etienne de Tinée - Requalification de la Place d'Auron
+- 2026-11-17 | Communauté d'Agglomération ARLYSERE | Fourniture de composteurs individuels pour les déchets organiques
+- 2026-11-17 | VILLE DE NICE | 26V0518. Achat de produits appertisés
+- 2026-11-17 | ENSAM | Acquisition d’équipements de capture volumétrique pour le studio mobile
+- 2026-11-17 | GIP blanchisserie interhospitaliere Vichy | La présente consultation a pour objet la fourniture, l’installation et la mise en service d’un ensemble de séchoirs et de plieurs associés au pliage du linge séché.
+- 2026-11-17 | Établissement Public Foncier de Bretagne | Missions de repérage, de diagnostics immobiliers (amiante, plomb, parasitaire, HAP…), de mesures d’empoussièrement et de contrôles post-désamiantage
+- 2026-11-17 | VILLE DE NICE | 25V1775 - Achat de bacs et de matériel de manutention légère pour l'unité centrale de production de la Ville de Nice
+- 2026-11-17 | Commune de Villefranche de Rouergue | Marché d’exploitation-maintenance à intéressement aux économies d’énergie des installations de génie climatique des bâtiments communaux
+- 2026-11-17 | SYNDICAT MIXTE DES AEROPORTS DE LA ROCHELLE-ILE DE RE ET ROCHEFORT CHARENTE-MARITIME | NETTOYAGE DES BATIMENTS ET VITRERIE
+- 2026-11-17 | Société d'Exploitation de la Tour Eiffel | CONCESSION PORTANT SUR L'EXPLOITATION DES BOUTIQUES DE LA TOUR EIFFEL
+- 2026-11-17 | ANCT. | Accord-cadre à bons de commande relatif à la réalisation d’audits et de contrôles qualité des France services
+- 2026-11-17 | Mairie de Raismes | Marché de nettoyage des bâtiments communaux de la ville de Raismes
+- 2026-11-17 | UNIVERSITE DE CAEN NORMANDIE | AC ENTRETIEN ET MAINTENANCE PLOMBERIE
+- 2026-11-17 | Mairie de Colombes | Mise en culture de suspensions et jardinières pour la ville de COLOMBES
+- 2026-11-17 | Ville de Livry-Gargan | ACCORD-CADRE  RELATIF A L'ACHAT ET LIVRAISON DE DISPOSITIFS DENTAIRES SUR MESURE POUR LE CENTRE MUNICIPAL DE SANTÉ SIMONE-VEIL DE LA VILLE DE LIVRY-GARGAN
+- 2026-11-17 | MAIRIE DE NEMOURS | FOURNITURE DE DENRÉES ALIMENTAIRES      POUR LA RESTAURATION COLLECTIVE DE LA VILLE DE NEMOURS
+- 2026-11-17 | COMMUNAUTE D&#039;AGGLOMERATION VALENCIENNES METROPOLE | Travaux de réhabilitation du Centre National des Arts de la Rue et de l'Espace Public (CNAREP)
+- 2026-11-17 | Ville de Saint Dié des Vosges | Fourniture de carburants et de prestations annexes à la mobilité par cartes accréditives / cartes d'achat multi-enseignes
+- 2026-11-17 | SYNDICAT A LA CARTE D&#039;ADDUCTION D&#039;EAU POTABLE ET D&#039;ASSAINISSEMENT DE LA REGION D&#039;ANDRES | FOURNITURE DE PIECES POUR LA CREATION, L’ENTRETIEN ET LES REPARATIONS SUR LE RESEAU D’EAU POTABLE
+- 2026-11-17 | DEPARTEMENT DE LA REUNION | Marché de Travaux de démolition et de reconstruction des salles d’arts plastiques et de musique avec création d’un préau au collège Célimène Gaudieux à la Saline – Commune de Saint-Paul
+- 2026-11-17 | SPL EURALILLE | Accord cadre pour la mission d'OPC URBAIN sur les opérations de la SPL Euralille
+- 2026-11-17 | DGAP. | Développement, fourniture, intégration, assistance au développement et maintenance du système d’information ISIS
+- 2026-11-17 | CAF77 | PRESTATIONS DE NETTOYAGE CAF77
+- 2026-11-17 | SPL DE L'ARTOIS | Maitrise d'oeuvre pour la requalification urbaine dans le cadre du programme d'engagement pour le renouvellement du bassin minier à Henin Beaumont Cité FOCH
+- 2026-11-17 | Conseil Départemental de Seine-et-Marne | Liaison routière de l’est francilien – TOARC (Terrassement Ouvrages d’art et Rétablissement des Communications) Centre PI7 sur la commune de Messy
+- 2026-11-17 | Métropole de Lyon DGEEP | Entretien et pose d'équipements de gestion des mobilités sur le territoire de la Métropole de Lyon
+- 2026-11-17 | Musée des Confluences | Services d'assurance santé et prévoyance pour les salariés du Musée des Confluences
+- 2026-11-17 | Etablissement Public du Commerce et de l'Industrie de Corse | Services de vérifications et de contrôles réglementaires périodiques des installations et des matériels et Maintenance et fourniture des installations de lutte contre l'incendie Pour les besoins de l'
+- 2026-11-17 | SPL CONSTRUCTION PUBLIQUE D’ILLE-ET-VILAINE | TRAVAUX DE RENOVATION ENERGETIQUE ET DE MISE EN ACCESSIBILITE DU COLLEGE CLOTILDE VAUTIER A RENNES
+- 2026-11-17 | TaM - Transports de l'Agglomération de Montpellier | Prestation de nettoyage des stations et des poteaux en ligne - 2026/08/01
+- 2026-11-17 | Territoire d'énergie Mayenne | Fourniture de titres de restauration dématérialisés
+- 2026-11-17 | SIAH (Syndicat Mixte d’Aménagement Hydraulique du Croult et du Petit Rosne) | Marché public de travaux pour la réhabilitation des réseaux d'eaux usées et d'eaux pluviales de la rue Gabriel Péri sur la commune de Sarcelles.
+- 2026-11-17 | Territoire d'énergie Mayenne | Location longue durée de véhicules et prestations associées
+- 2026-11-17 | Syndicat Mixte de collecte de déchets | Fourniture de vêtements de travail, chaussures de sécurité et équipements de protection individuelle (EPI)
+- 2026-11-17 | Commune de Mougins | Acquisition de végétaux, de produits divers et matériels d'arrosage pour les jardins de la Ville de Mougins
+- 2026-11-17 | MARCHALIM-3 - SIPLARC | MARCHALIM-3 - SIPLARC - Besoins en restauration collective
+- 2026-11-17 | Conseil départemental du Gard | DEBROUSSAILLEMENT DES ABORDS DES ROUTES DEPARTEMENTALES ET DES TERRAINS PRIVES DES UT DU DEPARTEMENT DU GARD -2027
+- 2026-11-17 | MAIRIE DE PONT-AUDEMER | Fourniture de véhicule d'occasion
+- 2026-11-17 | PFC-RBT | Fabrication de drapeaux et pavillonnerie
+- 2026-11-17 | SDIS (17) | ACQUISITION DE VEHICULES DE SECOURS ET DE SOINS D'URGENCE AUX PERSONNES (VSSUAP)
+- 2026-11-17 | Ville de Lyon | Maintenance des Systèmes de Sécurité Incendie
+- 2026-11-17 | Conseil départemental du Gard | Fourniture de pièces détachées d'origine ou équivalentes pour tous les véhicules du Département du Gard - Relance des lots 2 et 5 suite à infructuosité
+- 2026-11-17 | Metropole Rouen Normandie | Prestation de nettoyage des locaux de la Métropole Rouen Normandie
+- 2026-11-17 | UNIVERSITE DE MONTPELLIER | Prestations de soutien aux personnes en situation de handicap (personnels / étudiants) : Transport, Accompagnement et Interprétariat en langue des signes française pour l'Université de Montpellier
+- 2026-11-17 | Ville de Méru | Entretien des espaces verts communaux
+- 2026-11-17 | LA CIOTAT SHIPYARDS | Acquisition d'un élévateur à sangles pour bateaux de capacité 400 tonnes
+- 2026-11-17 | Service Départemental d'Incendie et de Secours de l'Indre | Acquisition de 5 Véhicules de Liaison Tout Usage (VLTU) pour le SDIS de l'Indre
+- 2026-11-17 | CRETEIL HABITAT | PRESTATIONS RELATIVES AU NETTOYAGE DES BUREAUX, DES LOGEMENTS ET DES PARTIES COMMUNES DES IMMEUBLES, AINSI QUE LA SORTIE DES CONTENEURS
+- 2026-11-17 | PODELIHA | Contrat de maintenance et exploitation des installations de ventilation individuelle et collective
+- 2026-11-17 | IMFPA | Le contrat a pour objet le nettoyage des locaux de l'IMFPA
+- 2026-11-17 | Département de Seine et Marne | Fourniture de lubrifiants (huiles et graisses) pour véhicules et engins
+- 2026-11-17 | Centre hospitalier de Valenciennes | Maintenance préventive et curative des systèmes de sécurité incendie des hôpitaux Hainaut-Cambrésis
+- 2026-11-17 | CHAMBRE DE COMMERCE ET D INDUSTRIE NICE COTE D AZUR | Fourniture d’aide aux premiers équipements des apprentis en filière automobile
+- 2026-11-17 | Région Nouvelle-Aquitaine | Camille Guerin- Poitiers 86- RENOVATION INTERIEURE ET RENOVATION ENERGETIQUE DU BATIMENT DE L'EXTERNAT DES CPGE – Location de Bâtiments modulaires
+- 2026-11-17 | REGION AUVERGNE RHONE ALPES | Marché de performance énergétique des installations thermiques, d'eau chaude sanitaire, de climatisation et de ventilation des lycées de la Région Auvergne Rhône Alpes
+- 2026-11-17 | Ville d&#039;Aubervilliers | Dératisation-désourisation et désinsectisation
+- 2026-11-17 | Conseil Départemental des Bouches du Rhône | Exécution des travaux de réparations des ouvrages d’art  du réseau routier départemental
+- 2026-11-17 | CDC CASTELNAUDARY LAURAGAIS AUDOIS | Maitrise d’oeuvre pour la construction d’une crèche / multi-accueil de 35 places sur la commune de Salles-sur-l’Hers
+- 2026-11-17 | SID Atlantique | 9236 - Accord-cadre à bons de commande relatif à la maintenance des systèmes de levage de la travée mobile du pont de Recouvrance
+- 2026-11-17 | Département de l&#039;Oise | FOURNITURE ET MAINTENANCE D’EXTINCTEURS ET EQUIPEMENTS DIVERS
+- 2026-11-17 | MRN - Entité EPMD | Fourniture des appareils de voie - Gros entretien et rénovation de la plateforme métro - Phase 1, du réseau Tramway de la Métropole Rouen Normandie
+- 2026-11-17 | Commune de Domont | Prestations de nettoyage et d’entretien ménager des bâtiments communaux de la ville de Domont
+- 2026-11-17 | CENTRE HOSPITALIER DE MAYOTTE | Prestations d'entretien et de maintenance des ascenseurs et monte-charges du Centre Hospitalier de Mayotte
+- 2026-11-17 | Commune de Corte | Travaux de requalification du Centre Ancien de la ville de Corte
+- 2026-11-17 | Conseil départemental du Gard | Accord-cadre mono attributaire  de maitrise d'oeuvre pour la réhabilitation du Vieux Moulin - site du Pont du Gard
+- 2026-11-17 | Mairie de Vincennes | Concession de service portant délégation de service public : Gestion et exploitation de l’équipement aquatique avec espace bien-être « Dôme de Vincennes »
+- 2026-11-17 | DEAL 976 | MOE - Rectification des virages de la RN2 entre Tsararano et Ongoujou
+- 2026-11-17 | SYNDICAT A LA CARTE D&#039;ADDUCTION D&#039;EAU POTABLE ET D&#039;ASSAINISSEMENT DE LA REGION D&#039;ANDRES | LOCATION D’ENGINS DE TERRASSEMENT POUR LES TRAVAUX DU SIRA ET LIVRAISON DE MATERIAUX DE REMBLAIEMENT
+- 2026-11-17 | Ville de Toulon | Accord-cadre à marchés subséquents en vue des travaux neufs, de la création d'aménagements extérieurs et de confortement d'ouvrages sur le foncier de la Ville de Toulon en 2 lots
+- 2026-11-17 | LA ROCHELLE TOURISME EVENEMENTS | Prestation de nettoyage des sites gérés par  La Rochelle Tourisme et Evénements
+- 2026-11-17 | Préfecture de Police de Paris | Accord-cadre relatif aux prestations multi-techniques et multi-services pour les stands de tirs domaniaux du SGAMI Île-de-France
+- 2026-11-17 | Montpellier Méditerranée Métropole | M6D0036PS - Fourniture et maintenance de matériel sportif pour le réseau des piscines de Montpellier Méditerranée Métropole
+- 2026-11-17 | Groupement Hospitalier de Territoire d'Eure-et-Loir | Traitement externalisé des analyses d'anatomo-cytopathologie pour les Centres Hospitaliers de Chartres et Dreux
+- 2026-11-17 | COMMUNE DU TAMPON | TRAVAUX D'AMENAGEMENT D'UNE VOIE VERTE AUX ABORDS DE LA ROUTE DEPARTEMENTALE CD3 ENTRE LE CHEMIN DES LETCHIS ET LA RUE EMILE ZOLA RD27
+- 2026-11-17 | DEPARTEMENT DU LOT | Prestations d'analyse des pratiques professionnelles et de supervision au bénéfice des agents de la direction des solidarités départementales
+- 2026-11-17 | Ville de Noyon | Relance suite à procédure infructueuse -Marché d'exploitation des installations thermiques de la piscine et du centre culturel -Ville de Noyon
+- 2026-11-17 | Brest Métropole | MISSIONS D'URBANISME TACTIQUE SUR LE TERRITOIRE DE BREST MÉTROPOLE
+- 2026-11-17 | Université Toulouse Capitole | Prestations d’aménagement d'espaces pour diverses manifestations de l'Université Toulouse Capitole
+- 2026-11-17 | 44 CHU | avis d'attribution
+- 2026-11-17 | COMMUNE DE NANTERRE | Réalisation, pose et dépose de produits signalétiques
+- 2026-11-17 | Ministère de l'intérieur / DEPAFI / SAILMI | AMO denrées, logiciels et autres prestations
+- 2026-11-17 | Arcep | Campagne de mesures 2026/2027 pour la vérification de la fiabilité des cartes de couverture publiées par des opérateurs de téléphonie mobile en France métropolitaine
+- 2026-11-17 | CA Provence Verte | M.2026-26 : Accord-cadre à bons de commande de prestations de nettoyage des bâtiments de la communauté d'Agglomération de la Provence Verte
+- 2026-11-17 | Hauts-de-Seine Habitat - OPH | Marché de Travaux de Réhabilitation de 3 immeubles, 114 logements en site occupé, avenue Kellogg et Square Concorde, à la Cité-Jardin de Suresnes
+- 2026-11-17 | VILLE DE GRENOBLE | Fournitures de peintures et accessoires pour le patrimoine bâti
+- 2026-11-17 | Eurométropole de Strasbourg | Acquisition d'équipements de protection individuelle (EPI) destinés aux agents de la collectivité - Reconsultation du lot 09 "Équipement de protection bûcheronnage" de l'affaire 25EMS0247GP
+- 2026-11-17 | Conseil départemental du Gard | Achat et la livraison de chaussures de sécurité et de travail à destination des agents du Conseil départemental du Gard
+- 2026-11-17 | Durance Luberon Verdon Agglomération | MISSION DE CONCEPTION POUR LE PROJET DE RESTAURATION HYDROMORPHOLOGIQUE DU RAVIN DE DROUILLE - AM6 - PARC DE DROUILLE ET COULEE VERTE -
+- 2026-11-17 | Département de la Savoie | Fourniture et mise en oeuvre d'enrobés à l'émulsion sur les chaussées et autres éléments du patrimoine départemental
+- 2026-11-17 | MINARM/DICOM Antilles | Acquisition et Maintenance d'Extincteurs au profit des FAA Martinique/Guadeloupe au profit du RSMA Martinique/Guadeloupe
+- 2026-11-17 | VILLE DE NICE | 26V0283. Acquisition de lanceur de balle de défense (LBD), ses accessoires et de leurs munitions
+- 2026-11-17 | CROUS de Toulouse-Occitanie | Travaux de REHABILITATION PARTIELLE DE LA ZONE DE PRODUCTION DU RESTAURANT UNIVERSITAIRE DE L'ARSENAL A TOULOUSE (31)
+- 2026-11-17 | Eurométropole de Strasbourg | Concession de service public relative à l'exploitation du Zénith Europe de Strasbourg
+- 2026-11-17 | DAPSA | Acquisition de matériels de formation et de simulation médicale
+- 2026-11-17 | Commune de Bievres | Marché de surveillance et de gardiennage
+- 2026-11-17 | PODELIHA | Fourniture de matériaux pour la décoration de logements - Relance
+- 2026-11-17 | SG-SAAM-Mission des achats | Prestations de location et d’entretien de linge d’office et de restauration pour les besoins des services de l’administration centrale des ministères de l’éducation nationale.
+- 2026-11-17 | Métropole de Lyon | Fourniture de matériels électroménagers et multimédias pour le compte de la Métropole de Lyon et des adhérents de la Centrale d'achats : 2 lots
+- 2026-11-17 | Centre Hospitalier Universitaire de Nice - Hôpital de Cimiez - Établissement support du GHT06 | PRESTATIONS D'AUDIT ET D'ACCOMPAGNEMENT DES CHARGES SOCIALES ET FISCALES
+- 2026-11-17 | Ville de Trignac | Réfection de la couverture de l'école Jaurès-Curie
+- 2026-11-17 | EPA / SHOM | Apport des fauchées SWOT pour la caractérisation de la dynamique de méso-échelle, la marée interne et les ondes internes solitaires
+- 2026-11-17 | SEMITAN | Marchés de prestations de nettoyage des véhicules et installations de la Semitan - Lot 2
+- 2026-11-17 | VILLE DE COUDEKERQUE BRANCHE | Marché de Restauration en liaison froide à domicile pour les séniors
+- 2026-11-17 | Conseil Départemental du Nord | Accord-cadre à marchés subséquents de fourniture de matériaux spécifiques de voirie - 4 lots
+- 2026-11-17 | COMMUNE DE CHATEAUBOURG | Services d'assurances pour le groupement constitué entre la Commune et le CCAS de Châteaubourg
+- 2026-11-17 | ADVIVO | Accord-cadre à bons de commande de travaux d'entretien courant et de remise en état des logements sur le patrimoine d'Advivo
+- 2026-11-17 | TaM - Transports de l'Agglomération de Montpellier | Exploitation et maintenance des installations GNV - 2025/08/31
+- 2026-11-17 | TaM - Transports de l'Agglomération de Montpellier | Couverture complémentaire des frais de santé des salariés TaM - 2026/08/06
+- 2026-11-17 | RATP REAL ESTATE | Accord cadre de couvertures, étanchéités et ouvrages de toiture pour les opérations immobilières de RATP Real Estate
 - 2026-11-16 | Direction Interdépartementale des Routes du Sud-Ouest | Travaux de réhabilitation et de réaménagement du Centre d'Entretien et d'Intervention (CEI) de L'Hospitalet-près-l'Andorre
 - 2026-11-16 | Commune du Croisic | Appel à Manifestation d'Intérêt pour la mise en place et l'exploitation de bornes de recharge pour véhicules électriques
 - 2026-11-16 | MAIRIE DE MACON | Construction de vestiaires de football - Quartier des Saugeraies à Mâcon
@@ -198,6 +354,7 @@ Réhabilitation du 21 Cours Lieutaud (13006 Marseille)
 - 2026-11-16 | Communauté de communes Alsace Rhin Brisach 
 Service assainissement | Travaux de mise en conformité du prétraitement de la station d'épuration de Kunheim
 - 2026-11-16 | ETS PORTUAIRE DE ST MARTIN | ASSISTANCE A MAITRISE D’OUVRAGE TECHNIQUE, JURIDIQUE ET FINANCIERE POUR LA PASSATION ET LE SUIVI D’UN MARCHE DE PARTENARIAT
+- 2026-11-16 | SGAR PFRA | Avis de marché : marché de travaux relatif à la restauration de la grille du jardin de la Préfecture d'Indre et Loire (37)
 - 2026-11-16 | Lycée professionnel Jeanne Catayee | Mobilité Erasmus à Dublin en Irlande du 26 février au 28 mars 2027
 - 2026-11-16 | Ville de Saint Etienne | Service de prestations hôtelières pour Ville de Saint-Etienne
 - 2026-11-16 | Mairie de Metz | Gestion Du Risque Legionnelle Et Traitement Des Reseaux D'Eau Chaude Sanitaire
@@ -395,157 +552,3 @@ Lot 7 : Droit Social
 - 2026-11-15 | SAINT-MALO AGGLOMERATION | Contrôle CVC
 - 2026-11-15 | OFFICE DE L'EAU GUADELOUPE | Le présent marché a pour objet la mise en oeuvre du programme de surveillance des eaux de surface continentales du district de la Guadeloupe pour la période 2027-2030, volet cours d'eau
 - 2026-11-15 | SPL Cergy Pontoise Aménagement | Réalisation des espaces publics du secteur B de la ZAC de Liesse II à Saint-Ouen-l'Aumône (95)
-- 2026-11-15 | Conseil Départemental de la Somme | Travaux de restructuration du collège Rosa Parks à Amiens (partie collège définitif)
-- 2026-11-15 | Groupement de la Côte d'Azur | Maintenance des portes, portails et barrières automatiques et semi-automatiques des établissements membres du Groupement d'Achats de la Côte d'Azur
-- 2026-11-15 | Service Départemental d'Incendie et de Secours de Seine-et-Marne | Fourniture de pneumatiques
-- 2026-11-15 | Conseil départemental Meurthe et Moselle | Prestations de génie écologique et études environnementales dans le cadre de projet de construction, réhabilitation ou de maintenance des bâtiments du Département de Meurthe-et-Moselle
-- 2026-11-15 | GRADeS Inéa Sant& Numérique Hauts-de-France | M2025-25_IMG_PILOTAGE-02-03 Preuve de concept de l’interconnexion de routeur DICOM avec le routeur central hébergé au GRADeS Inéa des Hauts-de-France
-- 2026-11-15 | Communauté de Communes de la Haute Ariège | MARCHE EN ASSURANCE - Risques Statutaires pour les agents affiliés à la CNRACL pour la Communauté de Communes de la Haute-Ariège pour 2027
-- 2026-11-15 | COMMUNE DU TAMPON | FOURNITURES ET PRESTATIONS DE SERVICES POUR L'ORGANISATION DE MIEL VERT 2027
-- 2026-11-15 | Université d'Angers | ACQUISITION D'UN MICROSCOPE A BALAYAGE ELECTRONIQUE DE TABLE INTEGRANT UN DETECTEUR EDS
-- 2026-11-15 | Centre Hospitalier de l&#039;Agglomération de Nevers | Maintenance et travaux sur les installations de distribution de fluides médicaux des établissements de santé du GHT de la Nièvre
-- 2026-11-15 | PARTELIOS | Construction de 17 logements collectifs, 25 maisons LLS et 13 maisons PSLA répartis sur 6 macrolots à Sannerville (14940)
-- 2026-11-15 | Conseil Départemental de Côte d'Or (21) | Acquisition de pièces détachées, de produits et accessoires et pneumatiques pour les véhicules de moins de 3.5 tonnes du Conseil Départemental de la Côte-d'Or
-- 2026-11-15 | VANDOEUVRE-LES-NANCY | Fourniture de matériels pour les services techniques de la Commune de Vandœuvre-lès-Nancy-.
-- 2026-11-15 | Grand Besançon Métropole | Grande bibliothèque de Besançon : fourniture et installation du mobilier dans les espaces publics de la bibliothèque d'agglomération (BA)
-- 2026-11-15 | Département-Région de Mayotte | ACCORD CADRE: FOURNITURE, LIVRAISON, INSTALLATION, MISE EN SERVICE, CONTRÔLE ET MAINTENANCE D'ÉQUIPEMENTS MARITIMES, DE SÉCURITÉ, DE NAVIGATION, D'INTERVENTION ET DE SANTÉ POUR LES NAVIRES DE LA DTM
-- 2026-11-15 | Centre hospitalier de Valenciennes | MAPA 20260083 Prestation de transports sanitaires inter-établissements pour les membres des Hôpitaux du Hainaut-Cambrésis
-- 2026-11-15 | Chu Amiens-Picardie | FOURNITURE DE SUTURES, LIGATURES ET LACS SUSPENSEURS
-- 2026-11-15 | Caisse de prévoyance et de retraite du personnel ferroviaire CPRPF | PRESTATIONS D'ANIMATIONS PREVENTION SANTE : PROMOTION DE L'ACTIVITE PHYSIQUE, LUTTE CONTRE LA SEDENTARITE ET PREVENTION BUCCO-DENTAIRE A DESTINATION DES ASSURES DE LA CPRPF
-- 2026-11-15 | Ville Amiens | Fourniture, livraison et maintenance d'armes et de munitions pour la police municipale de la Ville d'Amiens
-- 2026-11-15 | Mairie d'Evreux | Prestation de maintenance des ascenseurs
-- 2026-11-15 | Département de la Drôme | Réalisation de couches de roulement en enduits superficiels sur routes départementales    Zone Nord
-- 2026-11-15 | Centre Hospitalier Universitaire de Nîmes | PRESTATION DE MAINTENANCE DES EQUIPEMENTS BIOMEDICAUX ET CONSOMMABLES LIES
-- 2026-11-15 | Alès Agglomération | Procédure formalisée avec négociation / Mission de contrôle des installations d'assainissement non collectif / phase candidature
-- 2026-11-15 | Commune de Sisteron | Passation de marchés d'assurances pour les besoins de la Commune de Sisteron - 04
-- 2026-11-15 | Caisse d'Assurance Vieillesse des Pharmaciens | Prestations de conseil immobilier pour la Caisse d'assurance vieillesse des pharmaciens (CAVP)
-- 2026-11-15 | SEMITAN | Accord-cadre pour la construction d'ensembles mécaniques
-- 2026-11-15 | CC du Pays de Luxeuil | Services d'assurances pour la Communauté de communes du Pays de Luxeuil
-- 2026-11-15 | GHT DE LA GUADELOUPE, Direction des achats (Cellule des marchés) | Prestation de transport de corps intra et extra muros, conservation de corps, inhumation
-- 2026-11-15 | ECOLE NORMALE SUPERIEURE - PSL | Fourniture, livraison, installation, mise en service, formation et garantie d’un microscope confocal inversé pour le Département de Chimie de l’Ecole normale supérieure – PSL (ENS-PSL)
-- 2026-11-15 | COM DE COMMUNES COUSERANS PYRENEES | Fourniture de chaleur, produite majoritairement à partir de bois énergie, à destination de six bâtiments communaux et intercommunaux
-- 2026-11-15 | Ville de Paris | Restructuration de l'école élémentaire 8 rue des vertus (Paris 3ème)
-- 2026-11-15 | Seine et Yvelines Numérique | l'approvisionnement et la rationalisation du portefeuille de logiciels avec mise à disposition d'une bibliothèque logicielle mutil-éditeurs
-- 2026-11-15 | DTNPC | ÉCLUSE DE FLANDRES - CHÔMAGE 2027 -  RESTAURATION DE LA PORTE "ORIGINE AMONT"  ET DE LA PORTE AVAL
-- 2026-11-15 | Commune de  Rehon | Concours restreint de maitrise d'oeuvre - Pôle Scolaire-.
-- 2026-11-15 | Collectivité Eau du Bassin Rennais | Accord-cadre à bons de commande de maîtrise d'œuvre de travaux de renouvellement, d'extension et de modification du réseau de distribution d'eau potable 2028-2032
-- 2026-11-15 | Métropole Nice Cote d'Azur | 25N0504 - Collecte et traitement des déchets sur les Ports de Beaulieu et de St Jean Cap Ferrat.
-- 2026-11-15 | CA LANNION-TREGOR COMMUNAUTE | Suivi-animation dans la cadre du PACTE-Programme d’Intérêt général de Lannion-Trégor Communauté
-- 2026-11-15 | Ville de Vittel | Marché public de fourniture pour l'achat direct d'électricité renouvelable dans le cadre d'une opération d'autoconsommation collective
-- 2026-11-15 | EPA / SHOM | Shom_26AC15 PRESTATION AGENCE DE VOYAGE
-- 2026-11-15 | UG 10 | Travaux d’installation d’un système de chauffage réversible au CRF Val Bleu – Rouvignies
-- 2026-11-15 | Orléans Métropole | Animations socio-éducatives et accompagnement social à destination des gens du voyage (2 lots)
-- 2026-11-15 | Eurométropole de Strasbourg | Mission d'assistance à maitrise d'ouvrage pour l'accompagnement, l'animation et la mise en oeuvre du 6e Programme Local de l'Habitat en élaboration
-- 2026-11-15 | Ecole normale supérieure - PSL | Mise à disposition temporaire de personnels intérimaires pour les besoins de l’Ecole normale supérieure - PSL
-- 2026-11-15 | Commune de Cherbourg-en-Cotentin | Fourniture de clôtures
-- 2026-11-15 | SDIS des Alpes-Maritimes | Prestation de location d'hélicoptères bombardiers d'eau et de leurs équipages (pilotes et mécaniciens)
-- 2026-11-15 | Service Départemental d'Incendie et de Secours du Var (SDIS du Var) | Carburants à la pompe destinés à approvisionner les véhicules du SDIS du Var
-- 2026-11-15 | Commune des Gets | Marché de déneigement - Hiver 2026-2027
-- 2026-11-15 | Département de l'Isère | Prestations d'études géotechniques et géologiques pour des opérations de bâtiment
-- 2026-11-15 | Toulouse Métropole | 26M00058PA - ACTIONS DU PLIE : DYNAMIQUE PROFESSIONNELLE - ANNEES 2027-2028
-- 2026-11-15 | UNIHA-GCS | Transports de colis à température dirigée et contrôlée hors France Continentale (Corse, DROM-COM et international) de J+2 à J+4
-- 2026-11-15 | GIE ALLIANCE PROFESSIONNELLE | AO GIE Alliance PRO "Acquisition d'un outil de planification des ressources"
-- 2026-11-15 | Mâconnais-Beaujolais Agglomération | Exploitation de la station d'épuration de Senozan et Saint-Martin-Belle-Roche
-- 2026-11-15 | Région Hauts-de-France | Fourniture de matériels et accessoires de levage pour les besoins du port de Boulogne-sur-Mer-Calais
-- 2026-11-15 | CHU de Lille - ES du GHT HPGL | Acquisition d'imprimés pour plusieurs établissements du GHT HPGL
-- 2026-11-15 | Sète agglopôle Méditerranée | Transport des déchets ménagers recyclables du centre de transfert de Sète Agglopole Méditerranée à Villeveyrac vers le centre de tri de Saint-Thibéry (34)
-- 2026-11-15 | Parc national des Calanques | Assistance à maîtrise d'ouvrage pour études et suivi des travaux d'aménagements paysagers pour les entrées du Parc National des Calanques
-- 2026-11-15 | Métropole Aix Marseille Provence | Assistance technique pour l’animation de plans de massifs pour la protection des forêts contre les incendies sur le territoire de la Métropole Aix-Marseille-Provence
-- 2026-11-15 | SEBVF | Fourniture d'électricité
-- 2026-11-15 | PARIS TERRES D'ENVOL | SOUSCRIPTION D'UNE ASSURANCE DOMMAGES OUVRAGE DANS LE CADRE DE LA CONSTRUCTION D'UN ESPACE CULTUREL
-- 2026-11-15 | ATIGIP SEP RIEP | Fourniture, la livraison, l’installation et la mise en service  d’un système de convoyage destiné à l’atelier menuiserie  ATIGIP RIEP de Toul (54).
-- 2026-11-15 | ETAB PUBLIC AMENAGEMENT EUROMEDITERRA | REALISATION D’OPERATION DE FOUILLES ARCHEOLOGIQUES SUR LE PATRIMOINE DE L’EPA EUROMEDITERRANEE - ILOT MONTOLIEU
-- 2026-11-15 | VILLE DE CLERMONT-FERRAND | ENTRETIEN ET MAINTENANCE DES MATÉRIELS DE CUISINES ET DE BUANDERIES
-- 2026-11-15 | Département de la vienne | Fourniture de livres et de prestations annexes pour les services du Département de la Vienne
-- 2026-11-15 | SAEM VENDEE - Vendée Globe | A compléter
-- 2026-11-15 | Ville de Lyon | HALLE TONY GARNIER - Restauration,  rénovation, préparation JO 2030
-- 2026-11-15 | Centre Hospitalier Annecy Genevois | CREATION D'UNE UNITE DE VIE PROTEGEE (UVP) AU SEIN DE L'EHPAD « LE CRÊT DE LA NEIGE »  À DIVONNE-LES-BAINS
-- 2026-11-15 | Centre des monuments nationaux | Prestations de transport par taxi des agents  du Centre des monuments nationaux en situation de handicap
-- 2026-11-15 | Ville de Décines-Charpieu | Prestations d'entretien des espaces verts de la commune de Décines-Charpieu
-- 2026-11-15 | Ville de Villeurbanne | MAINTENANCE DES MATERIELS ET EQUIPEMENTS DE RESTAURATION  DE LA VILLE DE VILLEURBANNE ET DU CCAS DE VILLEURBANNE
-- 2026-11-15 | CTI-CD | Fourniture d'équipements de protection individuelle (EPI) et d'outils et articles de quincaillerie
-- 2026-11-15 | Caisse des écoles de la commune d'Hyères | EAO0226 - CAISSE DES ECOLES - Fournitures des mobiliers scolaires, extra-scolaires, de restauration et services associés - Accord-cadre à marchés subséquents et à bons de commande - Relance
-- 2026-11-15 | Mairie d'Eragny-sur-Oise | Nettoiement manuel et mécanisé des voiries
-- 2026-11-15 | Conseil Départemental du Nord | Accord-cadre multi attributaire à bons de commande de fourniture de pièces détachées pour camions et fourgons et matériels associés de marque Renault Trucks
-- 2026-11-15 | Association Action Sociale Restauration Finance (ASFR) | Fourniture de fruits et légumes frais, de 4ème et 5ème gamme, et de poissons frais et produits dérivés au profit de l’Association Action Sociale Finance Restauration
-- 2026-11-15 | Communauté d'Agglomération Villefranche Beaujolais Saone | Transfert des matériaux de la collecte sélective issus du secteur de collecte en régie
-- 2026-11-15 | GRAND PORT MARITIME DE DUNKERQUE | Accord-cadre relatif aux travaux subaquatiques pour le remplacement du système de protection cathodique sur différents ouvrages du GPMD
-- 2026-11-15 | Centre National d'Enseignement à Distance (Cned) | Fourniture, mise en œuvre et exploitation d'une solution de gestion des interactions écrites, de gestion de la connaissance, de self-service et de satisfaction client
-- 2026-11-15 | COMMUNE DE BIARRITZ | Fourniture de titres restaurant pour la Ville de Biarritz et le C.C.A.S. de Biarritz
-- 2026-11-15 | Groupement de la Côte d'Azur | Vérifications périodiques réglementaires des installations électriques des établissements membres du Groupement d'Achats de la Côte d'Azur
-- 2026-11-15 | DGDDI - Bureau des achats et approvisionnements (FIN2) | Fourniture de tenues sérigraphiées et de leurs équipements de protection passive destinés aux agents motocyclistes de la DGDDI
-- 2026-11-15 | Ets public Musées Orsay et Orangerie | Marché de location de matériel de sonorisation, d'éclairage et structures et de scènes avec ou sans mise à disposition de personnel pour les besoins de l'EPMO VGE
-- 2026-11-15 | ANSES | Prestations d'analyses pour le laboratoire Anses site de Ploufragan
-- 2026-11-15 | RESE de la Charente-Maritime | Marché de service relatif à la prestation d'assurance pour les besoins d’EAU 17 et sa régie la RESE DE LA CHARENTE MARITIME.
-- 2026-11-15 | Communauté de Communes Val de Gray | Mission d’assistance à maîtrise d’ouvrage relative à la conception, la réalisation et l’exploitation d’un pôle aquatique
-- 2026-11-15 | Région Auvergne Rhône Alpes | Fourniture et livraison de climatiseurs mobiles
-- 2026-11-15 | VILLE DE NANTES | PRESTATIONS DE NETTOYAGE DES BASSINS ET LOCAUX DES PISCINES MUNICIPALES DE LA VILLE DE NANTES
-- 2026-11-15 | Département de la Vendée | Fourniture et transport d'émulsion de bitume pour l'entretien des chaussées des routes départementales
-- 2026-11-15 | UGECAM ALSACE | Restructuration et extension des bâtiments de l’établissement de santé du Pôle IURC site d’Illkirch (67400)
-- 2026-11-15 | COLLECTIVITE TERRITORIALE DE GUYANE | Concours restreint de maîtrise d'oeuvre sur esquisse pour la construction d'un complexe sportif-culturel territorial à Saint-Laurent du Maroni
-- 2026-11-15 | Ville de Meyzieu | Prestations d'insertion professionnelle par le nettoyage de bâtiments
-- 2026-11-15 | Groupe LB habitat | Marché de maîtrise d'oeuvre pour la construction d'un habitat participatif de 14 logements à Quimperlé (29)
-- 2026-11-15 | SYNDICAT INTERCOMMUNAUTAIRE POUR L'ASSAINISSEMENT DE LA REGION DE CERGY-PONTOISE ET DU VEXIN - SIARP | OP2021/06 - CONSTRUCTION DE LA STATION D'EPURATION INTERCOMMUNALE DE VIGNY - LONGUESSE ET DE SON RESEAU DE TRANSFERT
-- 2026-11-15 | Office National des Forets - Direction Territoriale de Guyane | ACQUISITION ET TRAITEMENTS DE DONNÉES PAR LIDAR AÉROPORTÉ ET ORTHOPHOTOGRAPHIE EN FORÊT GUYANAISE
-- 2026-11-15 | Ville de Caluire et Cuire | Mise à disposition de berceaux au sein de la crèche  interentreprises «  Les Petits Chaperons Rouges  » de Caluire et Cuire
-- 2026-11-15 | VILLE DE SAINT NAZAIRE | Accord-cadre de prestations d'études géotechniques
-- 2026-11-15 | Plate-forme commissariat Paris | Prestations relatives à la préparation de collecte, à la collecte, au transport et traitement des déchets dangereux de la DGA MNRBC au profit de son site de Vert-Le-Petit (91) et de Cazaux (33).
-- 2026-11-15 | 87 CHU | Mise en sécurité, restructuration et extension du bâtiement Dupuytren 1
-- 2026-11-15 | Mairie de Brive | TRANSPORTS SCOLAIRES PERISCOLAIRES ET EXTRA SCOLAIRES
-- 2026-11-15 | PRIF-Prévention Retraite Ile de France | Prestations de communication
-- 2026-11-15 | AUTORITE DE SURETE NUCLEAIRE ET DE RADIOPROTECTION | Tierce Maintenance Applicative des applications SYMBIOSE et PARIS pour le compte de l’ASNR.
-- 2026-11-15 | Dijon Métropole | DIJON METROPOLE - Réception broyage et renvoi vers l'UVE de Dijon Métropole des objets encombrants, déchets non recyclables et incinérables de déchetteries issus de Dijon Métropole et des membres du g
-- 2026-11-15 | Communauté de communes du Val d&#039;Amour | Marché public de fabrication et livraison de repas et goûters en liaison froide
-- 2026-11-15 | Etablissement Français du Sang | MARCHE DE FOURNITURE DE REACTIFS DE GENOTYPAGE DES  GROUPES SANGUINS ET LOCATION-MAINTENANCE DES  EQUIPEMENTS ASSOCIES POUR LES LABORATOIRES  IMMUNOHEMATOLOGIE MOLECULAIRE DE L’EFS
-- 2026-11-15 | Société des grands projets | Suivi et contrôle qualité des déploiements opérationnels, transfert en affermage des  Biens du Grand Paris Numérique
-- 2026-11-15 | COMMUNAUTE D'AGGLOMERATION GRAND CALAIS TERRES & MERS | Fourniture de produits pour la maintenance des locaux et l'hygiène corporelle
-- 2026-11-15 | mairie de Vitry-sur-Seine | Travaux d'aménagement en espaces verts
-- 2026-11-15 | Centre Hospitalier de Beauvais | Fourniture de dispositifs médicaux implantables et consommables stériles de bloc opératoire
-- 2026-11-15 | PFC Brest | Étalonnage, vérification et réparation des Equipements de Contrôle, de Mesure et d’Essais (ECME).
-- 2026-11-15 | Conseil Départemental Haute-Vienne | Accord cadre de maîtrise d'oeuvre pour des prestations de construction et réparation d'ouvrages d'art du Département de la Haute-Vienne
-- 2026-11-15 | SAINT-MALO AGGLOMERATION | Fourniture de carburants
-- 2026-11-15 | SITCOM côte Sud des Landes | Prestations de collecte et de traitement des déchets spéciaux (8 lots)
-- 2026-11-15 | CENTRE HOSPITALIER DE DUNKERQUE | Exploitation et entretien des installations de génie climatique et des groupes électrogènes pour les Centres Hospitaliers de la Région de Saint-Omer et d'Aire-sur-la-Lys
-- 2026-11-15 | Mairie de Montmorency | Maîtrise d’œuvre pour l’opération de restauration de la collégiale Saint Martin de la ville de Montmorency
-- 2026-11-15 | Ville de Hoenheim | ACQUISITION D'UN CAMION PTAC 26T, GRUE, BRAS DE MANUTENTION ET DEUX CAISSONS TP ET REPRISE DE L'ANCIEN VEHICULE DE LA COLLECTIVITE.
-- 2026-11-15 | Port d'Arcachon | Modernisation et mise en sécurité des équipements d'accostage/amarrage des quais de pêche du Port d'Arcachon
-- 2026-11-15 | Mairie de Saint-Chamond | SERVICE DE PRODUCTION DE REPAS POUR LA RESTAURATION SCOLAIRE
-- 2026-11-15 | Toulouse Métropole | 26M0075PA - FONDS DE SOLIDARITÉ LOGEMENT - MISE EN OEUVRE DE MESURES D'ACCOMPAGNEMENT SOCIAL DANS LE CADRE DE BAUX GLISSANTS - 2027 à 2030-
-- 2026-11-15 | VALTOM | M26-06_Collecte et traitement des Déchets Diffus Spécifiques (DDS) des ménages collectés dans les déchèteries du territoire du VALTOM (Puy-de-Dôme et nord de la Haute-Loire)
-- 2026-11-15 | SAINT-LOUIS Agglomération | Accord-cadre de fourniture de carburants en stations-services par le biais de cartes accréditives pour le parc automobile de SAINT-LOUIS Agglomération - Période 2027 à 2030
-- 2026-11-15 | Mucem | Prestations de collecte des textes et de l’iconographie et de rédaction selon différents supports de communication et publics visés
-- 2026-11-15 | OPCO MOBILITES | Marché de prestations d'assurance pour la couverture des risques d'OPCO MOBILITES
-- 2026-11-15 | Région Grand Est | Mise en oeuvre du document d'objectifs des sites NATURA 2000 sous maitrise d'ouvrage Région pour la période 2027-2030 - vague 9
-- 2026-11-15 | Commune de Villers-Carbonnel | Restauration et extension du cimetière communal
-- 2026-11-15 | DEPARTEMENT DES DEUX-SEVRES | Travaux de restructuration et d'extension du collège Le Marchioux à Parthenay
-- 2026-11-15 | Communauté d'agglomération ACCM | Accord cadre à bons de commande mono-attributaire pour les travaux d'entretien et d'amélioration de la voirie
-- 2026-11-15 | SMMAG | Déploiement et maintenance du dispositif de l'Appli M - Relance après déclaration sans suite
-- 2026-11-15 | SPL AGATE | CESSION DE CHARGES FONCIÈRES ET ACQUISITION EN L'ÉTAT FUTUR D'ACHÈVEMENT DES VOLUMES D'ACTIVITÉS - NPNRU BARRIOL « ILOTS A et D1 »  Commune d'Arles (13200)
-- 2026-11-15 | Ville de Pessac | Mise à disposition, installation, entretien, maintenance et exploitation des mobiliers urbains publicitaires sur le domaine de la Commune de Pessac
-- 2026-11-15 | Groupement Hospitalier de Territoire 79 - CH NIORT | Fourniture de sacs et sachets à ordures polyéthylène, sacs et futs DASRI, Sachets plastiques divers, Sacs kraft
-- 2026-11-15 | Société d'Equipement de la Région Montpelliéraine | CONSTRUCTION D'UN BATIMENT DE BUREAUX, LOT H6H7, DANS LE QUARTIER DE LA MOSSON, SECTEUR MOSSON SUD, MONTPELLIER
-- 2026-11-15 | VILLE DE FLERS | Fourniture de produits pétroliers raffinés liquides
-- 2026-11-15 | Communauté de Communes du Pays de Mortagne (85) | SOUSCRIPTION DU CONTRAT D'ASSURANCE "DOMMAGES AUX BIENS ET RISQUES ANNEXES" POUR LA PERIODE 2027-2030 - RELANCE DU LOT 1
-- 2026-11-15 | EM Normandie (76) | L'Ecole de Management de Normandie procède à une consultation en vue de souscrire les contrats d'assurances qui constituent l'ensemble du marché divisé en 6 lots.
-- 2026-11-15 | EPAEM | Mission de maîtrise d'œuvre urbaine et sociale (MOUS) : accompagnement social et relogement des occupants de la Tour B et du bâtiment A10 du Parc Bellevue
-- 2026-11-15 | Société des grands projets | Assistance à Maitrise d’Ouvrage relative aux projets du Grand Paris Numérique
-- 2026-11-15 | GRAND PORT MARITIME DE MARSEILLE | PROJET DEOS - CONCEPTION/REALISATION DES INFRASTRUCTURES PORTUAIRES POUR LE DEVELOPPEMENT DE L'EOLIEN OFFSHORE
-- 2026-11-15 | Département de la Seine-Maritime | Réhabilitation et maintenance des infrastructures et voiries sur les sites boisés du Département
-- 2026-11-15 | SOCIETE PUBLIQUE LOCALE DU STATIONNEMENT GRENOBLOIS | Le présent marché a pour objet la fourniture, l'intégration, le paramétrage, le déploiement, la mise en service et
-la formation relatifs à un système de Gestion Technique Centralisée (GTC) desti
-- 2026-11-15 | ENTREPRENDRE POUR HUMANISER LA DEPENDANC | Restructuration de l'ancien Hôpital Saint-Gabriel en résidence intergénérationnelle de 34 logements, des espaces aménageables pour des activités associatives, culturelles et des espaces extérieures...
-- 2026-11-15 | Collectivité territoriale de Saint Pierre et Miquelon | transport aérien de personne entre l'aéroport de Saint-Pierre pointe blanche (FSP) et l'aérodrome de Miquelon (MQC)
-- 2026-11-15 | ILEVA SMTD Sud et Ouest de La Réunion | AOO. GESTION DU CENTRE DE TRAITEMENT ET VALORISATION DE DECHETS DE LA RIVIERE SAINT-ETIENNE
-- 2026-11-15 | Caisse d'Assurance Retraite et de Santé Au Travail Rhône Alpes (Carsat RA) | Mise à disposition, installation, approvisionnement, entretien, maintenance et renouvellement de distributeurs automatiques de boissons chaudes, de boissons froides et de produits de snacking sucré...
-- 2026-11-15 | VILLE DE NICE | 26V0423. Fourniture d'équipements de protection individuelle à usage unique et de consommables alimentaires destinés aux activités de restauration collective et de transformation alimentaire.
-- 2026-11-15 | URSSAF ILE DE FRANCE | Prestations de services pour les congés annuels pris par les agents de l’Urssaf Ile de France originaires des DOM TOM dans leurs départements d’origine
-- 2026-11-15 | Département de l'Ardèche | Fourniture et livraison de sel de déneigement et de pouzzolane
-- 2026-11-15 | Eurométropole de Strasbourg | Fourniture de carburants en stations-services via des cartes accréditives et prestation associées (péage, lavage) pour les véhicules de la Ville et de l'Eurométropole de Strasbourg
-- 2026-11-15 | Métropole Nice Cote d'Azur | 26N0206 - Fourniture et livraison de produits métallurgiques
-- 2026-11-15 | Syndicat Mixte Artois Valorisation | Transport des ordures ménagères
-- 2026-11-15 | Centre des monuments nationaux | Prestations d’entretien des espaces verts des domaines nationaux des châteaux de Pierrefonds et Coucy et du pavillon Eugénie à Vieux-Moulin
-- 2026-11-15 | Université Grenoble Alpes | Acquisition de trois détecteurs à rayons X (neufs)
-- 2026-11-15 | COMEDIE FRANCAISE | Marché de service d'assurance
-- 2026-11-15 | Communauté d'agglomération Evreux Portes Normandie | 260600 - Prestation de gardiennage, de sûreté, de surveillance des différents sites d'Evreux Portes de Normandie
-- 2026-11-14 | Communauté de Communes du Golfe de Saint-Tropez | Prestations d'entretien et de renaturation des cours d'eau du territoire de la Communauté de Communes du Golfe de Saint-Tropez
-- 2026-11-14 | ONISEP | Développement et exploitation d'une plateforme de diffusion video
