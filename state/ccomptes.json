@@ -136,5 +136,55 @@
   "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261109-Rapport-decrets-d-avance-2026.pdf",
   "file": "2026-11-16_ccomptes_rapport-sur-les-credits-du-budget-de-l-etat-ouverts-par-decrets-d-avance.txt",
   "chars": 279274
+ },
+ "/fr/publications/commune-de-saint-pierre-martinique-11": {
+  "title": "Commune de Saint-Pierre (Martinique)",
+  "first_seen": "2026-11-18",
+  "pdf": null
+ },
+ "/fr/publications/commune-diracoubo-guyane-11": {
+  "title": "Commune d'Iracoubo (Guyane)",
+  "first_seen": "2026-11-18",
+  "pdf": null
+ },
+ "/fr/publications/communaute-dagglomeration-de-la-riviera-du-levant-guadeloupe-2": {
+  "title": "Communauté d'agglomération de la Riviera du Levant (Guadeloupe)",
+  "first_seen": "2026-11-18",
+  "pdf": null
+ },
+ "/fr/publications/adapter-la-fiscalite-locale-aux-competences-des-collectivites-territoriales": {
+  "title": "Adapter la fiscalité locale aux compétences des collectivités territoriales",
+  "first_seen": "2026-11-18",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261117-Adapter-fiscalite-locale-aux-competences-des-coll-territoriales.pdf",
+  "file": "2026-11-18_ccomptes_adapter-la-fiscalite-locale-aux-competences-des-collectivites-territoriales.txt",
+  "chars": 406012
+ },
+ "/fr/publications/lassociation-sos-villages-denfants": {
+  "title": "L'association SOS Villages d'Enfants",
+  "first_seen": "2026-11-18",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261117-Association-SOS-Villages-d-Enfants.pdf",
+  "file": "2026-11-18_ccomptes_l-association-sos-villages-d-enfants.txt",
+  "chars": 224629
+ },
+ "/fr/publications/syndicat-intercommunal-du-conservatoire-de-musique-et-de-danse-de-grand-couronne-et": {
+  "title": "Syndicat intercommunal du conservatoire de musique et de danse de Grand-Couronne et Petit-Couronne (Seine-Maritime)",
+  "first_seen": "2026-11-18",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/NDR2026-27.pdf",
+  "file": "2026-11-18_ccomptes_syndicat-intercommunal-du-conservatoire-de-musique-et-de-danse-de-grand-couronne.txt",
+  "chars": 234561
+ },
+ "/fr/publications/communaute-de-communes-de-saint-flour-cantal": {
+  "title": "Communauté de communes de Saint-Flour (Cantal)",
+  "first_seen": "2026-11-18",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/ARA202658_0.pdf",
+  "file": "2026-11-18_ccomptes_communaute-de-communes-de-saint-flour-cantal.txt",
+  "chars": 232655
+ },
+ "/fr/publications/commune-de-montceau-les-mines-saone-et-loire-3": {
+  "title": "Commune de Montceau-les Mines (Saône-et-Loire)",
+  "first_seen": "2026-11-18",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/BFR2026-32.pdf",
+  "file": "2026-11-18_ccomptes_commune-de-montceau-les-mines-saone-et-loire.txt",
+  "chars": 187327
  }
 }
