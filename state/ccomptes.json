@@ -186,5 +186,27 @@
   "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/BFR2026-32.pdf",
   "file": "2026-11-18_ccomptes_commune-de-montceau-les-mines-saone-et-loire.txt",
   "chars": 187327
+ },
+ "/fr/publications/communaute-dagglomeration-grand-sud-caraibes-guadeloupe-1": {
+  "title": "Communauté d'agglomération Grand Sud Caraïbes (Guadeloupe)",
+  "first_seen": "2026-11-19",
+  "pdf": null
+ },
+ "/fr/publications/regie-communautaire-odyssi-martinique-3": {
+  "title": "Régie communautaire ODYSSI (Martinique)",
+  "first_seen": "2026-11-19",
+  "pdf": null
+ },
+ "/fr/publications/comunaute-de-communes-de-lest-guyanais-cceg": {
+  "title": "Comunauté de communes de l'est guyanais (CCEG)",
+  "first_seen": "2026-11-19",
+  "pdf": null
+ },
+ "/fr/publications/communaute-dagglomeration-chateauroux-metropole-enquete-inter-juridictions-relative-la": {
+  "title": "Communauté d’agglomération Châteauroux Métropole - Enquête inter-juridictions relative à \"la mobilisation et aux actions du programme européen LIFE en France\"",
+  "first_seen": "2026-11-19",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/CVLR%202026-021%20-%20CA_CHATEAUROUX_METROPOLE_PROG_LIFE_ROD2_2026.pdf",
+  "file": "2026-11-19_ccomptes_communaute-d-agglomeration-chateauroux-metropole-enquete-inter-juridictions-rela.txt",
+  "chars": 66641
  }
 }

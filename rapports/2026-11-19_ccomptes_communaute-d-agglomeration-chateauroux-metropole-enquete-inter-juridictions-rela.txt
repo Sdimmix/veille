@@ -1,0 +1,1213 @@
+TITRE: Communauté d’agglomération Châteauroux Métropole - Enquête inter-juridictions relative à "la mobilisation et aux actions du programme européen LIFE en France"
+PAGE: https://www.ccomptes.fr/fr/publications/communaute-dagglomeration-chateauroux-metropole-enquete-inter-juridictions-relative-la
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/CVLR%202026-021%20-%20CA_CHATEAUROUX_METROPOLE_PROG_LIFE_ROD2_2026.pdf
+
+      RAPPORT D’OBSERVATIONS DÉFINITIVES
+                          ET SA RÉPONSE
+
+
+
+                      COMMUNAUTÉ
+                  D’AGGLOMÉRATION
+            CHÂTEAUROUX MÉTROPOLE
+ ENQUÊTE RELATIVE À « LA MOBILISATION ET
+   AUX ACTIONS DU PROGRAMME EUROPÉEN
+                         LIFE EN FRANCE »
+
+                                                      (Département de l’Indre)
+                                                                          Exercices 2021 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés,
+                     a été délibéré par la chambre le 23 juillet 2026.
+
+
+
+
+            15, rue d'Escures ◼ 45000 ORLÉANS ◼ T +33 2 38 78 96 00 ◼ centrevaldeloire@crtc.ccomptes.fr
+                                                 www.ccomptes.fr
+                     COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                             LIFE EN FRANCE »
+
+
+                                      TABLE DES MATIÈRES
+
+SYNTHÈSE...................................................................................................................... 4
+INTRODUCTION ........................................................................................................... 6
+     1 L’INSCRIPTION DU PROJET DANS UNE STRATÉGIE
+       ENVIRONNEMENTALE GLOBALE POUR LE TERRITOIRE .......................... 9
+        1.1 La déclinaison du programme européen LIFE en région Centre-
+            Val de Loire ........................................................................................................ 9
+        1.2 Une accélération de la stratégie environnementale depuis 2021 dans un
+            territoire ne couvrant que partiellement sa consommation énergétique par
+            des énergies renouvelables ............................................................................... 12
+     2 UN COÛT MODIQUE MAIS DES RÉSULTATS CONTRASTÉS .................... 17
+        2.1 Des objectifs partiellement atteints .................................................................. 17
+        2.2 Des dépenses représentant moins d’un tiers de la subvention notifiée ............ 21
+        2.3 Une pérennité incertaine à l’issue du projet ..................................................... 22
+ANNEXES ...................................................................................................................... 25
+        Annexe n° 1. Procédure ......................................................................................... 26
+        Annexe n° 2. Liste des abréviations ...................................................................... 27
+        Annexe n° 3. Réponse ............................................................................................ 28
+
+
+
+
+                                                                    3
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                       SYNTHÈSE
+
+
+                                           L’essentiel
+La chambre régionale des comptes Centre-Val de Loire a contrôlé la communauté
+d’agglomération Châteauroux Métropole dans le cadre d’une enquête inter-juridictions relative
+à la mobilisation et aux actions du programme européen LIFE en France.
+La communauté d’agglomération a participé au projet « LIFE_LETsGO4Climate » coordonné
+par la région Centre-Val de Loire entre 2021 et 2025, visant à accélérer la transition énergétique
+sur le territoire régional, en favorisant l’appropriation de la transition énergétique par les
+citoyens.
+Le projet n’a cependant que faiblement mobilisé les citoyens. Les collectifs citoyens
+« sobriété énergétique » identifiés à l’issue des ateliers n’ont pas prospéré. Celui relatif aux
+énergies renouvelables s’est constitué fin 2024 en une association, « Énergies renouvelables et
+solidaires en Berry », sans effet tangible à ce jour.
+
+
+       La chambre régionale des comptes Centre-Val de Loire a mené, en lien avec la deuxième
+chambre de la Cour des comptes et trois autres chambres régionales de comptes, une enquête
+sur la mobilisation et les actions en France du programme européen LIFE, dans le cadre du
+rapport public annuel 2027 de la Cour.
+        Doté de 5,43 milliards d’euros pour la période 2021-2027, ce programme est l’unique
+instrument financier de l’Union européenne spécifiquement dédié à l’environnement et au
+climat.
+       Entre 2021 et 2025, à la suite de l’appel à projet européen LIFE 2019, la région Centre-
+Val de Loire a coordonné la mise en œuvre du projet « LIFE_LETsGO4Climate », doté de
+4,5 millions d’euros, dont 2,5 millions d’euros de fonds européens.
+        Le projet visait à augmenter la production locale d’énergie renouvelable et à diminuer
+la consommation énergétique collective et individuelle. Il se décomposait en plusieurs phases,
+allant de la formation et la sensibilisation des territoires à l’accompagnement des collectifs
+citoyens porteurs de projets de production d’énergie renouvelable ou de sobriété énergétique,
+constitués à l’issue d’un cycle d’ateliers thématiques.
+      Un premier lot de six territoires était partenaire du projet et a contribué à son élaboration,
+au même titre que plusieurs acteurs institutionnels, privés ou associatifs.
+        Châteauroux Métropole fait partie des dix territoires ayant rejoint le projet après son
+démarrage, à compter de la fin 2022. L’EPCI a bénéficié pour sa mise en œuvre des outils et
+méthodes développés par les partenaires initiaux ainsi que d’une subvention de 8 333 €
+co-financée par l’Union européenne, destinée principalement à couvrir les frais d’organisation
+des ateliers.
+        L’engagement de la communauté d’agglomération s’inscrit dans sa feuille de route
+« transition écologique », illustrée par l’adoption d’un schéma directeur des énergies
+renouvelables, d’un plan de sobriété et d’un plan climat air énergie territorial, dans lequel elle
+
+
+
+
+                                                 4
+                    COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+s’est fixée pour objectifs de couvrir la totalité de sa consommation d’énergie par des sources
+renouvelables et de diminuer de 85 % ses émissions de gaz à effet de serre à l’horizon 2050.
+        La participation citoyenne au projet « LIFE_LETsGO4Climate » a été néanmoins
+inférieure aux cibles fixées par la région, hormis pour le volet consacré aux conversations
+carbone, ateliers participatifs visant à faire cheminer les participants vers un mode de vie plus
+sobre en carbone, c’est-à-dire moins émetteur en gaz à effet de serre.
+        Le collectif « énergie renouvelable » identifié à l’issue du cycle des ateliers s’est
+constitué en une association, « Énergies renouvelables et solidaires en Berry », Les autres
+collectifs « sobriété énergétique » n’ont pas prospéré. Le seul résultat aujourd’hui visible
+concerne la journée sans voiture organisée annuellement, uniquement dans la ville centre de
+l’agglomération.
+       Le coût du projet (2 630 €) a représenté moins d’un tiers de la subvention notifiée. Ce
+montant modique illustre la dissémination des projets financés par le programme LIFE. Les
+coûts salariaux des chargés de mission en charge du suivi du projet, non éligibles au
+subventionnement, n'ont toutefois pas fait l’objet d’évaluation chiffrée par Châteauroux
+Métropole.
+
+
+
+
+                                               5
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                INTRODUCTION
+
+        Une formation commune à la deuxième chambre de la Cour des comptes et aux
+chambres régionales des comptes Centre-Val de Loire, Grand Est, Nouvelle-Aquitaine et Pays
+de la Loire a été créée par l’arrêté n° 25-608 du 21 novembre 2025, modifié par l’arrêté
+n° 26-099 du 24 mars 2026. Elle a pour mission de réaliser une enquête sur la mobilisation et
+les actions du programme européen LIFE (l’instrument financier pour l’environnement) en
+France, dans le cadre de la préparation du rapport public annuel de 2027 consacré aux
+« politiques publiques en France et l’Union européenne ».
+        Le contrôle des comptes et de la gestion de la communauté d’agglomération de
+Châteauroux Métropole à compter de l’exercice 2021 a été inscrit dans ce cadre au
+programme 2026 de la chambre régionale des comptes Centre-Val de Loire, par arrêté
+n° 2025-10 du 21 novembre 2025 et sur le fondement des articles L. 211-3 et L. 211-4 du code
+des juridictions financières (CJF).
+                                                  ***
+       La communauté d’agglomération castelroussine a été créée le 1er janvier 2000. Par
+arrêté préfectoral du 4 août 2015, la dénomination de la communauté d’agglomération est
+modifiée en Châteauroux Métropole.
+       Cet établissement public de coopération intercommunale (EPCI) regroupe quatorze
+communes comptant environ 72 500 habitants, selon les données INSEE, soit près du tiers de
+la population départementale. La ville centre compte près de 43 000 habitants.
+        La superficie du territoire est de 537,9 km². La densité d’habitants au kilomètre carré
+est forte (134,9 contre 32 dans le département de l’Indre).
+       La population présente un vieillissement marqué avec une part croissante des plus de 60
+ans, passée de 26,3 % en 2011 à 31,9 % en 2022. Au sein de cette population, les actifs ayant
+un emploi représentent 64,5 %, les chômeurs 9,3 % et les inactifs 26,2 %.
+
+
+
+
+                                              6
+                    COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+                         Carte n° 1 : Le territoire de Châteauroux Métropole
+
+
+
+
+Source : CRC Centre-Val de Loire
+
+
+       Structurée autour d’un pôle urbain central, le territoire combine des espaces urbains,
+périurbains et ruraux. Il se caractérise par une offre de services, d’équipements et d’emplois
+concentrée sur la ville centre, tandis que les communes périphériques présentent des
+dynamiques résidentielles et agricoles.
+       Sa position géographique centrale et sa desserte par les principaux axes de transport
+contribuent à son rôle structurant dans le sud de la région Centre-Val de Loire.
+        Le conseil communautaire composé, pour la mandature 2026-2032, de
+cinquante-trois membres représentant chacune des communes membres, est présidé depuis le
+17 avril 2014 par M. Gil Avérous, également maire de Châteauroux, soutenu dans cette
+fonction par 14 vice-présidents.
+        Selon ses statuts, Châteauroux Métropole exerce les compétences obligatoires
+suivantes : développement économique, aménagement de l’espace communautaire, équilibre
+social de l’habitat, politique de la ville et transport urbain. L’EPCI assure également plusieurs
+compétences optionnelles (création ou aménagement d’entretien de voirie d’intérêt
+communautaire, protection et mise en valeur de l’environnement…) ou facultatives
+(construction et aménagement des équipements de secours et de lutte contre l’incendie, gestion
+de l'eau potable et de l'assainissement). La communauté d’agglomération est membre de 12
+syndicats mixtes dont le syndicat mixte du Pays Castelroussin – Val de l'Indre, composé de
+Châteauroux Métropole et de la communauté de communes Val de l’Indre-Brenne.
+        Conformément aux dispositions de l’article L. 5211-39-1 du code général des
+collectivités territoriales (CGCT), la communauté d’agglomération s’est dotée de schémas de
+
+
+
+                                                 7
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+mutualisation pour les périodes 2016-2020 et 2021-2026. Elle a en effet engagé un processus
+de mutualisation depuis janvier 2015 avec la ville centre. Dans ce cadre, quinze services sont
+désormais communs aux deux entités, réunis au sein d’une seule direction générale.
+       La communauté d’agglomération compte un budget principal et sept budgets annexes.
+        Châteauroux Métropole présente, sous réserve de la fiabilité des comptes - la chambre
+n’ayant pas contrôlé ce point - des produits de gestion consolidés en progression sur la période
+(+20 % entre 2021 et 2025), ce qui traduit une dynamique financière plutôt favorable. Malgré
+une hausse marquée des charges de gestion, l’excédent brut de fonctionnement reste solide et
+relativement stable. Le résultat financier demeure négatif mais s’améliore progressivement.
+        La capacité d’autofinancement (CAF) brute consolidée, quant à elle, est relativement
+soutenue et permet de couvrir confortablement l’annuité de la dette. La CAF nette du budget
+principal reste positive chaque année, confirmant une capacité d’autofinancement satisfaisante
+et une situation financière globalement saine.
+
+
+
+
+                                               8
+                        COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+1 L’INSCRIPTION DU PROJET DANS UNE STRATÉGIE
+  ENVIRONNEMENTALE GLOBALE POUR LE TERRITOIRE
+
+
+1.1 La déclinaison du programme européen LIFE en région Centre-
+    Val de Loire
+
+        Le programme LIFE constitue l’unique instrument financier de l’Union européenne
+spécifiquement dédié à l’environnement et au climat. Depuis sa création en 1992, il a
+accompagné la montée en puissance des politiques environnementales européennes, notamment
+en matière de biodiversité, d’adaptation au changement climatique, d’énergie propre et
+d’économie circulaire. Sa gouvernance, caractérisée par une gestion directe assurée par la
+commission européenne et mise en œuvre via l’agence exécutive européenne pour le climat, les
+infrastructures et l’environnement (CINEA), en fait un dispositif original, où la qualité des
+projets et la capacité de structuration des acteurs nationaux jouent un rôle déterminant.
+        Avec un budget de 5,43 milliards d’euros pour la période 2021-2027, il est de taille
+modeste comparé à d’autres programmes en gestion directe comme Horizon Europe dont le
+poids lui est près de vingt fois supérieur.
+        En France, le programme relève d’un pilotage national assuré par le ministère en charge
+de la transition écologique. Selon le rapport de l’inspection générale de l’environnement et du
+développement durable de janvier 2025, les résultats obtenus sont contrastés : si la France
+occupe la troisième place en montants et en nombre de projets financés depuis 2014, elle
+demeure en retrait par rapport aux États membres les plus performants, notamment l’Italie et
+l’Espagne.
+        L’article L. 1111-9 du CGCT confie un rôle de chef de file à la région dans un ensemble
+de domaines clés, tels que l’aménagement du territoire, l’intermodalité, le climat, l’énergie, la
+protection de la biodiversité, la politique de la jeunesse. Dans ce cadre, la région Centre-Val de
+Loire a élaboré son schéma régional d’aménagement, de développement durable et d’égalité
+des territoires (SRADDET), approuvé par le préfet de région le 4 février 20201. Ce document
+fixe les objectifs de moyen et long termes sur le territoire de la région en matière d’équilibre et
+d’égalité des territoires, d’implantation des différentes infrastructures d’intérêt régional, de
+désenclavement des territoires ruraux, d’habitat, de gestion économe de l’espace,
+d’intermodalité et de développement des transports, de maîtrise et de valorisation de l’énergie,
+de lutte contre le changement climatique, de pollution de l’air, de protection et de restauration
+de la biodiversité, de prévention et de gestion des déchets.
+         En 2019, la région Centre-Val de Loire a également souhaité initier une nouvelle
+dynamique de transition sur son territoire, en partenariat avec l’Agence de l'environnement et
+de la maîtrise de l'énergie (ADEME) et l’association « Énergie Partagée », afin de favoriser une
+appropriation collective par les acteurs locaux des questions énergétiques. Le pôle d’équilibre
+territorial et rural (PETR) Gâtinais montargois dans le Loiret et la communauté de communes
+
+
+
+1
+ Le SRADDET, modifié en matière de gestion et de prévention des déchets, a été approuvé en novembre 2023
+par la préfète de la région Centre-Val de Loire.
+
+
+
+
+                                                   9
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Loches Sud Touraine en Indre-et-Loire se sont alors portés volontaires pour expérimenter ce
+processus d’appropriation locale de la transition.
+        En 2020, forte de la réussite de cette expérimentation, la région Centre-Val de Loire a
+porté le projet « LIFE Let’s go for Climate local Energy transition strategies going for climate
+change » dans le cadre de l’appel à projet européen LIFE 2019.
+        Ce projet, doté d’un budget total de 4,5 M€ dont 2,5 M€ de fonds européens, a débuté
+en juillet 2021 pour une durée de quatre ans. Il visait à augmenter la production locale d’énergie
+renouvelable et à diminuer la consommation énergétique collective et individuelle, en
+favorisant l’émergence de collectifs citoyens porteurs de projets de production d’énergie
+renouvelable ou de sobriété énergétique.
+        Il se structure en trois phases.
+         La première, visant à faire monter en compétence les territoires, se décomposait en un
+état des lieux et des actions d’information sur la transition énergétique ou de formation à
+l’intelligence collective.
+        La deuxième phase, tournée vers le grand public, avait pour objectif de dynamiser et
+d’accompagner les projets collectifs d’énergie renouvelable et de sobriété énergétique portés
+par des groupes de citoyens, d’élus et d’entreprises du territoire, d’une part, et de sensibiliser la
+population et les acteurs du territoire à la sobriété énergétique individuelle et collective, d’autre
+part. Elle était structurée en trois étapes :
+        -   une représentation du spectacle « Le cabaret des métamorphoses », dans chaque
+            territoire ;
+        -   un cycle de quatre ateliers d’échanges et d’accompagnement au montage des projets
+            citoyens, dont la fin devait être marquée par l’émergence de collectifs, s’impliquant
+            autour des énergies renouvelables et d’actions de sobriété énergétique ;
+        -   des « conversations carbones », prenant la forme d’ateliers participatifs, encadrés
+            par deux animateurs certifiés ; chaque séance alternait informations techniques,
+            discussions et jeux, au sein d’un petit groupe ; un institut intervenait en tant que
+            prestataire pour la formation des facilitateurs.
+        La troisième et dernière phase consistait en un accompagnement des collectifs citoyens
+en structuration sur le territoire à la suite des ateliers.
+         Le projet « LIFE_LET’sGO4Climate » repose sur un partenariat entre treize entités. La
+région Centre-Val de Loire est le « bénéficiaire coordinateur » du projet. Douze structures
+bénéficiaires sont associées, dont six territoires pilotes constituant le premier lot2. Ces territoires
+participent aux décisions, à la définition des actions et à la création des outils. Ils sont les seuls
+territoires rémunérés pour le temps de coordination et d’animation territoriale.
+       À la suite d’appels à manifestation d’intérêt, six nouveaux territoires, dont la
+communauté d’agglomération Châteauroux Métropole, ont participé au projet à compter de
+2022 (lot 2), rejoints par quatre derniers territoires en 2024 (lot 3).
+
+
+
+
+2
+  Les partenaires hors territoires sont l’ADEME, Rescoop.eu, Énergie partagée association, Énergie partagée
+coopérative, ENEDIS et GRDF.
+
+
+
+
+                                                    10
+                    COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+Carte n° 2 : Les territoires participant au projet « LIFE_LETsGO4Climate » déclinés par lot
+
+
+
+
+*CA : communauté d’agglomération / CC : communauté de communes / PETR : pôle d’équilibre territorial et
+rural.
+** Les lots 2 et 3 ont fait l’objet d’un appel à manifestation d’intérêt (AMI).
+Source : CRC Centre-Val de Loire d’après le site internet « LIFE_LETsGO4Climate »
+
+
+        Après présentation aux élus du contenu et des objectifs prévisionnels du projet
+« LIFE_LETsGO4Climate », Châteauroux Métropole a répondu à l’appel à manifestation
+d’intérêt lancé par la région Centre-Val de Loire. La communauté d’agglomération n’a pu
+fournir le dossier de candidature à l’équipe de contrôle ce dont la chambre s’étonne.
+       Après consultation de l’assemblée délibérante en décembre 2022, un accord de
+partenariat,     concrétisant     l’engagement       dans     le     programme    régional
+« LIFE_LETsGO4Climate », a été signé avec cette collectivité le 2 février 2023. Un avenant
+en date du 6 juin 2025 est venu en prolonger la durée jusqu’au 31 décembre 2025.
+        La délibération de décembre 2022 indique que, dans un contexte où les enjeux
+énergétiques sont de plus en plus prégnants, le projet représente une opportunité unique pour la
+communauté d’agglomération « de saisir ces questions en engageant un programme partenarial
+ambitieux de sensibilisation, de formation et de structuration d’une stratégie locale pour la
+transition énergétique, favorisant une appropriation collective par les acteurs locaux des
+questions énergétiques ».
+
+
+
+
+                                                   11
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Elle n'évoque pas la question du mode de gouvernance mais précise que l’EPCI
+bénéficiera d’une subvention de la région pour pouvoir financer les actions du programme
+(communication, formation, déplacements, logistique...).
+         Le suivi du projet a été assuré par le vice-président en charge de la transition écologique
+et un chargé de mission transition écologique. Le titulaire du poste a changé en cours
+d’année 2023. Jusqu’en février, le premier chargé de mission a coordonné la participation à
+l’appel à manifestation d’intérêt et réuni les premiers éléments pour l’organisation des
+évènements locaux. À partir de juin 2023, la nouvelle chargée de mission, aujourd’hui directrice
+mobilité durable et transition écologique, a coordonné les actions et était le point de contact
+pour la région et les partenaires du projet. Elle accompagne toujours les collectifs et les
+facilitateurs de conversations carbone dans leurs actions.
+           Le projet « LIFE_LETsGO4Climate » et les actions organisées ont été présentés en :
+           -   juin 2023 : aux services de Châteauroux Métropole et de la ville de Châteauroux ;
+           -   septembre 2023 : aux élus de la ville de Châteauroux et aux maires de
+               l’agglomération ;
+           -   décembre 2023 : au conseil de développement du Pays Castelroussin Val de l’Indre.
+       Tous les outils de communication interne (mails, affiches) et externe (magazine, réseaux
+sociaux) ont été utilisés pour communiquer sur le projet.
+        La participation de Châteauroux Métropole au projet a permis, selon la communauté
+d’agglomération, d’une part, de renforcer les connaissances des élus et des agents et, d’autre
+part, de les impliquer dans les défis de transition énergétique et écologique du territoire.
+        Tout au long de la période, la mobilisation des élus de la ville et de l’agglomération est
+restée toutefois limitée, ceux-ci n’ayant pas ou peu participé aux ateliers ni aux événements
+organisés. Le président de la communauté d’agglomération a précisé qu’ils s’étaient plutôt
+mobilisés autour des ateliers consacrés à la fresque du climat.
+
+
+
+1.2 Une accélération de la stratégie environnementale depuis 2021 dans un
+    territoire ne couvrant que partiellement sa consommation énergétique
+    par des énergies renouvelables
+
+        L’engagement      de  la     communauté      d’agglomération       dans    le    projet
+« LIFE_LETsGO4Climate » s’inscrivait dans sa stratégie « transition écologique », pour
+laquelle elle a engagé, en amont et en parallèle du projet, plusieurs actions structurantes, en
+cohérence avec les démarches régionales ou du pays Castelroussin Val de l’Indre.
+        Châteauroux Métropole fait partie des territoires lauréats en février 2015 de l’appel à
+projet « territoires à énergie positive » lancé par le ministère de l’environnement à destination
+des collectivités souhaitant s’engager par des actions concrètes dans la transition énergétique.
+       L’EPCI s’est inscrit également dans la démarche de contrat d’objectifs territorial de
+développement des énergies renouvelables (Cot EnR) portée3 par le pays Castelroussin Val de
+
+
+3
+    Le troisième contrat, sur la période 2025-2029, a été signé le 24 septembre 2025.
+
+
+
+
+                                                         12
+                        COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+l’Indre. Afin de permettre le déploiement des énergies renouvelables thermiques, le cot EnR
+soutient à 45 % les filières biomasse, géothermie, l’énergie solaire thermique4 et les réseaux de
+chaleur associés.
+         C’est également le pays Castelroussin Val de l’Indre qui porte le schéma de cohérence
+territoriale (SCoT) approuvé en 2018.
+        En novembre 2021, le plan climat air énergie territorial (PCAET) 2021-2027 a été
+adopté. Dans ce cadre, un programme de trente-quatre actions, dont douze principales avec
+attente de résultats sous trois ans, a été élaboré. La réalisation et la mise en œuvre d’un schéma
+directeur des énergies renouvelables, achevé en décembre 2022, en faisait partie.
+
+                                             SCoT et PCAET
+          Les schémas de cohérence territoriale (SCoT) sont des documents de planification
+    stratégique à long terme (environ vingt ans) créés par la loi solidarité et renouvellement
+    urbains (SRU) en décembre 2000, dont le périmètre et le contenu ont été revus par
+    l’ordonnance du 17 juin 2020 de modernisation des SCoT, afin d’être adaptés aux enjeux
+    contemporains.
+          Leur contenu est défini par l’article L. 141-2 du code de l’urbanisme. Le SCOT
+    comprend un projet d’aménagement stratégique, un document d’orientations et d’objectifs et
+    des annexes.
+          Le SCoT est destiné à servir de cadre de référence pour les différentes politiques
+    sectorielles, notamment celles centrées sur les questions d’organisation de l’espace et
+    d’urbanisme, d’habitat, de mobilités, d’aménagement commercial, d’environnement, dont
+    celles de la biodiversité, de l’énergie et du climat.
+         Il permet d’établir un projet de territoire qui anticipe les conséquences du dérèglement
+    climatique, et les transitions écologique, énergétique, démographique, numérique.
+           Le plan climat air énergie territorial (PCAET) doit être établi par les EPCI
+    regroupant plus de 20 000 habitants conformément à l’article L. 229-26 du code de
+    l’environnement. C’est l’outil opérationnel de coordination de la transition énergétique sur
+    le territoire Son contenu est défini par l’article R. 229-51 du même code. Il comprend un
+    diagnostic, une stratégie territoriale, un programme d’actions et un dispositif de suivi et
+    d’évaluation.
+
+        En 2022, un plan de sobriété énergétique a été élaboré, proposant vingt actions
+permettant d’atteindre l’objectif de réduction de la consommation énergétique de 10 % d’ici
+2024, dans les domaines de l’éclairage municipal et public, du chauffage, de l’eau chaude
+sanitaire ou de la sensibilisation aux éco-gestes.
+       S’agissant des énergies renouvelables, Châteauroux Métropole a initié, via la
+délibération 2023-12, la création d'une société par actions simplifiée, dénommée « Châteauroux
+Métropole Énergies », en partenariat avec la société d’économie mixte EnerCentre Val de
+Loire. Cette structure est chargée du développement de projets photovoltaïques sur les toitures
+et parcs de stationnement publics des communes membres de l'agglomération. Par ailleurs,
+
+
+
+4
+  L’énergie solaire thermique est l’énergie thermique du rayonnement solaire, captée dans le but d’échauffer un
+fluide.
+
+
+
+
+                                                      13
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+plusieurs projets portés par des opérateurs privés ont été implantés sur le territoire, notamment
+sur la zone de la Martinerie.
+       Dans ce contexte, les actions conduites dans le cadre du projet
+« LIFE_LETsGO4Climate » contribuent à renforcer la mobilisation des acteurs locaux et à
+favoriser l’émergence de projets citoyens, en articulation avec les politiques régionales.
+       Dans le cadre du projet, un diagnostic a été réalisé sur les territoires partenaires. Ce
+document visait à disposer d’un panorama initial du système énergétique du territoire. Il était
+élaboré via une étude des documents stratégiques tels que le PCAET, un atelier de co-
+construction lors du séminaire d’intégration et une enquête en ligne à la population, à laquelle
+110 réponses5 ont été apportées.
+       La chambre note le faible nombre de réponses obtenues, qui représente 0,15 % de la
+population totale du territoire.
+        La communauté d’agglomération considère que ce diagnostic a permis d’apporter une
+approche historique pour expliquer la situation actuelle, de consolider et de mettre en avant des
+chiffres et des actions méconnus par les habitants. Il constituait un point de départ important
+pour le partage et la prise en main du sujet lors des ateliers citoyens.
+       Historiquement, Châteauroux Métropole s’est construite autour des énergies fossiles,
+comme de nombreux territoires français. Le déploiement à grande échelle de l’automobile,
+notamment autour de l’autoroute A20 qui traverse une bonne partie du territoire, a permis une
+croissance économique et une périurbanisation qui a engendré une dépendance structurelle aux
+énergies fossiles dont le territoire cherche peu à peu à s’affranchir.
+       Le territoire de l’EPCI est concerné par les effets du changement climatique avec
+notamment des sécheresses récurrentes, mais également des risques naturels majeurs
+(inondations et mouvements de terrain liés à la sécheresse).
+       Le territoire de la communauté d’agglomération fait face à plusieurs enjeux pour réduire
+ses consommations énergétiques :
+         -   la mobilité : 77 % des actifs utilisent la voiture pour les déplacements domicile-
+             travail. Un réseau de transport urbain en bus gratuit a été mis en place depuis 2001 ;
+         -   l’industrie : le territoire compte d’importants sites de production de petite
+             métallurgie et de plastique, plutôt fortement consommateurs d’énergie ;
+         -   le logement : le résidentiel et le tertiaire représentent plus de 40 % de la
+             consommation énergétique du territoire, le parc bâti étant, pour plus de la moitié,
+             antérieure à 1975, date des premières réglementations thermiques.
+       Le territoire ne couvre que 8,9 % de sa consommation par des énergies renouvelables,
+principalement sous forme de chaleur renouvelable. À titre de comparaison, la France affichait,
+en 2016, un taux de 16 % d’énergie renouvelable dans sa consommation. Le bois-énergie
+représente une des premières énergies renouvelables sur le territoire sur lequel on compte
+plusieurs chaufferies professionnelles ou collectives (chaufferies de l’hôpital ou du lycée
+agricole, réseau de chaleur ville du Poinçonnet, etc.).
+
+
+
+5
+  Du fait de leur effectif inférieur à 1000 (la valeur minimale pour considérer un échantillon comme représentatif),
+ces réponses ne peuvent être considérées comme représentatives et devront être interrogées et confirmées sur le
+temps long.
+
+
+
+
+                                                        14
+                    COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+                   Schéma n° 1 : Consommation et production d’énergie sur le territoire
+
+
+
+
+Source : Diagnostic territorial réalisé dans le cadre du projet
+
+
+       Le diagnostic mentionne en outre des données actualisées concernant la production des
+énergies renouvelables (EnR) en 2022 qui atteignait 185 Gwh avec un potentiel de l’ordre de
+149 Gwh supplémentaire grâce notamment à des projets liés au photovoltaïque (ferme solaire
+de la Martinerie), la méthanisation et la géothermie.
+       Face à ce constat de dépendance aux énergies fossile, l’EPCI s’est donné dans le cadre
+de son PCAET les objectifs suivants à l’horizon 2050 :
+
+
+                          Tableau n° 1 : Objectifs chiffrés de la stratégie territoriale
+
+                                      2012         2030            2050                Variation 2050/2012
+
+ Consommation d’énergie (GWh)           2 406        1 811           1 003                    - 58 %
+
+ Émission de gaz à effet de serre
+                                         508          381                 76                  - 85 %
+ (tonnes équivalent CO²)
+                                                                                                x 15
+ Production des énergies
+                                             93       590            1 380     100 % de la consommation couverte par
+ renouvelables (GWh) dont :
+                                                                                    des énergies renouvelables
+
+ Éolien                                        0   61 à 92        184 à 245                30 à 40 mâts
+
+ Photovoltaïque                                3      245              640                    x 250
+
+ Géothermie                                    7          77           185                     x 28
+
+ Bois-énergie                                83       152              259                      x3
+
+Source : Plan climat air énergie territorial
+
+
+
+
+                                                          15
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        L’enquête menée auprès de la population montre une préférence pour les solutions
+intégrées aux bâtiments comme la géothermie (69 %) ou le solaire sur toiture (67 %). Le
+chauffage au bois, la méthanisation et le solaire au sol arrivent ensuite. L’éolien, qui présente
+le potentiel le plus important (1 300 GWh/an selon le diagnostic) est le moins bien perçu. La
+présence de nombreux parcs éoliens dans les territoires voisins peut être facteur d’explication
+de ce rejet.
+        L’acceptabilité des projets d’énergies renouvelables repose sur des conditions
+essentielles comme la protection de la biodiversité, de la qualité de l’air, ainsi que la
+préservation des paysages et du patrimoine.
+        Le diagnostic identifie enfin plusieurs acteurs associatifs ou institutionnels préexistants
+tels que l’association pour le maintien de l’agriculture paysanne (AMAP) Berry, l’association
+« Château’roule » ou le syndicat départemental d’énergies de l’Indre (SDEI), potentiels appuis
+pour l’EPCI dans le déroulement du projet.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        Châteauroux Métropole a participé à compter de fin 2022 au projet
+« LIFE_LETsGO4Climate », coordonné par la région Centre-Val de Loire, dans le cadre du
+programme européen LIFE, unique instrument financier de l’Union européenne dédié à
+l’environnement et au climat.
+       La     participation   de     la   communauté       d’agglomération      au    projet
+« LIFE_LETsGO4Climate » visait à compléter ses actions en faveur de la transition
+énergétique, en accélération depuis 2021, structurée autour de la sobriété énergétique et du
+développement des énergies renouvelables.
+       Dans cette optique, l’EPCI s’appuie sur des outils institutionnels tels que la société
+« Châteauroux Métropole Énergies » récemment créée ou le PCAET dans lequel il s’est fixé
+des objectifs d’augmentation de production d’énergie renouvelable et de diminution de ses
+émissions de gaz à effet de serre à horizon 2050.
+       Deux chargés de mission se sont succédé pour la mise en œuvre et le suivi opérationnel
+du projet « LIFE_LETsGO4Climate », dans lequel les élus se sont engagés plus fortement au
+lancement que durant la phase opérationnelle.
+
+
+
+
+                                                16
+                        COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+2 UN COÛT MODIQUE MAIS DES RÉSULTATS CONTRASTÉS
+
+
+2.1 Des objectifs partiellement atteints
+
+       L’annexe 2 à l’accord de partenariat signé en février 2023 fixait les obligations
+respectives des parties pour les différentes phases du projet.
+        Le séminaire d’intégration tenu le 27 janvier 2023 a, selon la communauté
+d’agglomération, facilité l’entrée dans le programme. La chambre relève qu’alors que deux
+participants étaient requis, seule la chargée de mission développement durable y a participé.
+        Vingt-sept participants, pour un objectif de quarante, ont bénéficié d’une formation à la
+transition énergétique organisée le 4 avril 2023. Le programme de cette journée, défini par le
+consortium6 regroupant la région Centre-Val de Loire et ses douze partenaires, s’articulait
+autour de la définition de la transition énergétique, d’animations thématiques et d’ateliers
+animés par Énergie partagée, GRDF, l’ADEME et Enedis. La communauté d’agglomération a
+indiqué ne pas disposer des supports pédagogiques de cette formation qui a d’après elle permis
+une approche thématique des changements possibles, en collectif comme en individuel.
+         Conformément à l’objectif fixé dans l’accord de partenariat, quatre personnes (deux
+agents, deux habitants) du territoire ont bénéficié de la formation « Co-construire pour engager
+durablement : l’intelligence collective au service des territoires » les 14, 15 juin et
+4 juillet 2023.
+       Châteauroux Métropole avait également en charge, en lien avec la région, l’ADEME et
+Énergie partagée le recrutement d’un panel de cent habitants, représentant au mieux le territoire
+(sexe, âge, lieu de vie, situation professionnelle, etc.) ainsi que la déclinaison du volet
+opérationnel du projet. Ce dernier comprenait un spectacle visant à sensibiliser le public par
+une action artistique, un cycle d’ateliers citoyens et la mise en place de conversations carbone.
+       Afin de susciter la participation citoyenne, la chargée de mission a tenu de nombreuses
+réunions de présentation (conseil de développement du pays Castelroussin Val de l’Indre,
+conseils municipaux des communes, conseils de grand quartier, visites d’associations).
+         La communauté d’agglomération a mis en place un plan de communication dédié :
+         -   des outils de communication imprimés fournis par la région (kakémono, 90 affiches
+             40x60, 30 affiches 120x74, 500 flyers, ainsi qu’un panneau d’information générique
+             sur le projet) ;
+         -   envoi de deux mille courriers individuels à des foyers tirés au sort, financé par la
+             région ;
+         -   communication via le magazine ChtxMetropole, les réseaux sociaux, la presse
+             locale ;
+         -   impression de quelques affiches relatives aux conversation carbone, à la charge de
+             la communauté d’agglomération.
+
+
+
+6
+ Un consortium est un groupement d'acteurs indépendants (entreprises, organisations) qui collaborent pour un
+objectif commun en mutualisant leurs ressources, tout en restant juridiquement autonomes.
+
+
+
+
+                                                    17
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                     Schéma n° 2 : Calendrier des événements organisés en 2023
+                            sur le territoire de Châteauroux Métropole
+
+
+
+
+Source : Châteauroux Métropole
+
+
+       Trois visites avaient été proposées dans le cadre de l’atelier n° 3 permettant d’illustrer
+concrètement le projet.
+        -   un gîte équipé de panneaux photovoltaïques, d’un chauffe-eau thermodynamique et
+            de géothermie eau/eau à Vatan ;
+        -   la chaufferie biomasse du quartier Beaulieu à Châteauroux ;
+        -   un méthaniseur à Villers les Ormes.
+        La communauté d’agglomération avait fait le choix d’organiser l’ensemble du cycle
+d’ateliers dans différents quartiers de la ville centre. Si ce choix a pu, sur d’autres territoires,
+favoriser la participation citoyenne à l’ensemble des ateliers, il n’en a pas été de même pour
+Châteauroux Métropole où la participation a été faible au regard de la densité de population.
+       Le président de la communauté d’agglomération déplore ce manque d’intérêt des
+citoyens, relevé sur d’autres événements. Il constate que les collectivités doivent développer de
+plus en plus une démarche « d’aller vers » afin d’impliquer les citoyens. Le partage
+d’expériences concrètes lui parait plus efficace que des ateliers de réflexion collective.
+        Un rapport d’évaluation portant sur les ateliers permet de vérifier le profil socio-
+géographique des participants par rapport aux objectifs fixés dans l’accord de partenariat. Ce
+document permet également d'analyser la participation au fil du cycle d’ateliers, d'évaluer le
+niveau de satisfaction et de mesurer l'évolution de la compréhension des enjeux et de
+l’appropriation citoyenne de la transition énergétique. Selon ce document, le spectacle n'a pas
+favorisé l'inscription dans les ateliers prévus par le dispositif, seul un participant aux ateliers
+faisant un lien entre sa participation et la représentation théâtrale.
+        Sans que cela soit spécifique à Châteauroux Métropole, certains objectifs n’ont pas été
+atteints.
+
+
+
+
+                                                18
+                    COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+                                Profil des participants aux ateliers
+                           sur le territoire de Châteauroux Métropole
+
+   -   Cinquante-trois personnes ont été mobilisées sur l’ensemble du cycle, soit un peu
+       plus de la moitié de l’objectif de 100 participants.
+   -   Quinze pour cent ont participé à l’ensemble des ateliers.
+   -   Cinquante-cinq pour cent des participants ne sont pas allés au bout du cycle.
+   -   Une participation plus importante aux deux premiers ateliers qui s’est ensuite
+       érodée (34, 39, 20 et 24 participants).
+   -   Les retraités constituent 41 % des participants, les cadres ou professions
+       intellectuelles supérieures et intermédiaires 29 %. Ces deux catégories sont
+       surreprésentées par rapport à leur poids dans la population.
+   -   Les personnes âgées de moins de 65 ans représentent 75 % des participants (objectif
+       50 %), les jeunes (moins de 25 ans) sont sous-représentés (3 %).
+   -   Quatre-vingt-trois pour cent des participants habitent Châteauroux, certaines
+       communes du territoire n’ont aucun habitant représenté.
+   -   Seuls 39 % des participants estiment avoir acquis de nouvelles connaissances sur la
+       transition énergétique.
+   -   Quarante-six pour cent des participants expriment le souhait de s’investir avec
+       certitude suite aux ateliers.
+
+        Les participants ayant assisté à plusieurs ateliers ont mentionné comme principales
+sources de motivation les apports en information, les témoignages et visites, les échanges avec
+les autres participants et le souhait de s’investir en fin de cycle.
+        En avril 2024, l’EPCI a organisé un atelier supplémentaire afin de maintenir le lien entre
+les différents collectifs et faire émerger des collaborations possibles.
+       La dernière étape de la phase de sensibilisation du public consistait en l’organisation de
+conversations carbone. Selon l’accord de partenariat, il était prévu le recrutement de quatre
+binômes, soit huit facilitateurs, chargés d’animer des cycles pour six à dix participants.
+        Sur ce point, Châteauroux Métropole a atteint les objectifs fixés. Afin de ne pas rendre
+confuse la communication sur les différents dispositifs du projet, l’EPCI avait choisi d’orienter
+la communication sur les conversations carbone vers les acteurs économiques du territoire.
+Différentes structures et entreprises se sont ainsi vues proposer d’organiser des cycles dans
+leurs équipes.
+       Les dix animateurs formés en janvier 2024 présentent des profils variés :
+   -   quatre agents de Châteauroux Métropole ;
+   -   deux cadres de direction de la chambre de commerce et d’industrie de l’Indre ;
+   -   trois cadres supérieurs (dirigeant d’usine, chef d’entreprise, entrepreneur) ;
+   -   un citoyen retraité.
+       Deux autres animatrices, collaboratrices d’une entreprise locale, ont pu également se
+former début 2025.
+       Les cinq premiers binômes ont mené, au cours du premier semestre 2024, un cycle
+complet de conversations carbone. Pour clore cette initiative, la communauté d’agglomération
+a organisé, le 8 octobre 2024, une rencontre réunissant l’ensemble des trente-six participants.
+
+
+
+
+                                               19
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Cet événement avait pour objectif de favoriser l’émergence d’une dynamique locale en matière
+de transition écologique.
+        Un groupe d’élus et d’agents a réalisé un cycle en 2025. La communauté
+d’agglomération considère que cette sensibilisation des élus notamment sur les questions de
+leur empreinte carbone personnelle a renforcé sans aucun doute leur conviction et leur souhait
+de faire avancer le territoire sur ces questions.
+       Enfin, un autre binôme a réalisé un deuxième cycle en 2025 et a relancé un troisième
+cycle en janvier 2026.
+        Comme l’ensemble des territoires du lot 2, Châteauroux Métropole a bénéficié des outils
+développés par le consortium regroupant la région Centre-Val de Loire et ses douze partenaires
+dès sa sélection, puis tout au long de l’animation (calendrier de mise en œuvre, contenu des
+ateliers, photos, vidéos, supports de communication, modèles de mailings ou de courriers, etc.).
+Les outils numériques étaient téléchargeables via le cloud dédié, sécurisé par mot de passe.
+         La région avait mis en place des comités techniques mensuels avec tous les référents du
+lot 2 et mis à disposition un kit opérationnel standardisé, comprenant les outils nécessaires à la
+mise en œuvre du plan de communication et à l'organisation des événements. Ce dispositif clé
+en main a contribué à homogénéiser les pratiques entre territoires et à alléger la charge
+d'ingénierie pesant sur les collectivités partenaires. Une fois les ateliers réalisés, la région a
+proposé des points mensuels individuels pour accompagner Châteauroux Métropole dans le
+suivi des collectifs.
+         Des échanges entre les référents des lots 1 et 2 ont par ailleurs été organisés, notamment
+dans le cadre des rencontres du réseau territoires engagés pour le climat (TEC) animées par
+l'ADEME, favorisant ainsi la diffusion des bonnes pratiques et les retours d'expérience entre
+territoires.
+        La communauté d’agglomération indique avoir contribué aux diverses évaluations
+réalisées par la région Centre-Val de Loire même si elle n’a pu participer au séminaire organisé
+le 9 septembre 2025. Elle a répondu aux questionnaires et relayé les différentes enquêtes de
+satisfaction auprès des élus, des habitants et des facilitateurs et participants aux conversations
+carbone.
+       Elle ne dispose pas d’une évaluation individuelle du programme mais s’appuie sur
+l’étude d’évaluation embarquée des ateliers ou le rapport de la deuxième phase réalisé en
+octobre 2024, qui commentent dans le détail certains résultats locaux.
+        Châteauroux Métropole souligne que le temps investi par le territoire a été important sur
+la période avril 2023 à avril 2024, et qu’il est resté relativement difficile de « recruter »
+localement, notamment pour les ateliers citoyens et les cycles de conversations carbone. Elle a
+néanmoins identifié et constitué un vivier d’habitants sensibles à ces questions, qu’elle indique
+avoir informés et sollicités pour de nouveaux projets à la suite des ateliers.
+       Selon l’EPCI, la communication pourrait être travaillée plus étroitement en
+collaboration avec la région. Un plan de communication le plus transversal et disruptif possible
+devrait être réalisé par les territoires souhaitant répliquer le dispositif, afin de recruter des
+habitants de tous profils.
+
+
+
+
+                                                20
+                        COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+2.2 Des dépenses représentant moins d’un tiers de la subvention notifiée
+
+         Les territoires partenaires composant le premier lot participaient à la définition des
+actions et à la création des outils. Le coût agent consacré à la coordination et l’animation
+territoriale était de ce fait éligible à la subvention européenne.
+         Il en va différemment pour les dix territoires bénéficiaires (lots 2 et 3), pour lesquels
+l’accord de partenariat énumérait limitativement les modalités d’utilisation de la subvention
+(locations de salle, déplacements, frais de réception, actions de communication). Si des
+plafonds de dépenses ou coûts forfaitaires (0,53 €/km pour les déplacements) étaient indiqués,
+les territoires avaient la possibilité, en cas d’économie réalisée sur l’une des dépenses, d’utiliser
+la somme pour une autre dépense prévue au plan de financement dans la limite de la subvention
+allouée.
+       Comme l’ensemble des territoires des lots 2 et 3, Châteauroux Métropole a bénéficié
+d’une subvention forfaitaire de 8 333 €7.
+       Un acompte de 4 166,50 € a été versé au démarrage du projet le 5 avril 2023. Le coût
+global effectif du projet ayant été de 2 629,88 €, l’EPCI a remboursé le trop-perçu via une
+annulation sur titre de recettes à hauteur de 1 536,62 € le 15 décembre 2025.
+
+
+              Tableau n° 2 : Détail des dépenses pour le territoire de Châteauroux Métropole
+
+      Dates des factures   Montants (en €)                                    Objet
+    12 juin 2023                   451           Journées de formation à la transition énergétique - repas 4 avril 2023
+    17 octobre 2023                631                                                Atelier 1 - repas 2 octobre 2023
+
+    06 novembre 2023               541                                              Atelier 2 - repas 6 novembre 2023
+
+    20 janvier 2024                 60                                                         Conversations carbone
+
+    25 janvier 2024                129                                         Atelier 3 - collation 18 novembre 2023
+
+    02 février 2024                541                                              Atelier 4 - repas 4 décembre 2023
+
+    06 mai 2025                    275                                                  Atelier 5 - repas 15 avril 2014
+
+    Total                        2 630
+
+Source : CRC Centre-Val de Loire d’après les données de Châteauroux Métropole
+
+
+         Les dépenses étaient liées à l’organisation du spectacle et des ateliers et n’ont porté que
+sur des frais de bouche, les salles étant mises à disposition à titre gratuit. La communauté
+d’agglomération a fait appel pour les repas à l’unité de production culinaire de la ville de
+Châteauroux. Les coûts constatés ont été de 9,02 € TTC par repas pour 2023 (9,19 € TTC pour
+l’atelier 5, tarifs 2024).
+
+
+
+
+7
+  Une enveloppe de 100 000 € avait été constituée par la région Centre-Val de Loire pour les territoires des lots 2
+et 3, dont le nombre total envisagé initialement était de 12.
+
+
+
+
+                                                       21
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La communauté d’agglomération indique avoir réalisé quelques affiches relatives aux
+conversations carbone sans inclure ces dépenses dans le bilan financier présenté à la région.
+Elle n’a pas non plus fait valoir de dépenses liées à des déplacements.
+         Le suivi administratif et financier a été réalisé par la région Centre-Val de Loire qui a
+fait l’interface avec l’Union européenne avec laquelle Châteauroux Métropole n’a jamais été
+en contact.
+        Les coûts-agents consacrés à la mise en œuvre du projet n’étant pas éligibles à la
+subvention européenne, l’EPCI n’a pas valorisé le temps de travail des agents concernés dont
+il souligne qu’il a été supérieur à ce qui était envisagé initialement.
+       La chambre invite la communauté d’agglomération à documenter de façon plus précise
+les dépenses de masse salariale liées aux projets auxquels elle participe, qu’elles soient ou non
+susceptibles de remboursement.
+
+
+
+2.3 Une pérennité incertaine à l’issue du projet
+
+               À l’issue du cycle d’ateliers, cinq collectifs étaient identifiés sur le territoire.
+
+
+                                     Tableau n° 3 : Cinq collectifs citoyens identifiés
+
+    Production /
+                         Type                     Nom du groupe                         Objectif / ambition du groupe
+      Sobriété
+                                                                                 Collectif souhaitant lancer des projets
+                                        Sensibilisation des participants à la    d’envergure, en particulier un projet de
+    Production           EnR           problématique énergétique à l'échelle     panneaux photovoltaïque au sol de 20
+                                                       locale                    mégawatts « crète »8 (20 hectares sur friche)
+                                                                                 en créant un groupement
+                     Consommation             Tiers-lieu multi acteurs           Création d’un « repair café »
+                                                                                Une journée sans voiture pour promouvoir les
+                                                                                mobilités douces et les associations (projet
+                        Mobilité                   Journée verte
+                                                                                porté par la communauté d’agglomération
+    Sobriété                                                                    avec des bénévoles du LIFE)
+                                      Échange de pratiques et mise en relation Intervenir dans le projet alimentaire de
+                      Alimentation     avec des collectifs existants et retours territoire (PAT), sensibiliser sur la résilience
+                                             d'expérience entre pairs.          alimentaire
+                       Logement                          nc                      nc
+
+Source : Rapport d’évaluation des ateliers
+
+
+        Châteauroux Métropole indique avoir continué à mobiliser, informer et solliciter les
+participants aux différents dispositifs du projet « LIFE_LETsGO4Climate » pour poursuivre
+les actions engagées.
+
+
+8
+  La puissance « crête » d'une installation solaire photovoltaïque, aussi appelée puissance « nominale », désigne la
+puissance maximale que celle-ci peut délivrer au réseau électrique. Une installation d’une centrale photovoltaïque
+au sol d’1 MWc (soit 106 Wc), nécessitant environ 1 hectare, peut produire jusqu’à 1 200 MWh par an, soit
+l’équivalent de la consommation électrique d’environ 250 foyers.
+
+
+
+
+                                                                22
+                        COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+         En 2024, la chargée de mission a réalisé un accompagnement de proximité pour les
+collectifs qui avaient émergé des ateliers citoyens. Elle leur a facilité l’accès à des locaux pour
+se rencontrer, fournir des informations sur d’autres initiatives du territoire sur leurs projets.
+Toutefois comme beaucoup d’entre eux ont ensuite été mis en pause par les citoyens
+participants, le suivi s’est espacé. Ils ont continué à être informés par courriel des actualités du
+territoire en matière de transition écologique et énergétique.
+       Début 2026, les résultats sont décevants puisqu’un seul des collectifs a donné lieu à une
+action concrète (la journée sans voiture). Les autres collectifs demeurent à un stade
+embryonnaire et ne se traduisent pas encore par des actions opérationnelles.
+       Le collectif EnR s'est progressivement élargi au cours de l'exercice 2024 par l'adhésion
+de citoyens non participants aux ateliers initiaux. Il a bénéficié d'un accompagnement externe
+d’« Énergie Partagée », en vue de structurer son projet et d'en définir les contours.
+      Cette démarche a abouti, fin 2024, à la création d'une association dénommée « Énergies
+renouvelables et solidaires en Berry ». Toutefois, à la date de rédaction du présent rapport,
+aucun projet opérationnel ni événement public n'a été arrêté. La phase opérationnelle reste à
+engager.
+        S’agissant des aspects sobriété, un collectif a poursuivi ses travaux pour la création d'un
+« repair café » tout au long de l'exercice 2024, avec la participation de la ligue de
+l'enseignement, qui en a assuré l'animation. Néanmoins, à nouveau, aucun projet concret n'a été
+formalisé à ce jour.
+        Le collectif dédié à l'alimentation a conduit, sur l'exercice 2024, des investigations en
+vue d'identifier un site propice à l'implantation d'un verger collectif. Ces démarches n'ont pas
+abouti à l'identification d'un foncier disponible ni à la mise en œuvre d'un projet concret.
+       Le collectif dédié au logement a engagé, au premier semestre 2024, des recherches
+préliminaires en vue d'organiser une exposition sur les matériaux biosourcés. Ces travaux
+n'ont pas été menés à leur terme. Deux des trois membres du groupe ont par ailleurs exercé
+des fonctions de facilitateurs dans le cadre du dispositif des conversations carbone.
+         S’agissant de l’aspect mobilité, les travaux collectifs ont permis de renforcer l'action de
+l'association préexistante « Chateau'roule », consolidant ainsi des initiatives déjà engagées sur
+le territoire. Une proposition concernant l'organisation d'une journée sans voiture, formulée par
+des élèves de terminale lors des ateliers, s’est concrétisée le 21 septembre 20259, dans le cadre
+de la semaine européenne des mobilités.
+       Une nouvelle édition de cet événement est prévue en 2026. Cette action s’inscrit dans
+le cadre du programme AVELO3 de l’ADEME, auquel l’agglomération participe, ce qui a
+permis son cofinancement.
+        La communauté d’agglomération dresse un bilan globalement positif de sa
+participation au projet, puisqu’il a permis de mettre en place un programme « clé en main »
+d’événements et d’initiatives qui viennent contribuer à son engagement en matière de
+transition écologique à moindres frais. Elle a néanmoins tourné la page du projet
+« LIFE_LETsGO4Climate », sur lequel son site internet ne contient plus d’informations, pour
+
+
+9
+  Une première édition organisée le 22 septembre 2024 a été annulée en raison de conditions météorologiques
+défavorables.
+
+
+
+
+                                                    23
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+se consacrer à d’autres projets. La chambre rappelle qu’en cas de contrôle ultérieur
+notamment par la commission ou la Cour des comptes européennes, la communauté
+d’agglomération devra fournir l’ensemble des documents, y compris de communication,
+relatifs au projet.
+       En 2025, Châteauroux Métropole a décidé d’entrer dans le programme « territoires
+engagés pour la transition écologique » (TETE) de l’ADEME. Ce programme national, déjà
+suivi par de nombreuses collectivités, permet d’être accompagné par un conseiller spécialisé
+sur une durée de quatre ans, qui contrôle et oriente l’avancée des actions pour la transition
+écologique.
+      La réflexion concerne tous les domaines du quotidien : les modes de déplacement, le
+logement, la préservation des écosystèmes, la production, l’alimentation, la consommation.
+        La démarche se décompose en plusieurs phases jusqu’en 2029 et l’obtention de la
+labellisation « TETE ». Après l’état des lieux des actions déjà en place suivront, tout au long
+des quatre années, des ateliers de réflexion réunissant les élus, les habitants, des chefs
+d’entreprise et l’ensemble des acteurs territoriaux.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       Plusieurs collectifs citoyens ont été créés à l’issue des ateliers, mais demeurent à un
+stade embryonnaire, sans traduction opérationnelle à ce jour.
+       Le coût de la participation de la communauté d’agglomération à ce projet, hors les
+charges de personnel, non éligibles à la subvention, a été modique. Cette dernière n’a été
+consommée qu’à hauteur d’un tiers du montant attribué, exclusivement pour des dépenses de
+restauration liées à l’organisation des ateliers. Ce montant modique illustre la dissémination
+des projets financés par le programme LIFE. Les dépenses ont fait l’objet de contrôles par la
+région Centre-Val de Loire conformément aux dispositions de l’accord de partenariat.
+      La mobilisation de la communauté d’agglomération se poursuit par l’adhésion au
+programme « territoires engagés pour la transition écologique », coordonné par l’ADEME.
+____________________________________________________________________________
+
+
+
+
+                                              24
+                    COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+                                                      ANNEXES
+
+Annexe n° 1. Procédure .................................................................................................. 26
+Annexe n° 2. Liste des abréviations ............................................................................... 27
+Annexe n° 3. Réponse ..................................................................................................... 28
+
+
+
+
+                                                                25
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     Annexe n° 1. Procédure
+
+
+Le tableau ci-dessous retrace les différentes étapes de la procédure telles qu’elles ont été
+définies par le code des juridictions financières (articles L. 243-1 à L. 243-6) :
+
+
+
+                                                                              Dates de réception
+Objet                        Dates                   Destinataire               des réponses
+                                                                                 éventuelles
+
+Envoi de la lettre      20 février 2026
+                                           M. Gil Averous, ordonnateur en
+d’ouverture de              reçue le
+                                           fonction
+contrôle                25 février 2026
+
+
+Entretien de fin de
+                         21 avril 2026     M. Gil Avérous
+contrôle
+
+
+Délibéré de la
+                          13 mai 2026
+chambre
+
+Envoi du rapport          3 juin 2026
+d’observations               reçu le       M. Gil Avérous                        26 juin 2026
+provisoires (ROP)         4 juin 2026
+
+Délibéré de la
+                         23 juillet 2026
+chambre
+
+Envoi du rapport         31 juillet 2026
+d’observations               reçu le       M. Gil Avérous                      7 septembre 2026
+définitives (ROD1)         même jour
+
+
+
+
+                                                26
+                    COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+                        Annexe n° 2. Liste des abréviations
+
+  Sigle                                            Libellé
+
+ADEME      Agence de l'environnement et de la maîtrise de l'énergie
+
+CA         Communauté d’agglomération
+
+CAF        Capacité d’autofinancement
+
+CGCT       Code général des collectivités territoriales
+           Agence exécutive européenne pour le climat, les infrastructures et
+CINEA
+           l’environnement
+COT ENR    Contrat d’objectifs territorial de développement des énergies renouvelables
+
+CRTE       Contrat régional de transition écologique
+
+ENR        Énergie renouvelable
+
+ENRR       Énergie renouvelable et de récupération
+
+EPCI       Établissement public de coopération intercommunale
+
+GWH        Gigawatt-heure
+
+INSEE      Institut national de la statistique et des études économiques
+
+MWC        Mégawatts « crête »
+
+PCAET      Plan climat air énergie territorial
+
+PETR       Pôle d’équilibre territorial et rural
+
+PLUI       Plan local d’urbanisme intercommunal
+
+PPRI       Plan de prévention des risques d’inondation
+
+SCOT       Schéma de cohérence territoriale
+
+SDEI       Syndicat mixte d’électricité de l’Indre
+           Schéma régional d’aménagement, de développement durable et d’égalité des
+SRADDET
+           territoires
+
+
+
+
+                                            27
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                           Annexe n° 3. Réponse
+
+
+
+
+                                     28
+        COMMUNAUTÉ D’AGGLOMÉRATION CHÂTEAUROUX MÉTROPOLE
+                 CLIQUEZ OU APPUYEZ ICI POUR ENTRER DU TEXTE.
+
+
+
+
+CLIQUEZ OU APPUYEZ ICI POUR
+          ENTRER DU TEXTE.
+
+
+
+
+    Chambre régionale des comptes Centre-Val de Loire
+                      15 rue d'Escures
+                       45000 Orléans
+                    Tél. : 02 38 78 96 00
+              centrevaldeloire@crtc.ccomptes.fr
+       https://www.ccomptes.fr/fr/crc-centre-val-de-loire
+
+
+
+
+                             29
+
