@@ -1,0 +1,2923 @@
+TITRE: La gestion des fonds européens par la Région Occitanie (Haute-Garonne)
+PAGE: https://www.ccomptes.fr/fr/publications/la-gestion-des-fonds-europeens-par-la-region-occitanie-haute-garonne
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/OCR2026-31.pdf
+
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+                    ET SA REPONSE
+
+
+
+         LA GESTION DES FONDS
+      EUROPÉENS PAR LA RÉGION
+                    OCCITANIE
+
+                              (Département Haute-Garonne)
+                                                                 Exercices 2020 et suivants
+
+
+
+
+ 500, avenue des États du Languedoc ◼ CS 70755 ◼ 34064 MONTPELLIER CEDEX 2 ◼ T +33 4 67 20 73 00 ◼
+                                 occitanie-greffe@crtc.ccomptes.fr
+                          LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+                                AVANT-PROPOS
+
+       Le présent rapport d’observations définitives, une fois délibéré, est adressé aux
+représentants légaux des collectivités ou organismes contrôlés afin qu’ils apportent, s’ils le
+souhaitent, une réponse qui a vocation à l’accompagner lorsqu’il sera rendu public. C’est un
+document confidentiel réservé aux seuls destinataires, qui conserve un caractère confidentiel
+jusqu’à l’achèvement de la procédure contradictoire. Sa divulgation est donc interdite,
+conformément à l’article L. 241-4 du code des juridictions financières.
+
+
+
+
+                                              2
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                      TABLE DES MATIÈRES
+
+SYNTHÈSE...................................................................................................................... 6
+RECOMMANDATIONS ................................................................................................ 8
+INTRODUCTION ........................................................................................................... 9
+     1 LA REGION OCCITANIE A MODIFIE SON ORGANISATION ET
+       ACCRU SES MOYENS POUR LA GESTION DES FONDS EUROPEENS ..... 10
+        1.1 Une prise de compétence dans un cadre institutionnel national et
+            réglementaire européen évolutif ....................................................................... 10
+        1.2 Une gestion devant concilier la succession et la diversité des
+            programmations ................................................................................................ 13
+            1.2.1 Une enveloppe annuelle en progression .................................................. 13
+            1.2.2 Une programmation 2021-2027 du FEDER-FSE+ marquée par un
+                  recentrage des objectifs fixés par l’Union européenne ........................... 16
+        1.3 Une responsabilité renforcée de la Région ....................................................... 19
+            1.3.1 Un cadre de gestion et de contrôle exigeant ............................................ 19
+            1.3.2 Une organisation respectant la séparation des fonctions ......................... 20
+            1.3.3 Des vérifications de gestion désormais simplifiées................................. 21
+        1.4 Une augmentation des moyens dédiés.............................................................. 22
+        1.5 Le rôle important des services instructeurs dans le processus de décision ...... 23
+            1.5.1 Un comité de programmation, instance formelle .................................... 23
+            1.5.2 Une multiplicité de critères de sélection ................................................. 24
+            1.5.3 Une absence de critères géographiques sauf exception .......................... 25
+     2 L’ACTION DE LA REGION GUIDEE PAR LA RECHERCHE D’UNE
+       UTILISATION MAXIMALE DES FONDS EUROPEENS ................................. 26
+        2.1 Une programmation pilotée pour favoriser la consommation des fonds.......... 26
+            2.1.1 Le FEADER ............................................................................................ 26
+            2.1.2 Une sur-programmation et des taux de financement variables pour
+                  le FEDER-FSE ........................................................................................ 27
+            2.1.3 Une amélioration des délais d’instruction et de paiement....................... 28
+        2.2 Une information disparate pour le citoyen sur l’exécution des fonds .............. 29
+        2.3 Des projets structurants pour la Région financés par des fonds FEDER-
+            FSE 30
+        2.4 La répartition territoriale du FEDER-FSE reflète des priorités
+            sectorielles et la capacité de mobilisation des acteurs locaux .......................... 31
+        2.5 Une mesure de la performance pilotée par les coûts unitaires et les
+            moyens.............................................................................................................. 35
+            2.5.1 Des objectifs en matière d’inclusion sociale ajustés en fonction du
+                  coût .......................................................................................................... 36
+            2.5.2 Des objectifs de soutien à l’activité économique ajustés ........................ 37
+
+
+
+
+                                                                     3
+                                          LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+             2.5.3 Des objectifs environnementaux en diminution et les incidences
+                   négatives des projets soutenus insuffisamment mesurés......................... 38
+                2.5.3.1 Une diminution de l’enveloppe financière allouée pour la rénovation
+                        énergétique ............................................................................................................. 38
+                2.5.3.2 Une insuffisante mesure des impacts négatifs sur l’environnement ....................... 39
+        2.6 Une chaîne de contrôles à compléter sur la pérennité des investissements...... 41
+            2.6.1 Un processus de contrôle interne très formalisé, à achever pour le
+                  FEADER ................................................................................................. 41
+            2.6.2 Un ensemble de contrôles ayant permis d’écarter des dépenses
+                  inéligibles et des irrégularités financières, mais n’ayant jamais
+                  révélé de fraude à ce jour ........................................................................ 42
+            2.6.3 Un contrôle de la pérennité des investissements tout juste entamé......... 43
+        2.7 L’évaluation de l’impact des fonds européens ................................................. 44
+
+ANNEXES ...................................................................................................................... 47
+        Annexe n° 1. Convention de répartition des champs d’intervention du FSE+ ...... 48
+        Annexe n° 2. Comparaison des objectifs des deux anciennes régions
+           Languedoc-Roussillon pour les programmes opérationnels et les plans de
+           développement rural ......................................................................................... 49
+        Annexe n° 3. Systèmes d’information utilisés par la Région Occitanie ................ 54
+        Annexe n° 4. Réalisation des programmes............................................................. 55
+        Annexe n° 5. La fraude et le conflit d’intérêt ......................................................... 58
+
+
+
+
+                                                                            4
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     5
+                            LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+                                       SYNTHÈSE
+
+       La chambre régionale des comptes Occitanie a contrôlé l’action de la Région dans sa
+gestion des fonds européens à partir de 2020 jusqu’à la période la plus récente.
+     Les fonds européens comme instruments des politiques de l’Union européenne
+        Les fonds européens financent des projets qui répondent aux besoins locaux tout en
+s’inscrivant dans les politiques et les objectifs de l’Union européenne et le principe de solidarité
+interrégional entre les États membres (cohésion économique, sociale et territoriale, affaires
+maritimes et pêche, développement rural, migrations et affaires intérieures). Tous les sept ans,
+l’Union européenne révise sa stratégie d’attribution en priorisant, depuis 2020, la concentration
+des aides sur ses principaux objectifs thématiques de préférence à une répartition territoriale.
+       Par leur intermédiaire et dans le cadre des objectifs européens, la Région Occitanie
+finance à l’échelle de son territoire des projets privés ou publics qui recoupent ses domaines de
+compétence.
+        C’est ainsi que des projets très divers en bénéficient , tels que par exemple, le soutien à
+l’accompagnement et la reprise d’entreprises, les écoles régionales de la deuxième chance, le
+diplôme d’accès aux études universitaires, les investissements de modernisation des élevages,
+les investissements en faveur d’une gestion qualitative de l’eau, l’aide au démarrage des
+agriculteurs, les maisons de santé, la mise à disposition d’un ordinateur portable aux élèves de
+seconde, la réhabilitation des thermes de Luchon.
+
+
+               La Région Occitanie a accru fortement les moyens consacrés à la gestion des
+               fonds européens
+
+       La Région Occitanie est devenue autorité de gestion des fonds européens à partir de
+2015, dans le cadre d’une nouvelle étape de la décentralisation instaurée par la loi de
+modernisation de l’action publique territoriale et d’affirmation des métropoles. Elle est ainsi
+chargée du fonds européen de développement régional (FEDER) destiné à la correction des
+principaux déséquilibres régionaux, du fonds social européen (FSE), du fonds européen
+agricole pour le développement rural (FEADER), et, par délégation de l’État, du fonds européen
+pour les affaires maritimes, de la pêche et de l’aquaculture (FEAMPA).
+       Cette reconnaissance est intervenue conjointement avec la fusion des deux anciennes
+régions Languedoc-Roussillon et Midi-Pyrénées. Aussi, la Région Occitanie a suivi l’exécution
+des précédentes programmations sur leur ancien périmètre de façon séparée, tout en préparant
+la programmation 2021-2027. Cette période a en outre été marquée par la crise sanitaire liée à
+la pandémie et le plan de relance initié par la Commission européenne, qui a impacté à la hausse
+les enveloppes des fonds.
+       Pour assumer son rôle d’autorité de gestion, la Région a mis en place des moyens accrus,
+afin de combler notamment l’insuffisance des postes transférés par 1’État pour la gestion du
+FEADER. Elle ne dispose pas cependant d’une connaissance exhaustive de ses coûts de gestion
+et devrait affiner leur suivi.
+
+
+
+
+                                                 6
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+               Un pilotage de la programmation qui vise à maximiser la consommation des
+               fonds
+
+        Le montant des fonds européens transitant par la Région est passé de 4,2 Md€ pour
+2014-2020 à 1,3 Md€ pour 2021-2027 du fait notamment d’une recentralisation vers l’État
+d’une partie des aides du FEADER. À périmètre de gestion identique, et en moyenne annuelle,
+les fonds gérés par la Région ont progressé de 6%, passant de 198 M€ à 211 M€.
+       La programmation du FEDER-FSE est pilotée et modifiée progressivement afin de
+maximiser l’utilisation des fonds. Cela a pu conduire la Région à modifier les taux de
+financement ou à retenir des projets comportant les plus gros volumes financiers.
+        Les compétences de la Région Occitanie recouvrent une grande partie des champs
+d’intervention du FEDER-FSE (formation professionnelle, développement économique,
+transports, aménagement du territoire). De ce fait, elle en est la principale bénéficiaire,
+percevant plus de 35% de l’enveloppe. Elle n’est toutefois intervenue, pour certains de ces
+projets, que comme co-financeur dans le cadre d’outils d’ingénierie financière.
+         En ce qui concerne la programmation 2021-2027, la répartition des aides reflète la
+concentration thématique voulue par la commission européenne. Seule la priorité 5 du FEDER-
+FSE+ et le programme LEADER donnent lieu à une allocation d’enveloppes financières par
+territoire. De ce fait, des disparités sont reproduites entre territoires même si celles-ci sont aussi
+fortement liées à la capacité des acteurs locaux à se mobiliser. L’établissement d’une
+cartographie des aides permettrait d’approfondir la connaissance de l’impact territorial des
+financements européens
+
+
+               Une insuffisante mesure des résultats des aides apportées dans les territoires
+
+        Le processus de contrôle (règles d’éligibilité, règles de la commande publique, contrôle
+des seuils financiers, service fait, visites sur place) mis en place par la Région est rigoureux. Il
+devrait néanmoins dépasser la logique de vérification formelle. Les mesures de contrôle de la
+pérennité des investissements subventionnés commencent à être développés.
+       L’efficacité des dispositifs mis en place n’est pas assez vérifiée. La Région ne cherche
+pas suffisamment à en mesurer les effets et à en évaluer les impacts, en particulier
+environnementaux.
+
+
+
+
+                                                  7
+                         LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+                         RECOMMANDATIONS
+
+
+Recommandation n° 1. Identifier précisément le coût de gestion des fonds européens (non
+mise en œuvre).
+
+Recommandation n° 2. Établir et publier une cartographie des aides selon les territoires
+représentant les principaux projets soutenus (non mise en œuvre).
+
+Recommandation n° 3. Compléter des impacts négatifs sur l’environnement les indicateurs de
+suivi des projets soutenus (non mise en œuvre).
+
+
+
+
+                                            8
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                 INTRODUCTION
+
+        Aux termes de l’article L. 211-3 du code des juridictions financières, « par ses contrôles,
+la chambre régionale des comptes contrôle les comptes et procède à un examen de la gestion.
+Elle vérifie sur pièces et sur place la régularité des recettes et dépenses décrites dans les
+comptabilités des organismes relevant de sa compétence. Elle s’assure de l’emploi régulier des
+crédits, fonds et valeurs. L’examen de la gestion porte sur la régularité des actes de gestion,
+sur l’économie des moyens mis en œuvre et sur l’évaluation des résultats atteints par rapport
+aux objectifs fixés par l’assemblée délibérante ou par l’organe délibérant. L’opportunité de ces
+objectifs ne peut faire l’objet d’observations ».
+        Le contrôle des comptes et de la gestion de la région Occitanie, à partir de 2020 jusqu’à
+la période la plus récente, a été ouvert le 11 décembre 2024 par lettre de la présidente de la
+chambre régionale des comptes Occitanie, adressée à Madame Carole Delga, seule ordonnatrice
+en fonctions au cours de la période sous revue.
+        L’entretien prévu par l’article L. 243-1 du code des juridictions financières a eu lieu le
+7 octobre 2025 avec les représentants désignés par Madame Carole Delga, soit
+Madame Nadia Pellefigue, vice-présidente en charge de l’enseignement supérieur, la recherche,
+l’Europe et les relations internationales, et Monsieur Vincent Labarthe, vice-président en charge
+de l’agriculture et l’enseignement agricole.
+        Lors de sa séance du 25 novembre 2025, la chambre a arrêté les observations provisoires
+qui ont été transmises à Madame Carole Delga.
+       Après avoir examiné la réponse reçue et entendu les personnes qui avaient sollicité une
+audition, la chambre, dans sa séance du 24 avril 2026, a arrêté les observations définitives
+présentées ci-après.
+
+
+
+
+                                                9
+                                LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+1 LA REGION OCCITANIE A MODIFIE SON ORGANISATION
+  ET ACCRU SES MOYENS POUR LA GESTION DES FONDS
+  EUROPEENS
+
+
+1.1 Une prise de compétence dans un cadre institutionnel national et
+    réglementaire européen évolutif
+
+        Conformément au traité sur le fonctionnement de l’Union européenne, dans un souci de
+renforcer sa cohésion économique, sociale et territoriale, l’Union vise à réduire l’écart entre les
+niveaux de développement des diverses régions, accordant une attention particulière aux zones
+rurales, aux zones en transition industrielle et aux régions qui souffrent de handicaps naturels
+ou démographiques graves et permanents1. Son cadre financier pluriannuel prévoit plusieurs
+dispositifs de soutien des états membres pour les accompagner dans les différentes politiques
+de cohésion économique, sociale et territoriale, de la pêche, du développement rural ainsi que
+dans le cadre de la politique agricole commune.
+        Ainsi, sont mis à disposition par l’intermédiaire de programmations pluriannuelles
+successives de sept années, des fonds et des instruments financiers spécifiques, dont ceux
+participant à la politique de cohésion territoriale appelés fonds structurels et d’investissement
+(FESI)2. Parmi ceux-ci, bénéficient au territoire de la Région Occitanie le fonds européen de
+développement régional (FEDER) destiné à la correction des principaux déséquilibres
+régionaux (à ce titre la région Occitanie est considérée comme une région en transition3), le
+fonds social européen (FSE désormais devenu FSE+4) destiné à favoriser l’insertion et la
+qualification professionnelle, le fonds européen agricole pour le développement rural
+(FEADER)5, et le fonds européen pour les affaires maritimes, de la pêche et de l’aquaculture
+(FEAMPA).
+      Pour la mise en place des fonds, l’Union européenne s’appuie sur les États membres,
+qui peuvent en déléguer la gestion à des organismes intermédiaires, ou en transférer la
+compétence à d’autres autorités de gestion habilitées auprès de la Commission européenne.
+        C’est ainsi qu’à la suite de la loi MAPTAM du 27 janvier 2014, les Régions françaises
+ont vu leur rôle évoluer, passant d’un rôle d’organismes intermédiaires pour la mise en œuvre
+de ces fonds à un rôle d’autorité de gestion. Cette évolution correspondait à une attente de leur
+
+
+1
+  Articles 174 et 175 du traité sur le fonctionnement de l’Union européenne.
+2
+  D’autres fonds participent à la mise en place des différentes politiques européennes, Fonds européen agricole de
+garantie (FEAGA ex-FEOGA), programmes sectoriels divers, programmes pour les migrations, programmes pour
+la sécurité et la défense, programmes pour l’action extérieure.
+3
+  Lors de la programmation antérieure, les deux anciennes régions n’avaient pas le même statut, seule Languedoc-
+Roussillon était considérée comme une région en transition.
+4
+  Dans la dernière programmation le FSE+ fusionne le Fonds social européen (FSE), le Fonds européen d’aide aux
+plus démunis (FEAD), l’Initiative pour l’emploi des jeunes (IEJ), le programme pour l’emploi et l’innovation
+sociale.
+5
+  Inscrit dans les fonds européens structurels et d’investissement (FESI) lors de la programmation précédente le
+FEADER constitue désormais le deuxième pilier de la politique agricole commune pour la programmation 2023-
+2027 qui fait l’objet d’une règlementation spécifique (UE) 2021/2115, (UE) 2021/2116 ainsi que (UE)2024/1468
+notamment. Le Fonds européen agricole de garantie (FEAGA) constitue le premier pilier.
+
+
+
+
+                                                       10
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+part pour pouvoir mettre en œuvre des politiques au plus proche de leurs compétences,
+notamment le développement économique, la formation ou encore l’aménagement du territoire
+et le développement des mobilités. La longue négociation entre l’État et les Régions,
+notamment pour le transfert des moyens6, a retardé de fait le début de l’exécution de la
+programmation.
+
+
+                                          L’autorité de gestion
+        Chaque programme est piloté par une autorité de gestion désignée par le Premier
+ministre après avis de l’autorité d’audit. Elle est financièrement et juridiquement responsable
+du programme, veille à la régularité et à la réalisation des projets financés, sélectionne les
+projets, s’assure de la performance du programme. Une autorité de gestion peut être un
+ministère, une région, un département ou tout autre organisme public reconnu comme tel. Dans
+le cadre de la gestion partagée, la Commission européenne a un droit de regard sur la mise en
+œuvre des programmes qu’elle négocie et qu’elle suit.
+                                      L’organisme intermédiaire
+        L’autorité de gestion peut déléguer l’exécution d’une partie de son programme ou de
+certaines tâches à un ou plusieurs organismes intermédiaires dans le cadre d’une convention.
+                                            L’autorité d’audit
+         L’autorité d’audit fait en sorte que les contrôles du bon fonctionnement du système de
+gestion et de contrôle du programme opérationnel soient réalisés sur un échantillon approprié
+d’opérations, sur la base des dépenses déclarées. En France, l’autorité d’audit est l’Autorité
+nationale d’Audit des Fonds européens (AnAFe) précédemment nommée Commission
+interministérielle de coordination des contrôles (CICC). L’autorité d’audit, conformément à
+l’article 71 du règlement portant sur les dispositions communes, est chargée de réaliser trois
+types d’audits : de systèmes, des opérations et des comptes.
+
+
+        Le rôle et la place des Régions sont par ailleurs différents en fonction de la nature des
+politiques soutenues, le contenu et la composition des fonds, leur niveau de décentralisation,
+évoluant lui-même au fil des programmations (2014-2020, 2021-2027 ou 2023-2027 pour le
+FEADER).
+       Ainsi, pour le FEADER, l’État exerce un rôle d’encadrement national et d’instruction
+d’une grande partie des dossiers et conserve des moyens de gestion, les Régions étant chargées
+de la mise en œuvre du développement rural, à travers des programmes régionaux (PDR) lors
+de la période 2014-2020, étendue à titre transitoire jusqu’en 2022. Depuis 2023, les
+programmes de développement rural sont remplacés par un plan stratégique national (PSN). La
+Région en tant qu’autorité de gestion régionale (AGR) est en charge des aides dîtes « non
+surfaciques » (aide aux investissements, aide à l’installation des jeunes agriculteurs,
+
+
+
+
+6
+  Ce constat a été fait par la Cour des comptes dans son rapport de communication à la commission des finances,
+de l’économie générale et du contrôle budgétaire de l’Assemblée nationale en avril 2019 « bilan du transfert aux
+régions de la gestion des fonds européens structurels et d’investissement ». La Cour évoque des modalités de
+transfert inadaptées et mal anticipées, sources de retard.
+
+
+
+
+                                                      11
+                               LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+coopération, innovation) du PSN, l’État conservant la gestion des aides liées à la surface
+agricole7. La Région intervient également par délégation de l’État pour le FEAMPA.
+
+
+    Schéma n° 1 : Rôles respectifs de l’Europe, l’État et la Région Occitanie, programmation 2021-2027
+
+
+
+
+Source : Région Occitanie
+
+
+
+
+7
+   Indemnité compensatoire du handicap naturel, conversion à l’agriculture biologique,         mesures
+agroenvironnementales et climatiques surfaciques, gestion des risques, prédation.
+
+
+
+
+                                                   12
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+         La décentralisation a été plus aboutie pour le FEDER et le FSE. La Région assure ainsi
+pleinement la fonction d’autorité de gestion pour le FEDER. Par contre, suite à la décision du
+Premier ministre du 27 juin 2019 et à la décision du Comité État-Régions Interfonds du
+22 janvier 2020, le FSE+ est mis en œuvre de manière partagée entre l’État et les Régions.
+L’État conserve, en effet, la maîtrise des crédits FSE relatifs à la politique de l’emploi, les
+départements bénéficiant (par délégation, en tant qu’organismes intermédiaires) des crédits
+consacrés à l’insertion. Un accord régional, signé le 21 mars 2022 entre la présidente du conseil
+régional Occitanie et le préfet de région, a précisé les champs d’intervention respectifs du FSE+,
+au titre du volet déconcentré « Occitanie » du Programme national FSE+ 2021-2027 d’une part,
+et du Programme Régional FEDER-FSE+ 2021-2027 d’autre part, notamment pour les
+compétences pouvant être partagées (cf. annexe 1).
+        Ainsi, pour l’emploi la Région Occitanie est compétente pour le soutien à l’économie
+sociale et solidaire (ESS), tandis qu’il revient à l’État les actions de mise en œuvre de la gestion
+prévisionnelle de l’emploi et des compétences territoriales.
+        Pour la formation et l’éducation, l’État prévient et lutte contre le décrochage scolaire
+dans l’enseignement secondaire et universitaire, soutient l’apprentissage et la formation en
+alternance et la mobilité des apprentis et salariés en alternance, tandis que la Région est
+compétente pour les actions dites de raccrochage. Ce terme regroupe la réussite éducative et
+l’insertion professionnelle des jeunes ayant quitté le système éducatif par des parcours
+d’accompagnement renforcés : écoles de la deuxième chance, dispositif nouvelles chances ou
+écoles de la transition écologique (ETRE).
+         Pour l’inclusion sociale, un accord cadre national prévoit que la Région peut être
+sollicitée dans le domaine de la santé. Toutefois, le thème n’a pas été retenu dans l’accord
+régional alors que la Région Occitanie soutient pourtant des actions à ce titre par l’intermédiaire
+du dispositif LEADER8 (FEADER) et du FEDER.
+
+
+
+1.2 Une gestion devant concilier la succession et la diversité des
+    programmations
+
+
+1.2.1 Une enveloppe annuelle en progression
+
+       Les fonds européens reçus par la France sont globalement en progression. Les fonds
+européens structurels et d’investissement (FESI), qui intégraient alors le FEADER,
+représentaient une enveloppe initiale de 27 Md€ pour la France pour la programmation
+2014-20209. S’y sont ajoutés une enveloppe complémentaire au titre du plan de relance de
+3,9 Md€ pour le FEDER-FSE et une enveloppe complémentaire de 5,8 Md€ pour le FEADER
+dans une période dite de transition au titre des années 2021-2022, portant ainsi le montant total
+à 36,6 Md€ pour les 9 années d’exécution. Pour la programmation en cours, d’une durée
+
+
+
+8
+ Liaisons entre actions de développement de l’économie rurale (LEADER).
+9
+ Soit 8,4 Md€ pour le FEDER, 5,5 Md€ pour le FSE, 0,6 Md€ pour le FEAMPA et 1,1 Md€ au titre des fonds de
+coopération interrégionaux.
+
+
+
+
+                                                   13
+                             LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+d’exécution prévue plus courte 5 ou 7 ans selon les fonds, l’enveloppe nationale est de
+30,8 Md€, soit une moyenne annuelle progressant de 21% passant de 4,12 Md€ à 4,97 Md€.
+
+
+                         Tableau n° 1 : Montants alloués à la France en Md€
+
+                                                                      Programmation
+                                              Programmation 2014-
+                                                                        2021-2027
+                                                 2020 et plan de
+                         Fonds                                     (FEDER-FSE) (7 ans)
+                                                  relance 21-22
+                                                                        2023-2027
+                                               (9 ans d’exécution)
+                                                                     (FEADER) (5 ans)
+             FEADER                                             11,4                      10
+             Complément 21-22 FEADER                             5,8
+             Total FEADER                                       17,2                       10
+                       Moyenne annuelle                         1,91                        2
+             FEDER                                               8,4                      9,1
+             REACT EU FEDER                                      2,6
+             FSE                                                 5,5                      6,7
+             REACT-EU FSE                                        1,2
+                       Moyenne annuelle                         1,97                     2,26
+             FEAMPA                                              0,6                      0,6
+             Interreg                                            1,1                      3,2
+             Fonds transition juste                                                       1,2
+                       Moyenne annuelle                         0,24                     0,71
+             Total                                              36,6                     30,8
+                       Moyenne annuelle                         4,12                     4,97
+Source : Europe en France – FESI et FEADER dans cadre de la politique agricole commune
+
+
+       Du fait de la reprise par l’État de la majorité des crédits du FEADER, le montant des
+fonds transitant par les comptes de la Région Occitanie passe de 4,2 Md€ à 1,3 Md€. Cette
+diminution faciale de l’enveloppe de la Région masque en réalité une progression de 6% des
+fonds gérés directement par elle, qui passent de 198 M€ à 211 M€.
+
+
+
+
+                                                  14
+   RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                          Tableau n° 2 : Enveloppes gérées par la Région Occitanie
+
+                                                                                Programmation 2021-2027
+                                          Programmation 2014-2020 intégrant     (7 années d’exécution pour
+                Fonds
+                                             le plan de relance 2021-2022        le FEDER-FSE+ et 5 années
+                                                 (9 années d’exécution)               pour le FEADER)
+            Ensemble de la période de
+                                           920,64 (dont REACT- EU : 198,94)              666,05
+ FEDER           programmation
+                    Moyenne annuelle                     102,29                           95,15
+            Ensemble de la période de
+                                                196,75 (Dont IEJ 24,62)                  163,63
+   FSE           programmation
+                    Moyenne annuelle                     21,86                            23,38
+FEDER-FSE           Moyenne annuelle                     124,15                          118,53
+            Ensemble de la période de
+                                                         2 976,27
+                 programmation                                                             449
+             dont cadre national non
+                                                         2 340,62
+ FEADER         géré par la Région
+             dont hors cadre national                    635,65                            449
+               Moyenne annuelle hors
+                                                          70,63                           89,8
+                        cadre national
+            Ensemble de la période de
+                                                          24,92                           15,82
+ FEAMP           programmation
+               Moyenne annuelle                           3,56                            2,26
+            Ensemble de la période de
+                                                         4 158,58
+                 programmation                                                          1 294,50
+  Total
+             Moyenne annuelle hors
+            cadre national du FEADER                     198,34                          210,59
+   Source : Europe en Occitanie
+
+
+           La programmation 2014-2020 n’était pas encore totalement achevée en 2025, certains
+   dossiers pouvant donner lieu à paiement jusqu’à fin 2025. La programmation 2021-2027
+   pourrait être bouleversée par la définition de nouvelles priorités de l’Union européenne à
+   enveloppe financière identique au sein d’une programmation FEDER-FSE + prenant en compte
+   plus largement des enjeux de défense (REARM-EU), ce qui obligerait à modifier des choix
+   déjà arrêtés. Cette modification du programme FEDER-FSE+ sera soumise à la commission
+   européenne en 2026. Par ailleurs, le prochain cadre financier pluriannuel (CFP) 2028-2034 du
+   budget de l’Union européenne est susceptible de regrouper des politiques européennes, voire
+   de renationaliser certains dispositifs, ce qui pourrait avoir une conséquence sur les modalités et
+   les choix de gestion des fonds et donc sur le mode d’organisation de la Région Occitanie.
+           Enfin, la prise de compétence de la Région comme autorité de gestion s’est conjuguée
+   avec la fusion des régions Languedoc-Roussillon et Midi-Pyrénées décidée par la loi
+   MAPTAM. La Commission européenne a demandé aux Régions françaises se trouvant dans
+   cette situation de suivre les programmes de manière séparée, sans les refondre. La Région
+   Occitanie a ainsi suivi l’exécution des programmes opérationnels Languedoc-Roussillon (PO
+   LR) et Midi-Pyrénées (PO MIPY), ainsi que les programmes de développement rural
+   Languedoc-Roussillon et Midi-Pyrénées, le programme interrégional Pyrénées (POI P), ce qui
+
+
+
+
+                                                    15
+                                LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+a été source de complexité, chaque partie de territoire retenant des objectifs thématiques ou
+priorités pouvant être voisins sans être parfaitement identiques (cf. annexe n°2).
+
+
+1.2.2 Une programmation 2021-2027 du FEDER-FSE+ marquée par un recentrage
+      des objectifs fixés par l’Union européenne
+
+        Dans le cadre de la programmation 2021-2027, l’Union européenne a souhaité simplifier
+et réduire le nombre de ses objectifs stratégiques10, et posé la règle dite de la concentration
+thématique qui s’impose aux autorités de gestion. Ainsi selon l’article 4 du règlement relatif au
+FEDER11 la Région Occitanie doit allouer au moins 40% de ses ressources FEDER à l’objectif
+112 et au moins 30% à l’objectif 213.
+        La Région Occitanie a en conséquence déterminé les priorités de sa programmation dans
+le respect de ces exigences, conservant cependant une latitude dans le choix de ses priorités ou
+sous-priorités dès lors qu’ils s’inscrivent dans les objectifs de l’Union européenne. Elle a ainsi
+priorisé le rééquilibrage territorial répondant à l’objectif stratégique 5 du FEDER. En allouant
+à cette priorité 134 M€, elle serait, selon la réponse apportée, la première région française en
+termes de dotation sur cet objectif.
+         La Région Occitanie a arrêté sa programmation pour un montant total de 801 M€, hors
+crédits d’assistance technique prévus pour 28 M€.
+
+
+
+
+10
+   Précédemment appelés objectifs thématiques.
+11
+   Règlement (UE) 2021/1058 du parlement européen et du conseil du 24 juin 2021 relatif au Fonds européen de
+développement régional et au fonds de cohésion.
+12
+   Une Europe plus compétitive et plus intelligente par l’encouragement d’une transformation économique
+innovante et intelligente et de la connectivité régionale aux technologies de l’information et de la communication.
+13
+   Une Europe plus verte, résiliente et à faibles émissions de carbone évoluant vers une économie à zéro émission
+nette de carbone, par la promotion d’une transition énergétique propre et équitable, des investissements verts et
+bleus, de l’économie circulaire, de l’atténuation du changement climatique et de l’adaptation à celui-ci, de la
+prévention et de la gestion des risques, et d’une mobilité urbaine durable.
+
+
+
+
+                                                       16
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                Tableau n° 3 : Priorités de la programmation FEDER/FSE+ 2021-2027
+
+                                                                                                       % du
+                              Intitulé                          Sous-priorités             Montant
+                                                                                                      FEDER
+ Priorité 1     Soutenir la relance économique
+                                                          Recherche et innovation
+ (Objectif      et encourager la transformation
+                                                                Numérique                    303 M€   47%
+ stratégique    vers une économie intelligente
+                                                           Compétitivité des PME
+ 1, FEDER)                et innovante
+                                                            Efficacité énergétique
+                                                           Énergies renouvelables
+ Priorité 2
+                 Agir face à l’urgence climatique          Systèmes énergétiques
+ (Objectif
+                      et pour une économie                        intelligents               186 M€   29%
+ stratégique
+                           décarbonée                      Prévention des risques
+ 2, FEDER)
+                                                             Économie circulaire
+                                                                  Biodiversité
+ Priorité 3
+                Agir face à l’urgence climatique
+ (Objectif
+                en développant les mobilités             Mobilités douces urbaines            21 M€    3%
+ stratégique
+                douces
+ 2, FEDER)
+ Priorité 5        Promouvoir le rééquibrage
+ (Objectif         territorial en réduisant les
+                                                          Volet urbain/ Volet rural          134 M€   21%
+ stratégique      disparités et en valorisant les
+ 5, FEDER)                  ressources
+                                         Total FEDER                                         644 M€   100%
+                                                       Accès au marché de travail des
+                                                                        DE
+                                                            Efficacité des systèmes
+ Priorité 4
+                   Former et accompagner pour            d’éducation et de formation
+ (Objectif
+                     favoriser le parcours vers        Égalité d’accès à la formation et     157 M€    SO
+ stratégique
+                 l’emploi et la création d’activité               à l’éducation
+ 4, FSE)
+                                                        Acquisition des compétences
+                                                             tout au long de la vie
+
+                                                       Total hors assistance technique       801 M€    SO
+Source : Site Europe en Occitanie
+
+
+        Au titre du FEADER, pour la programmation 2023-2027, la Région Occitanie a décidé
+de retenir 10 thématiques du programme stratégique national. Le dispositif Leader, qui participe
+également au rééquilibrage territorial, représente 16% de la maquette du FEADER en Occitanie.
+Selon la Région, cette proportion serait seulement de 5% au niveau national.
+
+
+
+
+                                                         17
+                             LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+   Tableau n° 4 : Répartition des crédits FEADER régionaux pour la programmation 2023-2027
+
+                                 Thématique                            Enveloppe
+      Exploitations agricoles et transition agroécologique                      155,57
+
+      Dotations à l'installation -renouvellement des générations                 63,75
+      Entreprises agroalimentaires et forestières                                42,19
+      Hydraulique                                                                32,50
+      Forêt                                                                      13,00
+      Formation, diffusion des connaissances, innovation                         11,40
+      Coopération                                                                12,65
+      Mesures agroenvironnementales, API, PRM et gardiennage                     17,30
+      Biodiversité                                                               18,30
+      LEADER                                                                     73,46
+      Assistance technique                                                        8,87
+      Total                                                                     448,98
+     Source : Site Europe en Occitanie
+
+
+       Ces crédits seront répartis par l’intermédiaire de 24 dispositifs régionaux, certaines
+interventions, comme l’ingénierie financière, ayant vocation à couvrir plusieurs thématiques.
+
+
+
+
+                                                 18
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                  Tableau n° 5 : Dispositifs régionaux pour la période 2023-2027
+
+     Domaine d’intervention                                 Dispositifs FEADER
+                                     Investissements productifs dans les exploitations
+     Exploitations agricoles et      Conseil agriculture durable
+     transition agroécologique       Mesures agro-environnementales et climatiques (MAEC),
+                                     transition des pratiques
+                                 MAEC protection des races menacées
+                                 MAEC Apicole
+ Mesures agroenvironnementales
+                                 MAEC Aides au gardiennage des troupeaux sur les territoires
+                                 pastoraux hors zone de prédation
+                                 Aide à l'installation des jeunes agriculteurs
+           Installation
+                                 Aide à l'intallation des nouveaux agriculteurs (plus de 40 ans)
+ Entreprises agroalimentaires et Soutien aux entreprises agroalimentaires
+           forestières           Soutien aux entreprises de travaux forestiers
+      Ingénierie financière      FOSTER
+                                 Renouvellement des peuplements - volet économique
+                                 Renouvellement des peuplements -volet environnemental
+              Forêt
+                                 Desserte
+                                 Défense des forêts contre les incendies (DFCI)
+                                     Soutien aux infrastructures hydrauliques dans un objectif de
+                                     gestion durable de la ressource en eau en réponse au
+                                     changement climatique - volet individuel
+           Hydraulique
+                                     Soutien aux infrastructures hydrauliques dans un objectif de
+                                     gestion durable de la ressource en eau en réponse au
+                                     changement climatique - volet collectif
+                                     Partenariat européen pour l'innovation
+     Formation, diffusion des
+                                     Accès à la formation
+    connaissances, innovation
+                                     Échanges d'information et diffusion des connaissances
+                                     Coopération pour la promotion et le développement des
+           Coopération               signes officiels qualité
+                                     Ingénierie territoriale des dynamiques économiques locales
+           Biodiversité              Préservation du patrimoine naturel dans les sites Natura 2000
+             LEADER                  LEADER
+     Source : Site Europe en Occitanie
+
+
+
+
+1.3 Une responsabilité renforcée de la Région
+
+
+1.3.1 Un cadre de gestion et de contrôle exigeant
+
+      Un cadre exigeant est fixé aux autorités de gestion habilitées. L’enjeu est important, un
+dégagement d’office des aides non versées et des corrections financières pour des aides
+
+
+
+
+                                                 19
+                               LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+irrégulières versées sont prévues par le droit de l’Union européenne. La Région Occitanie ne
+s’est trouvée dans une situation de dégagement d’office14 qu’une seule fois au titre du
+programme interrégional Pyrénées pour une montant de 127 K€. La Commission européenne,
+interrogée, porte effectivement, une appréciation favorable sur son action en tant qu’autorité de
+gestion.
+         La Région a la responsabilité de la gestion du programme, mais aussi de la sélection des
+opérations qui sont présentées au comité régional de programmation interfonds (CRPI). À ce
+titre, elle élabore et applique les procédures et les critères de sélection des projets, mesure la
+réalisation des objectifs et l’atteinte des résultats des opérations soutenues aux moyens
+d’indicateurs. Elle prépare les travaux du comité régional de suivi (CRSI), élabore et présente
+les rapports annuels de mise en œuvre du programme, met en place les procédures de traçabilité
+des opérations, vérifie la capacité administrative, financière et opérationnelle du porteur de
+projet, vérifie le respect du droit applicable à l’opération.
+        Cela suppose de disposer d’un système d’enregistrement et de stockage des données
+relatives à chaque opération permettant le suivi, l’évaluation, la gestion financière, la réponse
+aux audits, et capable le cas échéant de fournir les données sur les différents participants
+bénéficiaires des actions soutenues. Cela nécessite également de disposer d’un système de
+contrôle interne et de gestion des risques. La Région Occitanie utilise pour ce faire plusieurs
+systèmes d’information (cf. annexe 3 du présent rapport).
+       Elle doit, également, mettre en œuvre une stratégie de communication des programmes
+dont elle est chargée, organiser des visites sur place, conserver les documents relatifs aux
+dépenses et audits requis, mettre en place des mesures antifraudes.
+        Lors de son habilitation, la Région doit apporter la démonstration que l’ensemble de ses
+procédures permettent de s’assurer du respect de ces exigences. Cela nécessite une approbation
+par l’autorité d’audit nationale, approbation qui est indispensable à la déclaration de dépenses
+auprès de la Commission européenne15.
+
+
+1.3.2 Une organisation respectant la séparation des fonctions
+
+        La Région Occitanie s’est organisée afin de distinguer les fonctions de pilotage,
+d’animation, de communication, de gestion des risques, de contrôle interne et les fonctions
+d’instruction et de gestion des opérations. Depuis la programmation 2021-2027, elle doit
+également justifier, auprès de l’Union Européenne, la séparation des fonctions d’instruction et
+de contrôle du service fait ou de contrôle sur place. Par ailleurs, concernant le FEDER-FSE,
+elle intègre désormais, dans son organisation, une fonction comptable qui certifie les comptes
+avant demande de paiement alors que ce rôle de certification était auparavant assuré par la
+direction régionale ou départementale des finances publiques.
+
+
+
+
+14
+   Le dégagement d’office est effectué par la Commission européenne lorsque des crédits prévus dans l’enveloppe
+initiale ne sont pas consommés à la date limite d’engagement prévue par le règlement.
+15
+   L’autorité d’audit approuve un descriptif du système de gestion et de contrôle (DSGC). Ce dernier a été
+harmonisé en 2018 sur le périmètre de la nouvelle région. Pour le FEADER ce document est en cours de validation
+progressive.
+
+
+
+
+                                                      20
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Deux directions de la Région jouent un rôle d’animation, de pilotage et de coordination
+de programmation, d’une part, la direction de l’agriculture, de l’alimentation, du tourisme et
+l’économie rurale (DAATER) pour le FEADER et d’autre part, la direction Europe et Action
+Internationale (DEAI) pour le FEDER-FSE, cette dernière direction assurant aussi une mission
+de coordination inter-fonds. Elles partagent l’instruction et la gestion des opérations avec
+d’autres directions de la Région.
+       L’animation et l’instruction sont confiées à des personnes différentes, pour chacun des
+dispositifs. La région pouvant être également bénéficiaire de l’aide européenne dans le cadre
+du FEDER-FSE, une séparation stricte des fonctions, prévue par la Commission européenne,
+est organisée et formalisée entre le service en charge de l’instruction du dossier et le service
+bénéficiaire de l’aide, visant à éviter les risques de conflit d’intérêt 16. Cette séparation inclut
+également les missions de supervision.
+
+
+1.3.3 Des vérifications de gestion désormais simplifiées
+
+       La Région procède à plusieurs contrôles tout au long du circuit de la demande d’aide.
+Ce travail de vérification et contrôle a été assoupli afin de gagner en efficience.
+       Le contrôle du service fait est effectué pour les demandes d’acomptes ou pour le
+versement du solde et consiste à vérifier, en cours ou en fin de de réalisation, la conformité de
+l’opération programmée, que les dépenses éligibles soient acquittées et justifiées, que
+l’opération ne soit pas surfinancée, et que les indicateurs de résultat soient justifiés. Le respect
+des règles de marchés publics, de publicité et d’aides d’État est également vérifié, tout comme
+la matérialité de l’ensemble des cofinancements publics nationaux. Des visites sur place
+peuvent, le cas échéant, être effectuées et sont le plus souvent réalisées pendant le déroulement
+de l'opération, et de façon plus exceptionnelle à sa clôture. Pour le FEADER, la chambre
+constate que l’AnAFe qui participe à l’audit externe est aussi impliqué dans l’audit interne 17.
+        Dans le cadre de la nouvelle programmation, la Commission européenne a souhaité une
+simplification des vérifications administratives. C’est ainsi qu’à compter de juillet 2025,
+l’autorité de gestion conditionne le niveau de certification de service fait à la production d’une
+cartographie des risques. Ces vérifications basées sur les risques sont entrées en application le
+1er janvier 2026. De même, l’intégration de la fonction comptable au sein de l’autorité de
+gestion s’inscrit dans une logique d’allègement des contrôles et des coûts afférents. Par ailleurs,
+une logique de coûts simplifiés est développée permettant l’application d’un taux forfaitaire à
+certaines catégories de dépenses, dispensant ainsi de la production de justificatifs.
+
+
+
+
+16
+   Ainsi, le service gestion des Programmes (SGP) de la DEAI instruit et suit les dossiers en maîtrise d’ouvrage
+Région, alors que les directions opérationnelles bénéficiaires sont en charge de formaliser l’aide européenne, de
+réaliser l’opération conformément à l’acte attributif, d’effectuer la demande de paiement.
+17
+   Les services instructeurs sont en charge des visites sur place et du contrôle administratif de premier niveau.
+L’Inspection Générale des Services (IGS-OGR), assure le contrôle de second niveau assisté par une unité de
+contrôle sur place dont le directeur est aussi le responsable régional de l’AnAFe.
+
+
+
+
+                                                       21
+                                    LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+     1.4 Une augmentation des moyens dédiés
+
+             Parallèlement au suivi de l’exécution des programmations antérieures, la Région a dû
+     préparer la programmation 2021-2027, dans le cadre de priorités repensées par l’Union
+     européenne et dans le cadre d’un système de gestion et de contrôle renforcé par de nouvelles
+     règles.
+             La montée en puissance de la Région comme autorité de gestion, les négociations liées
+     à la nouvelle programmation, la réorientation de la programmation pour intégrer les mesures de
+     lutte contre les conséquences de la crise sanitaire, des exigences renforcées en matière de
+     contrôle de la commande publique, la volonté de maximiser les taux d’exécution, se sont
+     traduites par un accroissement continu de ses effectifs dédiés à la gestion des fonds européens.
+            C’est ainsi qu’entre 2020 et 2024, le nombre d’équivalents temps plein travaillés dédiés
+     est passé de 133 à 249. Plus de la moitié de ces effectifs concerne la gestion du FEADER,
+     notamment pour compenser l’insuffisance des emplois transférés par l’État.
+
+
+                        Tableau n° 6 : Moyens consacrés à la gestion des fonds européens
+
+                      2020            2021             2022           2023            2024
+ Type de fonds Effectifs En M€ Effectifs En M€ Effectifs En M€ Effectifs En M€ Effectifs En M€
+FEADER            45,04     2,22  54,85     2,75  65,93     3,40  85,56     4,62 132,83    6,89
+FEAM/FEAMPA         3,2     0,17   3,45     0,19   3,69     0,21   4,68     0,28   4,85    0,29
+FEDER/FSE         84,61     4,68  98,28     5,41 108,71     6,14 110,69     6,38 110,98    6,55
+Total           132,85      7,08 156,58     8,35 178,33     9,75 200,93    11,27 248,66 13,73
+Dont contrats
+de projets                           40              47              64              85
+     Source : Région Occitanie – Effectifs évalués en équivalent temps plein rémunéré annuel proratisé à la quotité
+     d’activité consacrée à la gestion des fonds européens
+
+
+             Les effectifs de l’État concernés étaient au nombre de 75,7 ETP en 2014-2015 (source
+     SGAR). Début 2023, l’État et la Région ont signé une convention de mise à disposition à titre
+     gratuit des services de l’État chargés de la gestion du FEADER au titre de la programmation
+     débutant en 2023. Cette convention identifiait 69 équivalents temps plein affectés à ces
+     missions, mais seuls 59 ont finalement été mis à disposition. La Région Occitanie a donc
+     procédé à des recrutements complémentaires sur des emplois permanents. Le constat de
+     l’insuffisance des emplois transférés par l’État a été documenté par le rapport de la Cour des
+     comptes d’avril 201918.
+              Pour absorber les pics d’activité, la Région Occitanie recrute des contrats de projets.
+     Créé par la loi du 6 août 2019 de transformation de la fonction publique, le contrat de projet
+     instaure de la souplesse dans la gestion des ressources humaines en permettant des recrutements
+     liés à la durée du projet. Ils sont renouvelables une fois et leur durée maximale est de six ans.
+
+
+
+     18
+        Cour des comptes « bilan du transfert aux régions de la gestion des fonds européens structurels et
+     d’investissement » rapport d’avril 2019 transmis à la commission des finances de l’Assemblée nationale.
+
+
+
+
+                                                          22
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Dans la pratique, ce mode de recrutement a conduit la Région Occitanie à créer des
+postes de chargés de projet pour chaque programmation et dispositif, qui se sont juxtaposés du
+fait du retard pris dans l’exécution. Ainsi, le nombre de contrats de projets n’a fait que
+s’accroître, passant de 40 en 2021 à 85 en 2025. La Région envisage néanmoins leur réduction
+à partir de 2026, compte tenu de la fin de l’exécution de la précédente programmation, soit une
+diminution qui pourrait être de l’ordre de 24 ETPT selon les simulations.
+        Seul le total des dépenses de rémunération rapporté à celui de la masse des fonds
+européens gérés peut être estimé, il oscille entre 3 % et 7 %. La Région n’intègre pas, dans la
+nomenclature, l’ensemble des dépenses support (informatique, gestion). Il est ainsi impossible
+de comparer le montant des crédits d’assistance technique reçus, estimé par la chambre à 11 M€
+par an en moyenne, au coût de gestion réellement supporté. Le regroupement des dépenses et
+recettes relatives à la gestion des fonds européens au sein d’un budget annexe serait une voie,
+parmi d’autres, pour en assurer un suivi.
+       Pour anticiper de nouvelles modalités de gestion des fonds qui résulterait de l’adoption
+du futur cadre financier pluriannuel de l’Union européenne et aider à sa réorganisation, la
+Région devrait mettre en place un suivi analytique précis du coût de gestion des fonds
+européens.
+
+
+ Recommandation n° 1. Identifier précisément le coût de gestion des fonds européens
+ (non mise en œuvre).
+
+
+
+1.5 Le rôle important des services instructeurs dans le processus de
+    décision
+
+
+1.5.1 Un comité de programmation, instance formelle
+
+       Le Comité régional de programmation inter-fonds (CRPI) est l’instance de validation
+des projets et de la programmation. Il est présidé par la Présidente du Conseil régional
+d’Occitanie qui en fixe la composition19.
+        Son avis est obligatoire et consultatif pour toutes les demandes d’aides bénéficiant de
+fonds européens. Il examine l’ensemble des demandes de financement et émet un avis qui peut
+être favorable ou défavorable ou demander l’ajournement, la reprogrammation ou la
+déprogrammation. Suite à cet avis, la présidente de la Région signe ensuite les arrêtés
+d’attribution des subventions, les rejets de demande voire les déprogrammations.
+       La Région a cessé de réunir physiquement le CRPI pour éviter la lourdeur et le coût de
+l’organisation de telles réunions tous les deux ou trois mois, et la convocation d’une
+
+
+19
+   Celle-ci comprend les représentants de la Région, par l’intermédiaire des direction concernées, les représentants
+des services de l’État ou de ses agences, les présidents des conseils départementaux et des structures sélectionnées
+pour la mise en œuvre des approches territoriales intégrées. La programmation des dossiers LEADER est par
+ailleurs soumise à l’avis des Comités de programmation des groupes d’action local (GAL). De même la priorité 5
+du FEDER-FSE fait l’objet d’un avis de présélection rendu par le comité de pilotage des ATI.
+
+
+
+
+                                                        23
+                                LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+cinquantaine de membres. Ses consultations sont désormais écrites, l’envoi du dossier
+s’effectue par voie électronique via une plateforme et faute de réponse sous 10 jours francs,
+l’avis est réputé favorable. Ce fonctionnement donne peu de place à une confrontation des
+points de vue et à l’instauration d’un véritable débat. Peu d’avis formels sont transmis par ses
+membres, sauf sur les dossiers qui les concernent. Malgré le rôle important conféré de par les
+textes, à l’instance, la valeur ajoutée du CRPI est faible
+       De fait, le travail d’instruction réalisé par les services de la Région, qui éclaire la
+décision du CRPI par un avis argumenté, s’avère prépondérant.
+
+
+1.5.2 Une multiplicité de critères de sélection
+
+        Dans ces conditions, les critères objectifs que se fixe la Région dans la sélection des
+projets, tout comme le travail d’accompagnement, d’information préalable, et de sensibilisation
+des acteurs économiques, s’avèrent importants pour préserver un accès équitable des différents
+porteurs de projets aux aides européennes.
+       La Région, en tant qu’autorité de gestion, doit veiller au respect de critères fixés par
+l’Union européenne20 : en particulier, les opérations sélectionnées doivent présenter le meilleur
+rapport entre le montant du soutien, les activités menées et la réalisation des objectifs, le
+bénéficiaire doit disposer des ressources pour couvrir les frais d’exploitation et d’entretien, une
+évaluation des incidences sur l’environnement doit avoir été prise en compte, les opérations
+doivent entrer dans le champ d’application du fonds concerné, et enfin les investissements
+doivent favoriser la résilience au changement climatique.
+        La Région Occitanie s’est dotée, pour présider à la sélection des projets, de principes
+généraux qui ont été approuvés par le Comité régional de suivi (CRSI) et qui rappellent les
+obligations inscrites dans le règlement de l’Union européenne. Elle y ajoute des principes
+directeurs, des critères de sélection spécifiques à chaque typologie d’actions et des règles de
+gestion. Ces principes généraux sont très nombreux et se combinent les uns aux autres : respect
+des critères d’éligibilité en termes de caractéristiques de l’opération, de conformité au
+programme régional et à ses différentes stratégies, conformité à la réglementation et aux
+principes horizontaux de l’Union, respect du principe d’efficience des ressources, respect du
+principe de pérennité, respect des critères généraux en termes de cohérence générale de
+l’opération, caractère structurant, équilibre du territoire, innovation, environnement, nouveau
+Bauhaus européen21.
+       D’autres instances jouent en amont un rôle de maturation, tels que les contrats de projet
+État-Région ou les contrats de territoire, qui permettent d’identifier certains projets.
+        Les services instructeurs de la Région examinent les dossiers FEDER-FSE au fil de
+l’eau. Ils ont donc un rôle essentiel dans l’animation et le pilotage des pré-projets afin de les
+rendre compatibles avec les multiples critères de sélection et de garantir la qualité des dossiers
+en relation de proximité avec les porteurs de projets. En l’absence d’une vision d’ensemble par
+
+
+
+20
+  Article 73-2 du règlement 2021-60
+21
+  Les projets visent à combiner conception, durabilité, accessibilité, caractère abordable et investissements afin
+de contribuer à la réalisation du pacte vert pour l’Europe.
+
+
+
+
+                                                       24
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+le CRPI, c’est dans cette phase première, que l’égalité d’accès des différents porteurs de projets
+aux aides européennes doit être préservée.
+       Enfin, bien qu’un des principes généraux de sélection consiste à privilégier « les
+opérations intégrant une approche « verte » ou durable, ce principe apparaît comme inopérant
+dans son application, l’instruction des opérations se faisant principalement au fil de l’eau
+comme l’y autorise la règlementation européenne.
+
+
+1.5.3 Une absence de critères géographiques sauf exception
+
+       Les critères définis dans la fiche de procédure de la Région ne répondent pas à une
+logique de zonage par territoire mais au choix de concentration thématique imposé par la
+Commission européenne.
+       Quelques modes d’action reposent, cependant, sur une vision territoriale spécifique.
+        Par exemple, le dispositif LEADER (Liaisons entre Actions de Développement de
+l’Économie Rurale), dans le cadre du FEADER, confie des enveloppes à 39 groupes d’action
+local (GAL), chargés de sélectionner les projets.
+       Dans le programme Occitanie FEDER-FSE+ 2021-2027, la priorité 5 est la seule qui ait
+recours à une approche territoriale intégrée pour favoriser le développement local. Elle a été
+confiée à 58 structures porteuses d’un contrat territorial Occitanie après un appel à
+manifestation d’intérêt (AMI). Dans le cadre de cet AMI, un plafond maximal de 16 M€ de
+fonds FEDER a été fixé pour les deux métropoles, soit 17 % de l’enveloppe attribuée au titre
+de l’objectif de développement urbain de la priorité 5. Un comité de pilotage des ATI
+présélectionne les opérations et émet un avis transmis au CRPI.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        La Région Occitanie, devenue autorité de gestion des fonds européens, a dû exercer
+cette compétence transférée de l’État dans un cadre institutionnel modifié, assumer l’exécution
+des programmations des anciennes régions qui la composent tout en programmant la suivante,
+concilier cette gestion avec des modifications d’enveloppe liées à la crise sanitaire.
+        Pour jouer ce rôle et suivre l’emploi de ces fonds, elle a augmenté ses moyens en
+recrutant des personnels notamment pour compenser les insuffisants transferts des agents de
+l’État.
+        Son organisation est jugée favorablement par la Commission européenne. La chambre
+constate que le mode de sélection des projets laisse un grand choix d’appréciation aux services
+instructeurs avant même le passage en comité de validation.
+       La Région doit par ailleurs anticiper les évolutions possibles du prochain cadre
+financier pluriannuel 2028-2034 du budget de l’Union européenne, susceptible de réorienter
+les choix d’intervention et leurs modalités d’application, ce qui impacterait à nouveau son
+organisation. Pour s’aider dans ses choix de gestion, elle devrait affiner le suivi de ses coûts.
+
+
+
+
+                                               25
+                               LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+2 L’ACTION DE LA REGION GUIDEE PAR LA RECHERCHE
+  D’UNE UTILISATION MAXIMALE DES FONDS EUROPEENS
+
+
+2.1 Une programmation pilotée pour favoriser la consommation des fonds
+
+        La Région adapte sa programmation dans l’objectif d’une consommation maximale des
+fonds européens afin de ne pas perdre les crédits. Les taux de financement de la maquette initiale
+sont indicatifs et ne sont finalement déterminés qu’à l’issue de de l’examen du dossier après
+prise en compte du respect des critères et des taux des autres financeurs. En conséquence il y a
+une grande variation entre les taux de financement mentionnés dans la maquette initiale et ceux
+retenus in fine.
+
+
+2.1.1 Le FEADER
+
+       En ce qui concerne le FEADER, au titre de la période 2014-2022, les deux PDR22
+Languedoc-Roussillon et Midi-Pyrénées ont intégré un montant de 114 M€ au titre du plan de
+relance pour un montant total programmé de 2,98 Md€.
+       Le montant effectivement engagé fin 2025 s’élevait à 2,93 Md€ (98 %) et le montant
+payé à 2,86 Md€ (96 %) ; ce léger retard dans l’exécution s’explique par le retard pris dans
+l’engagement du plan de relance, notamment au titre du PDR Midi-Pyrénées.
+        La Commission européenne a accordé une mesure exceptionnelle permettant de
+redéployer une partie des reliquats du FEADER au profit des agriculteurs ayant subi des
+catastrophes naturelles en 2024, sous forme d’une aide forfaitaire de trésorerie (dite mesure 23).
+La chambre relève que la Région Occitanie a fait preuve d’une certaine agilité en mobilisant
+ponctuellement, dans l’urgence, les agents volontaires, au-delà de ses services instructeurs
+habituels, pour la mise en œuvre de cette mesure exceptionnelle. En effet, l’appel à projet
+courait du 7 avril au 5 mai 2025 et l’ensemble des fonds disponibles devaient être programmés
+avant le 30 juin afin d’éviter un dégagement d’office des crédits.
+        En ce qui concerne la programmation 2023-2027 du FEADER, fin 2025, seuls 129,7 M€
+sont programmés fin 2025 sur un montant de 449 M€, soit un taux de programmation de 29 %
+(cf. annexe 4).
+
+
+
+
+22
+     Programme de développement rural
+
+
+
+
+                                               26
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2.1.2 Une sur-programmation et des taux de financement variables pour le
+      FEDER-FSE
+
+       L’exécution du programme 2014-2020 du FEDER-FSE devrait se clôturer en 2026. Afin
+de prendre en compte les dépenses susceptibles d’être écrêtées23 après leur validation en CRPI,
+la Région Occitanie a programmé un volume financier de dossiers supérieur à l’enveloppe
+prévue par l’Union européenne. Le taux de programmation en juillet 2025 est ainsi de 110,6 %
+pour le FEDER-FSE en Languedoc-Roussillon et de 106,3 % pour le FEDER-FSE en Midi-
+Pyrénées.
+       La programmation 2021-2027en cours a également fait l’objet de modifications.
+S’agissant du FEDER FSE+, à mi-parcours, le taux de programmation ne s’élevait qu’à 34,2 %,
+soit 284 M€ programmés sur le volume de 830 M€ y compris assistance technique. L’état
+d’avancement est par ailleurs inégal selon les actions (cf. annexe 4).
+       En revanche, une programmation projetée24 fait état d’un montant de projets soutenus
+supérieur de plus de 900 M€ à la maquette initiale
+       En dépit de cette sur-programmation, grâce à la variation des taux de financement entre
+les maquettes successives (passant de 60% en moyenne à 31% en moyenne), la Région a pu
+conserver un volant de 90 M€ de fonds européens non-répartis. Ces derniers pourraient être
+redéployés, à enveloppe constante, au titre des priorités et nouvelles orientations de la
+Commission européenne, parmi celles-ci figure le réarmement de l’Europe.
+
+
+      Tableau n° 7 : État d’avancement du programme régional Occitanie FEDER-FSE+ 2021-2027
+
+                                                                                                  Taux de
+                                                                      Montant financé
+                       En M€                 Dépenses éligibles                               financement de
+                                                                        par l'UE
+                                                                                                   l'UE
+      A              Préprojets                     778,26                  225,47                   29%
+      B      Stock de projets à instruire           564,76                  157,36                   28%
+
+               Projets programmés (y
+      C                                             918,27                  328,01                   36%
+              compris prochain CRPI)
+      D=       Total programmation
+                                                   2 261,28                 710,84                  31%
+     A+B+C            projetée
+
+      E      Maquette initiale hors AT              1 334,78                800,87                   60%
+
+
+      D-E     Montant surprogrammé                  926,50
+                Montant restant à
+      E-D                                                                   90,03
+                  programmer
+Source : CRC, d’après les données de la région au 1er octobre
+
+
+
+
+23
+   L’autorité de gestion de gestion écrête les dépenses à partir des dépenses effectivement justifiées et éligibles.
+Des corrections financières peuvent également être réalisées, notamment en cas de manquement relatif au code de
+la commande publique.
+24
+   Fin octobre 2025, hors assistance technique - c’est-à-dire comprenant les préprojets, le « stock » de projets à
+instruire, les projets validés par le CRPI, ou à programmer en CRPI
+
+
+
+
+                                                        27
+                                 LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+         Dans un objectif de réduction de la charge administrative et d’amélioration de la
+lisibilité des interventions, la Région Occitanie a revu à la baisse le nombre de priorités du
+nouveau programme et le nombre de typologies d’actions, de l’ordre d’un tiers. Les clés de
+financement sont simplement indicatives et varient fortement. Le financement européen est
+programmé après celui des autres cofinancements accordés, son taux étant calculé en
+conséquence. La Région Occitanie a indiqué ne pas disposer de stratégie définie quant à la
+fixation des taux, et l’analyse des dossiers programmés par type d’actions n’a pas permis non
+plus de révéler de logique territoriale, chronologique ou par type de bénéficiaire.
+         Des seuils planchers plus importants ont été fixés dans le programme 2021-2027 par la
+Région, de l’ordre de 50 K€25 à 1 M€26, contre 15 à 100 K€ dans le programme 2014-2020.
+Alors que près de 2 800 dossiers concernant le programme 2014-2020 avaient été instruits en
+juillet 2025 (pour un financement total de 2 730 M€), 488 dossiers l’ont été pour le programme
+actuel (pour un financement total de 767 M€), soit un montant moyen par dossier qui est passé
+de 975 K€ à 1 571 K€.
+        Des projets financièrement significatifs ont été programmés au titre de la
+programmation 2021-2027. S’agissant par exemple de la priorité de rééquilibrage territorial, le
+projet de réhabilitation de l'établissement thermal de Bagnères de Luchon et celui du centre
+nautique Neptune à Montpellier ont été sélectionnés sur la base de coûts prévisionnels
+respectivement de l’ordre de 13 M€ et de 15 M€ alors que le seuil minimum fixé dans les fiches
+pédagogiques associées au programme n’est que de 100-200 K€. Ces deux projets devraient
+consommer en cumulé 7,8 M€ de crédits FEDER, soit près de 38 % de l’enveloppe
+prévisionnelle de fonds européens au titre de l’action de « protection, développement et
+promotion du patrimoine naturel et de l’écotourisme, autre que les sites Natura 2000 » (pour
+Luchon : 3,75/10 M€ de l’action) et 18 % de l’action de « réhabilitation physique et sécurité
+des espaces publics » (pour Neptune : 4 /22 M€ de l’action).
+
+
+2.1.3 Une amélioration des délais d’instruction et de paiement
+
+       Les évaluations portant sur les dispositifs de la précédente programmation mettent en
+avant des délais trop longs d’instruction, de conventionnement et de paiement. Ils étaient
+considérés par les bénéficiaires comme un des freins à la réussite de leur projet.
+        Selon les données communiquées par la Région, le délai moyen entre le dépôt du dossier
+et le premier comité décisionnel d’acceptation s’élevait respectivement à 13 mois et à 9 mois
+sur l’ex-région Languedoc-Roussillon et sur l’ex-région Midi-Pyrénées. Pour la nouvelle
+programmation, ce délai moyen s’est réduit à un peu plus de 8 mois sur la région Occitanie, soit
+8,6 mois pour les bénéficiaires privés et 8 mois pour les bénéficiaires publics.
+         Concernant les délais de paiement, la Région a également amélioré son processus.
+
+
+
+
+25
+  Soutien du potentiel humain par et pour la recherche ou à la création, transmission ou reprise d’entreprises.
+26
+  Soutien à la création ou à l’amélioration des infrastructures de recherche et d’innovation, soutien aux projets
+d’immobiliers collectifs ou de tiers lieux en lien avec la compétitivité des entreprises, soutien de la réhabilitation
+énergétique du parc de logement sociaux.
+
+
+
+
+                                                         28
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Dans son rapport d’audit final de juillet 2024, la Commission européenne constatait que
+les bénéficiaires avaient été payés au-delà du délai réglementaire de 90 jours dans le cadre de
+l’ancienne programmation, en l’espèce de 131 jours à 1 055 jours27. Pour la nouvelle
+programmation 2021-2027, des mesures ont été mises en place afin d’optimiser le processus de
+paiement, notamment par un recours accru à des paiements forfaitaires de certaines dépenses,
+par l’allégement du travail de vérification, et par un suivi amélioré des dossiers dans l’outil.
+L’enjeu est d’autant plus important que le délai réglementaire est désormais de 80 jours.
+Désormais, sur le premier semestre 2025, seulement un peu plus d’un quart des dossiers dépasse
+toujours le délai réglementaire (contre 42 % en 2024).
+
+
+     Graphique n° 1 : Part des dossiers payés dans les délais (80 jours) ou au-delà, selon leur date de
+                           réception par la région (de fin 2023 à juillet 2025)
+
+               20
+               18
+               16
+               14
+               12
+               10
+                8
+                6
+                4
+                2
+                0
+
+                    nov-23   déc-23   janv-24   févr-24   mars-24
+                                                                    avr-24   mai-24   juin-24   juil-24   août-24   sept-24   oct-24   nov-24   déc-24   janv-25   févr-25   mars-25
+                                                                                                                                                                                       avr-25   mai-25   juin-25   juil-25
+
+
+                                                Nombre de dossiers payés au-delà du délai de 80 jours
+                                                Nombre de dossiers payés conformément au délai de 80 jours
+
+Source : CRC, d’après les données de la région
+
+
+
+
+2.2 Une information disparate pour le citoyen sur l’exécution des fonds
+
+       La Région Occitanie est tenue de mentionner pour chaque projet aidé la part de
+subventionnement européen. Elle effectue aussi des campagnes d’information des publics, par
+exemple des actions ponctuelles de sensibilisation des lycéens faites par des élus régionaux ou
+quelques actions ponctuelles à destination du grand public. Ainsi a-t-elle diffusé en 2018 et
+2019, une websérie illustrant les réussites de projets cofinancés par les fonds européens. En
+2020, elle a réalisé une série vidéo « des défis et des fonds » diffusée dans les Maisons de
+Région et sur certains réseaux sociaux (6800 vues et 1969 réactions). Elle organise chaque
+année le « Joli mois de l’Europe » par l’intermédiaire des Centres Europe Direct (CED),
+associations, collectivités territoriales, établissements scolaires, entreprises et organismes
+consulaires. Elle participe enfin aux campagnes de communication de la Commission
+
+
+27
+     Pour 10 des 12 demandes de paiement des projets audités,
+
+
+
+
+                                                                                                               29
+                              LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+européenne (euimyregion). Elle a réalisé, en 2024, dans le journal de la Région un dossier sur
+l’Europe en Occitanie.
+        L’information sur la destination des fonds européens reste toutefois très inégale selon
+les fonds et selon les périodes concernées.
+        Elle passe essentiellement par les publications sur le site Europe en Occitanie. Pour la
+précédente programmation, un rapport annuel de mise en œuvre (RAMO) était publié
+conformément à ce qui était prévu par le règlement. Volumineux et dans la pratique peu lisible,
+il faisait l’objet d’un résumé à l’attention des citoyens. Dans un souci de simplification, le
+RAMO n’est désormais plus exigé par la Commission européenne dans la nouvelle
+programmation et est remplacé par des remontées d’information et des échanges annuels.
+      Du point de vue du citoyen, il n’est pas toujours aisé d’accéder à une information
+complète et cohérente sur l’exécution précise des différents fonds, notamment pour le
+FEADER.
+        Au titre de la programmation 2014-2020, le site Europe en Occitanie rappelle les
+priorités ou mesures de chacun des programmes opérationnels FEDER-FSE et programmes de
+développement rural, publie le RAMO réalisé en 2020 et son résumé citoyen.
+        Pour les programmes opérationnels du FEDER-FSE, une liste de bénéficiaires est mise
+à jour de façon régulière sous la forme d’un tableur récapitulant chaque opération, sa
+localisation, son domaine d’intervention, son taux de financement par l’Union européenne, sa
+période d’exécution prévisionnelle.
+       Pour le FEADER, de telles restitutions n’ont pas été publiées, ni même systématisées,
+la Région a prévu d’améliorer sa visibilité sur le site en 2026.
+        La Région Occitanie ne donne pas d’information précise sur les bénéficiaires des
+différentes mesures des programmes de développement rural. Le citoyen intéressé peut
+consulter sur le site telepac, géré par le ministère de l’agriculture, la publication des
+bénéficiaires d’aides au titre du FEAGA et du FEADER, qui prend la forme d’une liste
+accessible durant deux ans à compter de sa publication.
+
+
+
+2.3 Des projets structurants pour la Région financés par des fonds
+    FEDER-FSE
+
+       Les compétences des Régions recouvrent une grande partie des champs d’intervention
+du FEDER-FSE (formation professionnelle, développement économique, transports,
+aménagement du territoire). De ce fait, sur les deux programmations successives sous revue,
+une partie des investissements structurants de la Région ont pu être financés par des fonds
+FEDER-FSE.
+      Ainsi, pour le programme 2014-2020 en Languedoc-Roussillon, 236 M€ ont été
+programmés vers la Région et ses satellites28, soit 42 % de l’enveloppe totale (560 M€). Cette
+
+
+28
+  Port Sud de France, comité régional du tourisme, Occitanie en scène, Sud de France développement, société
+immobilière de Luchon
+
+
+
+
+                                                    30
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+allocation s’est faite pour un nombre réduit de dossiers (79 dossiers, soit 5,5 % du total), la
+Région Occitanie étant éligible à des projets d’ensemble en matière de formation réunis au sein
+d’un seul dossier.
+       Ce constat est également valable pour le programme 2014-2020 en Midi-Pyrénées au
+sein duquel la Région s’est vu attribuer un volume financier de 207 M€, soit 35 % de
+l’enveloppe totale (589 M€). Pour les mêmes raisons, le nombre de dossiers est limité à 82, soit
+6,3 % du volume total.
+       La Région n’est toutefois intervenue, pour certains de ces projets, que comme
+cofinanceur dans le cadre d’outils d’ingénierie financière ou encore dans le cadre de mesures
+exceptionnelles d’urgence pour l’acquisition de masques durant la crise sanitaire. Hormis ces
+dispositifs spécifiques, pour l’ensemble de la Région Occitanie la part de la Région comme
+maître d’ouvrage représenterait 32% de la programmation 2014-2020 (328 M€).
+        En ce qui concerne la nouvelle programmation 2021-2027, avec 10 opérations (soit
+3,5 % du total), la Région Occitanie bénéficierait de 99 M€ soit 35 % de l’enveloppe
+d’intervention européenne programmée.
+
+
+                      Des projets significatifs financés par des fonds européens
+Plusieurs interventions significatives peuvent être mentionnées (le taux de financement indiqué
+est au regard du coût total éligible) :
+- les instruments financiers29 FOSTER (118,4 M€) et JEREMIE (36 M€).
+-les parcours régionaux qualifiants et programme régional de formation pour 145,8 M€ (57%).
+- la mise à disposition gratuite d’un ordinateur portable aux élèves de seconde pour un coût total
+de 41,9 M€30 (80%).
+- les écoles de la deuxième chance pour 29,7 M€ (69%).
+La Région a également financé, via les fonds européens, plusieurs projets d’investissements :
+-la construction du musée régional de la Narbonne Antique à hauteur de 6 M€ (21%)
+-la création d’un bâtiment à l’IUT de Tarbes pour 4,4 M€ (50%)
+-la réhabilitation des thermes de Luchon pour 3,75 M€ (29%)
+
+
+
+2.4 La répartition territoriale du FEDER-FSE reflète des priorités
+    sectorielles et la capacité de mobilisation des acteurs locaux
+
+        La Région possède par l’intermédiaire de ses systèmes d’information des données sur
+l’implantation géographique des bénéficiaires des fonds et sur leur typologie, statut public
+(collectivité, université, CHU, CCI, CMA…) ou privé (SA, SCI, SARL), certaines de ces
+structures privées étant parapubliques. Cette connaissance présente cependant un biais principal
+
+
+29
+      Prêts de trésorerie, garanties d’emprunt
+30
+     10,5M€+10 M€ sur LR, 10,4 et 11 sur MP
+
+
+
+
+                                                 31
+                                LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+lié au lieu d’implantation du siège social de l’entreprise ou de la collectivité bénéficiaire de la
+subvention. Pour cette raison, la Région aborde avec prudence toute exploitation des données
+qui tendrait à témoigner de la destination territoriale des fonds européens. Or, cette démarche
+mériterait d’être mise en œuvre afin de pouvoir vérifier l’efficacité des politiques européennes
+sur les territoires31.
+        À la demande de la chambre, la collectivité a fourni le volume financier des opérations
+programmées et effectivement réalisées sur chaque département de la région Occitanie sur la
+programmation 2014-2020. L’analyse des répartitions par département est possible pour 59%
+du volume financier (soit 81% du volume de dossiers). Elle fait apparaître des écarts lorsque
+les volumes financiers sont pondérés par le nombre d’habitants, mais qui témoignent du poids
+de certains projets structurants et surtout de la capacité des acteurs locaux à se mobiliser.
+        Ainsi, dans les Hautes-Pyrénées, deux projets totalisent 79% des crédits localisés
+(réalisation d’une unité de méthanisation agricole et collective dans la commune de Fontrailles
+5,8 M€ et création d’un bâtiment pour l’IUT de Tarbes 4,4 M€). De même le département de
+l’Aude a bénéficié d’un volume important de fonds européens liés au Musée Narbovia 6 M€,
+au Centre Hospitalier de Carcassonne 3,2 M€, et à la dynamique des projets des bailleurs
+sociaux qui représentent 11,5 M€ de FEDER dans l’Aude (contre 1,9 M€ pour le Tarn-et-
+Garonne). La programmation interrégionale Pyrénées du FEDER participe également à cette
+surpondération. C’est ainsi que le département des Hautes-Pyrénées a bénéficié de
+190 €/habitant tandis que la moyenne est située à 96 €/habitant.
+
+
+
+
+31
+   Les trois programmes de la période 2014-2020 prévoyaient une répartition des crédits européens par type de
+territoires : les grandes zones urbaines de plus de 50 000 habitants (37,5 % de l’enveloppe totale de 1,1 Md€), les
+petites zones urbaines comprises entre 5 000 et 50 000 habitants (21,9 %), les zones rurales (7,3 %), les
+coopérations nationales et macro régionales (0,7 %) et les projets sans affectation géographique (32,7 %). Cette
+répartition géographique n’a pas été reconduite dans la programmation 2021-2027 à l’exception des priorités
+fléchées spécifiquement sur un axe urbain (OS 2.8 et 5.1, 117 M€ soit 14,5 %) et sur un axe rural (OS 5.2, 38 M€
+soit 4,8 %).
+
+
+
+
+                                                       32
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Tableau n° 8 : Répartition départementale des fonds FEDER/FSE (59% de la programmation 2014-
+                                              2020)
+                                                                  Nb de
+                                             Nb de dossiers      dossiers                                            Part UE
+Données Synergie au        Nb de demandes                                                   UE prog    Nb hab                  UE réal en   Part UE réal
+                                            prog(incluant les   prog/Nb de    Nb dossiers                             prog
+04/08/2025                    déposées                                                      en M€       2021                      M€         prog/hab
+                                                deprog)         demandes                                            prog/hab
+                                                                 déposées
+
+Ariège (09)                     78                 60              77%            56         20,9        154 596      135        16,8           109
+
+Aude (11)                       225               193              86%            186        60,4        376 028      161        51,0           136
+
+Aveyron (12)                    149               133              89%            124        28,6        279 649      102        26,7            95
+
+Gard (30)                       304               244              80%            228        43,4        756 543       57        38,8            51
+
+Gers (32)                       60                 53              88%            52         14,3        192 437      74         11,9            62
+
+Haute-Garonne (31)              598               487              81%            449        184,2    1 1 434 367     128        154,7          108
+
+Hérault (34)                    717               566              79%            525        146,7     1 201 883      122        131,2          109
+
+Lot (46)                        68                 58              85%            55         19,4        174 942      111        15,8            90
+
+Lozère (48)                     80                 66              83%            61          7,8         76 519      102         6,6           86
+
+Hautes-Pyrénées (65)            166               143              86%            142        49,2        230 956      213        43,9           190
+
+Pyrénées-Orientales (66)        289               219              76%            209        44,8        487 307       92        40,1           82
+
+Tarn (81)                       154               135              88%            124        31,2        393 572       79        27,5           70
+
+Tarn-et-Garonne (82)            77                 66              86%            65         13,8        263 377       53        11,8            45
+
+Part
+                               2965               2423             82%            2276       664,5     6 022 176      110        576,7           96
+monodépartementale
+Part régionale ou
+multidépartmentale et           779               539              69%            520        542,8     6 022 176       90        401,1           67
+hors Occitanie
+
+Total Occitanie                3744               2962             79%            2796      1 207,4    6 022 176      200        977,7          162
+
+
+Source : Région Occitanie, à partir des données Synergies au 04/08/2025
+
+
+  Carte n° 1 : Localisation des fonds FEDER-FSE par habitant entre 2014 et 2020 (59% des fonds
+                       exécutés hors part régionale ou multi-départementale)
+
+
+
+
+Source : Carte CRC d’après données Région Occitanie
+
+
+
+
+                                                                             33
+                            LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+       En ce qui concerne la programmation 2021-2027, la répartition reflète la concentration
+thématique voulue par la commission européenne puisque elle cible 40% de l’enveloppe du
+FEDER sur les domaines de la recherche, développement, innovation et petites et moyennes
+entreprises, ce qui concerne essentiellement les métropoles et agglomérations.
+
+
+    Carte n° 2 : Localisation départementale des fonds FEDER/FSE+ du programme 2021-2027
+
+
+
+
+Source : Région Occitanie
+
+
+
+
+         Seule la priorité 5 du FEDER-FSE+ (21% de l’enveloppe FEDER, cf. tableau 3 supra)
+et le programme LEADER donnent lieu à une allocation d’enveloppes financières par territoire.
+        Dans la pratique, l’autorité de gestion qu’est la Région reste vigilante sur des sous-
+consommations ou des sur-consommations en cours d’exécution. Par exemple, elle a choisi
+d’accompagner plus spécifiquement l’intercommunalité du Grand Montauban qui apparaissait
+sous-représentée dans les projets déposés. À contrario, une collectivité émettant plusieurs
+demandes d’aides pour financer ses pistes cyclables, avec un coût financier important, a été
+incitée à réduire ses prétentions, afin que la priorité 3 « mobilités douces urbaines » puisse être
+mieux répartie territorialement.
+
+
+
+
+                                                34
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+    Carte n° 3 : Montants programmés par département au titre de la programmation 2021-2027
+
+
+
+
+Source : CRC d’après données de la Région Occitanie
+
+
+        En conclusion, selon la chambre, la destination des aides devrait faire l’objet d’un
+examen à posteriori par l’autorité de gestion, par fonds et catégorie de projet, afin de mieux
+faire ressortir leur localisation et d’informer le citoyen de leur impact territorial.
+
+
+ Recommandation n° 2. Établir et publier une cartographie des aides selon les territoires
+ représentant les principaux projets soutenus (non mise en œuvre).
+
+
+
+2.5 Une mesure de la performance pilotée par les coûts unitaires et les
+    moyens
+
+
+                      La mesure des interventions du FEDER et du FSE+
+La mesure des effets des interventions du FEDER et du FSE+ est prévue par la règlementation
+européenne. Des indicateurs de réalisation permettent de mesurer les éléments livrables liés à
+l’intervention, des indicateurs de résultat mesurent les effets des interventions pour les
+destinataires directs, la population visée ou les utilisateurs d’infrastructures. Ces indicateurs
+communs peuvent être complétés, s’il y a lieu, par des indicateurs spécifiques par programme.
+
+
+
+                                                      35
+                                  LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+Les indicateurs permettent de vérifier l’atteinte des objectifs en fixant une valeur cible à la fin
+de la période d’éligibilité et une valeur intermédiaire à mi-parcours.
+
+
+
+        Dans le cadre de la programmation 2014-2020 du FEDER-FSE, une réserve de crédits
+(5 % des dotations) était conditionnée à l’atteinte des valeurs intermédiaires prévues, selon une
+logique de performance. Dans les faits, comme l’a constaté la Cour des comptes européenne32,
+la libération de la réserve a surtout été fonction de la capacité des États membres à dépenser les
+crédits. La réserve a d’ailleurs été supprimée dans la nouvelle programmation, mais les
+principes d’économie, d’efficience et d’efficacité demeurent et l’atteinte des indicateurs de
+réalisation et de résultat est examinée. Le suivi de son avancement est transmis à la Commission
+européenne deux fois par an.
+        La Région Occitanie, pour sa part, est demeurée prudente en se fixant des valeurs de
+réalisation et de résultat mécaniquement corrélées au coût unitaire et à l’enveloppe financière
+prévue.
+         Ces indicateurs font l’objet de réajustements lorsque d’une part, la Région réaffecte les
+montants d’aide UE lors de remaquettages et d’autre part, de manière très pragmatique, en
+fonction des constats des premières réalisations du nouveau programme, notamment de
+l’inflation financière de certaines actions. Les valeurs cibles paraissent ainsi déterminées en
+fonction d’objectifs mécaniquement atteignables.
+
+
+2.5.1 Des objectifs en matière d’inclusion sociale ajustés en fonction du coût
+
+        Ainsi, au titre des mesures d’installation, création et reprise d'entreprises, le précédent
+programme avait bénéficié à près de 63 000 personnes ou porteurs de projets, dont plus de la
+moitié étaient chômeurs ou inactifs. Au terme de cet accompagnement, 58 % des bénéficiaires
+avaient retrouvé un emploi selon le calcul de la chambre. Dans le nouveau programme
+2021-2027, la Région prévoit d’accompagner 34 000 participants dont 18 000 sans emploi, et
+se fixe pour objectif que 42 % d’entre eux retrouvent un emploi au terme de leur participation.
+Selon la Région, au 31 décembre 2025, 60% des chômeurs accompagnés auraient retrouvé un
+emploi à la fin de leur accompagnement. La Région envisage donc de réévaluer la cible.
+        Il apparaît ainsi, à enveloppe financière quasiment équivalente, que le nombre de
+participants accompagnés sera presque deux fois moindre, et ce en raison de l’augmentation du
+coût par participant entre les deux programmations. Selon la Région ; l’augmentation de ce coût
+s’explique, outre le facteur exogène de l’inflation nationale, par la durée des accompagnements,
+plus longue en moyenne que sur le précédent programme. Sur la programmation actuelle, seuls
+41% des participants ont suivi une formation de moins d’un an, contre près de 90% sur le
+programme précédent.
+
+
+
+
+32
+     Rapport spécial de 2021 « financement fondé sur la performance dans le cadre de la politique de cohésion »
+
+
+
+
+                                                         36
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Graphique n° 2 : Nombre de chômeurs et inactifs ayant retrouvé un emploi à la sortie de l’action de
+soutien à l’accompagnement et à la création, transmission et reprise d’entreprises (exécuté et prévu)
+
+
+                60 000
+
+                50 000
+
+                40 000
+
+                30 000
+
+                20 000
+
+                10 000
+
+                    -
+                               Programme 2014-2020                     Programme 2021-2027
+
+                                   Nombre de participants
+                                   Nombre chômeurs et inactifs participants
+                                   Nombre de chômeurs et inactifs en emploi à la sortie
+
+Source : CRC
+
+
+        S’agissant des dispositifs « écoles régionales de la deuxième chance » et « nouvelles
+chances », le coût par participant a plus que doublé entre les deux programmations, car il intègre
+désormais une hypothèse de rémunération pour 81% des stagiaires. Ces rémunérations n’étaient
+pas intégrées dans la programmation précédente.
+        Si les montants de FSE affectés aux mesures d’accès à l’emploi et aux systèmes
+d’éducation et de formation qualitatifs et inclusifs sont restés quasi constants entre les deux
+périodes, en revanche, les montants réservés à la promotion de l’apprentissage tout au long de
+la vie ont été significativement revus à la baisse. Cette évolution est liée à la diminution globale
+de l’enveloppe des fonds européens entre les deux programmes mais aussi à la réduction du
+périmètre de compétence de la Région à la suite de la réforme de l’apprentissage. Le taux de
+résultat escompté est inférieur à l’ancienne programmation.
+
+
+2.5.2 Des objectifs de soutien à l’activité économique ajustés
+
+        La Région projette de soutenir un peu plus de 7 000 entreprises dans le cadre du nouveau
+programme 2021-2027, dont près de 95 % d’entre elles aux moyens d’instruments financiers.
+Pour la majorité d’entre elles, il s’agit de PME du tourisme. À périmètre constant, le montant
+de l’aide programmée pour le soutien à l’activité économique de 188 M€ est 30% inférieur à
+celui du programme précédent de 264 M€. Le nombre programmé d’entreprises soutenues
+diminue de 15%.
+        À contrario, la Région compte sur un retour d’investissements privés complétant le
+soutien public, s’élevant à plus de 1 Md€ sur le territoire occitan, soit trois fois plus que la
+valeur réalisée lors du précédent programme.
+
+
+
+
+                                                   37
+                              LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+  Graphique n° 3 : Nombre d’entreprises soutenues, montant total de l’aide au titre du FEDER et
+         effet levier des investissements privés (exécuté 2014-2020 et prévision 2021-2027)
+
+  9 000                                                                            1 200,00
+  8 000                                                                                       M€
+                                                                                   1 000,00
+  7 000
+  6 000                                                                            800,00
+  5 000
+                                                                                   600,00
+  4 000
+  3 000                                                                            400,00
+  2 000
+                                                                                   200,00
+  1 000
+     -                                                                             0,00
+                      2014-2020                               2021-2027
+
+                             Nombre d'entreprises soutenues
+                             Montant d'aide UE programmé
+                             Investissements privés complétant un soutien public
+
+Source : CRC, d’après les données transmises par la région
+
+
+
+2.5.3 Des objectifs environnementaux en diminution et les incidences négatives des
+      projets soutenus insuffisamment mesurés
+
+
+          2.5.3.1 Une diminution de l’enveloppe financière allouée pour la rénovation
+                  énergétique
+
+         La région est très attractive ; plus de 40 000 nouveaux habitants s’installent chaque
+année sur le territoire. Elle est ainsi soumise à des pressions fortes de consommation d’espaces
+et à des conflits d’usage sur sa biodiversité, ses espaces naturels, littoraux et agricoles. Ainsi,
+au titre de la priorité « une Europe plus verte », la programmation du FEDER pour 2021-2027
+prévoit une intervention à hauteur de 186 M€ afin d’agir face à l’urgence climatique pour une
+économie décarbonée, soit un montant légèrement inférieur à la programmation 2014-2020, et
+de 194 M€ au titre de la transition énergétique, la préservation et la valorisation des ressources
+du territoire et la croissance durable.
+        Plus de 40 % de l’aide prévisionnelle de l’Union Européenne au titre de la priorité 2
+devrait se concentrer sur l’objectif d’efficacité énergétique, via la rénovation énergétique des
+logements sociaux (56 M€) et, dans une moindre mesure des bâtiments publics (21 M€). La
+Région projette ainsi de soutenir la réhabilitation de plus de 8 000 logements sociaux locatifs,
+contre près de 13 000 logements rénovés à date de la précédente programmation. Ce soutien
+40 % moins important s’explique principalement par une baisse d’un tiers de l’enveloppe
+financière d’aides UE entre les deux programmations (84 M€ en 2014-2020), la région ayant
+bénéficié d’une aide complémentaire suite à la crise sanitaire de 22 M€, ainsi que par
+l’affectation, dans la nouvelle programmation, de 18% de cette enveloppe à des projets de
+massification de rénovation plus durable mais également plus coûteuse selon la Région
+(357 logements soutenus sur 8 050 logements). L’accompagnement de la construction ou de la
+rénovation de bâtiments innovants et exemplaires concernera une surface totale de 42 600 m².
+
+
+
+
+                                                       38
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       La Région espère ainsi réduire la consommation d’énergie primaire des logements et
+bâtiments rénovés de l’ordre de 60 %, soit un gain de près de 84 000 MWh par an et de
+12 500 tonnes eq.CO2/an, contre 29 800 tonnes sur la précédente programmation.
+        Plus de 20 % de l’aide au titre de la priorité 2 devrait également se concentrer sur
+l’objectif des énergies renouvelables et principalement sur l’investissement dans les
+équipements et installations de production (36 M€), avec, comme objectif, le dégagement de
+capacité de production supplémentaire d’énergies renouvelables de 40 MW contre 47 MW
+réalisés à date sur la précédente programmation.
+
+
+        2.5.3.2 Une insuffisante mesure des impacts négatifs sur l’environnement
+
+       Le programme FEDER-FSE+ contribue à la réalisation des objectifs environnementaux
+de l’Union Européenne. Les actions soutenues doivent respecter les principes de
+développement durable de la politique communautaire, notamment celui de ne pas causer de
+préjudice important à l’environnement énoncé dans le règlement 2020/852, principe dit du
+DNSH33.
+        Chaque objectif stratégique du programme 2021-2027 a ainsi fait l’objet d’une
+évaluation environnementale stratégique par la Région34 pour vérifier leur conformité avec les
+objectifs environnementaux et mesurer leurs impacts notables au regard du changement
+climatique et de l’économie circulaire. La Région suppose que le cadre réglementaire et légal
+national ou européen intègre déjà la réponse à ces principaux risques. Elle souligne que ses
+services instructeurs s’appuient en effet sur l’analyse des autorités nationales compétentes qui
+délivrent les autorisations environnementales ou les permis de construire. Ainsi, dans ses
+propres analyses, elle cite la réglementation sur la construction neuve, la prévention des risques
+inondations, la politique d’aménagement du territoire et d’urbanisme ou encore la stratégie
+française en matière d’adaptation au changement climatique comme permettant de prendre en
+compte les éventuels effets notables sur le réchauffement climatique. Sa démarche est similaire
+concernant les actions qui pourraient avoir un effet approfondi sur l’économie circulaire, du fait
+d’une augmentation de la production de déchets du bâtiment et des travaux publics (BTP) lié à
+la construction de nouvelles infrastructures35.
+       Cependant, la mission régionale d’autorité environnementale (MRAe), qui est une
+instance indépendante chargée d’exprimer un avis sur l’ensemble des documents de
+programmation ou planification existants et leurs effets sur l’environnement, saisie début
+
+
+
+
+33
+   Do not significant Harm (the environment)
+34
+   Conformément aux dispositions de l’article R.122-17 du code de l’environnement, le programme européen fait
+l’objet d’une évaluation stratégique environnementale.
+35
+   La Région considère que les risques seront maîtrisés grâce aux directives cadre européenne de 2008 imposant
+le recyclage et la valorisation des déchets du BTP et 2009 portant sur le principe de responsabilité élargie du
+producteur, aux dispositions de la loi anti-gaspillage pour une économie circulaire du 10 février 2020, aux
+dispositions de la loi relative à la transition énergétique pour la croissance verte du 17/08/2015 (LTECV), à la
+feuille de route économie circulaire (FREC).
+
+
+
+
+                                                      39
+                               LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+septembre 2021, a rendu un avis critique sur l’évaluation environnementale stratégique réalisée
+par la Région Occitanie. Elle pointait des lacunes tant sur la forme que sur le fond36.
+        La chambre constate que la Région a amendé son rapport d’évaluation environnemental
+à la suite de cet avis mais n’a que partiellement pris en compte les observations de la MRAe.
+        Ainsi, alors que le rapport d’évaluation environnementale constate que les projets
+d’infrastructures ou d’investissements financés par le programme auront des incidences
+environnementales résiduelles inévitables sur les sols en termes de consommation foncière et
+de production de déchets inertes du BTP, seuls des critères de conditionnalité à portée très
+générale ont été définis dans les documents de mise en œuvre. Contrairement à ce que
+préconisait l’évaluation environnementale, il n’y a pas d’incitation pour le porteur de projet à
+remplir ces éco conditions, qui n’apparaissent, in fine, ni contraignantes, ni déterminantes dans
+le processus de sélection.
+        Par exemple, dans le cas de la création d’un hôtel, le rapport d’instruction de la région
+relève seulement que le projet s’inscrit dans une démarche très respectueuse de l’environnement
+citant la réutilisation des eaux usées pour l’arrosage du jardin et la préservation des espèces
+végétales locales dans l’aménagement paysager, estimant in fine que l’impact sur le
+développement durable est moyen. Il ne mentionne aucun critère relatif à l’artificialisation des
+sols, bien que ce critère constitue, en théorie, une condition de sélection, selon la fiche action
+correspondante.
+        La Région n’a pas non plus mis en place d’indicateurs propres pour suivre les incidences
+négatives potentielles des actions, tels qu’un indicateur relatif à l’artificialisation et un
+indicateur mesurant les tonnes de déchets du BTP produits.
+        La Région estime que l’évaluation stratégique a permis de considérer que la globalité
+du programme ne présentait pas de risque pour l’environnement. Or, la mesure de l’impact
+environnemental du programme ne se fonde que sur les seuls indicateurs de suivi positifs prévus
+au titre de la priorité « une Europe plus verte ». Cette vision incomplète ne permet pas de
+réorienter les choix comme le ferait le suivi des effets négatifs des objectifs stratégiques.
+         Ainsi, un projet de construction d’un nouveau centre de tri sera sélectionné sur la base
+d’indicateurs mesurant la capacité supplémentaire pour le recyclage des déchets, sans indicateur
+de consommation foncière du projet. De même, pour des projets de construction d’unités de
+méthanisation, de chaufferies biomasse, ou d’installations de géothermie, seuls des indicateurs
+relatifs à la capacité de production supplémentaire d’énergies renouvelables sont prévus.
+        Alors que d’après le rapport d’évaluation environnementale plus de 70 % des projets
+programmés à la date du dernier trimestre 2025 sont susceptibles de financer de nouveaux
+investissements pour le développement économique ou touristique, la Région ne sera pas en
+
+
+
+
+36
+   La MRAe évoque notamment une démarche inaboutie, l’absence d’articulation entre les enjeux, l’absence de
+prise en compte de certaines incidences négatives. Les principaux enjeux relevés par la MRAe concernaient la
+transversalité de la prise en compte de l’environnement, la maîtrise de consommation d’espaces et de
+l’artificialisation des sols, le développement touristique et la pression sur les milieux, la préservation de la
+ressource en eau, la prise en compte de la santé, le déploiement des énergies renouvelables. Les points critiqués
+portaient notamment sur l’absence de priorisation des enjeux, l’absence de retour d’expérience du précédent
+programme, l’absence d’analyse systémique du programme européens avec les autres documents de planification,
+l’absence de prise en compte des cotations environnementales négatives.
+
+
+
+
+                                                      40
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+mesure d’évaluer leurs incidences environnementales négatives, ni d’établir un bilan en fin de
+programmation.
+
+
+ Recommandation n° 3. Compléter des impacts négatifs sur l’environnement les
+ indicateurs de suivi des projets soutenus (non mise en œuvre).
+
+
+
+2.6 Une chaîne de contrôles à compléter sur la pérennité des
+    investissements
+
+
+2.6.1 Un processus de contrôle interne très formalisé, à achever pour le FEADER
+
+         Le règlement de l’Union Européenne impose aux autorités de gestion la mise en place
+d’un dispositif de contrôle interne, conformément à l’article 124 du règlement n°1303/2013 du
+17 décembre 201337. Il doit permettre de garantir l’efficacité, l’efficience et l’économie des
+opérations, la fiabilité des informations, la préservation des actifs et de l’information, la
+prévention, la détection, la correction et le suivi de la fraude et des irrégularités, la gestion
+appropriée des risques. Si le contrôle interne s’imposait déjà pour le précédent programme, il a
+été accentué dans la nouvelle programmation, notamment par la mise en place d’une stratégie
+renforcée d’évaluation des risques, corollaire à la simplification administrative conformément
+à l’article 74 du règlement n°2021-1060 du 24 juin 202138.
+        Lors de l’audit réalisé sur place en septembre 2024 par l’AnAFe (sur le programme
+FEDER-FSE+ Occitanie 2021-2027), le système de gestion et de contrôle de la Région a été
+défini comme fonctionnant correctement, les auditeurs ayant souligné la solidité du contrôle
+interne.
+        La Région Occitanie a actualisé la cartographie des risques du FEDER-FSE sur la
+période 2014-2020 en 2024 dont la confection s’appuyait sur 217 contrôles effectués soit par
+l’autorité d’audit (AnAFe), soit par son propre contrôle interne, soit par les autorités de
+certification (DRFIP, DDFIP), soit lors d’audits de la Cour des comptes européenne.
+        147 risques bruts ont été identifiés, en 2024 sur la période de programmation 2014-2020,
+soit neuf de plus qu’en 2023. La cartographie 2024 sur la période 2021-2027 identifie de
+nouveaux risques tels que les nouvelles règles ou procédures de sélection des projets,
+l’internalisation de la fonction comptable, la séparation fonctionnelle des activités d’instruction
+et de certification, les nouvelles règles de simplification utilisées. Parmi ces risques, quatorze
+sont identifiés comme majeurs parmi lesquels le non-respect des règles de sélection des projets,
+
+37
+   Portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social
+européen, au Fonds de cohésion, au Fonds européen agricole pour le développement rural et au Fonds européen
+pour les affaires maritimes et la pêche.
+38
+   Portant dispositions communes relatives au Fonds européen de développement régional, au Fonds social
+européen plus, au Fonds de cohésion, au Fonds pour une transition juste et au Fonds européen pour les affaires
+maritimes, la pêche et l’aquaculture, et établissant les règles financières applicables à ces Fonds et au Fonds
+« Asile, migration et intégration », au Fonds pour la sécurité intérieure et à l’instrument de soutien financier à la
+gestion des frontières et à la politique des visas.
+
+
+
+
+                                                        41
+                           LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+le non-respect des règles de la commande publique, la non atteinte des cibles financières
+(dégagement d’office), l’insuffisance des disponibilités budgétaires, les difficultés de
+recrutement des agents opérationnels.
+        En ce qui concerne le FEADER, la cartographie a été formalisée. Elle identifie
+49 risques et les cote en risques bruts, identifie les causes de ces risques et les mesures de
+maîtrise. Parmi les risques bruts les plus importants, figurent notamment le non-respect des
+principes de déontologie et les situations de conflits d’intérêts, l’absence de détection de la
+fraude, la non identification d’un défaut d’éligibilité, la non identification d’un double
+financement, une erreur dans l’application des règles de calcul, la non identification d’un défaut
+dans l’application de la réglementation, l’absence d’instruction ou le défaut de traçabilité de
+celle-ci. La cartographie ne mentionne pas encore de plan d’actions. La temporalité de
+réalisation est différente du fait du décalage du calendrier de mise en œuvre du FEADER.
+
+
+2.6.2 Un ensemble de contrôles ayant permis d’écarter des dépenses inéligibles et
+      des irrégularités financières, mais n’ayant jamais révélé de fraude à ce jour
+
+       Dans le cadre du contrôle du service fait ou du contrôle interne, le service instructeur de
+la Région peut être amené à réduire l’assiette des dépenses présentées par le bénéficiaire en
+raison de l’inéligibilité de certaines, soit au moment de l’instruction de la demande, soit au
+moment de la demande de paiement du solde.
+        Par exemple, sur le nouveau programme, la Région a écarté, dès le stade du rapport
+d’instruction de la demande, près d’un million de dépenses présentées par une commune du Lot
+concernant le projet de rénovation énergétique d’un groupe scolaire, car ces dernières n’étaient
+pas directement liées à l’efficacité énergétique.
+        Sur le précédent programme 2014-2020, le montant total des corrections financières
+effectuées par la Région s’élève à moins de 2 % des dépenses validées sur les deux ex-régions,
+soit 4 % à 8 % des dossiers respectivement sur Languedoc-Roussillon et Midi-Pyrénées.
+        Par ailleurs, lors des audits de l’AnAFe ou de la Commission européenne, des
+irrégularités financières peuvent être détectées. Par exemple, lors de l’audit de système conduit
+par l’AnAFe en septembre 2024, l’organisme a écarté 130 k€ de dépenses sur un total de
+1,07 M€ présenté pour une opération de restauration des poissons migrateurs du bassin de la
+Garonne, du fait d’un double financement de l’association bénéficiaire concernant des dépenses
+de personnels. Pour le FEADER, aucun des audits de la Commission européenne n’a eu
+d’incidence financière depuis 2014.
+        En l’absence de caractère frauduleux, le préjudice financier consécutif à l’irrégularité
+est rétabli par une correction financière du montant de l’irrégularité détectée, ou d’un montant
+forfaitaire.
+       La Région indique avoir renforcé son dispositif de lutte anti-fraude entre les deux
+programmations. Au demeurant, aucune infraction n’a été révélée sur la période sous revue
+parmi les 2800 dossiers instruits (cf. annexe 5 sur les fraudes détectées notamment par l’Office
+européen de lutte anti-fraude pour d’autres autorités de gestion).
+       Ce dispositif se caractérise, outre le système de contrôle interne mis en place par la
+Région, par des mesures à l’attention des membres du personnel ou des porteurs de projet. Les
+personnels régionaux bénéficient de formations et ont accès à une documentation spécifique
+
+
+
+                                               42
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+relative aux indicateurs et faisceaux d’indices de fraude, l’instructeur devant intégrer cette
+préoccupation lors de l’instruction de la demande et du contrôle du service fait. Les porteurs de
+projet sont, quant à eux, sensibilisés par les services instructeurs et doivent attester sur l’honneur
+de l’exactitude des renseignements fournis, de la régularité de leur situation fiscale et sociale,
+et de ne pas être en situation de conflit d’intérêts.
+        Au stade du rapport d’instruction établi lors du dépôt de la demande, le service
+instructeur vérifie le risque de fraude en croisant les informations lors du paiement du solde et
+du contrôle du service fait, le contrôleur attestant des vérifications menées pour écarter les
+risques de faillite ou de procédure collective, de double ou surfinancement ou de risque de
+conflit d’intérêts.
+        En pratique, ces contrôles se révèlent assez formels, les attestations d’absence de
+conflits d’intérêt des porteurs de projet, tout comme des instructeurs de la Région, étant
+déclaratives et ne faisant pas l’objet de vérifications approfondies, sauf en cas de suspicion.
+       La Région devrait poursuivre ses efforts dans ce domaine en tant qu’autorité de gestion,
+au-delà des simples contrôles de forme par une vérification aléatoire ex-post des informations
+fournies par les porteurs de projet.
+
+
+2.6.3 Un contrôle de la pérennité des investissements tout juste entamé
+
+         Les bénéficiaires de fonds européens sont éligibles sur la base de critères de pérennité
+et de non-délocalisation de leurs investissements subventionnés. En effet, cinq ans39 après le
+paiement du solde final au bénéficiaire, le projet doit perdurer et ne pas avoir été délocalisé ;
+s’il y a eu un changement de propriété de l’infrastructure, cela ne doit pas procurer un avantage
+indu au nouveau propriétaire ; enfin, s’il y a eu un changement substantiel de nature ou de
+conditions de mise en œuvre, cela ne doit pas porter atteinte aux objectifs initiaux.
+        Il revient donc à l’autorité de gestion de s’assurer de la pérennité des projets
+subventionnés. C’est ainsi que, pour faire suite à la recommandation de la Commission
+européenne de juillet 2024 (mission d’audit thématique sur les vérifications de gestion
+2014-2020), la Région Occitanie a mis en place une procédure de vérification, jugée
+satisfaisante par le Commission européenne, et établi un plan de contrôle au 1er semestre 2025,
+portant sur des opérations de la programmation 2014-2020.
+       Selon la réponse de la Région, vingt-deux opérations, ayant bénéficié au total de près
+de 5,7 M€ de fonds européens, seront contrôlées à échéance 2026, soit en moyenne un
+échantillon de 5% par an des opérations concernées par le principe de pérennité.
+
+
+
+
+39
+  Délai réduit à trois ans en cas de maintien des investissements ou des emplois créés par les PME sur décision de
+l’AG
+
+
+
+
+                                                       43
+                           LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+2.7 L’évaluation de l’impact des fonds européens
+
+       Les règlements européens prévoient la réalisation d’évaluations, qui peuvent être
+effectuées soit par l’autorité de gestion, soit par la Commission européenne. Au titre des deux
+dernières programmations, cette dernière n’en a effectué aucune.
+        Par contre, les plans d’évaluation fournis par la Région pour la période 2014-2020
+étaient ambitieux, prévoyant à minima une évaluation d’impact sur l’ensemble des axes des
+programmes pour un coût total prévisionnel de l’ordre de 4,5 M€.
+        Les évaluations ont été effectuées sur les trois programmes opérationnels, dont l’une a
+été réalisée nationalement pour l’ensemble des régions. Les deux plus récentes, publiées en juin
+et novembre 2025, portent sur l’impact du FEDER sur le numérique et la compétitivité des
+entreprises en Occitanie et sur l’impact du FEDER sur l’urbain et le transport en Occitanie. La
+Région a également réalisé deux évaluations dans le cadre de la rédaction du programme 2021-
+2027, une évaluation de la stratégie environnementale (ESE) et une évaluation ex-ante sur les
+instruments financiers.
+       Pour ce qui concerne le FEADER, un rapport d’évaluation très développé et précis du
+programme LEADER a été réalisé en 2021. Les seules autres actions entreprises semblent être
+des sondages réalisés auprès de porteurs de projets ou bénéficiaires dont les résultats sont
+publiés sous la forme de fiches « brèves du FEADER ».
+
+
+                  Les principaux enseignements des évaluations réalisées
+
+
+Les premières évaluations menées en 2018 avaient dressé des constats positifs sur les politiques
+relatives à l’IEJ et aux ATI. Les opérations financées en matière d’emplois des jeunes, en
+particulier les CAP Avenir et CAP métiers permettaient d’augmenter sensiblement les chances
+d’accéder à l’emploi en sortie de formation.
+L’évaluation réalisée sur le programme LEADER a montré notamment que cet outil
+apparaissait davantage comme un outil financier au service d’une stratégie politique, sans
+ciblage spécifique, que comme un véritable outil de développement territorial.
+
+
+  L’évaluation relative à la transition énergétique montre une baisse de consommation
+                  énergétique constatée moins importante qu’estimée
+L’évaluation finalisée en 2022 sur la transition énergétique analyse l’impact du FEDER sur la
+production d’énergies renouvelables et la réduction de consommation énergétique dans le
+logement social et les bâtiments publics. L’évaluation réalisée auprès des bénéficiaires finaux
+montre que les travaux ont permis une baisse de leur consommation énergétique et une
+amélioration de leur confort, la baisse réelle étant toutefois moins importante que la baisse
+estimée. Alors que la baisse prévisionnelle était comprise entre 30 et 50 % dans les diagnostics,
+elle serait réellement de moitié moins selon l’étude. Concernant les énergies renouvelables, qui
+représentait 53 M€ d’aides programmées, les projets ont porté en majorité sur des soutiens à la
+filière du biogaz, en particulier dans les projets de méthaniseurs agricoles. Selon l’évaluation,
+ces projets devaient permettre de générer 0,6 % de la production d’ENR en Occitanie et 0,1 %
+
+
+
+
+                                               44
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+de la consommation d’énergie régionale. Toutefois, les données de consommation sont
+théoriques et l’impact réel n’est pas connu.
+
+
+ L’évaluation sur la gestion des risques et la préservation et valorisation du patrimoine
+                            naturel montre un impact nuancé
+L’évaluation a porté essentiellement sur les risques littoraux et inondations (29,2 %) et le
+développement du tourisme autour des sites naturels et culturels (38,4 %). Le rapport montre
+que les fonds européens ont eu un effet de levier pour les projets en matière de biodiversité et
+dans une moindre mesure en matière de valorisation de patrimoine. En revanche, s’agissant du
+volet inondation, l’effet est plus nuancé, fortement dépendant de financements nationaux,
+même si les actions soutenues ont permis une meilleure sensibilisation des populations.
+
+
+    La formation et l’accompagnement vers l’emploi a contribué marginalement aux
+         créations d’entreprises mais a été utile pour préserver leur pérennité.
+L’évaluation montre que 13,6 % des créations d’entreprises ont été initiés avec les fonds
+européens en Languedoc Roussillon contre 3,3 % en Midi-Pyrénées. Cela s’explique par un
+montant de FSE mobilisé près de trois fois supérieur en Languedoc-Roussillon, le FSE géré par
+l’État étant prépondérant sur Midi-Pyrénées. Sur ces deux programmes, ces créations ont
+bénéficié à près de 40 % aux personnes situées en zone rurale. Avec une part de 11 % sur LR
+et 5 % sur MP, les jeunes de moins de 25 ans sont faiblement représentés dans les bénéficiaires
+qui sont plutôt des personnes diplômées. L’accompagnement post-création s’est avéré utile
+pour préserver la pérennité des entreprises créées.
+
+        En ce qui concerne le programme 2021-2027, le plan d’évaluation prévoit huit
+évaluations d’impact dans la continuité des précédentes : impact du FEDER sur la compétitivité
+et l’innovation des entreprises, impact du FEDER sur la transition énergétique, impact des
+mesures sur la biodiversité et les dispositifs d’atténuation des vulnérabilités liées aux risques
+littoraux, impact du FSE+ sur l’offre de formation et le parcours des bénéficiaires finaux de
+formations en Occitanie, impact du FSE+ sur la création d’entreprise, impact du FEDER sur la
+revitalisation des territoires, impact du FEDER sur le développement de l’économie touristique
+durable dans le massif de Pyrénées, contribution des bénéficiaires des fonds structurels aux
+principes horizontaux.
+        Le budget est estimé à 0,96 M€ pour la totalité de la période. La réalisation de ces études
+est prévue essentiellement entre 2025 et 2029. Aucune d’entre elles n’a encore débuté.
+     Au final, le processus d’évaluation est rigoureux et répond aux exigences de la
+Commission européenne.
+
+
+_______________________________ CONCLUSION ______________________________
+
+       La Région pilote la programmation des fonds européens afin d’en maximiser leur
+emploi et de respecter les objectifs définis par la Commission européenne, notamment de
+concentration thématique sur deux principaux objectifs. Le taux de financement, indicatif dans
+la maquette initiale, varie en fonction de l’évolution de la programmation. L’autorité de gestion
+a amélioré ses délais d’instruction et de paiement.
+
+
+
+                                                45
+                           LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+       Les contrôles mis en place par la Région n’ont pas permis de déceler de fraude. Si le
+processus de contrôle est rigoureux, il devrait néanmoins dépasser la logique de vérification
+formelle. Les mesures de contrôle de la pérennité des investissements subventionnés
+commencent à être développés.
+        La Région concentre son action sur l’atteinte d’un objectif quantitatif de réalisation.
+Elle ne cherche pas à représenter la localisation géographique de l’ensemble des projets
+soutenus, qui serait pourtant une information utile pour le citoyen.,. Bien qu’elle ait affiché des
+ambitions fortes en matière environnementale, elle ne prend pas assez en compte l’impact des
+projets sur cet environnement.
+
+
+
+
+                                                46
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                   ANNEXES
+
+Annexe n° 1. Convention de répartition des champs d’intervention du FSE+ ............... 48
+Annexe n° 2. Comparaison des objectifs des deux anciennes régions Languedoc-
+            Roussillon pour les programmes opérationnels et les plans de
+            développement rural ................................................................................... 49
+Annexe n° 3. Systèmes d’information utilisés par la Région Occitanie ......................... 54
+Annexe n° 4. Réalisation des programmes...................................................................... 55
+Annexe n° 5. La fraude et le conflit d’intérêt .................................................................. 58
+
+
+
+
+                                                             47
+                                LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+    Annexe n° 1.Convention de répartition des champs d’intervention du FSE+
+
+
+
+ Tableau n° 9 : Répartition des champs d’intervention entre l’État et la région Occitanie, au titre du
+                                              FSE +
+
+
+
+
+Source : Annexe 1 de l’accord régional « précisant les lignes de partage entre les interventions du volet Occitanie
+du programme national FSE+ 2021-2027, et celles du programme régional FEDER-FSE+ Occitanie 2021-2027 »
+(signé le 21 mars 2022 par le préfet et la présidente de région)
+
+
+
+
+                                                       48
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+ Annexe n° 2.Comparaison des objectifs des deux anciennes régions Languedoc-
+  Roussillon pour les programmes opérationnels et les plans de développement
+                                   rural
+
+
+
+                           Tableau n° 10 : Objectif thématique des FESI dans la programmation 2014-2020
+
+                                         Objectifs thématiques40                    FEDER FSE FEADER FEAMP
+
+                          1. Renforcer la recherche, le développement
+                                                                                     X    X       X
+                          technologique et l'innovation
+   Croissance
+                          2. Améliorer l’accès, l’utilisation et la qualité des
+                                                                                     X    X       X
+   intelligente           technologies de l’information et de la communication
+
+                          3. Renforcer la compétitivité des PME                      X    X       X             X
+
+                          4. Favoriser la transition vers une économie à faibles
+                                                                                     X    X       X             X
+                          émissions de CO2
+
+
+
+
+   Croissance durable
+                          5. Promouvoir l’adaptation au changement climatique
+                                                                                     X            X
+                          ainsi que la prévention et la gestion des risques
+
+                          6. Protéger l’environnement et promouvoir l’utilisation
+                                                                                     X            X             X
+                          rationnelle des ressources
+
+                          7. Promouvoir le transport durable et améliorer les
+                                                                                     X
+                          infrastructures de réseaux
+
+                          8. Promouvoir des emplois durables et de qualité, et
+                                                                                     X    X       X             X
+                          favoriser la mobilité de la main d’œuvre
+
+
+
+
+   Croissance inclusive
+                          9. Promouvoir l’inclusion sociale et lutter contre la
+                                                                                     X    X       X
+                          pauvreté et contre toute forme de discrimination
+
+                          10. Investir dans l’éducation, la formation et
+                                                                                     X    X       X
+                          l’apprentissage tout au long de la vie
+
+                          11. Renforcer l’efficacité de l’administration publique    X    X
+
+Source : CRC
+
+
+        La programmation 2014-2020 Languedoc-Roussillon a porté sur une enveloppe de
+520 M€ au titre du FEDER-FSE-IEJ répondant à quatre objectifs pour 2020, un taux d’emploi
+de 75 % pour les 20-64 ans, 3 % du PIB consacré à la recherche et au développement, des
+objectifs en matière de climat et d’énergie (20 % d’énergie de sources renouvelables, réduction
+des gaz à effet de serre de 20 %, augmentation de l’efficacité énergétique de 20 %) et en ce qui
+
+
+40 La plupart des objectifs supposent    une intervention coordonnée de plusieurs FESI. Néanmoins, certains objectifs ne
+concernent pour l’essentiel que l’un des 4 FESI.
+
+
+
+
+                                                                           49
+                          LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+concerne l’éducation et la formation un objectif de 40 % de diplômés de l’enseignement
+supérieur pour les 30-34 ans et un taux d’abandon scolaire réduit à 10 %. Les priorités du
+programme étaient réparties à travers neuf axes (hors assistance technique).
+        La programmation 2014-2020 de Midi-Pyrénées a porté sur une enveloppe de 572 M€
+au titre du FEDER-FSE-IEJ retenant trois objectifs renforcer les avantages compétitifs de la
+région en favorisant l’innovation et la recherche de valeur ajoutée dans tous les secteurs,
+développer l’emploi en Midi-Pyrénées en proposant une offre de formation adaptée,
+accompagner la transition énergétique et écologique en réponse au défi climatique et
+environnemental. Les priorités du programme étaient réparties à travers onze axes.
+       Les deux programmes ont intégré en 2021, un axe prioritaire pour favoriser la réparation
+des dommages à la suite de la crise engendrée par la pandémie de COVID-19 et ses
+conséquences sociales et préparer une reprise écologique, numérique et résiliente de
+l’économie.
+        Les différences d’approche sont perceptibles notamment dans le soutien aux entreprises,
+l’axe identifié par POLR « Investir durablement dans la croissance intelligente », est à
+rapprocher des deux axes POMIPY « stimuler l’innovation » et « soutenir la compétitivité des
+entreprises ». Un axe spécifique pour un enseignement supérieur de qualité a par ailleurs été
+identifié en MIPY au titre du FEDER. Le nombre de dossiers traités par le POLR est plus élevé
+que le POMIPY avec un volume d’enveloppe global moindre.
+
+
+
+
+                                              50
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Tableau n° 11 : Comparaison des programmations 2014-2020 au titre du FEDER-FSE-IEJ des deux
+                      anciennes régions (hors programme interrégional)
+
+               Axes Languedoc-Roussillon                                       Axes Midi-Pyrénées
+Investir durablement dans la
+                                                                                Stimuler l'innovation
+croissance intelligente
+Réduire la fracture numérique et
+favoriser l’émergence de la e-                                                  Soutenir la compétitivité des entreprises
+société
+Encourager la transition                                                        Réduire la fracture et favoriser la
+énergétique                                                                     transition numérique en Midi-Pyrénées
+
+Préserver et valoriser le                                                    Favoriser l'employabilité des midi-
+territoire et ses ressources au                                              pyrénéens en garantissant un
+bénéfice d’une croissance           FEDER 311 M€ (dont   FEDER 386 M€ (dont enseignement supérieur accessible et
+durable                              8 M€ d'assistance    10 M€ d'assistance de qualité
+                                      technique), 1011      technique) 954
+                                          dossiers             dossiers      Contribuer à la transition énergétique
+
+                                                                                Contribuer à la transition écologique,
+                                                                                préservation de la biodiversité
+Favoriser une approche urbaine
+intégrée                                                                        Renforcer la cohésion territoriale en
+                                                                                faveur des quartiers défavorisés
+
+                                                                                Garantir un aménagement raisonné et
+                                                                                organiser un renouveau naturel et
+                                                                                écologique de la Garonne
+Accompagner la création et la
+reprise d’activité par le                                                       Favoriser l'accès des publics à un emploi
+développement des                                                               durable par la formation et
+compétences                                                                     l'accompagnement
+Former tout au long de la vie        FSE 79 M€ (3 M€       FSE 68 M€ (3 M€
+pour favoriser l’accès à l’emploi       assistance            assistance
+Protéger la population de             technique) 355        technique) 255
+                                                                                Accroître le nombre de demandeurs
+l'expansion de l'épidémie liée au        dossiers              dossiers
+                                                                                d'emploi bénéficiant d'un
+Coronavirus et assurer que le                                                   accompagnement à la création d'activité
+système de santé reste
+accessible aux personnes
+vulnérables
+                                                                                Accroître l'insertion professionnelle des
+Promouvoir l’employabilité des
+                                                                                jeunes de la Haute-Garonne de moins
+jeunes par la mise en œuvre de         IEJ 42 M€, 31
+                                                         IEJ 7,3 M€, 3 dossiers de 30 ans qui ne travaillent pas, ne font
+l’Initiative pour l’Emploi des            dossiers
+                                                                                pas d'études ou ne suivent pas de
+Jeunes
+                                                                                formation
+Favoriser la réparation des
+dommages à la suite de la crise                           REACT EU, 111,41      Favoriser la réparation des dommages à
+                                    REACT EU 88 M€ (3
+engendrée par la pandémie de                                 M€, 4,3 M€         la suite de la crise engendrée par la
+                                      M€ assistance
+Covid-19 et ses conséquences                                  assistance        pandémie de Covid-19 et ses
+                                      technique), 48
+sociales et préparer une reprise                            technique, 84       conséquences sociales et préparer une
+                                         dossiers
+écologique, numérique et                                       dossiers         reprise écologique, numérique et
+résiliente de l’économie                                                        résiliente de l’économie
+
+Source CRC, d’après programmation actualisée Région Occitanie
+
+
+
+
+                                                          51
+                                            LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+       Pour ce qui concerne le FEADER, la Région a également continué de suivre au cours
+de la période 2014-2023, les deux programmes de développement rural (PDR) Languedoc-
+Roussillon (PDR LR) et Midi-Pyrénées (PDR MIPY) comportant respectivement 40 et 41
+dispositifs. Là encore les dispositifs soutenus sont voisins avec ponctuellement des différences
+notables entre les deux territoires.
+        Ainsi, là où le PDR MIPY prévoit un dispositif de soutien des investissements
+spécifiques des exploitations engagées dans une démarche de valorisation qualitative reconnue,
+quatre dispositifs sont identifiés en faveur des territoires dans le PDR LR (investissements dans
+les exploitations Fruits et légumes, investissements productifs individuels pour les cultures
+spécialisées Vergers, petits investissements réservés aux nouveaux exploitants, soutien aux
+plantations de nouvelles vignes).
+        Les actions de soutien aux réseaux de gestion de l’eau font également apparaître des
+nuances (soutiens aux réseaux d’irrigation et aux retenues dans un cas et soutien à une gestion
+qualitative et quantitative de la ressource, soutien à la réalisation d’économies d’eau et
+substitution des prélèvements existants, création de réseaux et d’ouvrages de stockage en
+réponse à la sécheresse et au changement climatique dans l’autre cas). Par ailleurs, deux
+dispositifs n’apparaissent que dans un seul des deux PDR, amélioration du potentiel
+pollinisateur des abeilles (MIPY) et Maisons de santé (LR).
+
+
+Tableau n° 12 : Dispositifs du FEADER 2014-2023 au titre des deux programmes de développement
+                                            rural
+
+                        Midi-Pyrénées                                                          Languedoc-Roussillon
+ N° TO                              Nom du TO                               N° TO      Nom du TO
+
+1.1.1    Actions de formation et d’acquisition de compétences               1.1        Actions de formation et d’acquisition de compétences
+
+
+         Aide aux activités de démonstration et aux actions
+1.2.1                                                                       1.2        Aide aux activités de démonstration et aux actions d'information
+         d'information
+
+                                                                                       Engagement des producteurs dans les systèmes de qualité
+3.1.1    Soutien aux nouvelles participations aux régimes de qualité        3.1
+                                                                                       certifiée
+
+         Information et promotion des produits engagés dans des
+3.2.1                                                                       3.2        Promotion de produits de qualité certifiée
+         systèmes de qualité
+
+4.1.1    Investissements de modernisation des élevages                      4.1.1 EL   Investissements dans les exploitations – secteur élevage
+
+         Investissements spécifiques des exploitations engagées dans
+4.1.2                                                                       4.1.1 FL   Investissements dans les exploitations – Fruit et Légumes
+         une démarche de valorisation qualitative reconnue
+                                                                                       Investissements productifs individuels pour les cultures
+4.1.3    Investissements spécifiques agro-environnementaux                  4.1.1
+                                                                                       spécialisées - Vergers
+         Investissements individuels de petite hydraulique agricole                    Investissements dans les exploitations - Petits investissements
+4.1.4                                                                       4.1.1 PI
+         destinés à la sécurisation des productions                                    matériels réservés aux nouveaux exploitants
+                                                                                       Soutien aux plantations nouvelles de vignes par de nouveaux
+4.1.5    Investissements des productions végétales spécialisées             4.1.1 PV
+                                                                                       exploitants
+
+4.1.6    Investissements productifs des CUMA                                4.1.2      Investissements dans les CUMA
+
+         Investissements des exploitations liés à la transformation et à               Investissements en faveur d’une gestion qualitative et
+4.2.1                                                                       4.1.3
+         la commercialisation des produits de la ferme                                 quantitative de la ressource en eau
+         Investissements physiques des entreprises de transformation                   Investissements des exploitations liés à la transformation et à la
+4.2.2                                                                       4.2.1
+         des produits agricoles                                                        commercialisation des produits de la ferme
+         Infrastructures collectives d'adaptation de l'agriculture :                   Investissements dans les entreprises de transformation et de
+4.3.1                                                                       4.2.2
+         gestion de l'eau -- réseaux d’irrigation                                      commercialisation de produits agricoles
+         Infrastructures collectives d’adaptation de l’agriculture :                   Investissements des collectivités pour la reconquête du foncier
+4.3.2                                                                       4.3.1
+         gestion de l’eau – retenues                                                   agricole et forestier
+
+
+
+
+                                                                           52
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                                                          Soutien aux infrastructures hydrauliques : réalisation
+4.3.3     Desserte forestière                                                  4.3.2
+                                                                                          d’économies d'eau et substitution des prélèvements existants
+
+                                                                                          Soutien aux infrastructures hydrauliques : extension, création de
+          Investissements non productifs pour la préservation de la
+4.4.1                                                                          4.3.3      réseaux et d’ouvrages de stockage en réponse à la sécheresse et
+          biodiversité
+                                                                                          au changement climatique
+
+6.1.1     Aide au démarrage des agriculteurs - DJA                             4.3.4      Soutien à la desserte forestière et à la mobilisation du bois
+
+                                                                                          Infrastructures en faveur d’une gestion qualitative de la
+6.4.1     Soutien aux activités non agricoles dans les zones rurales           4.3.5
+                                                                                          ressource en eau
+          Elaboration - Révision des DOCOB NATURA 2000 et des
+7.1.1                                                                          6.1.1      Aide au démarrage des agriculteurs – DJA
+          démarches territoriales
+          Aide à l'adaptation de la conduite pastorale des troupeaux
+7.6.1                                                                          6.4.1      Création et développement d’activités agritouristiques
+          soumis au risque de prédation par les grands prédateurs
+                                                                                          Établissement et révision des plans de gestion liés aux sites
+7.6.2     Accompagnement du pastoralisme pyrénéen                              7.1.1
+                                                                                          NATURA 2000
+          Conservation et mise en valeur du patrimoine naturel et
+7.6.3 N   culturel en milieu rural dont animation des DOCOB et                 7.4        Maisons de santé
+          élaboration de PAEC
+          Conservation et mise en valeur du patrimoine naturel et                         Aide à l'adaptation de la conduite pastorale des troupeaux
+7.6.3 P                                                                        7.6.1
+          culturel en milieu rural : élaboration de PAEC                                  soumis au risque de prédation par les grands prédateurs
+          Conservation et mise en valeur du patrimoine culturel et
+7.6.4     naturel : contrats Natura 2000 ni agricoles ni forestiers dans et    7.6.2      Animation des documents de gestion des sites Natura 2000
+          hors N2000
+          Investissements non productifs en milieux forestiers : contrats
+7.6.5                                                                          7.6.3      Contrats Natura 2000
+          forestiers dans et hors zones NATURA 2000
+
+8.2.1     Installation des systèmes agroforestiers                             7.6.5      Animation MAEC
+
+8.3.1     DFCI (défense contre les incendies)                                  7.6.6      Gestion des espaces pastoraux : investissements matériels
+
+          Renouvellement des peuplements permettant d'accroître la
+                                                                                          Défense des forêts contre l’incendie : investissements en
+8.5.2     valeur environnementale de séquestration du carbone-                 8.3.1
+                                                                                          réponse à la sécheresse et au changement climatique
+          Reboisement
+                                                                                          Soutien aux opérations favorables à l’adaptation des forêts au
+8.6.1     Investissements dans la mobilisation du bois- Mécanisation           8.5        changement climatique ou favorisant le stockage du carbone-
+                                                                                          Reboisement
+          Paiements environnementaux et climatiques MAE-C hors                            Aide à l’équipement des entreprises d’exploitation forestière et
+10.1                                                                           8.6
+          ressources génétiques                                                           de mobilisation du bois- Mécanisation
+
+10.1      Protection des races menacées de disparition                         10.1       Engagements agroenvironnementaux et climatiques - MAEC
+
+10.1      Amélioration du potentiel pollinisateur des abeilles                 11.1       Agriculture biologique : conversion
+
+11.1.1    Agriculture biologique : conversion                                  11.2       Agriculture biologique : maintien
+
+11.2.1    Agriculture biologique : maintien                                    16.2       Accompagnement des projets collectifs innovants
+
+          Mise en place et fonctionnement des GO PEI et de leurs
+16.1.1                                                                         16.7
+          projets d'innovation
+                                                                                          Stratégie locale de développement forestier
+16.7.1    Stratégie locale de développement forestier                          Foret
+
+                                                                                          Ingénierie Territoriale – Volet développement rural et agricole -
+16.7.2    Ingénierie Territoriale                                              16.7 Dra
+                                                                                          Terra Rural
+          Soutien préparatoire à l'élaboration de stratégies de
+19.1.1                                                                         16.7 Eau   Ingénierie Territoriale – Volet eau
+          développement local
+          Soutien à la mise en œuvre d'opérations liées aux stratégies                    Soutien à la mise en œuvre d'opérations liées aux stratégies
+19.2.1                                                                         19.2
+          locales de développement                                                        locales de développement
+
+19.3.1    Préparation et mise en œuvre des activités de coopération            19.3       Préparation et mise en œuvre des activités de coopération
+
+          Animation et frais de fonctionnement relatifs à la mise en                      Animation et frais de fonctionnement relatifs à la mise en œuvre
+19.4.1                                                                         19.4
+          œuvre de la stratégie locale de développement                                   de la stratégie locale de développement
+
+20.1.1    Assistance Technique du programme                                    20.1       Assistance Technique
+
+
+Source : CRC Occitanie d’après les programmes de développement rural
+
+
+
+
+                                                                              53
+                           LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+        Annexe n° 3.Systèmes d’information utilisés par la Région Occitanie
+
+
+       La Région a choisi de se doter d’applications de gestion centralisées pour la gestion des
+fonds européens.
+        Pour le suivi du FEDER-FSE+ elle a adopté, comme d’autres régions, l’application
+Synergie (Système d’information État Région pour la gestion interfonds européens). Le
+système a une double fonctionnalité, un portail dédié aux bénéficiaires qui permet un suivi par
+projet et un logiciel cœur de métier pour le suivi des dossiers et du programme. C’est une base
+de données commune aux autorités de gestion qui l’utilisent mais qui est paramétrée en fonction
+de critères régionaux propres.
+        Pour le FEADER, la Région utilisait dans le cadre du programme précédent le système
+d’information Osiris, un outil fourni par l’Agence de service des paiements. Pour la
+programmation 2023-2027 du FEADER, la Région Occitanie s’est associée au sein d’un
+groupement de commande avec huit autres régions, pour adopter un système de gestion
+commun Euro-Pac. Les dossiers de demande d’aide jusqu’alors déposés en format papier
+transitent désormais par cette plateforme. L’outil a développé les premiers modules permettant
+la mise en œuvre des appels à projet et les conventionnements avec les porteurs de projets. Les
+autres fonctionnalités sont en cours de déploiement progressif.
+       Plusieurs autres outils sont utilisés notamment :
+       - un site collaboratif GEDOCC qui est une solution de travail sécurisée à disposition des
+services instructeurs. Il permet de regrouper la réglementation et les procédures, les modèles de
+document, les guides de formation. Les services en charge du FEDER-FSE+ et aussi du
+FEADER l’utilisent.
+        - une application Viziaprog qui permet un suivi spécifique des données individuelles
+des participants et des entités aux actions cofinancées au titre du FSE+ ainsi que le calcul des
+indicateurs. L’outil permet l’envoi de données à la Commission européenne sur la typologie
+des bénéficiaires via un module spécifique de Synergie.
+       - un portail de pilotage et de décision commun à l’ensemble des fonds SPPID (système
+partagé de pilotage et d’information décisionnelle) accessible à tous les agents.
+        - par ailleurs une saisie supplémentaire est nécessaire dans le progiciel de gestion des
+aides financières de la Région PROGOS qui regroupe toutes les subventions, bourses et fonds
+européens. Ce progiciel géré par la direction des Finances et du contrôle de gestion permet
+ensuite leur paiement par l’application financière de la collectivité (Grand Angle).
+
+
+
+
+                                               54
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                            Annexe n° 4.Réalisation des programmes
+
+
+
+                              Tableau n° 13 : Réalisation des PDR 2014-2022
+
+                                               Progammation
+                                                    PDR              Engagé            Payé
+
+       PDR Midi-Pyrénées                         2 063 852 085     2 034 238 007    1 998 475 007
+
+                 dont plan de relance               74 725 295       64 729 202       62 176 473
+          dont aide exceptionnelle de
+                            trésorerie               8 500 000        8 265 000          361 500
+       PDR Languedoc-Roussillon                    912 421 919      890 903 437      861 351 439
+
+                 dont plan de relance               39 371 155       35 977 036       30 198 947
+          dont aide exceptionnelle de
+                            trésorerie               9 500 000         9 031 000        3 276 000
+       Total                                     2 976 274 004     2 925 141 444    2 859 826 446
+       Taux de réalisation                                                98,3%            96,1%
+                            Plan de relance          114 096 450      100 706 237       92 375 420
+                                                                           88,3%              81,0%
+
+              Mesure aide exceptionnelle de
+           trésorerie aux agriculteurs (M23)          18 000 000       17 296 000        3 637 500
+                                                                           96,1%              20,2%
+
+Source : CRC Occitanie d’après données transmises par la Région en septembre 2025
+
+
+
+
+                                                     55
+                                LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+                     Tableau n° 14 : Exécution de la programmation du FEDER-FSE
+
+                    Nombre de     Coût       Exécution de        Taux
+                                                                                Taux de      Financement
+   En M€             dossiers   total des         la        d'intervention
+                                                                             programmation     européen
+                   programmés    projets    programmation         UE
+
+ Languedoc-          1 445      1 240,53       574,84          46,3%            110,6%          519,84
+ Roussillon
+Midi-Pyrénées        1 294      1 432,58       608,89          42,5%            106,3%          572,67
+
+Pyrénées               58        56,85          24,96          43,9%            100,3%          24,87
+(14/20)
+
+Total      2014-     2 797      2 729,96      1 208,69         44,3%            108,2%         1 117,39
+2020
+Occitanie 21-         488        766,57        283,66          37,0%            34,2%           829,69
+27
+Source : CRC d’après la liste des bénéficiaires des opérations programmées établies par la Région Occitanie.
+Arrêtée à juillet 2025 pour 2014-2020 et juin 2025 pour 2021-2027
+
+
+
+
+                                                    56
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+   Tableau n° 15 : Engagement effectif du programme FEDER/FSE 2021/2027 et consommation
+                                            projetée
+
+
+                                                                       Maquette
+                                                             Taux de                Taux de
+                                            Programme                   modifiée
+ OS                 Intitulé                             consommation            consommation
+                                            initial (M€)               septembre
+                                                           (juin 2025)              projeté
+                                                                         2025
+
+       RSO1.1 - Améliorer la recherche
+OS1                                              130            25,7%            130     68%
+                  et l’innovation
+             RSO1.2 - Tirer parti des
+OS1                                              32             14,2%             22     139%
+         avantages de la numérisation
+       RSO1.3 - Renforcer la croissance
+OS1                                              141            51,2%            151     70%
+          et la compétitivité des PME
+                    Total OS 1                   303            36,3%            303      74%
+OS2    RSO2.1 - Efficacité énergétique            72            33,6%             77      76%
+OS2    RSO2.2 - Énergies renouvelables            23            78,2%             41     184%
+        RSO2.3. Systèmes énergétiques
+OS2                                              16             0,0%
+                    intelligents
+             RSO2.4 - Adaptation au
+OS2                                              35             18,5%             30     67%
+             changement climatique
+OS2      RSO2.6 - Économie circulaire            15             22,0%             15     92%
+       RSO2.7 - Protection de la nature
+OS2                                              25             34,2%             23     76%
+                  et biodiversité
+                    Total OS 2                   186            32,5%            186     100%
+           RSO2.8 - Mobilité urbaine
+OS3                                              21             6,5%              21     95%
+                       durable
+                    Total OS 3                   21             6,5%              21     95%
+       ESO4.1 - Accès à l’emploi et aux
+OS4                                              38             81,5%             49     105%
+        mesures d’activation pour tous
+          ESO4.5 - Amélioration des
+OS4        systèmes d’éducation et de            12             45,9%             10     99%
+                     formation
+        ESO4.6 - Systèmes d’éducation
+OS4       et de formation qualitatifs et         44             41,6%             40     106%
+                      inclusifs
+        ESO4.7 - Apprentissage tout au
+OS4        long de la vie et transitions         63             47,7%             59     97%
+                 professionnelles
+                    Total OS 4                   157            54,0%            157     102%
+       RSO5.1 - Développement intégré
+OS5                                              96             18,1%             96     83%
+             dans les zones urbaines
+       RSO5.2 - Développement intégré
+OS5                                              38             25,0%             38     105%
+       dans les zones rurales et côtières
+                    Total OS 5                   134            20,1%            134     90%
+               Total programme                   801            35,4%            801     89%
+Source : CRC, d’après les données de la région – consommation projetée en octobre 2025
+
+
+
+
+                                                      57
+                      LA GESTION DES FONDS EUROPÉENS PAR LA RÉGION OCCITANIE
+
+
+
+
+                 Annexe n° 5.La fraude et le conflit d’intérêt
+
+
+
+                          La fraude et le conflit d’intérêt
+Définition de la fraude
+La Convention relative à la protection des intérêts financiers des Communautés
+européennes, définit la fraude, en matière de dépenses, comme tout acte ou omission
+intentionnel relatif à l’utilisation ou à la présentation de déclarations ou de documents
+faux, inexacts ou incomplets, ayant pour effet la perception ou la rétention indue de fonds
+provenant du budget général des Communautés européennes; à la non-communication
+d’une information en violation d’une obligation spécifique, ayant le même effet ; au
+détournement de tels fonds à d’autres fins que celles pour lesquelles ils ont initialement
+été octroyés.
+
+Définition du conflit d’intérêt
+Le règlement financier applicable au budget général de l’Union européenne stipule qu’il
+y a conflit d’intérêts lorsque l’exercice impartial et objectif des fonctions d’un acteur
+financier ou d’une autre personne est compromis pour des motifs familiaux, affectifs,
+d’affinité politique ou nationale, d’intérêt économique ou pour tout autre intérêt personnel
+direct ou indirect.
+
+Un risque non négligeable
+
+Dans son dernier rapport, l’Office européen de lutte anti-fraude (OLAF) a montré qu’à
+plusieurs reprises les fonds européens avaient été versés à l’issue d’un montage
+frauduleux. Ainsi d’un système de corruption en Slovaquie pour l’accès à des fonds
+agricoles et en Hongrie pour un traitement favorable des demandes de subvention, un
+financement de dépenses qui étaient inéligibles au titre du FEDER en Tchéquie. Elle a mis
+en évidence un réseau de lien familial pour l’acquisition de logiciels financés par les fonds
+européens dans une université polonaise, un conflit d’intérêt pour des entreprises
+financées au titre de la transition numérique au Portugal, des conflits d’intérêt dans le
+cadre de la construction d’un centre sportif en Allemagne, des irrégularités dans le cadre
+de marchés publics pour la fourniture de services énergétiques en Espagne. En Grèce
+l’OLAF a découvert qu’une décharge avait été construite à l’aide de financements
+FEDER ; restée inactive pendant trois ans, elle a opéré en contradiction avec les lois
+environnementales et le projet initial n’était pas éligible. Au titre du FSE, l’OLAF a
+découvert qu’en Espagne des fonds avaient été attribués pour la formation de personnes
+qui ne correspondaient pas au profil ciblé, ni en emploi, ni en études, ni en formation
+(NEET).
+
+
+
+
+                                          58
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Chambre régionale des comptes Occitanie
+500, avenue des États du Languedoc
+CS 70755
+34064 MONTPELLIER CEDEX 2
+
+
+
+occitanie-greffe@crtc.ccomptes.fr
+
+
+
+
+                                          59
+

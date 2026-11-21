@@ -208,5 +208,89 @@
   "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/CVLR%202026-021%20-%20CA_CHATEAUROUX_METROPOLE_PROG_LIFE_ROD2_2026.pdf",
   "file": "2026-11-19_ccomptes_communaute-d-agglomeration-chateauroux-metropole-enquete-inter-juridictions-rela.txt",
   "chars": 66641
+ },
+ "/fr/publications/departement-de-la-gironde-gironde-6": {
+  "title": "Département de la Gironde (Gironde)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/NAA2026-0134.pdf",
+  "file": "2026-11-21_ccomptes_departement-de-la-gironde-gironde.txt",
+  "chars": 335659
+ },
+ "/fr/publications/communaute-urbaine-caen-la-mer-calvados-cahier-ndeg2-actions-en-faveur-de-la": {
+  "title": "Communauté urbaine Caen la mer (Calvados) - Cahier n°2 : actions en faveur de la transition écologique",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/NDR2026-29.pdf",
+  "file": "2026-11-21_ccomptes_communaute-urbaine-caen-la-mer-calvados-cahier-n-2-actions-en-faveur-de-la-trans.txt",
+  "chars": 183211
+ },
+ "/fr/publications/communaute-urbaine-caen-la-mer-calvados-cahier-ndeg1-fiabilite-comptable-et": {
+  "title": "Communauté urbaine Caen la mer (Calvados) - Cahier n°1 : fiabilité comptable et trajectoire financière",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/NDR2026-28.pdf",
+  "file": "2026-11-21_ccomptes_communaute-urbaine-caen-la-mer-calvados-cahier-n-1-fiabilite-comptable-et-trajec.txt",
+  "chars": 103445
+ },
+ "/fr/publications/societe-publique-locale-amenagement-de-lagglomeration-dijonnaise-splaad-cote-dor": {
+  "title": "Société publique locale \"Aménagement de l'agglomération dijonnaise\" (SPLAAD) (Côte-d'Or)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/BFR2026-31_0.pdf",
+  "file": "2026-11-21_ccomptes_societe-publique-locale-amenagement-de-l-agglomeration-dijonnaise-splaad-cote-d-.txt",
+  "chars": 213430
+ },
+ "/fr/publications/communaute-de-communes-auxonne-pontailler-val-de-saone-cote-dor": {
+  "title": "Communauté de communes Auxonne-Pontailler-Val-de-Saône (Côte-d'Or)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/BFR2026-37.pdf",
+  "file": "2026-11-21_ccomptes_communaute-de-communes-auxonne-pontailler-val-de-saone-cote-d-or.txt",
+  "chars": 489962
+ },
+ "/fr/publications/prevention-et-gestion-des-inondations-et-des-episodes-de-secheresse-dans-le-bassin": {
+  "title": "Prévention et gestion des inondations et des épisodes de sécheresse dans le bassin genevois à l'heure du changement climatique (Ain et Haute-Savoie)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/ARA202656.pdf",
+  "file": "2026-11-21_ccomptes_prevention-et-gestion-des-inondations-et-des-episodes-de-secheresse-dans-le-bass.txt",
+  "chars": 395142
+ },
+ "/fr/publications/la-gestion-des-fonds-europeens-par-la-region-occitanie-haute-garonne": {
+  "title": "La gestion des fonds européens par la Région Occitanie (Haute-Garonne)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/OCR2026-31.pdf",
+  "file": "2026-11-21_ccomptes_la-gestion-des-fonds-europeens-par-la-region-occitanie-haute-garonne.txt",
+  "chars": 164281
+ },
+ "/fr/publications/commune-de-chartres-eure-et-loir-4": {
+  "title": "Commune de Chartres (Eure-et-Loir)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/CVLR%202026-022%20-%20CHARTRES_ROD2_2026.pdf",
+  "file": "2026-11-21_ccomptes_commune-de-chartres-eure-et-loir.txt",
+  "chars": 162779
+ },
+ "/fr/publications/communaute-de-communes-du-pays-flechois-sarthe-1": {
+  "title": "Communauté de communes du Pays fléchois (Sarthe)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/ROD%202026-233%20CC_Pays_fl%C3%A9chois.pdf",
+  "file": "2026-11-21_ccomptes_communaute-de-communes-du-pays-flechois-sarthe.txt",
+  "chars": 217013
+ },
+ "/fr/publications/communaute-urbaine-le-mans-metropole-projet-life-reverseau-sarthe": {
+  "title": "Communauté urbaine Le Mans Métropole - Projet Life Revers'eau (Sarthe)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/ROD%202026-230%20%20Le%20Mans%20M%C3%A9tropole%20-%20LIFE%20REVERS%27EAU.pdf",
+  "file": "2026-11-21_ccomptes_communaute-urbaine-le-mans-metropole-projet-life-revers-eau-sarthe.txt",
+  "chars": 82764
+ },
+ "/fr/publications/polyclinique-pau-pyrenees-pyrenees-atlantiques": {
+  "title": "Polyclinique Pau Pyrénées (Pyrénées-Atlantiques)",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/NAR2026-041.pdf",
+  "file": "2026-11-21_ccomptes_polyclinique-pau-pyrenees-pyrenees-atlantiques.txt",
+  "chars": 186420
+ },
+ "/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport": {
+  "title": "Note thématique - Les soutiens de l'État en faveur du sport",
+  "first_seen": "2026-11-21",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261119-note-structurelle-Soutiens-Etat-en-faveur-du-sport.pdf",
+  "file": "2026-11-21_ccomptes_note-thematique-les-soutiens-de-l-etat-en-faveur-du-sport.txt",
+  "chars": 122370
  }
 }

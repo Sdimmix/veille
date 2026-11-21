@@ -1,0 +1,2040 @@
+TITRE: Communauté urbaine Caen la mer (Calvados) - Cahier n°1 : fiabilité comptable et trajectoire financière
+PAGE: https://www.ccomptes.fr/fr/publications/communaute-urbaine-caen-la-mer-calvados-cahier-ndeg1-fiabilite-comptable-et
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/NDR2026-28.pdf
+
+       RAPPORT D’OBSERVATIONS DÉFINITIVES                                                         (
+
+
+                                                                 ET SES RÉPONSES
+
+
+                         COMMUNAUTÉ URBAINE
+                                CAEN LA MER
+                      CAHIER N° 1 : FIABILITÉ COMPTABLE ET
+                                   TRAJECTOIRE FINANCIÈRE
+
+
+
+
+                                                                                   (Calvados)
+                                                                   Exercices 2021 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés, a
+                       été délibéré par la chambre le 10 juin 2026.
+
+
+
+
+                   21, rue Bouquet - CS 11110 - 76174 ROUEN Cedex - Tél. 02 35 07 92 00
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                             CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+                                TABLE DES MATIÈRES
+SYNTHÈSE ................................................................................................................ 3
+RECOMMANDATIONS ............................................................................................ 5
+INTRODUCTION ....................................................................................................... 6
+1 RAPPEL DE LA PROCÉDURE.............................................................................. 6
+2 LA FIABILITÉ DES COMPTES ET L’INFORMATION FINANCIÈRE ............. 6
+  2.1 Un règlement budgétaire et financier restant à établir ....................................... 6
+  2.2 Une direction des finances mutualisée avec la commune de Caen et son
+      centre communal d’action sociale ...................................................................... 7
+  2.3 Les procédures mises en œuvre .......................................................................... 8
+  2.4 Un délai global de paiement à améliorer ............................................................ 9
+  2.5 Une gestion des emplois budgétaires à revoir .................................................... 9
+  2.6 Les comptes de dotations aux provisions ......................................................... 10
+      2.6.1 Les provisions pour litiges et contentieux ............................................... 10
+      2.6.2 Les autres provisions pour risques .......................................................... 11
+      2.6.3 Les provisions pour compte épargne-temps ............................................ 11
+      2.6.4 Les dépréciations des comptes de redevables ......................................... 11
+  2.7 Une information budgétaire à compléter .......................................................... 11
+3 LA TRAJECTOIRE FINANCIÈRE ...................................................................... 12
+  3.1 Les soldes intermédiaires de gestion ................................................................ 12
+  3.2 La performance financière du budget principal ............................................... 13
+      3.2.1 L’excédent brut de fonctionnement......................................................... 13
+      3.2.2 La capacité d’autofinancement................................................................ 13
+  3.3 La performance financière des budgets annexes .............................................. 20
+      3.3.1 La performance financière du budget annexe « Transports » ................. 20
+      3.3.2 La performance financière du budget annexe « Assainissement » ......... 20
+      3.3.3 Les budgets annexes des zones d'activités ou d'habitat ........................... 22
+  3.4 Le financement des investissements................................................................. 25
+      3.4.1 Le financement par la dette ..................................................................... 26
+      3.4.2 Les caractéristiques de la dette ................................................................ 29
+  3.5 L’évolution de la trésorerie .............................................................................. 30
+  3.6 Les investissements à venir .............................................................................. 33
+      3.6.1 La nouvelle ligne de transport en site propre .......................................... 33
+      3.6.2 L’ensemble du projet de territoire à financer .......................................... 33
+ANNEXES ................................................................................................................ 36
+  Annexe n° 1 : Les compétences de la communauté urbaine .................................. 37
+  Annexe n° 2 : Glossaire .......................................................................................... 38
+
+
+
+
+                                                              2
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                      SYNTHÈSE
+
+La communauté urbaine Caen la mer a été créée le 1er janvier 2017. Elle est née du
+regroupement de trois établissements publics de coopération intercommunale existants : la
+communauté d’agglomération Caen la Mer, la communauté de communes entre Thue et Mue
+et la communauté de communes Plaine Sud de Caen. La commune de Thaon a également rejoint
+la communauté urbaine.
+Dans le cadre de l’examen des comptes et de la gestion de la communauté urbaine, la chambre
+régionale des comptes a contrôlé la fiabilité des documents budgétaires et comptables produits
+ainsi que la trajectoire financière de l’établissement public de coopération intercommunale. Elle
+souligne positivement de nombreux aspects de sa gestion financière.
+Les documents budgétaires et comptables fournissent des informations financières nombreuses
+et de qualité. Ils sont aisément disponibles sur le site internet de l’intercommunalité.
+La trajectoire financière est certes marquée par une érosion en valeurs relatives de l’excédent
+des produits de gestion sur les charges de gestion qui s’est accélérée en 2024. Elle s’est
+accompagnée d’une baisse de la capacité d’autofinancement nette du fait d’un recours
+supplémentaire à l’emprunt pour assurer la trésorerie nécessaire au financement des
+investissements.
+Mais cette trajectoire ressort comme équilibrée et maitrisée. Le poids des charges de personnel
+dans les charges de gestion a légèrement diminué.
+La capacité de désendettement consolidée a augmenté en 2024 mais reste à un niveau de 5,4 ans
+qui laisse des marges de manœuvre. Les 449 M€ de dépenses d’équipement et de subventions
+d’investissement ont été financés à 94 % par des ressources propres, ce qui atteste de la
+soutenabilité financière du programme réalisé.
+L’organisation de la préparation et de l’exécution des décisions budgétaires du conseil
+communautaire a été mutualisée au plus haut niveau de décision entre l’intercommunalité, la
+commune et son CCAS, tout en étant déconcentrée au sein des directions et des services avec
+un maximum d’autonomie. L’ensemble apparait donc cohérent.
+Cependant, alors que la direction des finances a adopté des pratiques partagées entre tous les
+services, notamment sur la gestion des autorisations de programme et des crédits de paiement,
+celles-ci ne reposent pas sur la mise en œuvre d’un règlement budgétaire et financier dont
+l’adoption est rendue obligatoire par le choix du référentiel budgétaire et comptable M57 et
+dont la compétence appartient au conseil communautaire.
+De plus, en 2024, la communauté urbaine a mis en place des actions pour éviter les
+allongements de délais de paiement. Elle n’est pas encore en capacité de mesurer leur efficacité.
+Cette démarche devra être poursuivie afin de ramener les délais de paiement des fournisseurs
+en deçà du seuil de 30 jours, qui a été dépassé dans 28 % des factures en 2023 et sont tout à fait
+anormaux pour les budgets annexes des zones d’activités.
+La chambre signale surtout l’importance des besoins de financement des zones d’activités dont
+la couverture n’a pas été budgétée, ce qui pèse sur la trésorerie. Elle souligne également
+l’absence de volet prospectif dans les rapports supports des débats d’orientation budgétaire qui
+doit pourtant en comporter.
+
+
+
+
+                                                3
+                                                   COMMUNAUTÉ URBAINE CAEN LA MER
+                         CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+Compte tenu du projet de la nouvelle ligne de tramway et des enjeux financiers importants que
+représente la mise en œuvre de la feuille de route du projet de territoire, en particulier dans son
+volet « transition écologique » (voir cahier sur la transition écologique), la communauté urbaine
+Caen la mer gagnerait à soumettre chaque année à l’assemblée délibérante l’adoption et la mise
+à jour d’un programme pluriannuel d’investissement s’appuyant sur une prospective financière.
+
+
+
+
+                                                4
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                  RECOMMANDATIONS
+
+Les recommandations de régularité :
+
+
+                                           : Adopter un règlement budgétaire et financier
+conformément aux dispositions de l’article 106 de la loi n° 2015-991 du 7 août 2015 portant
+nouvelle organisation territoriale de la République. .................................................................. 7
+
+                                      : Respecter les délais de paiement des fournisseurs
+prévus par l’article R. 2192-10 du code de la commande publique. .......................................... 9
+
+                                         : Respecter l’équilibre et la sincérité des écritures
+comptables des budgets annexes d’aménagement par le versement d’avances du budget
+principal. (Article L. 1612-4 du code général des collectivités territoriales). .......................... 25
+
+
+
+
+                                                           5
+                                                   COMMUNAUTÉ URBAINE CAEN LA MER
+                         CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+                                  INTRODUCTION
+
+
+1 RAPPEL DE LA PROCÉDURE
+
+La chambre régionale des comptes a inscrit à son programme l'examen de la gestion de la
+communauté urbaine Caen la mer (CU CLM) pour les exercices 2021 et suivants.
+Par lettres en date du 16 avril 2025, la présidente de la chambre a informé M. Nicolas Joyau,
+président de la CU CLM depuis le 17 juillet 2024, ainsi que son prédécesseur, M. Joël Bruneau,
+de l’ouverture du contrôle.
+L’examen de gestion a principalement porté sur les axes suivants : fiabilité comptable et
+trajectoire financière (cahier n° 1) et actions en faveur de la transition écologique (cahier n° 2).
+Un entretien d’ouverture de contrôle a eu lieu le 12 mai 2025 avec le président actuel et son
+prédécesseur.
+L’entretien de fin de contrôle entre l’ordonnateur, son prédécesseur et le magistrat rapporteur
+s’est tenu le 23 juin 2025.
+Lors de la séance du 10 décembre 2025, la chambre a arrêté ses observations provisoires,
+transmises, dans leur intégralité à MM. Joyau et Bruneau.
+Le président et l’ancien président ont adressé leurs observations par courriers enregistrés au
+greffe de la chambre le 30 janvier 2026.
+Après avoir examiné les réponses reçues, entendu le rapporteur et pris connaissance des
+conclusions du ministère public, la chambre a arrêté le 10 juin 2026 le présent rapport
+d’observations définitives.
+
+
+
+
+2 LA FIABILITÉ                   DES       COMPTES             ET       L’INFORMATION
+  FINANCIÈRE
+
+
+2.1 Un règlement budgétaire et financier restant à établir
+
+Avant le déploiement du référentiel budgétaire et comptable M57, seuls, les régions, les
+départements et les métropoles avaient l’obligation de se doter d’un règlement budgétaire et
+financier (RBF).
+Depuis, les communes et leurs regroupements qui optent pour le référentiel budgétaire et
+comptable M57 doivent respecter les dispositions de l’article L. 1612-30 du code général des
+collectivités territoriales (CGCT) leur faisant obligation d’adopter un RBF au plus tard avant le
+vote du premier budget primitif en M57.
+
+
+
+
+                                                 6
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+La chambre constate que l’assemblée de la CU CLM n’a pas été saisie par l’ordonnateur alors
+que l’adoption d’un tel règlement budgétaire et financier s’imposait à elle depuis 2017.
+Elle rappelle que le RBF peut s’en tenir a minima aux deux obligations légales consistant à
+préciser les modalités de :
+  • Gestion des autorisations de programme et autorisations d’engagements (AP-AE) et des
+    crédits de paiement (CP) y afférents, notamment les règles relatives à l’annulation des AP
+    et des AE (hormis pour les AP et AE de dépenses imprévues qui deviennent
+    obligatoirement caduques en l’absence d’engagement constaté avant la fin de l’exercice) ;
+  • L’information de l’assemblée délibérante sur la gestion des engagements pluriannuels au
+    cours de l’exercice (budget primitif, budget supplémentaire, décision modificative).
+La chambre rappelle également que l’absence des dispositions obligatoires dans le RBF, tout
+comme l’absence de RBF, peut conduire à fragiliser la portée des AP ou AE votées par
+l’assemblée délibérante. De même, le défaut de précision sur les modalités d’information de
+l'assemblée conduit à limiter le niveau d’information des élus et à affecter leur droit à
+information.
+Toutefois, la CU CLM consacre, depuis plusieurs années, dans ses rapports budgétaires
+(transmis à tous les élus), une partie sur le cadre budgétaire et financier (qui présente entre
+autres la planification financière).
+En réponse aux observations provisoires de la chambre, la CU CLM s’est engagée à adopter
+un RBF avant le vote du budget 2027.
+La chambre en prend note, mais rappelle, qu’à la date d’adoption proposée par la CU CLM
+dans sa réponse, dix ans se seront écoulés avant la mise en œuvre des obligations légales.
+
+
+                                            : Adopter un règlement budgétaire et financier
+conformément aux dispositions de l’article 106 de la loi n° 2015-991 du 7 août 2015
+portant nouvelle organisation territoriale de la République.
+
+
+
+2.2 Une direction des finances mutualisée avec la commune de Caen et son
+    centre communal d’action sociale
+
+La direction des finances de la CU CLM est mutualisée avec celles de la commune de Caen et
+du centre communal d’action sociale (CCAS) de la commune de Caen.
+Elle comprend 32 agents répartis dans quatre services : « Prospectives, stratégie et budgets CU
+CLM et commune de Caen », « Optimisation des ressources », « Comptabilité » et « Pilotage
+interne et performance ». La mutualisation des finances est totale pour les services
+« Optimisation des ressources » et « Pilotage interne et performance ».
+En revanche, une distinction demeure dans l’organigramme au sein du service « Prospectives,
+stratégie et budgets » entre la commune de Caen, le CCAS et la communauté urbaine.
+
+
+
+
+                                              7
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                             CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+La CU CLM définit un calendrier global de préparation de son budget. Le cadrage budgétaire
+est défini avant l’été par le président et le rapporteur général aux finances de la CU CLM.
+Chaque directeur en est destinataire et doit s’y conformer pour préparer son budget.
+Les directions opérationnelles (direction développement et aménagement, direction transition
+et mobilité, etc.) disposent d’une importante marge de manœuvre dans cette préparation
+budgétaire. Elles restent cependant encadrées par la direction des finances qui transmet au
+préalable une rétrospective des dépenses et recettes de fonctionnement sur les
+3 dernières années.
+Cette organisation permet de compiler l'expression des besoins budgétaires de l'ensemble des
+services. La direction des finances soumet ensuite cet ensemble à l'arbitrage politique,
+c’est-à-dire aux vice-présidents. Cette dernière étape qui intervient généralement en novembre
+regroupe le président, les vice-présidents et les directions concernés ainsi que la direction
+générale et la direction des finances.
+
+
+
+2.3 Les procédures mises en œuvre
+
+Une répartition des tâches est réalisée entre la direction des finances, la direction de la
+commande publique et les directions opérationnelles.
+Si la commande se fait au sein d’un marché déjà établi, lorsqu’elle nécessite la passation d’un
+marché à bon de commande ou si elle est inférieure à un montant de 500 €, l’engagement des
+dépenses est réalisé par les directions opérationnelles.
+La validation des commandes hors marché dont le montant est supérieur à 500 € est faite par la
+direction des finances après visa de la direction de la commande publique pour contrôle du
+respect de la nomenclature des achats1. Selon le montant, le signataire du bon de commande est
+un élu, le directeur général adjoint compétent ou le chef de service.
+Lorsque les achats se font dans le cadre de marchés publics à établir, hors marchés à bons de
+commande, le processus est piloté par la direction de la commande publique qui assure
+également l’engagement comptable.
+Les procédures d’engagement mises en place répondent à la recommandation de la chambre sur
+les risques liés à la commande publique.
+Le mandatement est réalisé par la direction des finances, après validation par les directions
+opérationnelles, qui valident le service fait et procèdent à la liquidation des factures, c’est-à-dire
+vérifient que leur montant correspond aux termes de la commande et à la réalité du service fait.
+Pour les recettes, la direction des finances demande aux services et aux directions de regrouper
+les liquidations de recettes destinées à un même tiers débiteur pour ne pas émettre de titre en
+dessous d’un montant minimum de 15 €2. Cette méthode permet au comptable public de
+poursuivre les créances.
+
+
+
+1
+ La nomenclature de la CU CLM est détaillée sur 72 pages.
+2
+  Seuil réglementaire de mise en recouvrement des créances non fiscales des collectivités territoriales et de leurs
+établissements publics.
+
+
+
+
+                                                        8
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2.4 Un délai global de paiement à améliorer
+
+La chambre constate qu’en moyenne, le délai global de paiement s’est établi à 25,883 jours en
+2023 soit en dessous du seuil des 30 jours réglementaires. Sur cet exercice, 63 % des factures
+ont été traitées par la CU CLM en moins de 15 jours auquel il convient d’ajouter un délai de
+traitement par le service comptable qui est, très souvent, inférieur à cinq jours. Toutefois, il
+apparaît que 28 % des factures ont été payées au-delà du délai de 30 jours.
+Des délais plus importants ont été observés pour les budgets annexes « Réseaux de chaleur »
+(73,69 jours) et « Assainissement » (52,88 jours).
+S’agissant des budgets des zones d’activités, certains délais sont particulièrement élevés : ZAC
+Lazzaro Sud (196,75 jours en 2023) et ZAC Normandika (196,5 jours en 2024).
+Plusieurs actions ont été entreprises à compter de juin 2024 par la CU CLM pour réduire le
+délai de paiement. Elle ne dispose pas encore du recul suffisant pour permettre une véritable
+analyse comparative de l’impact des mesures mises en place. Mais d’ores et déjà, la CU CLM
+indique constater une amélioration. Selon elle, le nombre de factures hors délai (hors factures
+d’énergie) est passé de 26 % à 25 % entre 2023 et 2024 et de 28 % à 25 % de fin juin 2024 à
+fin juin 2025. Toutefois, la CU CLM précise qu’en 2025, le délai global de paiement est de
+26,53 jours pour le budget principal.
+La chambre recommande donc à la CU CLM de respecter la règle relative aux délais de
+paiements pour l’ensemble de ses budgets.
+En réponse aux observations provisoires de la chambre, la CU CLM indique, qu’en vue
+d’améliorer le délai global de paiement, elle mène une étude sur l’optimisation de la chaine
+comptable en analysant le temps d’intervention et le rôle de tous les acteurs internes et externes
+du processus et que, s’agissant plus particulièrement des budgets annexes de zones d’activités,
+une nouvelle organisation du service est effective depuis le 1er février 2026 emportant la fusion
+de deux directions et la suppression d’étapes dans le circuit de validation. La chambre en prend
+note.
+
+
+                                           : Respecter les délais de paiement des
+fournisseurs prévus par l’article R. 2192-10 du code de la commande publique.
+
+
+
+2.5 Une gestion des emplois budgétaires à revoir
+
+La chambre observe que la CU CLM n’inscrit pas au chapitre 012 de son budget (dépenses de
+personnel) la totalité des postes ouverts dans l’effectif des emplois afin, selon elle, de prendre
+en compte un taux de vacance de poste.
+En réponse, la CU CLM précise que cet écart se réduit et qu’elle en maîtrise les termes.
+
+
+
+
+3
+    Source : data.gouvr.fr.
+
+
+
+
+                                                9
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                             CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+Ainsi, en décembre 2024, sur 2 183 postes budgétaires, 2026 étaient pourvus, 122 vacants
+(dont 96 lancés au recrutement) et 32 gelés.
+La chambre invite, en conséquence, la CU CLM à poursuivre cette démarche afin de budgéter
+l’ensemble des emplois créés par décisions du conseil communautaire.
+
+
+
+2.6 Les comptes de dotations aux provisions
+
+La chambre observe positivement le suivi par la CU CLM des différents risques encourus. À ce
+titre, au 31 décembre 2024, elle a provisionné 3,8 M€.
+
+
+                                Tableau n° 1 : Les dotations aux provisions
+
+                                                                                           Solde des
+              Compte de provisions                2021     2022      2023       2024      comptes de
+                                                                                           provisions
+    Provisions pour litiges et contentieux        60 000 €      0€        0€    684 000 €     744 000 €
+    Autres provisions pour risques              300 000 € 300 000 € 300 000 €   300 000 € 2 700 000 €
+    Provisions pour compte épargne temps                                        322 200 €     322 200 €
+    Dépréciations des comptes de redevables                27 827 € 15 804 €     11 547 €      40 708 €
+    Dépréciations des comptes de débiteurs divers          11 058 €       0€          0€            0€
+    Total                                      360 000 € 338 884 € 315 804 € 1 317 747 € 3 806 908 €
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+
+2.6.1 Les provisions pour litiges et contentieux
+
+Dans le cadre de la reconstruction par la CU CLM du laboratoire CRISMAT4, un prestataire lui
+a demandé de lui verser la somme de 780 347,69 € au titre de la reconnaissance d’un décompte
+général et définitif (DGD) tacite5. Le DGD notifié par la CU CLM prévoyait le versement d’un
+montant de 116 034,82 €, elle a donc provisionné la différence soit une somme de 684 000 €
+pour couvrir ce risque.
+
+
+
+
+4
+  Créé en 1986, le laboratoire CRISMAT (Cristallographie et Sciences des Matériaux) est une unité mixte de
+recherche (UMR CNRS 6508) sous la triple tutelle du CNRS, de l’ENSICAEN et de l’Université de
+Caen Normandie. Ce laboratoire est un centre de recherche ouvert sur les demandes sociétales fortes, en particulier
+liée à la problématique de transition énergétique, et un acteur majeur de la recherche sur les matériaux durables et
+intelligents, et leurs caractérisations avancées.
+5
+  En cas de reconnaissance d’un DGD tacite, la collectivité doit verser la totalité des sommes réclamées sans
+pouvoir en contester le bien-fondé.
+
+
+
+
+                                                        10
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2.6.2 Les autres provisions pour risques
+
+Le budget annexe de réhabilitation du quartier d'Ifs Plaine Nord-Est a fait apparaître une
+nécessité de financement pour équilibrer l'opération d'environ 3 M€. Afin d'anticiper cet
+éventuel déficit, la CU CLM a inscrit, dès 2016, une provision à hauteur de 300 000 € qui a été
+renouvelée au cours des exercices suivants. Au 31 décembre 2024, le total provisionné
+atteint 2,7 M€ et une inscription de 300 000 € est de nouveau prévue en 2025.
+
+
+2.6.3 Les provisions pour compte épargne-temps
+
+Suite au précédent contrôle de la chambre, la CU CLM constitue, depuis 2024, des provisions
+pour la monétisation du compte épargne-temps (CET).
+La provision inscrite au budget primitif de l’année N correspond aux dépenses constatées
+en N-1, éventuellement ajustées des évolutions réglementaires.
+Ainsi, le montant monétisé pour CET a été de 0,32 M€ en 2023.
+
+
+2.6.4 Les dépréciations des comptes de redevables
+
+Des provisions pour dépréciation des comptes de redevables ont été créées à hauteur de 15 %
+des créances de plus de deux ans, comptabilisées dans les comptes de la collectivité au
+31 décembre (à hauteur de 40 000 €). Ce montant est peu élevé, peu de services de la CU CLM
+étant gérés en régie directe.
+
+
+
+2.7 Une information budgétaire à compléter
+
+Les élus et les citoyens disposent de plusieurs documents annuels : un rapport d’orientation
+budgétaire, un rapport budgétaire et un rapport du compte financier unique ainsi qu’une note
+brève et synthétique de présentation par budget à destination des élus lors du vote.
+Ces documents sont riches et procurent des informations variées et pédagogiques. Si les
+rapports budgétaires et les rapports sur le compte financier unique sont volumineux, ils sont
+clairs et leurs contenus n’appellent aucune observation de la chambre.
+En revanche, la chambre observe que les rapports supports du débat d’orientation budgétaire ne
+développent aucune prospective.
+La chambre demande donc à la CU CLM de présenter au cours des débats d’orientation
+budgétaire une véritable prospective faisant le point sur la mise en œuvre des AP et, notamment,
+celles se rapportant au projet de territoire.
+
+
+
+
+                                              11
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                            CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+La plupart des opérations comptables sont régulièrement tenues et n’interfèrent pas sur la
+qualité des comptes annuels.
+En revanche, l’absence de règlement budgétaire et financiers fragilise la pratique des
+autorisations de programme régulièrement utilisées par la CU CLM.
+Par ailleurs, sur les délais globaux de paiement, des efforts restent à faire notamment pour les
+zones d’activités pour lesquelles ils demeurent plus préoccupants.
+Enfin, les documents accompagnant les débats d’orientation budgétaire doivent être complétés
+par des prospectives financières et ce d’autant plus que les investissements envisagés par la
+CU CLM sont importants.
+
+
+
+
+3 LA TRAJECTOIRE FINANCIÈRE
+
+Les opérations de la CU CLM sont retracées dans un budget principal (63 % des dépenses
+totales de fonctionnement en 2024) et quinze budgets annexes, dont les plus importants sont
+ceux des « Transports » (26 % des dépenses de fonctionnement en 2024) et de
+l’« Assainissement » (6 %).
+En 2025, un onzième budget relatif aux zones d’activités a été créé, reprenant les comptes des
+zones d’activité précédemment concédées et dont les contrats de concessions sont arrivés à
+terme.
+
+
+3.1 Les soldes intermédiaires de gestion
+
+L’excédent brut de gestion6 calculé par les juridictions financières diffère légèrement de celui
+calculé par la CU CLM qui n’intègre pas les recettes liées aux travaux en régie.
+La chambre considère néanmoins que cette recette est bien une production annuelle
+d’équipement constitutive d’une recette de fonctionnement de l’exercice.
+De même, pour le calcul de la capacité d’autofinancement (CAF), les produits des cessions
+d’actifs ne sont pas conservés par les juridictions financières en recettes réelles de
+fonctionnement où ils sont effectivement encaissés mais retraités en ressources propres
+d’investissement.
+En effet, les juridictions financières considèrent que les cessions d’actifs ont davantage vocation
+à financer les investissements.
+
+
+
+
+6
+    Dénommé épargne de gestion dans les documents de la communauté urbaine.
+
+
+
+
+                                                     12
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.2 La performance financière du budget principal
+
+3.2.1 L’excédent brut de fonctionnement
+
+De 2021 à 2024, les produits de gestion ont augmenté en moyenne de 4,4 % par an alors que
+les charges de gestion ont progressé de 4,9 %.
+Malgré une érosion due à ce léger « effet ciseau » entre les produits et les charges, la CU CLM
+a pu conserver un excédent brut de gestion à une hauteur moyenne de 20,7 % des produits de
+gestion, ce qui constitue une bonne performance pour un budget principal.
+
+                 Graphique n° 1 : Évolution de l’excédent brut de fonctionnement
+
+                 250 000 000 €
+                 200 000 000 €
+                 150 000 000 €
+                 100 000 000 €
+                  50 000 000 €
+                            0€
+                                     2021            2022            2023            2024
+             Produits de gestion 218 170 341 €   228 476 656 €   245 389 414 €   248 021 696 €
+             Charges de gestion 172 800 023 €    180 375 659 €   193 336 409 €   199 328 639 €
+              Excédent brut de
+                                 45 370 318 €     48 100 997 €    52 053 005 €    48 693 058 €
+              fonctionnement
+
+    Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+La baisse de l’excédent brut de fonctionnement intervenue en 2024 est liée à la faible
+augmentation des produits de gestion (+ 1,1 %), contrairement aux charges de gestion
+(+ 3,1 %). Ces dernières progressent plus fortement en raison de l’inflation, de la forte
+augmentation du coût des énergies (fin du contrat d’électricité au 31 décembre 2023) et de
+l’impact sur la masse salariale de mesures nationales (+ 3 %).
+
+3.2.2 La capacité d’autofinancement
+
+La déduction de l’excédent brut de fonctionnement (EBF) des résultats financiers (charges des
+intérêts de la dette) et exceptionnels (produits et charges exceptionnelles) conduit à la capacité
+d’autofinancement brute (CAF brute).
+Pour sa part, la CAF nette résulte de la CAF brute diminuée de l’annuité en capital de la dette.
+Elle représente les sommes disponibles pour investir ou la marge pour rembourser des emprunts
+supplémentaires.
+L’érosion de l’EBF et l’augmentation des intérêts de la dette de 18,1 % en moyenne par an
+entrainent la CAF brute à la baisse mais celle-ci se maintient au-delà de 17,1 % des produits de
+gestion.
+Cependant, l’augmentation des remboursements en capital de cette même dette provoque une
+baisse plus forte de la CAF nette.
+
+
+
+
+                                                 13
+                                                    COMMUNAUTÉ URBAINE CAEN LA MER
+                          CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+En 2024, la CAF nette a donc subi une triple influence :
+   • une baisse de l’EBF en raison d’une hausse des charges de gestion un peu supérieure à la
+     hausse des produits de gestion ;
+   • une baisse de la CAF brute en raison de la hausse des intérêts de la dette ;
+   • une hausse du remboursement du capital de la dette.
+
+
+ Graphique n° 2 : Effet cumulé de la baisse de l’excédent brut de fonctionnement, des hausses des
+ intérêts et de l’annuité de la dette en capital (La CAF nette est inscrite dans les cartouches bleues)
+
+
+
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+
+3.2.2.1     Les dépenses de fonctionnement
+
+
+3.2.2.1.1 Des charges à caractère général en hausse
+
+Les charges à caractère général s’établissent en 2024 à 55 M€. Sur l’ensemble de la période,
+elles ont progressé selon une augmentation annuelle moyenne de 10,3 %.
+La plus forte augmentation en masse financière est liée aux contrats de prestations de services
+qui, avec une valeur de 22,4 M€ en 2024, représentent 42 % des charges à caractère général.
+Leur progression annuelle moyenne sur la période est de 8,3 %.
+Elle s’explique notamment par l’augmentation des coûts des marchés de collecte des déchets et
+des contrats des déchetteries dont les révisions de prix sont liées à des indices calculés à partir
+du coût des énergies.
+Pour mémoire, les actions en matière de déchets et de propreté urbaine représentaient, en 2024,
+20 % des charges de gestion inscrites au budget principal, soit 18,4 M€.
+La progression des charges d’énergie-électricité (compte 60612) constituent le second facteur
+d’augmentation des charges à caractère général, passant de 3,3 M€ en 2023 à 5,4 M€ en 2024
+
+
+
+
+                                                  14
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+(+ 63 %) et s’expliquant par la fin des prix contenus de l’électricité négociés par le syndicat
+départemental d’électricité du Calvados dans son accord-cadre 2020/2023.
+Sur la période examinée, les frais bancaires (82 278 € en 2024) et d’assurances (1,06 M€ en
+2024) ont également fortement augmenté, de l’ordre de 15,9 % en moyenne par an.
+L’augmentation la plus importante des contrats d’assurance a eu lieu entre 2022 et 2023
+(+ 39,5 %), soit une hausse de 293 031 €. En masse financière, cette augmentation a néanmoins
+peu d’impact sur l’EBF (0,2 % des charges de gestion).
+
+
+3.2.2.1.2 Des charges de personnel maîtrisées
+
+Les charges de personnel nettes de remboursements des mises à disposition augmentent en
+moyenne de 3,8 % par an. La variation globale des effectifs n’étant pas significative, elle ne
+constitue pas la source des augmentations qui est davantage à rechercher dans des facteurs
+exogènes tels que les revalorisations des points d’indice, les hausses du taux de cotisation
+CNRCAL ou encore les revalorisations du SMIC.
+Par ailleurs, l’harmonisation, à partir du 1er novembre 2022, du régime indemnitaire tenant
+compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel (RIFSEEP)
+des agents provenant des communes membres a entraîné une augmentation de 11,3 % du
+montant total des indemnités versées (+ 1,7 M€).
+Sur l’ensemble de la période, les dépenses relatives au personnel non titulaires, concernant
+essentiellement des postes non permanents, sont en augmentation de 10 % en moyenne annuelle
+(+ 1,9 M€ sur la période) (245 ETPa7 en 2021 contre 281 ETPa en 2024).
+Globalement, l’augmentation des dépenses de personnel reste inférieure à celle des produits de
+gestion et ne représentent plus que 37,5 % de ces produits contre 39,2 % au début de la période
+sous revue.
+Ainsi, les dépenses de personnel apparaissent maitrisées à un niveau supportable par le budget
+principal.
+
+
+3.2.2.2      Les recettes de fonctionnement
+
+L’importance des compétences transférées est matérialisée par le calcul du coefficient
+d’intégration fiscale (CIF) qui donne une mesure du degré d’intégration d’un territoire par le
+regroupement de l’exercice des compétences et de la gestion des services et équipements
+publics locaux au sein de l’intercommunalité. Il résulte du rapport entre d’une part, les recettes
+fiscales de l’établissement public de coopération intercommunale (EPCI), déduction faite des
+attributions de compensation et de la moitié des dotations de solidarité communautaires
+reversées aux communes membres, et d’autre part, l’ensemble des recettes fiscales perçues par
+les communes membres et toutes les intercommunalités dont elles sont membres.
+
+
+
+
+7
+  ETPa = (nombre d’heures normales payées dans l’année/1 820) + (nombre d’heures supplémentaires payées dans
+l’année/1 607).
+
+
+
+
+                                                    15
+                                                         COMMUNAUTÉ URBAINE CAEN LA MER
+                               CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+Le CIF de la CU CLM traduit une très forte intégration des compétences puisqu’il avoisine les
+60 % en 2024. En effet, sur cette même année et à titre de comparaison, 50 % des métropoles
+et communautés urbaines ont un CIF inférieur à 40 % et seules 25 % d’entre elles ont un CIF
+supérieur à 47 %.
+
+
+3.2.2.2.1 Les ressources fiscales
+
+Les ressources fiscales de la CU CLM ont augmenté en moyenne de 5,3 % par an au cours de
+la période sous revue.
+L’année 2023 se caractérise par la plus forte augmentation avec 9,2 % (7,3 % en excluant la
+taxe GEMAPI créée par la communauté urbaine).
+La taxe d'enlèvement des ordures ménagères a progressé sur toute la période sous-revue. Cette
+hausse résulte uniquement de la croissance des bases d’imposition, la pression fiscale étant
+constante.
+Cependant, des taux différenciés s’appliquent sur le territoire de la CU CLM en fonction du
+niveau de service rendu aux usagers (collecte ou non des déchets verts en porte à porte) et sur
+la zone concernée par l’expérimentation de la taxe incitative mise en place par la CU CLM en
+2020 (sur les communes de l’ex-SIDOM de Creully).
+
+                 Tableau n° 2 : Évolution de la fiscalité et des compensations de fiscalité
+                                En €                                  2021            2022            2023            2024
+Impôts directs locaux                                                 30 819 039      31 973 965      35 060 868      35 603 066
+Cotisation sur la valeur ajoutée des entreprises                     22 920 843      22 373 302
+Taxe sur les surfaces commerciales                                     5 262 098       5 905 697       7 211 871       6 995 202
+Imposition forfaitaire sur les entreprises de réseau                   1 130 138       1 195 019       1 275 514       1 326 131
+Autres contributions directes                                            995 051         419 245         455 874       1 030 756
+Taxe d’enlèvement des ordures ménagères et assimilées                 35 146 477      36 675 572      39 222 558      41 054 709
+Taxe pour la gestion des milieux aquatiques et la prévention
+                                                                                                       2 521 924       2 522 383
+des inondations
+Taxe de séjour                                                         1 365 522       2 284 846       2 451 586       2 705 200
+Attribution de compensation                                           34 480 153      34 480 153      34 877 139      34 984 647
+FNGIR                                                                 11 283 448      11 283 448      11 283 448      11 283 448
+Fonds de péréquation des ressources communales et
+                                                                       4 311 035       4 254 940       4 132 728       4 004 816
+intercommunales
+Reversement du prélèvement sur les jeux et les paris hippiques           115 520         117 226        128 943          135 693
+Fraction compensatoire de la TFPB et de la TH                         34 075 920      37 340 521     38 359 914       38 348 655
+Fraction compensatoire de la CVAE                                                                   24 676 036       24 651 221
+Autres restitutions au titre des dégrèvements sur contributions
+                                                                       - 31 227        - 40 442      - 101 990        - 115 342
+directes
+Attribution de compensation                                        - 18 147 948    - 18 147 948    - 17 779 278    - 17 779 278
+Dotation de solidarité communautaire                                 - 2 804 725     - 2 804 725    - 3 087 578      - 3 087 578
+Péréquation des ressources communales et intercommunales               - 137 243
+Compensation de la taxe d’habitation sur les résidences
+                                                                                                                      - 334 228
+principales
+Fraction compensatoire de la CVAE                                                                            - 211 793
+Reversements, restitutions et prélèvements divers                                               - 343 346            0
+Total                                                             160 784 103 167 310 820 180 346 212 183 117 709
+Fiscalité reversée                                                 - 29 100 241 - 29 183 095 - 29 555 403 - 29 541 748
+Ressources fiscales propres (nettes des restitutions)               131 683 862 138 127 725 150 790 809 153 575 961
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+
+
+                                                            16
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Les suppressions de la taxe d’habitation sur les résidences principales à compter du
+1er janvier 2021 et de la contribution sur la valeur ajoutée (CVAE) en 2023 ont fait l’objet de
+compensations par l’État dans les recettes de la CU CLM.
+Au cours de l’année 2024, la CU CLM a reconduit les taux d'imposition votés l’année
+précédente, soit 0,958 % pour la taxe foncière sur les propriétés bâties (TFPB) et 3,81 % pour
+la taxe foncière sur les propriétés non bâties (TFPNB).
+S’agissant du taux de la taxe d'habitation sur les résidences secondaires (THRS), la CU CLM a
+décidé de reconduire à l’identique le taux appliqué depuis 2019, soit 8,72 %.
+En 2023, la CU CLM a mis en place la taxe sur la gestion des milieux aquatiques et prévention
+des inondations dite « GEMAPI »8 dont le produit est de 2,5 M€.
+Cette taxe est repartie entre les quatre taxes locales (TFPB, TFPNB, THRS et CFE), soit environ
+2 M€ de produit additionnel de fiscalité ménages et 0,5 M€ de produit additionnel de fiscalité
+professionnelle.
+
+
+
+
+8
+  Par délibération en date du 29 septembre 2022, la communauté urbaine a décidé d’instituer une taxe GEMAPI à
+compter de l’exercice 2023 et ce, sur la base d’une prospective financière 2023/2030. Pour la gestion des milieux
+aquatiques Caen la mer s’appuie sur le syndicat mixte du bassin de la Dive et sur l’entente intercommunale du
+bassin versant de l'Orne. Pour l’autre volet de la GEMAPI (prévention des inondations), Caen la mer s’appuyait
+jusqu’alors sur le syndicat mixe de lutte contre les inondations pour la partie du territoire qui concerne le bassin
+versant de l’Orne (hors submersion marine). La dissolution de ce syndicat au 1er janvier 2025 entraîne la reprise
+par la communauté urbaine, à compter de cette date, de l’intégralité du passif et de l’actif du syndicat.
+
+
+
+
+                                                        17
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                            CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+3.2.2.2.2 L’attribution de compensation
+
+
+   Graphique n° 1 : L’attribution de compensation fiscale, un changement de paradigme en 2017
+
+                Solde des reversements entre l'EPCI et les communes
+                Attribution de compensation versée aux communes (en moins sur le graphique)
+                Attribution de compensation versée par les communes (en plus sur le graphique)
+
+    40,00 M€    Dotation de solidarité communautaire versée aux communes (en moins sur le graphique)
+
+    30,00 M€
+
+    20,00 M€
+
+    10,00 M€
+
+     0,00 M€
+                 2014    2015     2016    2017     2018      2019     2020   2021    2022        2023   2024
+    -10,00 M€
+
+    -20,00 M€
+
+    -30,00 M€
+
+    -40,00 M€
+                                    En 2017, la communauté d'agglomération devient une
+    -50,00 M€                       communauté urbaine. Le territoire géographique s'élargit
+    -60,00 M€
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+L’attribution de compensation a pour objet de neutraliser l’impact des transferts de fiscalité et
+de compétences pour l’EPCI, qui perçoit la fiscalité économique en lieu et place des communes
+mais assure la charge des compétences transférées.
+Depuis 2017, la CU CLM perçoit une attribution de compensation de la part des communes
+membres alors que beaucoup d’EPCI versent d’importantes attributions de compensation. En
+2024, le solde des attributions de compensation versées à la CU CLM est de 17,2 M€.
+Cette situation s’explique par le transfert de 50,4 M€ de charges supplémentaires des budgets
+communaux vers celui de la CU CLM au titre de compétences nouvellement
+communautarisées, soit l’équivalent d’un cinquième des charges actuelles.
+Ce mouvement explique également l’existence d’un CIF supérieur à 50 %, approchant 60 % en
+2024.
+Cependant, un reversement de fiscalité intervient au titre de la dotation de solidarité
+communautaire versée aux communes à hauteur de 3,09 M€.
+
+
+
+
+                                                        18
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.2.2.2.3 Les ressources d’exploitation
+
+
+                               Tableau n° 3 : Évolution des ressources d’exploitation
+
+                              En €                                2021         2022         2023         2024
+Ventes de marchandises et de produits finis                          16 343       18 674       17 357         9 425
++ Domaine et récoltes ( dont redevances de stationnement
+                                                                   1 229 233    2 146 757    2 888 896    3 375 002
+et Forfait de post-stationnement
++ Travaux, études et prestations services                          2 520 947    3 524 696    3 542 859    3 983 698
++ Mise à disposition de personnel facturée                         3 395 865    2 330 183    2 994 239    2 970 962
++ Remboursement de frais                                           2 591 845    2 267 959    2 674 441    2 727 469
+ = Ventes diverses, pdts des services et du domaine et
+                                                                   9 754 235   10 288 269   12 117 791   13 066 556
+remboursements de frais (a)
++ Revenus locatifs et redevances (hors délégation de
+                                                                   1 613 514    3 606 560    3 950 925    3 085 264
+service public)
++ Excédents et redevances sur services publics industriels
+                                                                    349 095      210 526      218 437      303 872
+et commeciaux (SPIC)
++ Subventions et autres produits non récurrents                      12 572       13 503       45 846       24 397
+    = Autres produits de gestion courante (b)                      1 975 181    3 830 589    4 215 208    3 413 533
+     = Ressources d'exploitation (a+b+c)                          11 729 416   14 118 858   16 332 999   16 480 089
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+En quatre ans, les ressources d’exploitation ont augmenté de 40 % portées par les hausses des
+produits des redevances du domaine public et de stationnement et du forfait post-stationnement
+(1,7 M€ de recettes supplémentaires). Cette situation s’explique notamment par de meilleures
+recettes, mais aussi et surtout par la perception à compter de 2024 des redevances d’occupation
+du palais des sports. Cette augmentation résulte également des revenus locatifs (+ 1,4 M€).
+Une recette nouvelle9 apparaît en 2022 au titre des prestations délivrées aux communes
+membres au titre du service commun « efficacité énergétique du patrimoine public ». Cette
+recette d’abord modeste, 0,07 M€ en 2022, a été respectivement de 0,17 M€ en 2023 et de
+0,13 M€ en 2024. Bien qu’elle demeure faible, elle témoigne de l’engagement de la CU CLM
+pour le soutien à la transition énergétique de ses communes membres.
+
+
+3.2.2.2.4 Les ressources institutionnelles
+
+La CU CLM perçoit la dotation globale de fonctionnement (DGF). Elle a baissé en moyenne
+de 1,5 % par an sur la période examinée, soit une diminution de 476 300 €.
+Cependant, la CU CLM est très bien dotée puisqu’elle figure parmi les 30 premiers EPCI sur
+1 261 qui la perçoivent. Alors que la métropole est la forme la plus intégrée d'intercommunalité,
+la dotation de la CU CLM est supérieure à celles des métropoles de Brest, Dijon ou Metz. Cette
+situation est le résultat de son fort CIF10.
+
+
+
+9
+    Compte 70875 de la sous-fonction 71.
+10
+    Plus la communauté urbaine exerce de compétences, plus le CIF est élevé, plus la DGF est élevé.
+
+
+
+
+                                                             19
+                                                   COMMUNAUTÉ URBAINE CAEN LA MER
+                         CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+3.3 La performance financière des budgets annexes
+
+
+3.3.1 La performance financière du budget annexe « Transports »
+
+Avec 90,9 M€ de produits, le budget annexe « Transports » est le deuxième budget de
+la CU CLM.
+La CU CLM est propriétaire de la quasi-totalité des biens nécessaires à l’exploitation, qu’elle
+met à la disposition du délégataire : locaux, équipements, matériels roulants, abris et poteaux
+d’arrêt, systèmes d’aide à l’exploitation, et de billettique. Assumant le « risque industriel », elle
+supporte les investissements liés à leur renouvellement ou leur extension. Elle perçoit du
+délégataire une redevance d’occupation du domaine public.
+La CU CLM perçoit également les achats de tickets et abonnement effectués des usagers et le
+versement mobilité des employeurs.
+De son côté, le délégataire est engagé sur des objectifs de charges et de recettes. Au titre des
+charges, il perçoit une subvention d’exploitation définie et indexée contractuellement. Elle est
+actuellement en augmentation (+ 10 % entre 2021 et 2024), suivant celle des indices servant de
+base de calcul du taux d’actualisation du contrat.
+Le délégataire est intéressé au niveau de la réalisation des recettes. Pour chaque exercice, si les
+montants des recettes de gestion et de produits divers sont supérieurs à ceux des objectifs
+contractuels, la CU CLM lui verse un intéressement à raison de 50 % des éventuels excédents
+constatés. En cas de réalisations inférieures aux objectifs, le délégataire est redevable de la
+totalité de l’écart constaté et reverse à CU CLM le montant de référence de la catégorie de
+recettes considérée.
+L’excédent brut d’exploitation (EBE) de ce budget annexe a fortement progressé au cours de la
+période sous revue (+ 50 %), s’expliquant notamment par l’évolution du produit du versement
+mobilité (+ 19,9 M€ entre 2022 et 2023). Cette progression de l’EBE a permis à la CAF brute,
+malgré un résultat financier fortement négatif dû aux intérêts de la dette, de dépasser le seuil de
+30 % du produit total en 2023 et 2024.
+
+
+3.3.2 La performance financière du budget annexe « Assainissement »
+
+Sur le territoire de la CU CLM plusieurs contrats de DSP se sont côtoyés jusqu’en 2023. Au
+1er janvier 2023, suite à une procédure de mise en concurrence, les opérateurs en charge de
+l’exploitation des services de l’assainissement ont changé. La société VEOLIA assure
+désormais la gestion du service de l'assainissement sur l'ensemble du territoire de la CU CLM,
+à l’exception de la commune de Cairon pour laquelle, la gestion du service de l’assainissement
+collectif est assurée par la Saur dans le cadre d’une DSP.
+Dans ce cadre, les agents de la CU CLM, en collaboration avec les prestataires et délégataires,
+assurent la gestion administrative, financière, juridique, technique et environnementale de
+l’assainissement des eaux usées.
+En 2024, après deux années de hausse consécutives, l’EBE a diminué et ne représente plus que
+37 % des produits de gestion du fait d’une quasi-stagnation du chiffre d’affaires (22 M€ en
+
+
+
+
+                                                 20
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2023 et 2024) mais d’une augmentation des consommations intermédiaires nécessaires à la
+production du service (+ 1,4 M€).
+
+
+                                Tableau n° 4 : Évolution de l’excédent brut d’exploitation
+                                          du budget annexe « Assainissement »
+                                                                                                                              Var. annuelle
+                         En €                             2021          2022          2023          2024           2025
+                                                                                                                                moyenne
+Chiffre d'affaires                                     18 224 166    19 932 199    22 414 433    22 875 974     27 166 215           10,5 %
++ redevances versées par les fermiers                    600 817       113 712               0             0              0
+= Ressources d'exploitation                            18 824 983    20 045 911    22 414 433    22 875 974     27 166 215            9,6 %
+= Produit total                                        18 824 983    20 045 911    22 414 433    22 875 974     27 166 215            9,6 %
+- Consommations intermédiaires                          8 750 305     9 109 117     8 792 523    10 147 478      9 129 909            1,1 %
+- Impôts taxes et versements assimilés (sauf
+                                                             138       210 934               0         2 101              0
+personnel)
+= Valeur ajoutée                                       10 074 540    10 725 860    13 621 910    12 726 394     18 036 306          15,7 %
+     en % du produit total                                 53,5 %         53,5 %       60,8 %          55,6 %       66,4 %            5,5 %
+- Charges de personnel                                  3 725 462     3 751 737     4 057 631     4 215 695      4 393 736            4,2 %
++ Subvention d'exploitation perçues                     2 085 159     2 018 902      887 554               0         7 695          -75,4 %
++ Autres produits de gestion                              15 876          12 548      14 197        46 623         45 366            30,0 %
+- Autres charges de gestion                                 5 153          2 506        3 405          2 450         8 848           14,5 %
+= Excédent brut d'exploitation                          8 444 960     9 003 067    10 462 624     8 554 873     13 686 783          12,8 %
+     en % du produit total                                 44,9 %         44,9 %       46,7 %          37,4 %       50,4 %
++/- Résultat financier                                   475 583       534 123       581 059       406 207        352 574             -7,2 %
+   dont fonds de soutien - sortie des emprunts à
+                                                        1 072 561     1 072 561     1 072 561     1 072 561      1 072 561            0,0 %
+risques
++/- Résultat exceptionnel (réel, hors cessions)          -276 478      112 433        -65 730       62 807         21 785
+= CAF brute                                             8 644 065     9 649 624    10 977 953     9 023 886     14 061 142          12,9 %
+     en % du produit total                                 45,9 %         48,1 %       49,0 %          39,4 %       51,8 %
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+
+3.3.2.1           Les ressources
+
+Le chiffre d’affaires et les redevances versées par le fermier du service de l’assainissement ont
+augmenté de 9,6 % en moyenne par an.
+La redevance d’assainissement, principale composante du chiffre d’affaires, a augmenté de
+9,7 % en moyenne par an. Deux éléments expliquent cette hausse : l’augmentation des tarifs
+des redevances de 4 % par an et la hausse du nombre d’abonnés qui a atteint 102 441 au
+31 décembre 2024.
+
+
+                                Tableau n° 5 : Évolution de la redevance d’assainissement
+
+     Tarif                        Au 1er janvier 2022       Au 1er janvier 2023       Au 1er janvier 2024       Au 1er janvier 2025
+     Part fixe                          10,61 €                     11,03 €                  11,48 €                  11,94 €
+                                                   3                          3                        3
+     Part proportionnelle             1,295 €/m                  1,347 €/m                1,40 €/m                   1,46 €/m3
+      Source : chambre régionale des comptes Normandie d’après le RPQS11 2024 de la CUCLM
+
+
+
+11
+     Rapport sur le prix et la qualité du service.
+
+
+
+
+                                                                     21
+                                                        COMMUNAUTÉ URBAINE CAEN LA MER
+                              CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+3.3.2.2 Les consommations intermédiaires
+
+Les consommations intermédiaires ont été assez stables jusqu’en 2024 où plusieurs
+augmentations sont notables : coûts d’exploitation de la station d’épuration du Nouveau Monde
+(5,6 M€ contre 5,35 M€ en 2023), entretien et réparation des réseaux (1,44 M€ contre 0,93 M€
+en 2023), remboursement de frais au budget principal (0,65 M€ contre 0,47 M€ en 2023).
+
+
+3.3.2.3       Les charges de personnel
+
+À l’image des charges de personnel du budget principal, la rémunération du personnel a
+augmenté en moyenne annuelle de 4,1 % au cours de la période sous revue.
+Ces charges n’ont fait que suivre les revalorisations successives, mais ne représentent plus que
+18,4 % des ressources d’exploitation contre 19,8 % au début de la période de contrôle.
+
+
+3.3.2.4       Les produits financiers
+
+Le résultat financier est positif en raison de l’aide financière de 1 M€ apportée par l’État dans
+le cadre de la renégociation d’un emprunt dit « toxique » (fraction de l’indemnité de sortie de
+l’emprunt structuré transformé en emprunts à taux fixe).
+Cet emprunt avait été contracté par une commune dans le cadre de son budget assainissement.
+Il a été transféré avec la compétence assainissement à la communauté d’agglomération puis
+repris par la CU CLM12.
+
+
+3.3.3 Les budgets annexes des zones d'activités ou d'habitat
+
+
+3.3.3.1 Des stocks en forte augmentation
+
+À la fin de l’exercice 2024, ces budgets annexes sont au nombre de dix, avec la création en
+2023 du budget de Koenig Ouest. Tous ces budgets annexes sont en cours d'opérations et
+présentent un besoin de financement.
+Au 31 décembre 2024, la CU CLM disposait d’un stock de terrains en cours d’aménagement
+de 17,4 M€. Ce montant semble élevé mais, les zones d’activités les plus anciennes voient leurs
+
+
+
+12
+  Son taux initial de 3,45 % était assis sur la parité de l’euro par rapport au franc suisse et s’appliquait si l’écart
+de parité entre ces deux devises était supérieur ou égal à 1,45. Si cet écart était inférieur, ce qui était le cas depuis
+2010, alors le taux et le montant des intérêts augmentaient. Au final, une médiation judiciaire avec la banque n’a
+pas abouti et la communauté d’agglomération a payé une indemnité de remboursement de 16,77 M€. Après le
+versement de cette indemnité, le montant des intérêts a été divisé par deux, passant de 1 697 539 € en 2016 à
+823 235 € en 2017. La CU CLM ayant pris la suite de la communauté d’agglomération en 2017, elle perçoit l’aide
+sur cette opération.
+
+
+
+
+                                                          22
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+stocks diminuer, signifiant qu’il n’y a pas de mévente bien que de nouvelles zones
+d’aménagement apparaissent.
+
+
+             Graphique n° 2 : Évolution en € des stocks de terrains en cours d’aménagement13
+
+     25 000 000 €
+
+     20 000 000 €
+
+     15 000 000 €
+
+     10 000 000 €
+
+      5 000 000 €
+
+              0€
+                     2017      2018        2019       2020        2021        2022       2023        2024
+
+               PARC ACTIVITES-CU CAEN LA MER                      ZA IFS PLAINE-CU CAEN LA MER
+               ZA KOENIG-CU CAEN LA MER                           ZAC CARDONVILLE-CU CAEN LA MER
+               ZAC ESPERANCE-CU CAEN LA MER                       ZAC LAZZARO SUD-CU CAEN LA MER
+               ZAC NORMANDIKA-CU CAEN LA MER                      ZAR CLOS HOGUE-CU CAEN LA MER
+
+Source : chambre des comptes d’après les balances des comptes de la CU CLM
+
+
+En 2025, un nouveau budget annexe a été créé, intitulé « ZA fins de concessions ». Il est destiné
+à la reprise des terrains invendus à la suite de l’achèvement de plusieurs concessions. Le premier
+budget annexe est présenté à hauteur de 1,1 M€ et permettra le rachat des terrains des fins de
+concessions pour les ZAC du Plateau et Object’Ifs Sud.
+Au printemps 2025, sur l’ensemble des opérations en cours, soit 665 645 m² cessibles, 67 %
+ont été vendus.
+
+
+3.3.3.2         Des stocks sans financement budgétaire
+
+La chambre observe que ces budgets annexes ne respectent pas les principes de la comptabilité
+publique, notamment ceux d'équilibre et de sincérité. En effet, la CU CLM équilibre, de
+manière récurrente, la section d'investissement de ces budgets annexes avec une recette
+d'emprunt non suivie de réalisation, pratique qui présente une conséquence non négligeable sur
+le besoin en fonds de roulement du budget principal.
+En effet, en ne réalisant pas le financement des aménagements par l’emprunt ou par une avance
+du budget principal, les budgets annexes des zones d’activités affichent un déficit qui s’ajoute
+au besoin en fonds de roulement du budget principal, pesant ainsi sur la trésorerie.
+
+
+
+13
+  La CU CLM n’utilise que le compte 3351 (terrains en cours de production) et, à tort, n’utilise jamais le compte
+3555 (terrains aménagés).
+
+
+
+
+                                                       23
+                                                   COMMUNAUTÉ URBAINE CAEN LA MER
+                         CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+ Tableau n° 6 : Réalisation des recettes d’emprunts des budgets annexes des zones d’aménagement
+
+                   Prévisions       Réalisations   Prévisions       Réalisations   Prévisions     Réalisations
+    Budgets
+                      2021             2021           2022             2022           2023           2023
+    Budget ZA
+                                0              0                0              0       414 200               0
+     KOENIG
+  Budget PARC
+                      3 716 039                0         116 180               0       264 970               0
+   ACTIVITES
+ Budget ZA IFS
+                      4 335 849                0      3 133 109                0      3 712 837              0
+     PLAINE
+Budget ZA CLOS
+                        887 247                0         808 922               0       822 697               0
+DE LA HOGUE
+   Budget ZAC
+                      1 510 829                0      1 203 352                0      1 547 418              0
+ LAZZARO SUD
+Budget ZAC DU
+                                                         952 600               0       811 806               0
+    MARTRAY
+   Budget ZAC
+                                                      8 357 100                0      7 972 111              0
+NORMANDIKA
+   Budget ZAC
+                                                      1 463 194                0      2 071 258              0
+CARDONVILLE
+   Budget ZAC
+                                                                0              0      1 994 503              0
+  ESPERANCE
+    Budget ZA
+                                                                                       231 100               0
+KOENIG OUEST
+
+ Total compte 16     10 449 963                0     16 034 458                0     19 842 901              0
+Source : chambre régionale des comptes Normandie d’après le compte administratif 2021 et les comptes
+financiers uniques 2022 et 2023
+
+
+La chambre recommande à la CU CLM d’équilibrer réellement ses budgets annexes
+d’aménagement grâce à des versements d’avances du budget principal.
+En réponse aux observations provisoires de la chambre, la CU CLM souligne que la situation
+observée par la chambre résulte d’une démarche d’optimisation financière visant notamment à
+limiter le recours effectif à l’emprunt sur le budget principal.
+En effet, le versement systématique d’avances du budget principal vers les budgets annexes
+d’aménagement aurait pour conséquence directe de créer un besoin de financement
+supplémentaire sur ce même budget principal et le recours à l’emprunt afin d’en préserver
+l’équilibre.
+La CU CLM estime qu’un tel mécanisme conduirait à la constitution d’une dette additionnelle
+pour un besoin de financement à caractère strictement temporaire.
+Telle n’est pas la position de la chambre.
+La chambre rappelle que les principes d'équilibre et de sincérité budgétaires ne doivent pas être
+ignorés. Son point de vue est que la comptabilisation d’avances du budget principal aux budgets
+annexes devrait traduire la réalité de l’équilibre budgétaire sans interdire un travail
+d’optimisation du financement de la trésorerie globale.
+
+
+
+
+                                                    24
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Si l’équilibre des budgets annexes d’aménagement était atteint à l’issue du cycle financier
+propre aux opérations d’aménagement, au moment de la réalisation des recettes de cession, les
+avances seraient remboursées. Mais encore faut-il que ces recettes soient certaines.
+Au 31 décembre 2024, le déficit cumulé des budgets annexes d’aménagement de trésorerie
+atteignait 10,3 M€, soit 1/3 de la trésorerie du budget principal.
+
+
+                                          : Respecter l’équilibre et la sincérité des
+écritures comptables des budgets annexes d’aménagement par le versement d’avances du
+budget principal. (Article L. 1612-4 du code général des collectivités territoriales).
+
+
+
+3.4 Le financement des investissements
+
+Au cours de la période de contrôle, les investissements se sont essentiellement concentrés
+surtout sur le budget principal (247 M€) ainsi que sur les budgets annexes « Transports »
+(87 M€) et « Assainissement » (67 M€).
+Sur la période examinée, le budget principal représente 56 % en moyenne des dépenses
+d’investissements notamment en raison des travaux de voiries.
+Le budget annexe « Transports », même en l’absence de lourds travaux, reste un budget
+d’investissement important (19 %).
+
+
+      Tableau n° 7 : Évolution du ratio financement propre/dépenses d’équipements par budget
+
+                           En €                        2021            2022         2023         2024
+Financement propre disponible budget principal         45 448 046      53 674 648   67 498 048   45 653 485
+Dépenses d'équipement (y c. tvx en régie)              47 364 405      63 570 754   71 054 476   65 051 347
+ Financement propre dispo / Dépenses d'équipement             96 %         84 %         95 %         70 %
+Subventions d'équipement versées                           7 799 730   13 066 825    9 100 943    8 848 450
+Financement propre disponible budget transport         13 064 991      13 311 730   36 370 366   11 968 595
+Dépenses d'équipement                                  12 229 011      19 041 080   23 874 714   31 663 752
+   Financement propre dispo / Dépenses d'équipement          107 %         70 %        152 %         38 %
+Financement propre disponible budget assainissement        7 368 996   10 560 464   14 545 515   13 438 349
+Dépenses d'équipement                                      8 060 203   14 892 608   23 062 323   21 357 961
+   Financement propre dispo / Dépenses d'équipement           91 %         71 %         63 %         63 %
+Financement propre disponible réseau de chaleur             120 315      146 700     1 069 473    2 101 970
+Dépenses d'équipement (y compris travaux en régie)          522 205      171 938     5 587 475    2 824 563
+   Financement propre dispo / Dépenses d'équipement           23 %         85 %         19 %         74 %
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+Sur la période 2021-2024, la bonne situation financière de la CU CLM lui a permis d’investir,
+en toute sécurité, 449 M€ en équipements ou en subventions d’équipements en les finançant à
+94 % par des financements propres.
+
+
+
+
+                                                      25
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                            CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+L’autofinancement des budgets en charge d’investissements importants reste stable sur
+l’ensemble de la période à hauteur de 40 M€ au minimum (60 M€ en 2023).
+Une exception est notable en 2023 où l’autofinancement du budget annexe des transports a
+connu une hausse importante (+ 19,9 M€) compte tenu d’une régularisation.
+À l’inverse, le budget annexe « Réseaux de chaleur » récent n’a pas encore atteint sa vitesse de
+croisière, prévue à l’horizon 2031.
+Les CAF nettes des différents budgets, représentant en moyenne 55 % du financement propre
+de la CU CLM, sont complétées essentiellement par le fonds de compensation de la taxe sur la
+valeur ajoutée (FCTVA) et les subventions d’investissement reçues (27 M€ par an en moyenne
+à l’exception de 2023 (55 M€)).
+Les juridictions financières considèrent qu’un ratio « financement propre/dépenses
+d’équipements » compris entre 75 % et 90 % correspond à une politique d’investissement
+soutenable dans la durée. La CU CLM s’inscrit entre ces bornes pour la plupart de ses budgets,
+ce que la chambre souligne positivement.
+Le ratio du budget annexe « Transports » de 2024 est atypique en raison d’un remboursement
+d’emprunt exigible in fine14 de 10 M€ qui baisse du même montant la CAF nette de l’exercice.
+
+
+3.4.1 Le financement par la dette
+
+La dette totale de la CU CLM est, à la fin de l’exercice 2024, de 433 M€.
+Les emprunts bancaires classiques pèsent pour 85 % de l’encours de cette dette et les emprunts
+obligataires à remboursement « In Fine » pour 9,2 % (40 M€ en 2024). Les 5,8 % restant
+correspondent à des prêts de partenaires tels que les agences de l’eau ou à des dettes reprises
+des communes à la suite de transferts de compétences (par exemple, voirie).
+La dette du budget annexe « réseaux de chaleur urbain » était presque inexistante jusqu’en
+2022. Toutefois, en 2023, la CU CLM a souscrit un emprunt auprès de la Banque des Territoires
+de 7 M€ sur 40 ans afin de renouveler son réseau.
+
+
+
+
+14
+  Un prêt « in fine » dissocie le paiement des intérêts et le remboursement du capital. Le capital se rembourse en
+une seule fois, à échéance du prêt.
+
+
+
+
+                                                       26
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                 Tableau n° 8 : Évolution de la dette de la CU CLM
+
+                              En €                             2021          2022          2023          2024
+Budget principal                                              208 007 461   206 542 622   222 216 623   227 606 388
+           en % de l'encours de dettes totales                    49,7 %        49,8 %        51,2 %        52,6 %
+16311      Emprunts obligataires remboursables in fine         30 000 000    30 000 000    26 321 429    32 642 857
+1632       "provisions" d'emprunts obligataires                                             3 678 571     7 357 143
+1641       Emprunts en €                                      134 404 071   142 647 233   164 433 229   167 296 727
+16441      Emprunts avec ligne de trésorerie                   22 723 874    16 756 481    11 160 142     7 623 456
+165        Cautions                                              221 993       237 298       259 319       212 918
+1675       PPP                                                                              2 842 645            0
+168741     emprunts dus aux communes                           20 657 523    16 901 611    13 521 288    10 516 557
+16878      Autres organismes et particuliers                                                              1 956 730
+Budget annexe transport                                       185 419 189   177 326 071   169 203 115   158 649 325
+           en % de l'encours de dettes totales                    44,3 %        42,8 %        39,0 %        36,6 %
+16311      Emprunts obligataires remboursables in fine          6 000 000     4 000 000     2 000 000            0
+1632       "provisions" d'emprunts obligataires                 4 000 000     6 000 000     8 000 000            0
+1641       Emprunts en €                                      175 419 189   167 326 071   159 203 115   158 649 325
+Budget annexe assainissement                                   24 897 625    30 536 411    35 154 976    37 286 323
+           en % de l'encours de dettes totales                     5,9 %         7,4 %         8,1 %         8,6 %
+1641       Emprunts en €                                       18 676 405    16 689 250    21 681 792    24 478 087
+1681       Autres emprunts                                      6 221 220    13 847 161    13 473 184    12 808 236
+Budget annexe réseau de chaleur                                  433 950       390 555      7 347 160     9 432 515
+           en % de l'encours de dettes totales                     0,1 %         0,1 %         1,7 %         2,2 %
+1641       Emprunts en €                                         433 950       390 555      7 347 160     9 432 515
+Total général                                                 418 758 224   414 795 659   433 921 873   432 974 551
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+L’encours de la dette actuel est qualifié par Moody’s, en charge de la notation15 de la CU CLM,
+de moyennement élevé.
+Le financement des AP, notamment celle du prochain transport en commun en site propre
+(estimée à 352 M€), nécessitera un recours accru à l’emprunt qui amplifiera l’encours global
+de la dette.
+
+
+3.4.1.1          Les emprunts obligataires
+
+Depuis décembre 2017, la CU CLM a mis en place un programme EMTN (Euro Medium Term
+Notes) qui consiste en la rédaction d’une documentation-cadre permettant de réaliser des
+
+
+
+
+15
+  L’agence de notation Moody’s a noté la communauté urbaine A1 qui signifie qu’elle place cet établissement en
+haut de la qualité moyenne supérieure juste sous la notation de la France qui est notée Aa3 par Moody’s.
+
+
+
+
+                                                         27
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                             CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+émissions obligataires rapidement, sans avoir à refaire ce travail de rédaction pour chaque
+émission16.
+
+
+                                 Tableau n° 9 : Levées des emprunts obligataires
+
+                     En €                             2017                     2019                      2020
+
+               Budget principal                        10 000 000                10 000 000               10 000 000
+         Budget annexe « Transports »                                            10 000 000
+
+                 Total général                         10 000 000                20 000 000               10 000 000
+
+     Source : chambre régionale des comptes Normandie d’après les balances de CU CLM
+
+
+3.4.1.1.1 Les emprunts obligataires du budget principal
+
+Ces émissions ont une durée de remboursement comprise entre 10 et 15 ans. Ces emprunts, tous
+inscrits dans le budget principal, sont en partie provisionnés à hauteur de 23 % à la fin de 2024.
+Cette mesure prudentielle devrait se poursuivre sur les exercices à venir à raison de 3 678 571 €
+par an.
+En 2024, un nouvel emprunt in fine a été souscrit sur le budget principal à hauteur de 10 M€
+sur une durée de sept ans au taux fixe de 3,098 %.
+
+
+3.4.1.1.2 Les emprunts obligataires des budgets annexes
+
+Le budget annexe « transports » a eu recours à un emprunt obligataire d’une durée de cinq ans.
+Constituée à partir de 202017, la provision annuelle de 2 M€ a permis de rembourser la totalité
+de cet emprunt de 10 M€ en 2024.
+Par délibération du 28 septembre 2023, la CU CLM a adhéré à l’Agence France Locale (AFL)
+pour son budget annexe « réseaux de chaleur urbains » Cette banque des collectivités locales
+fixe l’apport en capital par budget.
+La CU CLM y a adhéré moyennant un apport correspondant à 0,9 % de l’encours de sa dette
+pour ce budget soit 0,9 % de 390 555 €, c’est-à-dire 3 600 €.
+La CU CLM n’a pas encore usé de cette possibilité.
+
+
+
+
+16
+   Cette documentation-cadre correspond à un prospectus, mis à jour une fois par an au moins, et contient les
+informations sur la collectivité territoriale émettrice et sur les caractéristiques générales des obligations pouvant
+être émises ou offertes dans le cadre du programme d’émission. Lorsque l’émission obligataire est prévue, ce
+prospectus est complété avec les dernières conditions financières de l’opération (date d’émission, montant, taux
+d’intérêt, maturité, etc.). Seul le prospectus établissant la documentation-cadre nécessite l’approbation de l’AMF16,
+ce qui explique la rapidité de la réalisation de chaque émission.
+17
+   Emprunt obligataire in fine de 10 M€ sur cinq ans souscrit le 20 décembre 2019.
+
+
+
+
+                                                        28
+ RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+ 3.4.1.2       La dette monétaire
+
+ Pour ses financements à très courts termes jusqu’en septembre 2018, la CU CLM utilisait des
+ lignes de trésorerie qui constituent l’outil classique des collectivités locales et de leurs
+ établissements publics.
+ Depuis, la CU CLM a optimisé la gestion de sa trésorerie en ayant recours aux billets de
+ trésorerie prenant la forme de NEU CP (Negociable European Commercial Paper) qui sont des
+ titres de créances négociables à court termes proposés aux investisseurs18.
+ Ce choix a permis de bénéficier de taux négatifs jusqu’en 2022 (155 000 €).
+
+
+ 3.4.2 Les caractéristiques de la dette
+
+                  Tableau n° 10 : Évolution des ratios de « délais de désendettement »et de
+                                  « taux apparent de la dette consolidée »
+
+                      en €                             2021        2022        2023        2024
+Encours de la dette consolidée (tous budgets)       418 758 224 414 795 659 433 921 873 432 974 551
+/ CAF brute consolidée tous budgets                  64 644 527 76 773 440 92 485 353 80 691 402
+=Délai de désendettement                                 6,5 ans     5,4 ans     4,7 ans     5,4 ans
+Intérêts des emprunts et dettes consolidés            5 426 346 5 125 072 6 422 731 7 524 381
+/ Encours de la dette consolidée                    418 758 224 414 795 659 433 921 873 432 974 551
+= Taux apparent de la dette consolidée                   1,30 %      1,24 %      1,48 %      1,74 %
+ Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+
+ 3.4.2.1       Le délai de désendettement
+ Le délai de désendettement19 (ou la capacité de désendettement) est un ratio calculant le temps
+ nécessaire pour rembourser intégralement la dette si l’ensemble de la capacité
+ d’autofinancement brute y était affecté.
+ L’évolution de ce ratio est sensible à la maîtrise des recettes et des dépenses de fonctionnement
+ ainsi qu’à la politique d’endettement.
+ Le délai global de désendettement de la CU CLM est de 5,4 années, ce qui lui laisse des marges
+ de manœuvre.
+ Le délai de désendettement du budget principal reste stable sur toute la période (5 ans). Celle
+ du budget annexe « assainissement » malgré un chiffre d’affaires en hausse, est en
+ augmentation mais reste sous le seuil des 5 ans.
+
+
+
+
+ 18
+    Pour mémoire, Caen la mer appartient au cercle très restreint des collectivités ayant accès à ce marché et reste
+ la seule communauté urbaine de France à y être présente. Les autres collectivités sont : 11 régions,
+ 10 départements, la collectivité européenne d’Alsace, les communes de Lyon, Marseille, Paris et Rennes.
+ 19
+    Si le délai de désendettement augmente, la situation financière se dégrade.
+
+
+
+
+                                                        29
+                                                        COMMUNAUTÉ URBAINE CAEN LA MER
+                              CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+Seul le budget annexe « réseaux de chaleur urbains » est au-dessus avec 9,1 ans mais compte
+tenu de la durée d’amortissement de ses équipements, il a vocation à emprunter sur des durées
+plus longues que le budget principal, justifiant un niveau de capacité de désendettement plus
+élevé.
+
+3.4.2.2         Les intérêts de la dette
+
+Le taux apparent de la dette est à surveiller car des variations des intérêts de la dette et,
+notamment, de la dette nouvelle peuvent entraîner une baisse de la CAF brute.
+Entre 2021 et 2024, le taux apparent de la dette est passé de 1,3 % à 1,7 %. Le montant des
+intérêts des emprunts et dettes consolidés a, par ailleurs, augmenté en moyenne de 11,5 % par
+an alors que l’encours de la dette n’a augmenté en moyenne que de 1,1 % par an.
+À la fin de l’année 2024, la dette du budget principal est positionnée à 60,48 % à taux fixe et à
+39,52 % à taux variable ou révisable.
+
+                              Graphique n° 3 : Évolution des intérêts de la dette
+
+
+
+
+       Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+
+
+3.5 L’évolution de la trésorerie
+
+En raison de son mode de calcul20, la trésorerie reflète l’évolution du fonds de roulement et du
+besoin en fonds de roulement.
+Négative en 2018 et 2019, la trésorerie nette est revenue à un seuil positif en 2020.
+En 2023, la trésorerie est particulièrement élevée, d’une part, parce que le fonds de roulement
+est élevé et, d’autre part, parce que le besoin en fonds de roulement est particulièrement bas.
+Plusieurs raisons expliquent cette situation :
+      • La CU CLM commence à anticiper le remboursement des emprunts in fine de son budget
+        principal et constitue des réserves en ce sens. En parallèle, elle a eu recours à l’emprunt
+
+20
+     Trésorerie = fonds de roulement - besoin en fonds de roulement.
+
+
+
+
+                                                        30
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        à un niveau supérieur à celui des exercices passés (44 M€ tous budgets confondus). Ces
+        deux actions ont eu pour conséquence une hausse du niveau du fonds de roulement ;
+     • Sur le budget annexe « transports », elle, a également « provisionné » le remboursement
+       de son emprunt in fine et ce, à compter de 2020. En 2023, la réserve constituée a atteint
+       8 M€ ;
+     • Par ailleurs, le besoin en fonds de roulement global a atteint un niveau particulièrement
+       bas qui correspond à - 52 jours de charges courantes.
+Il est résulté de ces paramètres un apport en trésorerie provenant pour l’essentiel du budget
+principal et du budget annexe « transports ».
+
+
+                 Tableau n° 11 : Apport en trésorerie au 31 décembre des différents budgets
+
+                      En €                    2021                2022              2023               2024
+ Budget principal                          24 330 112 €        14 070 859 €      34 904 746 €       32 421 584 €
+ Budget transport                           5 406 167 €        15 501 714 €      23 798 410 €        6 671 889 €
+ Budget assainissement collectif           - 3 018 220 €        6 418 663 €       - 611 292 €       - 7 465 899 €
+ Budget assainissement non collectif          190 438 €           306 800 €         253 752 €          142 563 €
+ Budget réseau de chaleur                  - 1 161 564 €       - 1 143 268 €      3 738 193 €        2 051 483 €
+ Budget autorisations d'urbanisme             - 80 474 €          - 99 735 €      - 683 612 €          - 89 183 €
+ Budget des zones d'activités              - 6 230 215 €      - 12 870 871 €     - 9 916 779 €     - 10 295 836 €
+ dont parc d'activités                        - 1 465 174 €     1 557 253,42 €      1 864 421 €        2 309 984 €
+ dont ZA Ifs plaine                          - 3 625 372, €      - 2 917 305 €     - 3 111 845 €      - 2 100 642 €
+ dont Koenig                                   1 110 434 €        1 470 144 €       1 796 953 €        2 264 295 €
+ dont Koenig ouest                                                                                      - 119 105 €
+ dont ZAC Cardonville                                            - 1 980 803 €     - 1 792 873 €      - 1 793 292 €
+ dont ZAC du Martray                                                                 - 105 034 €        - 481 655 €
+ dont ZAC Espérance                                                  - 5 760 €        869 199 €         - 941 710 €
+ dont ZAC Lazzaro                             - 1 444 629 €        - 913 887 €       - 758 995 €        - 681 663 €
+ dont ZAC Normandika                                             - 9 374 160 €     - 7 990 541 €      - 8 033 232 €
+ dont ZAC Clos Hogue                           - 805 473 €         - 706 353 €       - 688 062 €       - 718 8152 €
+
+ Trésorerie globale                         19 436 244 €        22 184 163 €      51 483 419 €       23 436 601 €
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+En 2024, la situation de la trésorerie s’est dégradée et la CU CLM a dû réaliser deux émissions
+de titres « Neu CP ». Le recours à ce produit lui a notamment permis de financer sa trésorerie
+à un coût plus faible que celui de lignes de trésorerie21, bien qu’il ne s’agisse plus de taux
+négatifs comme en 2018 et 2019. Elle a réalisé des émissions en mai pour un montant de 2 M€
+à 3,98 % et en juillet pour un montant de 5 M€ à 3,75 %.
+
+
+
+
+21
+  Les taux des lignes de trésorerie à la date des émissions : au 15 mai 2024, 3,91 + 0,46 % ; au 31 juillet, 3,65 %
++ 0,46 %).
+
+
+
+
+                                                         31
+                                                    COMMUNAUTÉ URBAINE CAEN LA MER
+                          CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+Ce recours à des financements externes s’explique par un apport moindre des budgets annexes
+en raison :
+   • de l’utilisation de la réserve constituée par le budget annexe « transports » pour
+     rembourser l’emprunt in fine de 10 M€ arrivé à échéance ;
+   • des besoins en trésorerie, de plus en plus importants, des budgets annexes
+     d’aménagement. Ce besoin de trésorerie augmente le besoin en fonds de roulement de
+     l’ordre de 10 M€.
+La CU CLM précise qu’elle porte une attention particulière à n’avoir aucune baisse significative
+dans ses capacités de financement à court terme.
+Ainsi, elle contractualise chaque année deux lignes de trésorerie distinctes et veille à créer un
+tuilage d’une année sur l’autre afin que les deux lignes de trésorerie ne s’arrêtent pas à la même
+date d’échéance. Ce tuilage se fait en moyenne sur 10-15 jours, généralement au mois de mars.
+De l’autre côté, les « Neu CP » sont renouvelés chaque été en juillet-août. Selon la CU CLM, à
+date, le montant global des lignes court terme est de 160 M€ (Lignes de trésorerie = 2 x 30 M€
+= 60 M€ ; « Neu CP » = 100 M€).
+
+
+                   Graphique n° 4 : Origine des variations de la trésorerie globale
+
+
+
+
+Source : chambre régionale des comptes Normandie d’après les balances des comptes de la CU CLM
+
+
+
+
+                                                  32
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Dans les prochaines années, la réalisation d’une nouvelle ligne de transport entraînera,
+inévitablement, un important besoin de trésorerie.
+Si elle doit se cumuler, avec les besoins de trésorerie actuels, elle entrainera des frais financiers
+élevés car il est peu probable que la CU CLM bénéficie, à nouveau, de taux négatifs.
+
+
+
+3.6 Les investissements à venir
+
+
+3.6.1 La nouvelle ligne de transport en site propre
+
+Le projet de la future ligne de tramway en site propre est-ouest consiste à créer deux nouvelles
+branches du tramway sur une distance de 9,1 kilomètres vers l’ouest et le nord-ouest de la CU
+CLM à construire 17 nouvelles stations, à modifier deux stations existantes et à créer ou
+modifier sept ouvrages d’art. Outre la construction des installations liées à l’exploitation du
+tramway, le projet comprend une nouvelle répartition et un aménagement de l’espace public
+sur l’ensemble du tracé. Le budget annexe « transports » de la CU CLM assure le financement
+des transports publics y compris les investissements.
+Cet ensemble de travaux devrait, à nouveau, entraîner une forte hausse des dépenses
+d’investissements sur le budget annexe « transports », mais également sur les autres budgets
+en raison des divers travaux d’accompagnement notamment le dévoiement de réseaux
+(déplacement des lignes électriques et des canalisations d’eau ou de gaz).
+Il implique également la reconstruction d’une piste d’athlétisme et d’un terrain multisport
+nécessaire pour permettre le passage de la ligne sur l’emprise foncière actuelle du lycée
+Malherbes.
+Ce chantier a été estimé à 288 M€ en 2021, mais l’autorisation de programme du prochain
+transport en commun en site propre est déjà constituée à hauteur de 352 M€.
+Le financement du projet d'extension du tramway sera assuré par des fonds propres issus du
+budget annexe, par l’emprunt et par une subvention de 40 M€ de l’État obtenue dans le cadre
+du quatrième appel à projets en faveur des transports collectifs en site propre (TCSP).
+D’autres subventions pourraient être sollicitées en fonction des programmes auxquels le projet
+pourrait être rattaché (Europe, région…).
+
+
+3.6.2 L’ensemble du projet de territoire à financer
+
+Les inventaires physiques ont une utilité importante pour la programmation des
+investissements. À cet égard, certaines directions mettent ou ont mis en place un inventaire de
+leurs investissements comme la direction des systèmes d’information, la direction du
+développement des relations citoyennes et moyens logistiques et la direction de la collecte des
+déchets, de la propreté et du parc matériel.
+Dans le cadre de l’élaboration d’un schéma directeur immobilier, piloté par la direction du
+contrôle de gestion (direction mutualisée entre la CU CLM et la commune de Caen), la CU
+
+
+
+
+                                                 33
+                                                    COMMUNAUTÉ URBAINE CAEN LA MER
+                          CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+CLM a lancé un inventaire de son patrimoine. À ce titre, ont été répertoriés 202 sites
+comprenant 340 bâtiments pour une surface de 274 574 m².
+Concernant les consommations énergétiques, les données complètes ne concernent que
+74 bâtiments.
+Si la répartition fonctionnelle des bâtiments bénéficie essentiellement aux équipements
+techniques, économiques et culturels (65 % au total), 22 % sont constitués de divers locaux
+destinés à des missions de services publics relevant de la compétence communautaire (propreté,
+voierie, espaces verts), loués par la CU (250 005 € de loyers versés par an) aux communes ainsi
+que de 40 000 m² de locaux vacants sans affectation désignée.
+
+
+                   Graphique n° 5 : Répartition des locaux en fonction des usages
+
+
+                                                    Administration
+                                                         5%       Enseignement
+                                                                            1%
+
+                                                                    Sport
+                                       Autre                         7%
+                                       22%
+
+
+
+
+                                                                             Technique
+                                                                                25%
+
+
+                                Economie
+                                  24%
+
+
+                                                          Culture
+                                                           16%
+
+
+
+
+     Source : Audit du patrimoine bâti réalisé par le cabinet Espelia
+
+
+Le travail de recensement a donné lieu à une synthèse et huit pistes d’optimisation ont été
+dégagées :
+  • dégrèvement et exonérations fiscales sur les biens vacants ;
+  • confortement de la comptabilité analytique immobilière ;
+  • identification des avantages en nature accordés aux bénéficiaires des mises à disposition
+    à titre gracieux ;
+  • renforcement de la visibilité sur les états techniques, réglementaires et énergétiques ;
+  • mutualisation des locaux MEP (mission espace public) et transfert de propriété ;
+
+
+
+
+                                                     34
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     • lancement d’une série de travaux et spécialement sur les actifs immobiliers assujettis au
+       décret tertiaire, porteurs de gisements d’économies, particulièrement vétustes et
+       largement fréquentés ;
+     • cessions, mise en location ou transfert de portage foncier des locaux vacants et sans
+       affectation ;
+     • réaffectation des activités dans des locaux loués vers des locaux en pleine propriété.
+Au terme de ce travail de recensement et d’optimisation, la CU CLM sera en mesure de réaliser
+les investissements nécessaires et d’arbitrer dans son patrimoine les immeubles à céder et les
+locations à interrompre.
+Le coût de l’opération, d’un montant qui pourrait être égal à deux fois la construction du palais
+des sports22, soit de l’ordre de 80 M€, pourrait être programmé sur une quinzaine d’années. Ce
+qui représenterait 8 à 9 % des investissements annuels.
+La chambre constate que l’anticipation de l’impact de l’investissement important que représente
+la nouvelle ligne de transport en site propre, de même que les investissements nécessaires à la
+mise aux normes énergétiques de son patrimoine immobilier et de manière plus générale à la
+feuille de son projet de territoire n’apparaît pas clairement dans le rapport support au débat
+d’orientation budgétaire, notamment en termes de recours à l’emprunt et de besoin en trésorerie.
+Au vu de l’ensemble des investissements à réaliser par la CU CLM, la chambre lui recommande
+d’adopter, par voie de délibération de son conseil communautaire, un plan pluriannuel
+d’investissement (PPI) présentant l’ensemble des dépenses et des recettes correspondant au
+financement de ces projets, s’appuyant sur une prospective financière.
+En réponse aux observations provisoires de la chambre, la CU CLM précise qu’elle dispose de
+prospectives financières et d’éléments de programmation sur les principaux budgets permettant
+d’anticiper les impacts financiers des projets structurants, qu’elle tient à jour des tableaux de
+prospective financière à long terme dans le cadre de la notation Moody’s et que sa préparation
+budgétaire annuelle s’appuie sur une démarche anticipative. Elle s’engage toutefois à l’adoption
+d’un PPI lors du renouvellement du prochain conseil communautaire qui s’appuiera sur une
+prospective financière.
+La chambre en prend note.
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+La situation financière de la CU CLM est saine, mais la réalité du financement des budgets
+annexes d’aménagement par le budget principal doit être constatée dans les budgets et les
+comptes.
+L’endettement est maîtrisé.
+Mais le projet de territoire de la CU CLM comporte d’importants projets d’investissement
+notamment en matière de transport et d’adaptation du patrimoine au changement climatique.
+Au regard de cet enjeu, la communauté urbaine gagnerait à adopter, par voie de délibération
+de son conseil communautaire, un plan pluriannuel d’investissement (PPI) présentant
+l’ensemble de ces projets, s’appuyant sur une prospective financière.
+
+
+
+22
+  La valeur comptable de cet équipement est de 37 222 153,12 €. C’est la valeur comptable nette la plus élevée
+inscrite à l’inventaire comptable.
+
+
+
+
+                                                     35
+                                                           COMMUNAUTÉ URBAINE CAEN LA MER
+                                 CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+                                                      ANNEXES
+
+Annexe n° 1 : Les compétences de la communauté urbaine ........................................... 37
+Annexe n° 2 : Glossaire................................................................................................... 38
+
+
+
+
+                                                                36
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+            Annexe n° 1 : Les compétences de la communauté urbaine
+
+
+  • L'aménagement du territoire
+      -      Définition du plan local d’urbanisme intercommunal (PLUi) et du schéma de
+             cohérence territoriale (SCoT) ;
+      -      Gestion de la voirie et entretien des espaces verts ;
+      -      Organisation et maîtrise d’ouvrage des opérations d’aménagements.
+
+  • La promotion et l'animation du territoire
+      -      Gestion de la promotion touristique et de l’attractivité territoriale ;
+      -      Construction, aménagement, entretien et gestion d’équipements culturels ou
+             sportifs, déclarés d’intérêt communautaire.
+
+  • La promotion et l'animation du territoire
+      -      Gestion de la promotion touristique et de l’attractivité territoriale ;
+      -      Construction, aménagement, entretien et gestion d’équipements culturels ou
+             sportifs ; déclarés d’intérêt communautaire.
+
+  • L'organisation des déplacements et de la mobilité
+      -      Définition du plan de déplacements urbains ;
+      -      Gestion des transports en commun et des mobilités douces ;
+      -      La définition de la politique de la ville et de l'habitat.
+
+  • Définition du programme local de l’habitat
+      -      Promotion des dispositifs d’aides et d’amélioration de l’habitat ;
+      -      Gestion de l’accueil des gens du voyage ;
+      -      Gestion des dispositifs de développement urbain ;
+      -      Contrat de Ville 2024-2030.
+
+
+
+
+                                             37
+                                      COMMUNAUTÉ URBAINE CAEN LA MER
+            CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+                         Annexe n° 2 : Glossaire
+
+
+ Sigle                                          Signification
+  AC     Attribution de compensation
+  AE     Autorisation d’engagement
+ AFL     Agence France Locale
+ AMF     Autorité des marchés financiers
+  AP     Autorisation de programme
+ BFR     Besoin en fonds de roulement
+  BP     Budget principal
+  CA     Compte administratif
+ CAF     Capacité d'autofinancement
+ CCAS    Centre communal d’action social
+ CET     Compte épargne temps
+ CFE     Cotisation foncière des entreprises
+CGCT     Code général des collectivités territoriales
+ CGFP    Code général de la fonction publique
+ CIF     Coefficient d’intégration fiscale
+CNRACL   Caisse nationale de retraites des agents des collectivités locales.
+  CP     Crédit de paiement
+CU CLM   Communauté urbaine Caen la mer
+ CVAE    Contribution sur la valeur ajoutée
+ DGD     Décompte général définitif
+ DGF     Dotation globale de fonctionnement
+DGFIP    Direction générale des finances publiques
+ EBE     Excédent brut d’exploitation
+ EBF     Excédent brut de fonctionnement
+ EPCI    Établissement public de coopération intercommunale
+ ETPa    Équivalent temps plein annualisé
+FCTVA    Fonds de compensation pour la taxe sur la valeur ajoutée
+GEMAPI   Gestion des milieux aquatiques et prévention des inondations
+         « Negotiable EUropean Commercial Paper.
+NEU CP   Il s’agit de titres de créances négociables à court termes proposés aux investisseurs. Les
+         émissions de NEU CP sont réalisées auprès d’un établissement agréé.
+ PAT     Projet alimentaire territorial
+PCAET    Plan climat air énergie territorial
+ PLUI    Plan local d’urbanisme intercommunal
+
+
+
+
+                                          38
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+      Sigle                                            Signification
+      RBF       Règlement budgétaire et financier
+                Régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de
+    RIFSEEP
+                l'engagement professionnel
+      RPQS      Rapport sur le prix et la qualité du service
+      SCoT      Schéma de cohérence territoriale
+    SYVEDAC     Syndicat pour la Valorisation et l'Elimination des déchets de l'Agglomération caennaise
+      TCSP      Transports collectifs en site propre
+      TFNB      Taxe foncière sur les propriétés non bâties
+      TFPB      Taxe foncière sur les propriétés bâties
+       TH       Taxe d’habitation
+     URSSAF     Union de recouvrement des cotisations de sécurité sociale et d’allocations familiales
+
+
+
+
+                                               39
+                                                            COMMUNAUTÉ URBAINE CAEN LA MER
+                                  CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+
+                                        ANNEXES DES RÉPONSES
+
+Président de la communauté urbaine Caen la mer ......................................................... 41
+M. Joël Bruneau .............................................................................................................. 45
+
+
+
+
+                                                                  40
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+               RÉPONSE DE MONSIEUR LE PRÉSIDENT,
+               COMMUNAUTÉ URBAINE CAEN LA MER
+
+
+
+
+(*) Cette réponse jointe au rapport engage la seule responsabilité de son auteur,
+conformément aux dispositions de l’article L. 243-5 du code des juridictions
+financières.
+
+
+
+
+                                       41
+                          COMMUNAUTÉ URBAINE CAEN LA MER
+CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+
+                  42
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     43
+                          COMMUNAUTÉ URBAINE CAEN LA MER
+CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+
+                  44
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+              RÉPONSE DE MONSIEUR JOËL BRUNEAU,
+                   ANCIEN PRÉSIDENT DE LA
+              COMMUNAUTÉ URBAINE CAEN LA MER
+
+
+
+
+(*) Cette réponse jointe au rapport engage la seule responsabilité de son auteur,
+conformément aux dispositions de l’article L. 243-5 du code des juridictions
+financières.
+
+
+
+                                       45
+                          COMMUNAUTÉ URBAINE CAEN LA MER
+CAHIER N° 1 : FIABILITÉ COMPTABLE ET TRAJECTOIRE FINANCIÈRE
+
+
+
+
+                  46
+« La société a le droit de demander compte à tout agent public de son administration »
+             Article 15 de la Déclaration des Droits de l’Homme et du Citoyen
+
+
+
+
+                   Chambre régionale des comptes Normandie
+                                21 rue Bouquet
+                                   CS 11110
+                            76174 ROUEN Cedex
+                             Tél. : 02 35 07 92 00
+                         www.ccomptes.fr/normandie
+

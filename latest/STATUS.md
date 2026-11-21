@@ -1,18 +1,18 @@
-# STATUS collecte - 2026-11-20T05:38 UTC
+# STATUS collecte - 2026-11-21T05:32 UTC
 
 - OK   RSS Le Monde - Une 16 articles <72h (16 dans le flux)
 - OK   RSS Le Monde - Économie 20 articles <72h (20 dans le flux)
 - OK   RSS Le Monde - Politique 20 articles <72h (20 dans le flux)
 - OK   RSS Le Monde - Société 20 articles <72h (20 dans le flux)
-- OK   RSS Le Figaro - Actualités 18 articles <72h (18 dans le flux)
+- OK   RSS Le Figaro - Actualités 19 articles <72h (19 dans le flux)
 - OK   RSS Le Figaro - Économie 18 articles <72h (20 dans le flux)
 - OK   RSS Le Figaro - Politique 6 articles <72h (20 dans le flux)
-- OK   RSS Le Figaro - Conjoncture 18 articles <72h (20 dans le flux)
+- OK   RSS Le Figaro - Conjoncture 16 articles <72h (20 dans le flux)
 - ÉCHEC RSS Les Échos - Une https://www.lesechos.fr/rss.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss.xml
 - ÉCHEC RSS Les Échos - Économie https://www.lesechos.fr/rss/rss_economie.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss/rss_econ
 - ÉCHEC RSS Les Échos - Politique https://www.lesechos.fr/rss/rss_politique.xml : 403 Client Error: Forbidden for url: https://www.lesechos.fr/rss/rss_pol
 - OK   RSS Libération 50 articles <72h (50 dans le flux)
-- OK   RSS Franceinfo - Titres 29 articles <72h (29 dans le flux)
+- OK   RSS Franceinfo - Titres 27 articles <72h (29 dans le flux)
 - OK   RSS Franceinfo - Économie 20 articles <72h (20 dans le flux)
 - OK   RSS Franceinfo - Politique 20 articles <72h (20 dans le flux)
 - OK   RSS Le Parisien - Une 100 articles <72h (100 dans le flux)
@@ -20,19 +20,19 @@
 - OK   RSS Le Parisien - Politique 100 articles <72h (100 dans le flux)
 - OK   RSS La Croix 50 articles <72h (50 dans le flux)
 - OK   RSS L'Humanité 20 articles <72h (20 dans le flux)
-- OK   RSS L'Opinion 103 articles <72h (250 dans le flux)
-- ÉCHEC RSS Marianne https://www.marianne.net/feed : 405 Client Error: Not Allowed for url: https://www.marianne.net/feed
+- OK   RSS L'Opinion 93 articles <72h (250 dans le flux)
+- OK   RSS Marianne 20 articles <72h (20 dans le flux)
 - ÉCHEC RSS Le Point https://www.lepoint.fr/economie/rss.xml : 403 Client Error: Forbidden for url: https://www.lepoint.fr/economie/rss.xml
-- OK   RSS L'Express 52 articles <72h (100 dans le flux)
+- OK   RSS L'Express 45 articles <72h (100 dans le flux)
 - OK   RSS Challenges 50 articles <72h (50 dans le flux)
-- OK   RSS La Tribune 9 articles <72h (20 dans le flux)
+- OK   RSS La Tribune 7 articles <72h (20 dans le flux)
 - OK   RSS Mediapart 10 articles <72h (10 dans le flux)
 - OK   RSS BFM - Économie 30 articles <72h (30 dans le flux)
 - OK   RSS BFM - Politique 30 articles <72h (30 dans le flux)
 - OK   RSS RMC 30 articles <72h (30 dans le flux)
 - OK   RSS Europe 1 50 articles <72h (50 dans le flux)
-- OK   RSS Public Sénat 31 articles <72h (60 dans le flux)
-- OK   RSS LCP 28 articles <72h (100 dans le flux)
+- OK   RSS Public Sénat 33 articles <72h (60 dans le flux)
+- OK   RSS LCP 23 articles <72h (100 dans le flux)
 - ÉCHEC RSS Acteurs publics https://acteurspublics.fr/rss/actualites : flux vide
 - ÉCHEC RSS Gazette des communes https://www.lagazettedescommunes.com/rss : 403 Client Error: Forbidden for url: https://www.lagazettedescommunes.com/arc
 - ÉCHEC RSS Banque des Territoires https://www.banquedesterritoires.fr/actualites/rss.xml : 404 Client Error: Not Found for url: https://www.banquedesterri
@@ -40,12 +40,10 @@
 - OK   RSS Ouest-France 10 articles <72h (10 dans le flux)
 - OK   RSS 20 Minutes 28 articles <72h (30 dans le flux)
 - OK   RSS Le JDD 50 articles <72h (50 dans le flux)
-- OK   RSS Reporterre 28 articles <72h (60 dans le flux)
-- OK   JO diagnostic 15014 fichiers, 7122 articles, 642 structures, exemples : ['20261118-214555/jorf/global/conteneur/JORF/CONT/00/00/55/09/83/JORFCONT000055098394.xml', '20261118-214555/jorf/global/conteneur/JORF/CONT/00/00/55/02/00/JORFCONT000055020030.xml', '20261118-214555/jorf/global/conteneur/JORF/CONT/00/00/54/45/61/JORFCONT000054456155.xml']
-- OK   JO (DILA) 642 textes, 176 signalés, archives: ['JORF_20261118-214555.tar.gz', 'JORF_20261119-020543.tar.gz', 'JORF_20261119-214726.tar.gz', 'JORF_20261120-004838.tar.gz']
-- OK   BOAMP exemple de montants 26-112515 : ['valeur=200000']
-- OK   BOAMP 500 avis, 14 signalés
+- OK   RSS Reporterre 29 articles <72h (60 dans le flux)
+- OK   JO diagnostic 19058 fichiers, 9593 articles, 662 structures, exemples : ['20261119-214726/jorf/global/conteneur/JORF/CONT/00/00/55/10/14/JORFCONT000055101491.xml', '20261119-214726/jorf/global/conteneur/JORF/CONT/00/00/55/05/33/JORFCONT000055053315.xml', '20261119-214726/jorf/global/conteneur/JORF/CONT/00/00/55/07/51/JORFCONT000055075181.xml']
+- OK   JO (DILA) 662 textes, 160 signalés, archives: ['JORF_20261119-214726.tar.gz', 'JORF_20261120-004838.tar.gz', 'JORF_20261120-222218.tar.gz', 'JORF_20261121-010907.tar.gz']
+- OK   BOAMP exemple de montants 26-112998 : ['valeur=93700.0']
+- OK   BOAMP 500 avis, 17 signalés
 - OK   TED 100 avis
-- ÉCHEC Cour des comptes liste p0 HTTPSConnectionPool(host='www.ccomptes.fr', port=443): Max retries exceeded with url: /fr/publicatio
-- ÉCHEC Cour des comptes liste p1 HTTPSConnectionPool(host='www.ccomptes.fr', port=443): Max retries exceeded with url: /fr/publicatio
-- ÉCHEC Cour des comptes 0 publications listées, 0 nouveaux PDF lus
+- OK   Cour des comptes 20 publications listées, 12 nouveaux PDF lus

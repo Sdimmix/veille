@@ -1,0 +1,1768 @@
+TITRE: Note thématique - Les soutiens de l'État en faveur du sport
+PAGE: https://www.ccomptes.fr/fr/publications/note-thematique-les-soutiens-de-letat-en-faveur-du-sport
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/20261119-note-structurelle-Soutiens-Etat-en-faveur-du-sport.pdf
+
+     ENTITÉS ET POLITIQUES PUBLIQUES
+
+
+
+
+LES SOUTIENS DE L’ÉTAT
+   EN FAVEUR DU SPORT
+       CLARIFIER LES PRIORITÉS,
+MIEUX COORDONNER LES ACTEURS
+
+
+
+
+         LES ENJEUX STRUCTURELS
+                 POUR LA FRANCE
+                      NOVEMBRE 2026
+                                                         COUR DES COMPTES 3
+
+
+
+
+                                        SOMMAIRE
+
+
+ 5   AVERTISSEMENT
+
+ 7   SYNTHÈSE
+
+ 9   INTRODUCTION
+
+13	1 - LE SPORT EN FRANCE : DES RÉSULTATS
+       EN PROGRESSION, DES MOYENS PUBLICS
+       IMPORTANTS
+
+13		       A - Une pratique sportive et une performance
+               en augmentation, à confirmer dans la durée
+
+16		       B - Plus de 17 Md€ de soutiens publics en 2024
+               ces dernières années
+
+22	2 - UN FOISONNEMENT D’ACTEURS
+       ET DE SOUTIENS PUBLICS
+
+22		A - Un paysage fragmenté, des compétences
+         partagées
+
+25		       B - La tentative de rassembler les acteurs
+               au sein d’un nouvel opérateur, l’Agence
+               nationale du sport
+
+27		C - Dans les territoires, une réforme qui n’a pas
+         porté ses fruits
+
+29	3 - MIEUX DÉFINIR LES OBJECTIFS DU SOUTIEN
+       AU HAUT NIVEAU, CLARIFIER LA POLITIQUE
+       DU SPORT POUR TOUS
+
+29		A - Mieux associer financeurs publics, fédérations
+         sportives et acteurs privés
+
+30		       B - Prendre en compte les conséquences
+               sur les dépenses publiques des grands
+               évènements sportifs avant toute décision
+               de candidature
+SOMMAIRE
+
+
+32		C - Sport de haut niveau : rationaliser le montant
+         des investissements publics
+
+34		       D - Sport pour tous : être plus performant
+               et s’adapter aux besoins nouveaux
+
+41   CONCLUSION
+
+43   RÉFÉRENCES AUX TRAVAUX DE LA COUR DES COMPTES
+                                                                     COUR DES COMPTES 5
+
+
+
+
+                                    AVERTISSEMENT
+
+La présente note de synthèse sectorielle fait partie d’une série de
+travaux réalisés par la Cour des comptes conformément à sa mission
+constitutionnelle d’information des citoyens et aux dispositions du 5° de
+l’article R. 143-11 du code des juridictions financières.
+La vocation de ces notes est de présenter de façon concise la synthèse des
+principales observations dressées par la juridiction financière à l’occasion
+de travaux antérieurement publiés, de les actualiser si nécessaire et de les
+mettre en perspective à l’échelle d’un secteur ou d’un domaine de l’action
+publique, dont le poids financier est significatif. Cette contribution à une
+appréciation documentée et précise des enjeux de politique publique ne
+prétend pas à l’exhaustivité mais la Cour a veillé à couvrir des domaines
+variés et structurants en s’appuyant sur des travaux approfondis et récents.
+Comme par le passé, la Cour vise ainsi à nourrir le débat public en ouvrant
+différentes voies de réformes possibles. Ces notes traitent de segments
+de l’action publique essentiels pour rétablir l’équilibre et la soutenabilité
+des finances publiques tout en veillant au respect des grands équilibres
+nationaux et aux politiques qui les soutiennent (compétitivité, équité
+sociale, formation, transition écologique, défense nationale, etc.).
+La présente note a été délibérée le 20 juillet 2026 par la troisième
+chambre, présidée par M. Meddah, président de chambre, et composée
+de Mme Fontaine, MM. Montarnal, Feltesse, Mme Charolles, M. Malcor,
+Mme Duclos-Grisier et M. Jourdan, conseillers maîtres, ainsi que M. Suard,
+conseiller maître, Mme Fechner et M. Riffaud, conseillers référendaires en
+service extraordinaire, en tant que rapporteurs, et, en tant que contre-
+rapporteur, M. Potton, conseiller maître.
+Elle a été approuvée le 6 octobre 2026 par le comité du rapport public et
+des programmes de la Cour des comptes, composé de Mme de Montchalin,
+Première présidente, M. Hayez, Rapporteur général, Mme Camby,
+M. Lejeune, Mme Thibault, MM. Cazé et Glimet, présidentes et présidents de
+chambre de la Cour, M. Éric Allain, président par intérim de la 2ème chambre,
+Mme de Mazières, présidente par intérim de la 3ème chambre, MM. Albertini,
+Vught, Roux, Mmes Daussin-Charpantier, Renet et Daam, présidentes
+et présidents de chambre régionale des comptes, et Mme Hamayon,
+Procureure générale, entendue en ses avis.
+Les publications de la Cour des comptes sont accessibles en ligne sur
+le site internet de la Cour et des chambres régionales et territoriales :
+www.ccomptes.fr
+                                                                                      COUR DES COMPTES 7
+
+
+
+
+                                                                SYNTHÈSE
+Le code du sport considère le sport comme relevant de l’intérêt général, qu’il
+s’agisse du « sport pour tous » ou du soutien au « haut niveau ». Ces deux volets
+de la politique publique s’inscrivent dans un contexte désormais plus large que
+l’accompagnement et le soutien au mouvement sportif dans toutes ses dimensions
+et l’attention portée au secteur économique. Le sport est également, de plus en
+plus, pratiqué hors du cadre des fédérations et des clubs, et il s’inscrit au confluent
+d’autres politiques publiques concernant l’éducation bien sûr, mais aussi la santé à
+tous les âges, l’inclusion ou l’égalité.
+La France est progressivement devenue, depuis la fin du siècle dernier, un
+pays caractérisé par des résultats en nette amélioration en matière de haute
+performance sportive. Si la pratique sportive, mesurée en nombre de licenciés ou
+par sondages, a augmenté au cours de la période récente, marquée par la tenue
+des Jeux olympiques et paralympiques de 20241, certains publics restent toujours
+éloignés du sport et les agences sanitaires alertent régulièrement sur la sédentarité
+de la population française, notamment des jeunes.
+Les financements publics consacrés au sport, au sens large, sont estimés à
+au moins 17 Md€ pour l’année 2024, dont plus de 8 Md€ pour l’État, montant
+constitué pour une large part de dépenses du ministère de l’éducation nationale
+(6 Md€ pour l’éducation physique et sportive dans le premier et le second degré) et,
+au minimum, 9 Md€ pour les collectivités territoriales en 2023, les données n’étant
+pas connues pour les communes de moins de 3 500 habitants, qui représentent
+31 % de la population française. En regard, les soutiens de l’État directement
+consacrés au sport (crédits du ministère chargé des sports, dépenses de soutien,
+taxes affectées, dépenses fiscales associées) se sont élevés en moyenne à 1 Md€
+par an sur la période 2015-2025.
+
+
+
+
+1. Cour des comptes, L’héritage des Jeux olympiques et paralympiques de Paris 2024 : bilan financier
+et héritage, rapport public thématique, novembre 2026.
+8 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+                         Schéma n° 1 : soutiens publics consacrés au sport
+
+
+
+
+                 Source : Cour des comptes. Les ordres de grandeur indiqués correspondent aux dépenses
+                 exécutées en 2024 pour l’État ; les dépenses des collectivités sont estimées à au moins
+                 9 Md€ (voir 1.2.1.)
+
+Le sport est par ailleurs une compétence partagée, mise en œuvre par une pluralité d’acteurs privés
+et publics (État, collectivités territoriales, au premier rang desquelles les communes), caractérisée
+de ce fait par un éparpillement des financements publics accordés. Ce constat ancien avait conduit
+en 2019 à rénover la gouvernance de cette activité, en créant des structures collégiales au
+niveau national (Agence nationale du sport, ANS) et territorial (conférences régionales du sport,
+conférences des financeurs). Cette organisation récente, mise en place en période de préparation
+des Jeux de 2024, appelle aujourd’hui une simplification tant des dispositifs portés par l’ANS que
+de l’articulation existant entre celle-ci et le ministère dans le pilotage et le contrôle du mouvement
+sportif. Dans les territoires, elle n’a pas permis de coordonner efficacement les financements publics
+et privés en direction du sport.
+Alors que l’action des pouvoirs publics a été en partie structurée par l’objectif des Jeux de 2024,
+puis de ceux de 2030, dans le contexte actuel de pression sur les crédits publics, l’ampleur des
+soutiens accordés à l’accueil des grands évènements sportifs, et plus généralement, au sport de
+haut niveau, doit faire l’objet d’une analyse approfondie, en regard des coûts engagés, y compris par
+les collectivités territoriales. Le financement des équipements sportifs doit pouvoir s’appuyer sur
+une analyse des carences, de la vétusté et des besoins réels des populations à l’échelle du bassin de
+vie. Enfin, le soutien à l’activité physique et sportive doit passer, plutôt que par l’annonce de plans
+et de programmes successifs, par la continuité d’actions éprouvées, associant les pouvoirs publics,
+le système éducatif et le mouvement sportif dans une logique d’optimisation et d’évaluation des
+dépenses.
+                                                                       COUR DES COMPTES 9
+
+
+
+
+Chiffres clés :
+
+    • 17,5 millions de licenciés, 61 % de pratiquants réguliers (INJEP, 2025).
+
+    • 119  fédérations sportives agréées par le ministère (2026),
+      164 963 clubs et établissements professionnels agréés par une
+      fédération (INJEP, 2025).
+
+    • Dépenses des collectivités territoriales : au moins 9 Md€ (2023) dont au
+      moins 8 Md€ pour l’échelon communal.
+
+    • Dépenses de l’État (hors programmes budgétaires spécifiques aux Jeux
+      olympiques et paralympiques 2024 et 2030) :
+
+         - dépenses « éducatives » : 6,1 Md€ pour le ministère chargé
+          de l’éducation nationale, 0,7 Md€ pour le ministère chargé de
+          l’enseignement supérieur (montant 2024) ;
+
+         - dépenses du ministère chargé des sports : 1,1 Md€ (montant 2024,
+           incluant les dépenses fiscales rattachées au sport et les taxes affectées
+           à l’Agence nationale du sport) ;
+
+         - dépenses des autres ministères : 0,4 Md€ (montant 2024, annexe
+           au projet de loi de finances) ;
+
+         - autres dépenses fiscales (dons aux associations sportives) : non
+           évaluées.
+10 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+                                                                                     COUR DES COMPTES 11
+
+
+
+
+                                                  INTRODUCTION
+Le sport fait l’objet d’une politique publique au carrefour de différents enjeux
+de société : santé, jeunesse, éducation, insertion, cohésion sociale, diplomatie,
+aménagement du territoire, etc. Le sport est par ailleurs confronté à des enjeux
+majeurs – santé et sédentarité de la population, pratiques sportives hors des
+fédérations, vieillissement du parc d’infrastructures et, plus largement, transition
+écologique et baisse démographique. En France, le soutien à cette activité
+individuelle et collective est considéré comme « d’intérêt général » dans deux cas :
+le « développement du sport pour tous » et le « soutien aux sportifs de haut niveau
+et aux équipes de France dans les compétitions internationales »2.
+La gouvernance de la politique publique sportive est particulièrement complexe.
+Si le mouvement sportif trouve ses origines dans des initiatives privées à la fin
+du XIXème siècle, l’État a été amené progressivement, au cours du XXème siècle, à
+jouer un rôle essentiel dans l’organisation, la régulation et le contrôle des activités
+sportives. L’État mobilise des moyens publics importants, en complément des
+financements plus volumineux, des collectivités territoriales.
+Le modèle de gouvernance du sport, largement hérité des années 1960, dépendant
+de « conseillers techniques sportifs », fonctionnaires placés au sein des fédérations
+sportives, elles-mêmes structurées sous la forme d’associations, a connu une
+évolution importante en 2019 avec la création de l’Agence nationale du sport
+(ANS). Cette réforme avait pour objectif d’instaurer une « gouvernance partagée à
+responsabilités réparties » entre les différents acteurs mobilisés : État, collectivités
+territoriales, mouvement sportif, monde économique.
+Dans le contexte de la forte contrainte budgétaire et de la préparation des Jeux
+olympiques et paralympiques (JOP) 2030, qui fait suite à la mobilisation collective
+et aux investissements exceptionnels des JOP 2024, il est nécessaire d’examiner
+la gouvernance nationale et territoriale de cette politique, ainsi que les objectifs
+poursuivis, en regard des fonds publics investis dans le sport pour tous et le sport
+de haut niveau
+La présente note se concentre sur les questions, majeures en matière de
+financement public, du soutien au sport de haut niveau et au sport pour tous. Elle
+ne traite pas en revanche des questions de régulation, d’éthique, de gouvernance,
+qu’il s’agisse des fédérations sportives ou du sport professionnel3, de lutte contre
+le dopage ou les violences de toutes natures, mises en avant par exemple dans le
+rapport que le Conseil d’État a consacré en 2019 au sport4.
+
+
+2. Article L. 100-1, code du sport.
+3. Le contrôle des ligues professionnelles est une compétence très récente de la Cour, sur le
+fondement de la loi du 3 août 2026 sur l’organisation, la gestion et le financement du sport
+professionnel.
+4. Conseil d’État, Le sport : quelle politique publique ? étude annuelle 2019.
+                                                                                                 COUR DES COMPTES 13
+
+
+
+
+1 - LE SPORT EN FRANCE : DES RÉSULTATS EN PROGRESSION,
+DES MOYENS PUBLICS IMPORTANTS
+
+A - Une pratique sportive                                       entre 2015 et 2019 et une forte diminution
+et une performance en augmentation,                             lors de la crise sanitaire. Le nombre de
+à confirmer dans la durée                                       licenciés atteignait 17,5 millions en 2025, soit
+1 - Une pratique sportive croissante malgré                     un taux de licenciés de 25,4 % ; l’estimation
+une alerte importante sur la sédentarité                        provisoire pour l’année 2026 fait état d’une
+des français, en particulier des jeunes                         progression ralentie5.
+
+En nombre de licences annuelles, la pratique
+sportive a augmenté de 8,5 % sur la décennie
+écoulée, marquée par une relative stabilité
+
+                  Tableau n° 1 : évolution du nombre de licenciés dans la population
+
+                             2015     2016    2017     2018    2019     2020     2021    2022     2023     2024    2025
+
+ Nombre de licences
+ annuelles                   16,1     16,2     16,4    16,3     16,3     15,7    12,8     15,3    16,5     17,2     17,5
+ (en millions)
+ Taux de licence dans
+                             24,2     24,4     24,5    24,3     24,2     23,3    19,0     22,5    24,2     25,0     25,4
+ la population (en %)
+Source : Cour des comptes d’après INJEP (licences annuelles) et INSEE (population au 1er janvier, données annuelles de 1990
+à 2026)
+
+Concernant plus largement la pratique sportive,                 Cette tendance positive reste à confirmer
+le ministère chargé des sports recense une                      d a n s l a d u ré e, l’o rg a n i s at i o n d e s J e u x
+augmentation de 3,7 millions de pratiquants                     olympiques étant propice à un engouement
+sportifs réguliers sur la période 2018-2023 et                  pour le sport dans le pays hôte, sans caractère
+l’institut national de la jeunesse et de l’éducation            nécessairement pérenne. Sur une longue
+populaire (INJEP) évalue pour 2025 à 61 % le                    période, les eurobaromètres du sport, dont les
+taux d’activité physique et sportive régulière,                 dernières données datent de 2022, indiquaient
+soit + 7 % par rapport à 20186. Le ministère                    en revanche une pratique sportive plutôt
+souligne par ailleurs la progression constatée pour             en diminution, la France se situant dans la
+les personnes en situation de handicap : « 47 %                 moyenne européenne (cf. tableau 2 supra).
+de pratiquants sportifs réguliers (+ 3 points entre
+2018 et 2022) »7.
+
+
+5. L’estimation de l’INJEP pour les licences annuelles s’élève à 17 456 435 en 2025 et à 17 524 419 (valeur provisoire)
+en 2026 (INJEP, fiche repère 2026-05, juillet 2026).
+6. Baromètre national des pratiques sportives 2025, INJEP, décembre 2025. Il s’agit du baromètre national des pratiques
+sportives concernant les personnes de 15 ans et plus sur la base de sondages avec 4 000 répondants. L’enquête nationale
+décennale de l’INJEP évaluait en 2020, sur la base d’une échantillon trois fois plus grand, à 65 % des 15 ans et plus ceux
+pratiquant une activité physique et sportive régulière (soit une séance ou plus par semaine dans l’année).
+7. Projet annuel de performance 2026, mission Sport, jeunesse et vie associative.
+14 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+     Tableau n° 2 : taux de pratique sportive en France et en Europe chez les plus de 15 ans
+
+                                                 2009                          2017                          2022
+      Année de l’enquête
+                                        Europe          France        Europe          France        Europe          France
+ Pratiquants réguliers*                  40 %           48 %           40 %           42 %            38 %           41 %
+ Pratiquants occasionnels**              21 %           18 %           14 %           12 %            17 %           14 %
+ Non pratiquants                         39 %           34 %           46 %           46 %            45 %           45 %
+Source : Eurobaromètres Sport and physical activity n° 334 (2010), 472 (2018) et 525 (2022)
+* Au moins une fois par semaine (regroupe « 5 fois par semaine et plus », « 3 à 4 fois par semaine », « 1 à 2 fois par semaine »
+dans les eurobaromètres n° 334 et 472, et « régulièrement » et « avec une forme de régularité » dans l’eurobaromètre
+n° 525). ** regroupe « 1 à 3 fois par mois » et « moins souvent », dans les eurobaromètres n° 334 et 472 et correspond à
+« rarement » dans l’eurobaromètre n° 525.
+
+
+Par ailleurs, plusieurs publics restent toujours                  Enfin, les données disponibles concernant la
+éloignés du sport : en 2025, seulement 39 %                       pratique, qu’il s’agisse de l’INJEP ou de
+des licences étaient détenues par des femmes                      l’eurobaromètre, se concentrent majoritairement
+et la répartition par âge des licences montrait                   sur la tranche d’âge des 15 ans et plus. Or,
+un décrochage important à l’adolescence puis                      en 2024, Santé publique France évaluait
+à l’âge adulte (pratique licenciée divisée par                    à seulement 33 % des filles et 51 % des
+quatre entre 15 et 25 ans8), plus marqué chez                     garçons de 6 à 17 ans ceux atteignant
+les jeunes filles et les jeunes femmes. Plus                      les recommandations en matière d’activité
+largement, concernant la pratique physique                        physique12, soulignant une « dégradation quasi
+ou sportive, la dernière enquête nationale                        générale » des niveaux d’activité physique et
+de l’INJEP, sur des données datant de 2020,                       de sédentarité de la population française entre
+montrait, chez les plus de 15 ans, un écart entre                 2006 et 201613, en particulier chez les femmes.
+jeunes hommes et jeunes femmes « construit                        Ces données rejoignent celles de l’OCDE sur
+dès l’enfance » puis une décroissance de la                       le pourcentage de jeunes exerçant le niveau
+pratique en fonction de l’âge9. Si une tendance                   quotidien d’activité physique recommandé
+à la progression de la pratique féminine                          par l’OMS.
+apparaissait dans le dernier baromètre
+national des pratiques sportives10, elle reste à
+confirmer. En outre, les pratiques sportives des
+personnes en situation de handicap restent
+significativement plus faibles que la moyenne
+nationale, avec un retrait encore plus important
+pour les femmes et avec l’âge11.
+
+
+8. Cour des comptes, « L’accès des jeunes au sport », in Rapport public annuel, mars 2025.
+9. INJEP, Les pratiques physiques et sportives en France, ouvrage coordonné par Brice Lefèvre et Valérie Raffin, 2023.
+10. INJEP, Baromètre national des pratiques sportives 2025, décembre 2025.
+11. INJEP, La pratique sportive des personnes en situation de handicap, octobre 2024.
+12. Santé publique France, Activité physique et sédentarité de la population, synthèse des données disponibles en 2024.
+Voir également les résultats 2022 de l’enquête EnClass publiés par Santé publique France en avril 2024.
+13. Charlotte Verdot, Benoît Salanave, Valérie Deschamps, Activité physique et sédentarité dans la population française.
+Situation en 2014-2016 et évolution depuis 2006-2007, Bulletin épidémiologique hebdomadaire n°15, juin 2020.
+                                                                                            COUR DES COMPTES 15
+
+
+
+
+   Graphique n°° 1 : pourcentage des jeunes de 11 à 15 ans qui exercent le niveau quotidien
+          d’activité physique recommandé par l’organisation mondiale de la santé
+
+
+
+
+            Source : enquête 2017-2018 sur les comportements de santé des enfants en âge scolaire en
+            Europe et au Canada, données tirées de Inchley, J et al. (2020)14
+            Note : la valeur pour la Belgique est la moyenne non pondérée des communautés flamande et
+            française.
+
+
+
+
+14. Joanna Inchley et al., « Enhancing Understanding of Adolescent Health and Well-Being: The Health Behaviour in
+School-aged Children Study », Journal of adolescent health, 2020.
+16 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+2 - Des progrès indéniables en matière                            le « top 5 aux Jeux »17, objectif très ambitieux dans
+de sport de haute performance                                     la mesure où les conditions favorables de 2024 ne
+                                                                  seront plus réunies.
+Depuis les années 2000, la France a, comme
+la Grande-Bretagne, mais à un degré moindre,                      B - Plus de 17 Md€ de soutiens publics
+réalisé des progrès notables dans le classement                   en 2024
+des médailles aux Jeux olympiques d’été,
+                                                                  La politique d’accueil des grands évènements
+parvenant à dépasser l’Allemagne et l’Italie depuis               sportifs nécessite des moyens publics importants
+2016 ; elle se situe plus en retrait pour les Jeux                (cf. partie 3), mais qui rendent délicate la
+paralympiques. Les résultats obtenus lors des Jeux                lecture des dépenses publiques pour le sport :
+de 2024 correspondent à l’atteinte des objectifs                  ces dépenses sont donc examinées dans cette
+fixés par le Gouvernement : la 5ème place du                      partie en excluant les programmes budgétaires
+tableau des médailles pour les Jeux olympiques,                   importants consacrés à la préparation des Jeux
+un niveau qui n’avait plus été atteint depuis 1996,               olympiques et paralympiques18.
+et la 8ème place pour les Jeux paralympiques, une
+                                                                  1 - Les financements des collectivités
+« performance significative »15 après plusieurs
+                                                                  territoriales estimés à au moins 9 Md€
+éditions avec des classements allant de la 12ème à
+la 18ème place depuis 2004.                                       Les crédits consacrés au sport par les collectivités
+Néanmoins, la France a bénéficié de l’« effet pays                territoriales sont difficiles à consolider,
+                                                                  notamment en raison de l’absence d’identification
+hôte », avec un quota d’athlètes sélectionnés plus
+                                                                  des crédits sportifs pour les communes de moins
+élevé et, par conséquent, d’un nombre d’épreuves
+                                                                  de 3 500 habitants, non soumises à la répartition
+disputées en augmentation, ainsi que d’autres
+                                                                  par fonction de leurs comptes, de l’existence
+facteurs, telle la diminution de la concurrence16.                de dépenses indirectes ou non comptabilisées
+Une analyse des résultats obtenus montre                          (par exemple mises à disposition gratuites
+toutefois que l’amélioration des résultats de la                  d’équipements, mobilisation d’éducateurs
+France lors des Jeux qu’elle a hébergés, bien que                 sportifs), ou encore de flux croisés entre les
+mesurable, s’est révélée « en deçà des attentes »,                différents échelons. L’INJEP, qui produit chaque
+par comparaison aux nations ayant organisé les                    année une analyse des dépenses des collectivités
+éditions précédentes des Jeux. La France a ensuite                territoriales, estimait à 9 Md€ ces dépenses en
+été classée 6ème aux Jeux olympiques et aux Jeux                  2023, la majeure partie (8,1 Md€) correspondant
+paralympiques d’hiver de 2026.                                    à l’échelon communal19 (graphique n° 1). Ces
+                                                                  dépenses sont constituées majoritairement de
+La stratégie Ambition bleue 2025-2032 de                          dépenses d’investissement (43 % des dépenses
+l’Agence nationale du sport (ANS) souligne ainsi                  en 2023), de dépenses courantes (25 %) et
+le « bilan record » de 2024 mais aussi la nécessité               de dépenses de rémunération (20 %)20. Elles
+de poursuivre « toutes les évolutions nécessaires »               concernent tous les niveaux de collectivités
+pour atteindre l’objectif fixé à l’horizon 2032, soit             (cf. partie 2), en premier lieu l’échelon communal.
+
+
+15. Cf. Évaluation de la stratégie Haute performance définie et mise en œuvre par l’Agence nationale du sport, février 2025.
+16. Ibid.
+17. Cf. Ambition bleue 2025-2032.
+18. 1,2 Md€ pour les seuls crédits de paiement exécutés du programme 350 – Jeux olympiques et paralympiques 2024,
+de sa création en 2018 à sa clôture en 2025.
+19. INJEP, Poids économique du sport en 2023, INJEP Fiches repères, novembre 2025.
+20. Ibid. Respectivement « acquisition nette d’actifs non financiers », « consommations intermédiaires » et « rémunération ».
+                                                                                             COUR DES COMPTES 17
+
+
+
+
+          Graphique n° 2 : dépenses des collectivités territoriales recensées par l’INJEP
+                                       (en M€ courants)
+
+
+
+
+                    Source : Cour des comptes d’après INJEP
+
+
+Ces estimations, pour incomplètes qu’elles                    cf. par tie 2) rattachées à ce programme
+soient, constituent néanmoins un socle de                     depuis 2020, ont bénéficié d’une évolution
+dépenses identifiées au sein de la comptabilité               favorable : entre 2015 et 2025, les crédits
+nationale. À par tir de ces données, des                      de paiement (CP) ont augmenté de + 65 %
+extrapolations ont pu être menées par                         en loi de finances initiale (LFI) et + 35 %
+différents acteurs, amenant à un chiffrage                    e n exé c u t i o n e n e u ro s co n st a nt s 2 0 2 5
+bien supérieur. Le groupe BPCE évaluait                       (cf. graphique n° 2). L’année 2021 a connu une
+ainsi pour 2024 à 15 Md€ les dépenses des                     forte augmentation des crédits exécutés du
+collectivités territoriales, en intégrant par                 fait de l’ouverture d’importantes ressources
+exemple une estimation des dépenses des                       en cours de gestion pour les dispositifs liés à
+communes de moins de 3500 habitants21. Au                     la crise sanitaire (pass sport, compensation
+regard de ces travaux et des limites identifiées              des pertes de billetterie liées aux restrictions
+supra, l’évaluation produite par l’INJEP doit                 d’accueil du public) et les années 2022 à
+être retenue comme la valeur minimale des                     2024 correspondent à la mise en œuvre
+dépenses des collectivités territoriales.                     de plans relatifs aux équipements sportifs.
+
+2 -Le financement total de l’État estimé
+à 8,3 Md€ en 2024
+La hausse importante des crédits budgétaires
+du ministère chargé des sports à la faveur de
+la crise sanitaire et de la préparation des Jeux
+Les crédits du programme 219 – Spor t,
+hors dépenses de personnel des quelques
+1 400 conseillers techniques sportifs (CTS,
+
+
+21. Groupe BPCE, Le sport : un poumon économique, social et territorial, BPCE L’Observatoire, décembre 2025.
+18 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+       Graphique n° 3 : montants, en M€ constants (valeur 2025), de crédits de paiement (CP)
+hors frais de personnels, votés en loi de finances initiale et exécutés pour le programme 219 – Sport
+
+
+
+
+        Source : Cour des comptes, notes d’exécution budgétaire de la mission Sport, jeunesse et vie associative
+
+
+En 2026, les crédits votés en LFI pour ce                       1 515 à 1 417 équivalents temps plein travaillé
+programme s’élevaient à 413,9 M€ (CP, hors                      (ETPT). Cette évolution est liée à des facteurs
+frais de personnel), soit une baisse de 10 % par                d’évolution de la masse salariale et à des
+rapport aux crédits votés en 2025 mais une                      mesures catégorielles22. En LFI 2026, la masse
+augmentation de 6 % par rapport aux crédits                     salariale prévisionnelle est de 134,3 M€.
+exécutés en 2024. Les crédits du programme
+                                                                Toutefois, le programme ne comprend pas les
+votés en 2026 restaient donc à un niveau
+                                                                dépenses de soutien correspondant aux agents
+élevé par rapport au niveau constaté au début
+                                                                des services centraux et déconcentrés du
+de la décennie écoulée, avant la période de
+                                                                ministère, lesquelles figurent dans une mission
+préparation des Jeux de 2024, et proche de la
+                                                                budgétaire distincte, Enseignement scolaire,
+moyenne des crédits exécutés sur la période
+                                                                dans laquelle est isolée une action consacrée
+2015-2025 (416,7 M€, valeur 2025).
+                                                                au sport, à la jeunesse, à l’éducation populaire
+À ces crédits s’ajoutent les dépenses de                        et à la vie associative23. Cette action n’épuise
+personnel du ministère. Depuis 2020, les crédits                cependant pas toutes les dépenses de soutien
+correspondant aux CTS, initialement rattachés                   portées par la mission Enseignement scolaire
+aux ministères sociaux, sont rattachés au                       et par ailleurs, elle ne permet pas de distinguer
+programme 219. Ils représentaient 129,9 M€                      les dépenses spécifiques au sport. L’information
+en exécution en 2025, soit une augmentation                     sur les crédits consacrés par l’État au sport est
+de 5,9 % entre 2020 et 2025 et une variation de                 ainsi altérée, bien qu’une évolution de l’intitulé
+
+
+
+22. En particulier le changement de régime indemnitaire, avec le passage au RIFSEEP (régime indemnitaire tenant
+compte des fonctions, des sujétions, de l’expertise et de l’engagement professionnel) pour les personnels techniques
+et pédagogiques.
+23. Action 11 : Pilotage et mise œuvre des politiques du sport, de la jeunesse, de l’éducation populaire et de la vie
+associative du programme 214 – Soutien de la politique de l’éducation nationale.
+                                                                                                COUR DES COMPTES 19
+
+
+
+
+du programme support soit envisagée pour le                    de 44 % par rappor t à 2024, du fait du
+projet de loi de finances 202724. Les crédits de               relèvement du plafond de la taxe prélevée
+cette action s’élevaient à 189 M€ en 2025, en                  sur les paris sportifs, voté en LFI 2025. Sur la
+augmentation de 12 % depuis 2020 en euros                      période 2015 à 2025, le produit de ces taxes
+constants 2025. Sur la période 2015-2025, les                  affectées avait connu une diminution en 2018
+effectifs (CTS et personnel des services) ont                  liée à un travail de recentrage des missions
+diminué de 4 074 ETPT25 à 3 752 ETPT26 et les                  du CNDS, puis une relative stabilité, autour de
+crédits exécutés correspondants de 354 M€ à                    160 M€ reversés en moyenne (euros constants
+318,8 M€ (euros constants 2025).                               2025) entre 2018 et 2024 (cf. graphique n° 3).
+
+Des taxes affectées à l’ANS rendent moins                      Un financement indirect du sport à travers
+lisible le soutien de l’État au sport                          les dépenses fiscales
+
+
+En complément des crédits budgétaires,                         Les moyens de l’État pour le sport comprennent
+l’État affecte à l’ANS, et avant sa création au                également des dépenses fiscales, dont six sont
+centre national pour le développement du                       rattachées au programme 219 – Sport, et qui
+sport (CNDS), un montant plafonné issu de                      correspondent, en moyenne sur la période
+différentes taxes : elles correspondent depuis                 2015 à 2025, à 122 M€ par an (euros constants
+2025 à un prélèvement sur les paris sportifs                   2025). La principale dépense fiscale évaluée
+de la Française des jeux (FDJ) et des nouveaux                 correspond au taux réduit à 5,5 % de la TVA
+opérateurs agréés ainsi qu’à une contribution                  appliqué aux droits d’entrée des compétitions
+sur la cession à un service de télévision des                  sportives27 (qui représente entre 74 et 93 %
+droits de diffusion de manifestations ou de                    du total des dépenses fiscales évaluées
+compétitions sportives, dite « taxe Buffet ».                  rattachées au sport). Les autres dépenses
+Avant 2025, une troisième taxe affectée                        fiscales concernent des exonérations, d’une
+correspondait à un prélèvement sur les jeux                    part sur les sommes perçues par les arbitres et
+exploités par la FDJ hors paris sportifs ; son                 juges sportifs, et d’autre part sur des retenues
+affectation a été supprimée en raison de son                   à la source sur les bénéfices et revenus de
+absence de lien avec la mission de service                     source française concernant les organisateurs
+public de l’agence. Les reversements à l’agence                de compétitions sportives internationales.
+issus des taxes affectées représentaient
+214,3 M€ en 2025, soit une augmentation
+
+
+
+
+24. Le programme 214 – Soutien de la politique de l’éducation nationale verrait son intitulé modifié en Conduite et
+soutien des politiques de l’enseignement, de la recherche, de la jeunesse, de la vie associative et des sports.
+25. Cf. RAP 2015 du programme 124 de la mission Solidarité, égalité des chances et insertion.
+26. Nombre tenant compte des ETPT du programme 219 – Sport (1417 ETPT en 2025, cf. rapport annuel 2025 de
+performance du programme 219 - Sport) et des ETPT du programme support de la mission Enseignement scolaire
+(2 335 ETPT, cf. rapport annuel de performance du programme 214).
+27. Article 278-0 bis – J, code général des impôts.
+20 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+Il conviendrait d’y ajouter les dépenses                            Les crédits de l’État consacrés au sport :
+fiscales rattachées au programme 163 –                              1,07 Md€ en moyenne sur la décennie
+Jeunesse et vie associative et issues des                           écoulée
+d i s p o s i t i f s v i s a nt à s o u te n i r le m o n d e      Pour estimer les dépenses de l’État pour le sport,
+associatif et l’engagement bénévole, dont                           il convient de tenir compte des taxes affectées
+bénéficient les associations sportives. En                          et des dépenses du programme de soutien
+2024, la réduction d’impôts au titre des dons                       (qui restent surestimées du fait de l’absence
+était estimée à 1,99 Md€ pour les ménages                           d’identification des crédits spécifiques au sport),
+et à 1,64 Md€ pour les entreprises. Les seules                      ainsi que des dépenses fiscales rattachées au
+données disponibles sur la destination des                          sport, en plus des crédits du programme 219 –
+dons concernent le mécénat d’entreprise, qui a                      Sport. Ainsi, hors crédits exceptionnels liés aux
+versé en 2020 3,2 % des dons aux associations                       Jeux olympiques et paralympiques et crédits
+sportives, d’après une étude de 202428. Elles                       relevant du système éducatif, les dépenses
+ne sont pas disponibles en revanche pour                            de l’État s’élèvent à 1,02 Md€ en 2025, niveau
+les dons aux associations spor tives, qui                           stable sur la période 2015-2025 (en moyenne de
+représentent 24 %29 du total des associations.                      1,07 Md€ en euros constants 2025).
+
+                 Graphique n° 4 : soutiens de l’État au sport sur la période 2015 à 2025,
+                                     en M€ constants (valeur 2025)
+
+
+
+
+              Source : Cour des comptes, notes d’exécution budgétaire et rapports annuels de performance
+              de la mission Sport, jeunesse et vie associative, de la mission Enseignement scolaire à partir
+              de 2020, de la mission Solidarité, égalité des chances et insertion avant 2020
+              Note de lecture : le graphique reprend le cumul des crédits du programme 219 Sport, hors
+              frais de personnel, des crédits de personnels (programme 219 et programme support de la
+              mission Enseignement scolaire), des taxes affectées et des dépenses fiscales rattachées au
+              programme 219.
+
+
+
+
+28. DGFIP Analyses, Dons et mécénats de 2011 à 2021, janvier 2024.
+29. Les associations actives en 2018, Enquête associations, INSEE Résultats, juin 2021.
+                                                                                                 COUR DES COMPTES 21
+
+
+
+
+Un recensement de l’ensemble des dépenses                      et de l’enseignement supérieur. En regard,
+de l’État encore à parfaire                                    les dépenses du programme 219 (ministère
+                                                               chargé des sports) s’élevaient à 639 M€ et
+Le recensement de l’ensemble des financements                  celles des autres ministères représentaient
+consacrés par l’État au sport reste à parfaire,                427 M€, dont 244 M€ correspondant aux crédits
+malgré la publication annuelle d’un « jaune                    d’investissement dans des équipements sportifs
+budgétaire 30 » spécifique depuis 2021. Le                     relevant du ministère chargé de l’aménagement
+périmètre des crédits recensés dans ce document                du territoire, le reste étant distribué dans
+pour 2024 correspondait à neuf ministères et un                12 programmes budgétaires.
+montant total de 7,4 Md€ en crédits de paiement                Bien que le recensement du jaune budgétaire
+exécutés31. Il reste cependant perfectible : en                ne soit pas exhaustif, il illustre la transversalité
+sont absents par exemple les crédits relevant de               du sport et le caractère épars des crédits qui
+l’enseignement privé, les dépenses de soutien                  peuvent lui être consacrés. Au final, sur la base
+de l’administration centrale et déconcentrée                   d’une estimation du coût de la filière STAPS
+du ministère des sports (cf. supra) ou encore les              (0,7 Md€ en 202433), en écartant les dépenses
+crédits correspondant à la filière STAPS32 dans                exceptionnelles liées aux Jeux et en tenant
+l’enseignement supérieur.                                      compte des différents éléments détaillés supra
+La majeure partie de ces dépenses de l’État est                (crédits de soutien, taxes affectées et dépenses
+imputée au système éducatif et correspond à des                fiscales), le soutien de l’État en 2024 s’élevait
+dépenses de personnel consacrées à l’éducation                 à 8,3 Md€, sans tenir compte de la part de
+physique et sportive (EPS) dans le premier et                  la dépense fiscale consacrée au don à des
+le second degré. En 2024, 6 Md€ relevaient des                 associations sportives.
+ministères chargés de l’éducation nationale
+
+              Tableau n° 3 : estimation du soutien de l’État pour le sport, au sens large,
+                                       de 2022 à 2024, hors JO
+
+                              En Md€ (euros courants)              2022          2023           2024
+
+                 Éducation nationale et enseignement
+                                                                    6,27         6,52           6,77
+                 supérieur (dont filière STAPS)
+                 Ministère des sports (dont taxes
+                 affectées,
+                                                                    1,08         1,04           1,08
+                 dépenses fiscales rattachées au sport,
+                 action support)
+                 Autres ministères                                  0,35         0,41           0,43
+
+                 Total État                                         7,70         7,97           8,27
+
+                Source : Cour des comptes d’après notes d’exécution budgétaire, jaunes budgétaires
+                sport, INJEP, INSEE
+
+
+30. Les jaunes budgétaires sont des annexes générales aux projets de loi de finance (PLF).
+31. Rapport relatif à l’effort financier public dans le domaine du sport, annexe au PLF 2026.
+32. Sciences et techniques des activités physiques et sportives.
+33. Estimation sur la base du coût moyen d’un étudiant à l’université (cf. Dépenses d’éducation, INSEE) en 2024 et du
+nombre d’étudiants en filière STAPS en 2024-2024 (service statistique du ministère chargé de l’éducation nationale).
+22 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+Sur l’année 2024, la somme des différentes                   par la Cour de mettre en place un compte
+dépenses publiques liées au sport et décrites                satellite du sport d’une part, et d’effectuer un
+ci-dessus s’élevaient donc à plus de 17 Md€. La              recensement exhaustif des moyens consacrés
+difficulté à identifier précisément ces dépenses             au sport d’autre part34.
+renvoie aux recommandations déjà exprimées
+
+
+2 - UN FOISONNEMENT D’ACTEURS ET DE SOUTIENS PUBLICS
+
+A - Un paysage fragmenté, des compétences partagées
+
+Le constat d’un paysage fragmenté est ancien : le sport repose en France sur des responsabilités
+partagées (cf. schéma n° 2).
+
+                              Schéma n°2 : organisation du sport en France
+
+
+
+
+  Source : Cour des comptes
+
+L’État dispose d’une compétence générale qui                 des sports) et déconcentrée au travers des
+couvre tout le champ du sport, qu’il s’agisse du             délégations régionales académiques à la
+haut niveau ou de la pratique de tous. Il s’appuie           jeunesse, à l’engagement et au sport (DRAJES)
+sur une administration centrale (la direction                et des services départementaux à la jeunesse, à
+
+
+34. Cour des comptes, L’Agence nationale du sport et la nouvelle gouvernance du sport, communication à la commission
+des finances, de l’économie générale et du contrôle budgétaire de l’Assemblée nationale, juillet 2022.
+                                                                                                           COUR DES COMPTES 23
+
+
+
+
+l’engagement et au sport (SDJES), ainsi que sur un                    sociales contribuent à la promotion et au
+réseau d’établissements publics, parmi lesquels                       développement des activités physiques et
+l’institut national du sport, de l’expertise et de la                 sportives »36.
+performance (INSEP), 17 centres de ressources,
+                                                                      L’engagement des collectivités territoriales
+d’expertise et de performance sportive (CREPS)
+                                                                      pour le sport est ancien, au travers par exemple
+et trois écoles nationales, auxquels s’ajoute,
+                                                                      du financement d’équipements sportifs, du
+depuis 2019, l’ANS (cf. infra). Par les mécanismes
+                                                                      subventionnement de clubs, du soutien aux
+d’agrément et de délégation, il s’appuie également
+                                                                      sportifs de haut niveau ou encore pour certaines
+sur les fédérations sportives, structures chargées
+                                                                      d’aides à la pratique sportive37. L’essentiel des
+de l’organisation de la pratique d’une ou de
+                                                                      financements étant apporté par l’échelon
+plusieurs disciplines sportives, auprès desquelles
+                                                                      communal (cf. partie 138). Le caractère « partagé »
+sont également placés plus de 1 440 agents de
+                                                                      de la compétence sur le sport a été maintenu
+l’État, les conseillers techniques et sportifs (CTS).
+                                                                      par la loi du 7 août 2015 portant nouvelle
+En janvier 2026, le ministère chargé des sports                       organisation territoriale de la République
+décomptait 119 fédérations agréées. Ces                               (NOTRe) 39 . Chaque niveau de collectivité
+fédérations sportives, et plus généralement                           peut librement contribuer au sport ; seuls les
+l’ensemble des acteurs du mouvement sportif35,                        départements détiennent une compétence
+dont le Comité national olympique et sportif                          spécifique en matière de sports de nature
+français (CNOSF) et ses comités régionaux et                          (cf. tableau n° 4). La loi NOTRe a également eu
+départementaux, le Comité paralympique et                             pour conséquence une décentralisation partielle
+sportif français (CPSF), mais aussi les ligues,                       des CREPS, dont le patrimoine immobilier et
+comités et clubs sportifs au sein de chaque                           le fonctionnement technique ont été confiés
+fédération, sont tous constitués sous la forme                        aux régions 40. Enfin, en ce qui concerne les
+associative, suivant les dispositions de la loi du                    intercommunalités, la construction et la gestion
+1er juillet 1901.                                                     d’équipements sportifs est une compétence
+Par ailleurs, la compétence de l’État est                             optionnelle pour les communautés de communes
+partagée, le code du sport disposant que                              et les communautés d’agglomération 41 et
+« l’État, les collectivités territoriales et leurs                    obligatoire pour les communautés urbaines et
+groupements, les associations, les fédérations                        les métropoles, lorsque les équipements sont
+sportives, les entreprises et leurs institutions                      d’intérêt communautaire42 ou métropolitain43.
+
+
+
+35. Article L. 141-1, code du sport, « Les associations sportives et les sociétés sportives qu’elles ont constituées, les fédérations
+sportives et leurs licenciés sont représentés par le Comité national olympique et sportif français ».
+36. Article L. 100-2, code du sport.
+37. Cour des comptes, « L’Accès des jeunes au sport », in Rapport public annuel, 2025. Cette enquête s’est appuyée
+notamment sur des contrôles de collectivités et associations en Auvergne-Rhône Alpes.
+38. En matière de subventionnement des clubs de sport, c’est bien l’échelon communal qui ressort de l’analyse des principales
+thématiques subventionnées par les collectivités territoriales au bénéfice des associations et coopératives en 2023, cf. Cour
+des comptes, Les soutiens publics à l’économie sociale et solidaire, rapport public thématique, septembre 2025.
+39. « Les compétences en matière de promotion de l›égalité entre les femmes et les hommes, de culture, de sport, de tourisme,
+de promotion des langues régionales et d›éducation populaire sont partagées entre les communes, les départements, les
+régions et les collectivités à statut particulier », article L. 111-4, code général des collectivités territoriales.
+40. Articles L.114-1 à L. 114-9, code du sport.
+41. Article L. 5216-5, code général des collectivités territoriales.
+42. Article L. 5215-20, code général des collectivités territoriales.
+43. Article L. 5217-2, code général des collectivités territoriales.
+24 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+          Tableau n° 4 : compétences des différents niveaux de collectivités territoriales
+         en matière d’équipements et installations sportives ainsi que de soutien financier
+                                au monde sportif et aux sportifs
+
+                                           Compétence                                                   Acteur compétent
+
+                                    Équipements sportifs et installations sportives
+ Construction et fonctionnement des équipements sportifs de proximité ou d’intérêt
+ communautaire ou métropolitain                                                                        Communes ou EPCI
+ Sécurité des installations sportives
+ Possibilité de mettre à disposition les équipements sportifs auprès des collèges
+                                                                                                       Communes ou EPCI
+ et des lycées
+ Construction et entretien d’équipements sportifs dans les collèges ou les lycées
+                                                                                                          Départements
+ Participation financière versée aux communes mettant à disposition des équipements                         Régions
+ sportifs communaux pour les collégiens ou les lycéens
+ Gestion du patrimoine et des fonctions de soutien des centres de ressources,
+                                                                                                              Régions
+ d’expertise et de performance sportive (CREPS)
+ Gestion des commissions départementales des espaces, sites et itinéraires, placées
+ auprès des présidents de conseils départementaux et chargées de proposer les plans                       Départements
+ départementaux des espaces, sites et itinéraires relatifs aux sports de nature
+                               Soutien financier au mouvement sportif et aux sportifs
+                                                                                                       Communes ou EPCI
+ Subventions aux clubs et aux associations                                                               Départements
+                                                                                                           Régions
+                                                                                                       Communes ou EPCI
+ Soutien aux sportifs de haut niveau                                                                     Départements
+                                                                                                           Régions
+Source : Cour des comptes d’après données de la direction générale des collectivités locales (DGCL)
+
+L’organisation du sport repose également sur                       éparpillement des financements publics accordés
+un panel d’acteurs privés, notamment en ce                         par l’État d’une part et les collectivités territoriales
+qui concerne le sport professionnel (ligues et                     d’autre part. La réforme de 2019, fondée sur
+clubs professionnels), avec des soutiens privés                    le constat « partagé » de la « complexité du
+orientés essentiellement vers les disciplines                      modèle », du « manque de lisibilité des politiques
+les plus médiatisées, bien qu’au niveau local,                     sportives et des missions respectives des différents
+les entreprises, et notamment les PME44, soient                    acteurs », du « manque de cohérence entre
+des acteurs importants du soutien au sport.                        les décisions », de « l’absence de concertation
+Le secteur des loisirs sportifs marchands est                      entre les acteurs pour gérer une compétence
+également en pleine expansion45.                                   partagée », du « saupoudrage de moyens », et
+La politique publique sportive est donc mise                       d’une « difficulté à s’adapter à l’évolution de la
+en œuvre par une pluralité d’acteurs publics                       demande sociale »46, avait pour objectif d’instaurer
+et privés, dont les niveaux d’intervention sont                    une nouvelle gouvernance du sport, mais n’a pas
+imbriqués. Elle est caractérisée par un                            répondu pleinement à ces objectifs.
+
+
+44. DGFIP Analyses, Dons et mécénats de 2011 à 2021, janvier 2024.
+45. Cour des comptes, « L’accès des jeunes au sport », in Rapport public annuel, mars 2025.
+46. Mission confiée par la ministre des sports, Laura Flessel, à Laurence Lefèvre, directrice des sports, et à Patrick Bayeux,
+consultant dans le domaine des politiques sportives, ayant donné lieu au rapport Nouvelle gouvernance du sport, août 2018
+                                                                                                   COUR DES COMPTES 25
+
+
+
+
+B - La tentative de rassembler                                     sport de haut niveau et sport pour tous, et
+les acteurs au sein d’un nouvel                                    d’autre part du fait de la position des associations
+opérateur, l’Agence nationale du sport                             d’élus locaux, « contre l’identification de chefs de
+                                                                   filât et pour une organisation de la compétence
+1 - Une agence dont l’État reste                                   sportive en fonction des situations locales dans le
+le financeur quasi unique et dont
+                                                                   cadre de la libre administration des territoires »50.
+les missions restent à clarifier
+                                                                   Selon le code du sport51, l’ANS est « chargée
+Au cours de la période 2017-2018, des travaux                      de développer l’accès à la pratique sportive
+ont été lancés par le gouvernement pour                            pour toutes et tous et de favoriser le sport de
+réformer la gouvernance du sport dans le                           haut niveau et la haute performance sportive ».
+contexte de l’attribution des Jeux de 2024 à                       Sa gouvernance traduit la volonté initiale de
+Paris. Une démarche de concertation, organisée                     « gouvernance partagée », mais les associations
+par la ministre chargée des sports, a conduit                      d’élus considèrent que leur participation ne leur
+à l’élaboration de différents scénarios47, parmi                   permet pas réellement d’exercer une influence
+lesquels celui de la « gouvernance partagée                        sur la stratégie et le budget de l’agence. Le
+à responsabilités réparties » a été adopté,                        ministère considère de fait l’ANS comme son
+aboutissant à la décision de créer des « structures                « bras armé »52.
+collégiales nationales et territoriales »48 et                     La fragilité juridique du dispositif mis en
+plus spécifiquement l’ANS, sous forme d’un                         place a été soulignée par le Conseil d’État dès
+groupement d’intérêt public (GIP).                                 201953, constatant que l’essentiel des moyens
+Ce choix s’est alors opposé aux propositions du                    mis en commun par les membres fondateurs
+rapport Action publique 2022, programme de                         du groupement seraient apportés par l’État,
+transformation de l’administration lancé par                       contrairement aux dispositions législatives qui
+le Premier ministre en 2017, qui préconisait                       régissent les GIP. Or, l’agence n’a pas entraîné de
+la création d’une agence nationale chargée                         mutualisation des moyens. La participation et les
+du sport de haut niveau et un transfert des                        apports du secteur privé sont restés modestes ;
+compétences relatives au développement du                          les associations d’élus ne disposent pas de
+sport pour tous aux collectivités territoriales49.                 moyens financiers propres. L’État est donc resté
+La Cour notait en 2022 que ce choix avait été                      le financeur quasi-unique de l’agence, par le biais
+déterminé, d’une part, du fait de la volonté                       des crédits du budget général de l’État et des
+exprimée par le CNOSF, et partagée par les                         taxes affectées (représentant ensemble 98 %
+autres acteurs, de maintenir un lien étroit entre                  des recettes de l’agence entre 2020 et 2025, soit
+
+
+47. Ibid.
+48. Ibid.
+49. Rapport Service public, se réinventer pour mieux servir, Comité Action publique 2022, juin 2018.
+50. Cour des comptes, L’Agence nationale du sport et la nouvelle gouvernance du sport, communication à la commission
+des finances, de l’économie générale et du contrôle budgétaire de l’Assemblée nationale, juillet 2022.
+51. Art. L. 112-10, code du sport.
+52. Déclaration de Mme Marie Barsacq, ministre des sports, de la jeunesse et de la vie associative, sur l’héritage des Jeux
+olympiques 2024, la préparation des Jeux olympiques d’hiver 2030, les dérives dans le football, le développement
+du sport féminin et le soutien à la vie associative, à l’Assemblée nationale le 12 mars 2025.
+53. Conseil d’État, section de l’Intérieur, avis n° 396 592, 16 avril 2019.
+26 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+en moyenne 211 M€ par an de crédits issus du                   en 2022 afin de hiérarchiser les objectifs fixés
+budget général de l’État et 161 M€ par an de                   à l’agence, a été prorogé en 2025. Au-delà de
+taxes affectées). La contribution des comités                  « l’exigence absolue d’un exercice effectif de
+sportifs nationaux (CNOSF et CPSF) reste                       la tutelle stratégique de l’État sur l’agence »,
+symbolique 54 ; de surcroît, le CNOSF et ses                   soulignée par la Cour en 202257, une clarification
+déclinaisons territoriales sont bénéficiaires de               plus substantielle des missions de l’agence
+dispositifs de l’agence.                                       demeure indispensable.
+Par ailleurs, la création de l’agence a posé la
+                                                               2 - Une action peu lisible, en dépit
+question de son périmètre auprès des différents
+                                                               de la hausse des financements
+acteurs du sport, dont la direction des sports
+                                                               à l’occasion des Jeux olympiques
+et le réseau d’établissements relevant du
+ministère chargé des sports. Le recentrage                     La mise en place de l’agence a bénéficié du
+de la direction des sports sur ses missions                    contexte favorable de la préparation des Jeux de
+régaliennes, qui ne peuvent être confiées à                    2024 ; de fait, son budget était en hausse entre
+un GIP, et sur des fonctions de pilotage                       2020 et 2025 (de 284 M€ à 464 M€58 de dépenses).
+stratégique, de coordination et d’observation,
+                                                               En ce qui concerne le sport de haut niveau,
+apparaissait cohérent avec le choix de confier
+                                                               l’enveloppe allouée aux contrats de performance
+à un opérateur l’exécution d’une politique
+                                                               signés entre l’agence et les fédérations a connu
+publique. Pour autant, des difficultés sur le
+                                                               une hausse de 44 % (de 56,3 à 81 M€) entre 2020
+plan stratégique comme opérationnel et une
+                                                               et 2024. Dans le cadre de sa stratégie Ambition
+confusion dans la répartition des missions et
+                                                               bleue, l’agence a mis en place un système de
+des compétences de l’agence et la direction des
+                                                               ciblage des sportifs les plus performants et créé
+sports ont été relevées55.
+                                                               les maisons régionales de la performance (MRP)
+Des travaux, menés en 2022 et 2023 pour                        placées au sein des CREPS (ou établissements
+clarifier les positionnements, ont permis de                   équivalents). L’accompagnement socio -
+mettre en place des modalités de travail dans                  économique des sportifs a été un élément
+le contexte de préparation des Jeux de 2024.                   important de cette stratégie. Toutefois, ces
+Cependant, après cet évènement, l’agence est                   nouveaux systèmes mis en place (listes de
+restée en attente d’arbitrage sur son devenir                  sportifs, positionnement des MRP) manquant
+et la poursuite de ses missions, alors même                    de lisibilité pour les sportifs eux-mêmes mais
+qu’une commission d’enquête sénatoriale en                     aussi pour les entités qui les soutiennent, telles
+proposait la suppression 56 ; ainsi, le contrat                que les collectivités territoriales, le travail de
+d’objectifs, signé avec l’État le 17 mai 2021 et               clarification engagé depuis les Jeux de 2024 doit
+se terminant au 31 décembre 2024, qui n’avait                  être poursuivi, afin que ces dépenses soient
+pas été révisé comme le recommandait la Cour                   pleinement efficientes.
+
+
+54. En 2024, 1 M€ pour le CNOSF, 200 000 € pour le CPSF.
+55. Cour des comptes, L’Agence nationale du sport et la nouvelle gouvernance du sport, communication à la commission
+des finances, de l’économie générale et du contrôle budgétaire de l’Assemblée nationale, juillet 2022.
+56. Cf. Christine Lavarde, Agencification : une méthodologie repensée pour une action publique renforcée, Rapport de
+commission d’enquête, Sénat, n° 807 (2024-2025), tome I, déposé le 1er juillet 2025 . Cf. également la Proposition de loi
+n°566 enregistrée à la présidence du Sénat le 27 avril 2026.
+57. Cour des comptes, L’Agence nationale du sport et la nouvelle gouvernance du sport, communication à la
+commission des finances, de l’économie générale et du contrôle budgétaire de l’Assemblée nationale, juillet 2022.
+58. Cf. Budget rectificatif n° 2 de l’ANS 2025.
+                                                                                                 COUR DES COMPTES 27
+
+
+
+
+En ce qui concerne le développement des                        l’organisation territoriale de l’État. Ces services
+pratiques, les dispositifs mis en place par l’agence           ont en effet été réintégrés au sein du ministère
+se sont inscrits dans une forme de continuité des              de l’éducation nationale59, alors même qu’une
+dispositifs du CNDS, y compris les projets sportifs            large partie de leurs missions, notamment en
+fédéraux (PSF), aides financières accordées au                 matière de sport, demeure sous l’autorité des
+mouvement sportif, dont l’instruction a été                    préfets. Au niveau de l’administration centrale,
+confiée aux fédérations dans l’objectif d’une                  le sport relève depuis 2022 d’un ministère de
+plus grande autonomie du mouvement sportif.                    plein exercice, dont les ressources humaines
+Au-delà de la problématique du saupoudrage                     restent néanmoins gérées par le ministère de
+des crédits (cf. partie 3), la lisibilité de l’action          l’éducation nationale (cf. partie 1). À cette réforme
+de l’État est désormais diminuée dès lors que                  s’est ajouté le transfert des compétences relatives
+les acteurs locaux croient être financés par leur              au sport de haut niveau aux CREPS, depuis les
+fédération, alors que la subvention est issue du               directions régionales. Les compétences de l’État
+budget général de l’État.                                      en matière de sport au niveau territorial sont donc
+                                                               dispersées, alors même qu’au niveau national, la
+L’action de l’agence s’est surtout déclinée en une
+                                                               création d’une agence dotée des deux missions
+multiplication de contrats ou dispositifs, avec le
+                                                               était supposée confirmer le lien entre sport pour
+mouvement sportif ou d’autres bénéficiaires,
+                                                               tous et sport de haut niveau.
+nuisant à la lisibilité de l’action de l’État. La
+multiplication des outils de financement et des                Le ministère considère que le bilan des instances
+appels à projets s’est de surcroît traduite par                de gouvernance territoriales mises en place
+une augmentation des coûts de gestion pour                     reste à mener. De fait, leur création est récente,
+tous les acteurs, ceux-ci devant se doter des                  les projets sportifs territoriaux ayant été adoptés
+moyens nécessaires d’ingénierie de projets pour                par les différentes conférences régionales du
+les uns et d’instruction et suivi pour les autres.             sport à compter de février 2022, pour une durée
+La démarche de simplification des dispositifs                  maximale de cinq ans60. Toutefois, il apparaît
+de l’agence, que la direction des sports indique               d’ores et déjà que le fonctionnement des
+avoir engagée, doit être poursuivie.                           conférences a été inégal, notamment selon
+                                                               la taille et l’historique des régions. Bien que
+C - Dans les territoires, une réforme                          considérées par certains acteurs comme des
+qui n’a pas porté ses fruits                                   lieux d’échange utiles, la composition très large
+                                                               de ces instances (en moyenne 58 membres61),
+Le volet territorial de la réforme, avec la mise               avec des niveaux de représentation hétérogènes
+en place de conférences régionales du sport et                 (agents de l’État, élus), n’a pas permis un
+de conférences des financeurs du sport, s’est                  fonctionnement efficace. La mobilisation du
+déroulé dans le double contexte de la crise                    collège des acteurs économiques, notamment,
+sanitaire et d’une réorganisation profonde                     a été difficile 62. La question des moyens et
+des services déconcentrés chargés des sports,                  modalités de fonctionnement des conférences
+dans le cadre d’une autre réforme, celle de                    n’a pas été correctement clarifiée.
+
+
+
+59. Cf. décret n° 2020-1542 du 9 décembre 2020.
+60. Article L112-14, code du sport
+61. Agence nationale du sport, La déclinaison territoriale de la gouvernance du sport, janvier 2026.
+62. Cour des comptes, Le financement des équipements sportifs structurants par l’Agence nationale du sport,
+communication à la commission des finances du Sénat, juin 2026.
+28 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+Même si des contrats pluriannuels d’orientation                  Le constat d’absence de vision d’ensemble
+et de financement ont été mis en place, la                       et de coordination des financements publics
+plus-value de ces conférences en matière                         s’étend, au-delà des équipements sportifs, aux
+d’actions communes, et surtout de pilotage                       autres aides apportées au mouvement sportif
+des actions et de coordination de leurs                          ou aux sportifs par les différents financeurs. À
+financements, n’a pas été démontrée. De                          titre d’exemple, les projets sportifs fédéraux
+fait, les conférences n’ont débattu que des                      et les projets de performance fédéraux mis
+crédits alloués par l’ANS, dans un contexte                      en place par les fédérations ne sont pas
+où ceux-ci étaient dynamiques. De plus, le                       abordés dans les conférences, alors même
+processus d’attribution est complexe : le préfet                 que ces derniers sous-tendent des projets
+de région, ordonnateur secondaire et délégué                     d’investissement mobilisant des moyens
+territorial de l’agence, décide de l’attribution                 publics (par exemple pour l’accueil des pôles
+des subventions à la suite des travaux des                       d’excellence et d’accession au haut niveau).
+conférences, pour ce qui concerne les crédits
+                                                                 Si la fusion des deux conférences est souvent
+territorialisés de l’ANS, les crédits nationaux
+                                                                 présentée comme un élément de simplification
+faisant l’objet d’une décision par la direction
+                                                                 bienvenu 65, dans les faits, certaines régions
+générale ou le conseil d’administration de
+                                                                 avaient déjà adopté un mode de fonctionnement
+l’ANS suivant les montants. À ce processus
+                                                                 mutualisant les agendas des deux conférences ;
+s’ajoute le mécanisme de dotation de l’État au
+                                                                 un travail global de clarification des attributions
+titre de l’aménagement du territoire. En 2024,
+                                                                 et des compétences des acteurs, et partant
+la direction générale des collectivités locales
+                                                                 de ces conférences, doit être mené. L’enjeu
+annonçait avoir soutenu 1 860 projets auxquels
+                                                                 majeur, qui préexistait à la réforme de 2019,
+ont été attribués 206,8 M€ de subventions pour
+                                                                 reste de permettre une planification partagée
+la rénovation ou la construction d’équipements
+                                                                 de l’ensemble des moyens publics consacrés
+sportifs63 (soit une moyenne de 111 200 € par
+                                                                 au sport et alignée sur les besoins effectifs des
+projet). Dans le même temps, l’ANS estimait
+                                                                 populations.
+à 113,2 M€ ses engagements au titre des
+subventions d’équipements pour 3 324 projets
+(34 000 € en moyenne par projet) 64 . L a
+lourdeur et la durée du processus mis en
+place autour des financements alloués par
+l’agence, de surcroît pour des montants faibles,
+et surtout l’absence de mécanisme efficace
+de coordination des financements alloués
+par l’ensemble des acteurs publics (État et
+collectivités) pour chaque projet apparaissent
+contraires aux objectifs de la réforme.
+
+
+63. Les dotations de soutien à l’investissement des collectivités territoriales en 2024, direction générale des collectivités
+locales.
+64. Agence nationale du sport, rapport d’activités 2024.
+65. Cf. par exemple le rapport du député Benjamin Dirx, Le sport : une ambition à structurer, un héritage à construire,
+remis au Premier ministre en juillet 2025.
+                                                                                                 COUR DES COMPTES 29
+
+
+
+
+3 - MIEUX DÉFINIR LES OBJECTIFS DU SOUTIEN AU HAUT NIVEAU,
+CLARIFIER LA POLITIQUE DU SPORT POUR TOUS
+
+Depuis 10 ans, l’action de l’État a été en partie               des athlètes. Elles jouent également un rôle
+structurée par les Jeux de 2024 ainsi que par des               important dans le sport pour tous en raison du
+mesures concernant la gouvernance et des plans                  nombre élevé de licenciés et de clubs affiliés.
+successifs de soutien aux équipements et aux                    Les principaux outils de la politique sportive de
+pratiques. Cette période n’a pas été suffisamment               l’État à l’égard des fédérations sont les contrats
+mobilisée pour améliorer l’efficience des dépenses              de délégation (signés avec la direction des
+publiques et simplifier des politiques sportives                sports), les contrats de performance et de
+enchevêtrées entre différentes parties prenantes.               développement (signés avec l’ANS) et la mise à
+Le rapport entre fonds investis et résultats incite             disposition des CTS (décidée et financée par la
+à une gouvernance partagée plus efficace entre                  direction des sports). Certaines améliorations
+acteurs publics et privés, dont le mouvement                    de ce dispositif ont été engagées 66 : la
+sportif. Celle-ci doit permettre d’ajuster, en                  démarche de recentrage du contenu des
+fonction d’objectifs plus précis, l’ampleur                     contrats de délégation et d’inclusion d’objectifs
+des soutiens publics aux grands évènements                      quantifiables doit être poursuivie et le suivi de
+sportifs et à la politique du haut niveau, ainsi                ces différents contrats et engagements doit
+que d’améliorer une politique de soutien au                     gagner en cohérence. Enfin, comme cela a été
+sport pour tous particulièrement complexe.                      le cas dans le passé, il est nécessaire que la
+                                                                direction des sports signe avec les fédérations
+                                                                s p o r t i ve s co n ce r n é e s d e s co nve nt i o n s
+A - Mieux associer financeurs publics,
+                                                                pluriannuelles fixant précisément les règles de
+fédérations sportives et acteurs privés
+                                                                gestion des conseillers techniques sportifs.
+                                                                Le sport professionnel, autre enjeu déterminant
+La clarification des cofinancements et des
+                                                                des politiques sportives, déclenche aussi des
+responsabilités des acteurs du sport (État,
+                                                                financements publics en mobilisant une partie
+collectivités territoriales, mouvement sportif et
+                                                                des crédits alloués par les collectivités territoriales.
+secteur privé) n’est pas allée jusqu’à son terme
+                                                                Les aides financières que pourraient nécessiter
+(cf. partie 2).
+                                                                des clubs en fort déficit67 pourraient avoir un effet
+Les fédérations sportives jouent un rôle central                d’éviction sur d’autres financements sportifs.
+dans le sport de haut niveau du fait de leur                    Enfin, le sport professionnel est une vitrine du
+rôle dans l’organisation des compétitions (hors                 sport dans son ensemble : les problèmes de
+championnats professionnels masculins), la                      gouvernance et d’éthique qu’il peut rencontrer
+gestion des équipes nationales et le suivi                      sont fortement médiatisés.
+
+
+
+
+66. Cour des comptes, Fédération française de rugby, observations définitives, février 2026.
+67. Pour la saison 2024-2025, 11 des 18 clubs de Ligue 1 de football ont présenté des déficits d’exploitation, certains
+très élevés (64 M€ pour Strasbourg, 66 M€ pour Marseille et 183 M€ pour Lyon). Malgré le plafond de salaires qui limite
+la masse salariale autorisée, la situation financière de nombreux clubs de Top 14 et Pro D2 de rugby est également fragile.
+30 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+Seule une petite minorité des athlètes de haut                   Le débat sur la contribution privée est aujourd’hui
+niveau sont des professionnels. Parallèlement,                   dominé par la recherche des partenariats pour
+une majorité des sportifs professionnels, vivant                 les grands évènements sportifs (les Jeux Alpes
+du sport à travers des revenus essentiellement
+                                                                 françaises de 2030 succédant à ceux de Paris
+privés, ne font pas partie du haut niveau
+olympique, même s’ils contribuent de manière                     2024), mais aussi par l’affermissement du
+significative à la haute performance sportive                    financement privé des sports pouvant bénéficier
+de notre pays et à l’attractivité de leur sport.                 de revenus médiatiques, football, rugby et basket
+Les cinq principaux sports collectifs cumulent                   notamment. Mais le financement privé contribue
+4,1 millions de licenciés, leur classement                       aussi au sport pour tous, à travers le mécénat
+mondial moyen pour les femmes et les                             local, et des équipements correspondant à de
+hommes est passé, entre les deux dernières
+                                                                 nouvelles pratiques (padel, escalade par exemple) :
+décennies, du 8ème au 5ème rang, et le nombre de
+titres majeurs (victoires aux Jeux olympiques et                 une gouvernance réellement partagée suppose
+aux championnats du monde) de 5 à 10.                            que les différents financeurs, et pas seulement
+                                                                 l’État, échangent sur les financements portant
+Il importe que le sport professionnel soit régulé et
+                                                                 sur les projets importants, que les co-financeurs
+que le respect de l’éthique et de la santé financière            privés s’appuient sur un cadre fiscal stable, et que
+fassent l’objet de la vigilance des pouvoirs publics.            l’État soit transparent sur les dépenses fiscales
+Cela inclut des sujets dépassant le cadre sportif                consenties dans ce cadre, ce qui n’est pas encore le
+mais ayant un impact majeur sur les sports les                   cas (cf. partie 1).
+plus pratiqués ou médiatiques : lutte contre le
+piratage, étroitement liée aux négociations de                   B - Prendre en compte les conséquences
+contrats de diffusion audiovisuelle, cadre juridique             sur les dépenses publiques des grands
+des paris sportifs. En ce sens, les réflexions                   évènements sportifs avant toute
+parlementaires menées depuis deux ans et la                      décision de candidature
+loi relative au sport professionnel68 traduisent la
+nécessité de préciser les règles et les contrôles.               Sur le plan opérationnel, les juridictions
+                                                                 financières ont salué la réussite des Jeux de
+Le professionnalisme contribue financièrement
+                                                                 2024 : si certains aspects ont pu être critiqués70,
+au sport amateur par le biais de redevances
+                                                                 les objectifs sportifs ont été atteints, l’équilibre
+payées aux clubs formateurs et de versements                     financier du comité d’organisation maîtrisé71
+de certaines ligues professionnelles à leurs                     et les travaux menés convenablement et
+fédérations. Au-delà, l’échec de l’association des               dans les temps 72 . Mais la Cour a aussi mis
+financeurs privés69 dans la gouvernance territoriale             en avant l’ampleur des dépenses publiques
+du sport, qu’il s’agisse du co-financement des                   (pas uniquement spor tives) engagées à
+équipements ou de l’activité, reste préoccupant.                 cette occasion : elle les estime à 6,68 Md€,
+
+
+68. Loi du 3 août 2026 relative à l’organisation, à la gestion et au financement du sport professionnel.
+69. Les dépenses sportives des ménages, qui ne représentent qu’une partie du chiffre d’affaires de la filière, sont estimées
+à 27,6 Md€ par l’INJEP. Elles ont progressé, passant de 0,7 à 1 % du PIB de 2012 à 2023 (sources : comptes nationaux -
+base 2020 INSEE, in INJEP, Poids économique du sport, 2025).
+70. Cour des comptes, Les Jeux olympiques et paralympiques de Paris 2024, rapport remis au Parlement, septembre 2025 ;
+chambre régionale des comptes d’Île-de-France, Jeux olympiques et paralympiques de Paris 2024 : l’action de la Métropole
+du Grand Paris, rapport d’observations définitives, mars 2026.
+71. Cour des comptes, Le Comité d’organisation des Jeux olympiques et paralympiques de Paris 2024, observations
+définitives, mai 2026.
+72. Cour des comptes, La société de livraison des ouvrages olympiques, observations définitives, septembre 2025.
+                                                                                                   COUR DES COMPTES 31
+
+
+
+
+d o n t 2 , 9 9 M d € p o u r l’o r g a n i s at i o n e t       évènement sportif mondial, mais peinent
+3 , 6 9 M d € p o u r le s i nf ra st r u c t u re s , ce s      à intégrer l’ensemble des coûts publics
+dépenses ayant été insuffisamment                                dans le budget prévisionnel. L’Euro 2016,
+é v a l u é e s e n a m o n t d e l a c a n d i d at u r e.      convenablement géré, s’est traduit par un
+                                                                 coût public net d’organisation de 97 M€, et
+L’exemple des Jeux n’est pas unique : l’Euro                     par 1,13 Md€ d’investissements publics, sans
+2016 et surtout la coupe du monde de rugby                       qu’ait été établi un coût public prévisionnel73.
+2023 avaient déjà montré combien les pouvoirs                    Le cas de la coupe du monde de rugby 2023,
+publics sont capables, avec les partenaires                      plus critique, a vu coïncider le doublement de
+privés et le mouvement sportif, d’assurer                        la participation publique, à 138,6 M€, et une
+avec succès la gestion opérationnelle d’un                       défaillance majeure de gestion74.
+
+                          Graphique n° 5 : dépenses publiques totales, JOP 2024,
+                            coupe du monde de rugby 2023, Euro 2016, en M€
+
+
+
+
+                         Source : Cour des comptes
+Au total, dans la décennie écoulée, et pour ne retenir que les soutiens publics d’organisation et
+d’infrastructures sportives, 5,5 Md€ ont été dépensés sur les trois évènements75 .
+
+Graphique n° 6 : dépenses publiques sportives, JOP 2024, CM de rugby 2023, Euro 2016, en M€
+
+
+
+
+                         Source : Cour des comptes
+
+
+73. Cour des comptes, Les soutiens publics à l’Euro 2016 en France, rapport public thématique, septembre 2017.
+74. Cour des comptes, L’organisation de la Coupe du Monde de rugby 2023 en France, observations définitives, avril 2025.
+75. Pour ces dépenses exclusivement liées au sport, 4,3 Md€ sur les JOP 2024 (les autres dépenses à l’occasion des JOP
+portant notamment sur la sécurité, le transport, etc.), 0,14 Md€ sur la coupe du monde 2023, 1,1 Md€ sur l’Euro 2016.
+32 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+Indépendamment de la question de leur                          Au niveau individuel, le coût est estimé de
+héritage, qui doit être examinée avec le recul                 15 000 à 30 000 € par an pour l’hébergement
+nécessaire, ces évènements ont fait peser                      et la formation d’un jeune sportif en CREPS,
+une lourde charge sur les finances publiques,                  auxquels s’ajoutent des coûts d’équipements
+qui s’est ajoutée aux dépenses habituelles                     et de déplacement, pris en charge par les
+pour le haut niveau et le sport pour tous. Le                  fédérations, elles-mêmes bénéficiaires, pour
+caractère répété de tels efforts pose question                 ces actions, des contrats de performance de
+dans le contexte actuel des finances publiques                 l’ANS. Pour le très haut niveau, olympique par
+et les engagements pris pour les JOP Alpes                     exemple, le coût annuel est supérieur : ainsi
+françaises 2030, et au-delà pour une éventuelle                pour une jeune athlète participant aux Jeux
+candidature pour la coupe du monde de                          olympiques pour un sport de glace, le soutien
+football en 2038, constituent un sujet essentiel.              public pour la saison 2025-2026 est de 56 000 €,
+                                                               provenant de l’État et de trois niveaux différents
+C - Sport de haut niveau : rationaliser                        de collectivités territoriales78.
+le montant des investissements publics                         Or, d’une manière générale, il est difficile
+                                                               d’objectiver le lien entre le nombre de licenciés
+La politique de soutien au haut niveau a un coût.              et les résultats du sport de haut niveau. L’effet
+L’ANS a consacré, en 2025, 109,8 M€ à la haute                 d’entraînement d’une performance médiatisée
+performance ; l’action 2 du programme 219 –                    sur un sport jusqu’ici peu mis en avant est
+Sport consacrée au haut niveau est passée de                   réel, comme le montre l’exemple du tennis
+166 M€ en 2015 à 237 M€ en 2025 (+ 18 % en                     de table. 79 Mais il ne suffit pas à expliquer
+euros constants 2025). La dépense totale était,                l’évolution des pratiques, comme le montre
+selon le ministère chargé des sports, proche de                l’exemple du judo, sport connaissant des
+300 M€ en 2024, incluant notamment le budget                   succès majeurs et réguliers en compétition
+de l’INSEP et des CREPS76, ce qui est comparable               depuis 1975, mais dont les effectifs ont stagné
+au soutien fédéral au haut niveau en Allemagne,                lors des 20 premières années du siècle, et
+estimé à 346 M€77. Le niveau de la contribution                qui doit plus sa progression mesurée depuis
+des collectivités territoriales, théoriquement                 2019 à une politique de fidélisation des
+principalement du ressort des régions à travers                jeunes pratiquants 80. La comparaison avec
+le soutien aux CREPS, mais associant de fait tous              d’autres pays est éclairante : l’Allemagne,
+les niveaux de collectivités, n’est pas connu.                 pays de performances sportives largement
+
+
+
+
+76. Ministère des sports et des jeux olympiques et paralympiques, Aider nos athlètes à réussir les Jeux à la maison,
+17 avril 2024.
+77. Pour le budget 2026, voir Mit einem Rekordwert in Richtung Olympia et Deutscher Bundestag Drucksache 21/600 -
+Gesetzentwurf der Bundesregierung - Entwurf eines Gesetzes über die Feststellung des Bundeshaushaltsplans für das
+Haushaltsjahr 2026 (Haushaltsgesetz 2026 – HG 2026).
+78. Dont 25 000 € sont apportés par la maison régionale de la performance, 8 500 € par trois collectivités territoriales
+(région, département, commune), 18 000 € par la fédération concernée et 4 500 € par le club, selon la MRP et le CREPS
+Grand Est.
+79. Le nombre de licences est passé de 186 000 en 2001 à 210 000 en 2023, mais a ensuite fortement augmenté dans
+le contexte des succès rencontrés aux JOP 2024, atteignant 254 110 en 2025.
+80. Le nombre de licenciés, déjà de 515 000 en 2000, est actuellement de 548 000.
+                                                                                                 COUR DES COMPTES 33
+
+
+
+
+supérieures à la France depuis 1950, connaît                    Face aux coûts publics associés au très haut
+depuis 2019 des résultats en retrait81, ce qui                  niveau, de l’ordre de 300 M€, l’objectif de
+ne l’a pas empêchée de voir le nombre de                        rayonnement international, affirmé dans le
+licenciés augmenter de 7 %, une évolution                       code du sport 82, reste finalement le plus à
+comparable dans son ampleur à celle de la                       même de justifier l’investissement consenti83.
+France (cf. partie 1).                                          Dans une période où l’attrition des moyens
+Les résultats du sport de haut niveau sont                      publics s’annonce sans précédent, il est urgent
+bons, même s’ils sont toujours perfectibles                     de veiller à une meilleure efficience de la
+pour certaines disciplines ou, en dépit de                      dépense publique. Il n’appartient pas à la Cour
+leur progression, s’ils demeurent en deçà des                   d’apprécier la légitimité de cet objectif au
+objectifs pour les Jeux de 2024 pour le sport                   regard d’autres objectifs de politique publique.
+paralympique. Mais dans un contexte de                          Mais le niveau attendu pour le pays doit faire
+tension extrême pour les finances publiques,                    l’objet d’une analyse approfondie, et être mis
+la simple conjonction de résultats sportifs                     en regard des coûts engagés, y compris par
+et d’espoir de ruissellement de ces derniers                    les collectivités territoriales, tout comme cela
+sur la pratique sportive ne suffit plus. Il                     doit être le cas avant d’engager des moyens
+est nécessaire d’interroger les objectifs de                    publics sur de grands évènements sportifs. Cela
+politique publique pour le haut niveau.                         concerne la place de l’ANS dans cette politique,
+Dans ce domaine, la France, par rapport au                      qui constitue un acquis de la période récente,
+Royaume-Uni ou à la Chine par exemple, se                       mais aussi l’impact de la stratégie Ambition
+distingue par une approche universelle : elle                   bleue, au regard de la recommandation
+n’exclut a priori aucun sport. Elle concentre                   d’apporter une aide plus ciblée et sélective au
+les aides sur certains athlètes soutenus,                       sport de haut niveau84 formulée par la Cour en
+même si les listes sont nombreuses, entre                       2013. Cela concerne également l’articulation
+celles de l’ANS, celles plus larges établies par                des financements conjoints : la légitimité
+le ministère des sports, et enfin la liste encore               du financement de l’État, de ses opérateurs,
+plus large des élèves et étudiants sportifs de                  des fédérations et des régions est forte dans
+haut niveau ou les groupes du dispositif sport-                 ce domaine, à condition d’y apporter le bon
+études. La politique française du haut niveau                   calibrage quantitatif, et d’éviter les doublons,
+se distingue également par la priorité donnée                   notamment en provenance des départements
+à l’accompagnement et l’épanouissement des                      et du bloc communal.
+athlètes, la poursuite de la performance devant
+rester compatible avec la santé, mais aussi avec
+le développement personnel et professionnel.
+
+
+81. L’Allemagne est au même niveau que la France au classement moyen des quatre dernières olympiades d’été,
+et derrière la France au classement mondial 2026 masculin et féminin des quatre sports collectifs majeurs (football,
+basket-ball, handball, volley-ball), avec un rang moyen de 7,1 contre 4,4 pour la France.
+82. Cf. article L. 221-1 du code du sport.
+83. Le cas des sports collectifs marqué par un fort professionnalisme est spécifique : les soutiens publics portent plus
+sur les infrastructures, comme cela a été le cas pour l’Euro 2016, que sur les sportifs eux-mêmes.
+84. Cour des comptes, Sport pour tous et sport de haut niveau : pour une réorientation de l’action de l’État, rapport
+public thématique, janvier 2013.
+34 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+D - Sport pour tous : être                                         Pour passer d’un effet de complément, voire
+plus performant et s’adapter                                       d’aubaine, à un réel effet de levier, des efforts
+aux besoins nouveaux                                               sont nécessaires et la place de l’ANS sur le
+                                                                   financement du sport pour tous reste encore, à
+1 - Équipements sportifs : s’accorder                              ce stade, à stabiliser88.
+sur les besoins des territoires plutôt
+que de cofinancer dans le désordre                                 Ainsi, les moyens de l’État, qui ne permettent
+                                                                   pas d’assumer un maillage complet du
+                                                                   territoire, doivent accompagner les évolutions
+La politique du sport pour tous s’appuie sur le
+                                                                   démographiques dans les décennies à venir
+financement d’équipements sportifs permettant
+                                                                   en co-finançant des équipements réellement
+de développer la pratique. Administrés par
+les collectivités territoriales ou par le système                  structurants, au niveau des bassins de vie. Le
+éducatif, ils sont utilisés par le mouvement                       défi est aussi important que celui attendu
+sportif lui-même et par les 220 000 associations                   pour les équipements scolaires, avec des
+sportives qui en sont les premiers acteurs85, ou                   évolutions qualitatives : la diminution des
+directement par les usagers, scolaires, étudiants                  besoins proprement scolaires accompagnera
+ou pratiquants non licenciés.                                      des demandes croissantes pour les adultes et
+                                                                   les seniors, et l’aspect quantitatif de la réponse
+Ce financement est très majoritairement                            devra céder le pas à une attention croissante
+apporté par les collectivités territoriales                        à l’évolution des usages 89 . Une meilleure
+(cf. par tie 1), mais la place des soutiens                        mutualisation des équipements sportifs en milieu
+financiers apportés par l’État doit encore être                    scolaire demeure un enjeu entre les services
+précisée. Dans le contexte tendu des finances                      du ministère chargé de l’éducation nationale
+publiques, l’État doit se concentrer sur les
+                                                                   et les collectivités territoriales concernées,
+domaines où son apport est indispensable ; or
+                                                                   mais l’apprentissage chez les jeunes des savoirs
+l’impact des équipements financés par l’État
+                                                                   fondamentaux du sport ne sera plus le facteur
+n’est pas suffisamment évalué, même si la
+                                                                   principal de développement des infrastructures.
+diminution des moyens en 2026 conduit de
+fait à porter les efforts de l’ANS sur les piscines                Surtout, le travail d’évaluation, en progrès
+et équipements structurants86. L’effet de levier                   sur le haut niveau, doit être mené pour les
+des fonds apportés par l’État, dont l’attribution                  équipements, et d’une manière générale pour
+demeure dispersée, reste mise en cause87.                          le sport pour tous : en matière de réduction
+
+
+
+
+85. Source : Observatoire BPCE / INSEE, Lionel Prouteau et Viviane Tchernonog, Le paysage associatif français, 2023 ;
+164 963 clubs et établissements professionnels sont agréés par une fédération (INJEP, 2025).
+86. Agence nationale du sport, note de service, plan Équipements 2026, mars 2026.
+87. Cour des comptes, Sport pour tous et sport de haut niveau : pour une réorientation de l’action de l’État, rapport
+public thématique, janvier 2013 ; Cour des comptes, Le financement des équipements sportifs structurants par l’Agence
+nationale du sport, communication à la commission des finances du Sénat, juin 2026.
+88. L’exemple allemand, centré sur la création d’une agence des sports centrée sur le haut niveau est à ce titre intéressant.
+89. Une étude de Patrick Bayeux évalue la diminution des besoins nécessaires pour l’apprentissage scolaire à 1 800 gymnases
+et 55 000 m² de plans d’eau d’apprentissage.
+                                                                                             COUR DES COMPTES 35
+
+
+
+
+des inégalités territoriales d’accès aux                     petites communes, a également toute sa place
+infrastructures sportives, l’effet des soutiens              dans cette programmation. Les investissements
+publics n’est pas suf f isamment évalué.                     publics doivent s’appuyer sur l’évaluation de
+                                                             la carence et des besoins mais aussi de la
+À condition d’associer pleinement l’ensemble
+                                                             vétusté des équipements à l’échelle du bassin
+des financeurs publics, État et collectivités
+                                                             de vie, niveau adapté en termes de couverture
+territoriales, il est indispensable de mettre en
+                                                             territoriale. La base de données Data-ES,
+œuvre une approche pluriannuelle des besoins
+                                                             référentiel national des équipements sportifs
+en équipements, appuyée sur ces évaluations.
+                                                             et lieux de pratique physique et sportive, placé
+L’échelon régional permet, notamment pour
+                                                             sous la responsabilité du ministère chargé des
+les investissements les plus lourds, une telle
+                                                             sports, constitue en ce sens un outil intéressant,
+perspective pluriannuelle, à partir de l’évaluation
+                                                             qu’il conviendrait de compléter et de fiabiliser
+du projet sportif territorial (PST). Mais l’échelon
+                                                             afin de servir de base pour une politique
+départemental, bonne échelle pour conforter
+                                                             d’attribution des subventions, par exemple
+un diagnostic et prendre des décisions, donne
+                                                             pour les bassins de natation90. Cette évolution
+une lisibilité globale sur les investissements
+                                                             permettra de mieux adapter dans les territoires
+de l’État dans les équipements, en associant
+                                                             la culture sportive aux différents publics, tout
+aux financements sportifs les dotations à
+                                                             en l’articulant avec les priorités transversales
+l’aménagement du territoire pilotées par les
+                                                             (accessibilité, égalité et inclusion notamment),
+préfets. Le ministère indique ainsi que le soutien
+                                                             mais aussi au zonage traditionnel au travers
+de l’État devrait à compter de 2027 relever des
+                                                             des quartiers prioritaires de la politique de
+moyens à la main des préfets de département.
+                                                             la ville (QPV) et des zones France ruralités
+L’échelon intercommunal, permettant de
+                                                             revitalisation (ZRR).
+mutualiser des investissements lourds pour les
+
+
+
+
+90. Cour des comptes, Le financement des équipements sportifs structurants par l’Agence nationale du sport,
+communication à la commission des finances du Sénat, juin 2026
+36 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+          Carte n° 1 : caractéristiques des bassins de vie carencés en bassins de natation
+
+
+
+
+                           Rural non périurbain (115)                Urbain intermédiaire (90)
+                           Rural périurbain (137)                    N/A
+                           Urbain dense (8)
+
+
+               Source : Cour des comptes, Le financement des équipements sportifs structurants par
+               l’Agence nationale du sport, communication à la commission des finances du Sénat, juin 2026
+               Note de lecture : cette carte constitue un exemple d’exploitation des données de Data-ES
+               pour une analyse des carences en bassins de natation combinant le niveau d’équipement
+               (sont considérés comme sous-dotés les bassins de vie dont le taux d’équipement est inférieur
+               à 50 % de la moyenne nationale) et un seuil démographique fixé à 10 000 habitants (en deçà
+               de ce seuil, les bassins de vie ne sont pas considérés, la densité de population ne permettant
+               pas de justifier aisément le financement d’équipements structurants).
+
+2 - Privilégier la continuité de politiques                     La première est celle des dispositifs soutenant
+réellement évaluées à la succession                             le mouvement sportif : clubs, ligues, fédérations,
+de plans aux résultats limités                                  incluant les 3,5 millions de bénévoles 91
+                                                                intervenant dans le secteur. Les subventions
+Un second levier de la politique du sport pour                  aux clubs amateurs, les dispositifs fiscaux
+tous est le soutien à l’activité proprement dite,               permettant d’alléger la charge des bénévoles
+qui prend principalement deux formes.                           notamment pour le transport des équipes de
+
+
+91. Cf. CNOSF, Feuille de route sur le bénévolat sportif pour l’olympiade, décembre 2025.
+                                                                                                  COUR DES COMPTES 37
+
+
+
+
+jeunes, les allègements de charges sociales                      fédérations, mais sont destinés à la fois aux
+destinées aux éducateurs et entraîneurs                          organes territoriaux et pour au moins 50 %
+sportifs sont des éléments structurants de                       du financement aux clubs, ce qui reste limité ;
+cette politique. Ils ne sont pourtant pas tous                   les projets sportifs territoriaux, soutenant
+quantifiés, en particulier la dépense fiscale                    majoritairement des emplois. Les dispositifs
+consacrée au don (cf. partie 1).                                 consacrés au sport santé viennent également
+                                                                 soutenir le mouvement sportif, tel par exemple
+Le soutien aux clubs est un élément
+                                                                 le Pass sport, visant à sa création en 2020, à
+particulièrement important, qui se décline
+                                                                 favoriser la reprise de la pratique sportive.
+par des subventions nationales et locales,
+                                                                 L’enchevêtrement des différents contrats entre
+même s’il est délicat d’évaluer son impact
+                                                                 l’État, l’ANS et les fédérations nécessite une
+spécifique sur la pratique sportive, d’autant
+                                                                 simplification, dans l’objectif de maximiser le
+plus que cette pratique évolue, de plus en
+                                                                 soutien à la pratique dans les clubs plus qu’aux
+plus, dans un cadre plus individuel, souvent en
+                                                                 structures.
+dehors du mouvement sportif. Pour l’État et les
+collectivités territoriales, un enjeu est d’ailleurs             L’effort financier local, de nature différente, va
+de mieux accompagner les pratiquants en                          directement aux clubs. C’est une compétence
+dehors des clubs. Plusieurs approches existent,                  partagée, généralement largement exercée
+incitatives pour le grand public, mais aussi                     par les communes, mais facultative dans les
+fondées sur des politiques interministérielles,                  départements. À titre d’exemple, le budget
+notamment pour le « sport santé » tout au                        moyen des plus grands clubs omnisports est
+long de la vie. Ce besoin nouveau est une                        estimé à 1 111 672 €, avec une subvention
+dimension majeure de l’évolution des missions                    municipale moyenne de 150 672 € 94 , qui
+du ministère chargé des sports.                                  s’ajoute pour 57 % d’entre eux aux crédits de
+                                                                 l’ANS. Si les données disponibles pour 2024
+Le soutien national passe par trois dispositifs
+                                                                 ne font pas état d’une baisse des soutiens,
+soutenus par l’ANS, représentant environ
+                                                                 des signes plus récents pour 2025 vont dans
+183 M€ en 2024, dont 115 M€ passe par les
+                                                                 le sens d’une diminution95, alors que le sport
+fédérations : les contrats de développement
+                                                                 ne semblait pas constituer une demande
+accompagnant le projet de chaque fédération ;
+                                                                 prioritaire des électeurs en amont des élections
+les projets sportifs fédéraux (80 M€ en 202492,
+                                                                 municipales de 2026, arrivant loin derrière les
+distribué par l’ANS à 16 705 structures, dont
+                                                                 enjeux de sécurité, santé ou transports, mais
+76 % de clubs recevant en moyenne 1 416 €93)
+                                                                 aussi en deçà de la culture96.
+qui passent désormais par les
+
+
+
+
+92. 70 M€ en 2025 et en 2026, cf. notes de service de l’ANS.
+93. ANS, Projets sportifs fédéraux, Bilan 2024, mise en œuvre 2025 et perspectives 2026, 9 avril 2025.
+94. FFCO, Baromètre de l’omnisport 2025 : il s’agit de données déclaratives, issue d’une enquête annuelle
+de la fédération.
+95. Baromètre ANDES – Budget sport 2025 des collectivités, mai 2025.
+96. Enquête réalisée par OpinionWay en partenariat avec le Sens du service public, la CASDEN et la Fondation Jean-Jaurès,
+février 2026.
+38 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+Pour maximiser l’efficience de l’effort public,                budgétaires sur les zonages prioritaires (QPV
+en soutien à la pratique sportive quotidienne,                 et ZRR), et plus largement par une difficulté à
+il convient de s’appuyer plus encore sur les                   lier les efforts conjoints du mouvement sportif
+projets sportifs territoriaux, qui associent                   et du système éducatif, alors que la frontière
+depuis leur mise en place à compter de 2022,                   entre EPS, activité associative assurée par les
+tous les partenaires, mais qui sont encore trop                enseignants (à travers l’UNSS) et enjeux des
+peu exploités. Ils doivent être, dans la durée, un             activités supplémentaires (30 minutes d’activité
+point d’ancrage également pour la coopération                  sportive quotidienne à l’école et Deux heures de
+entre le système scolaire et universitaire et                  sport en plus au collège) n’est pas clarifiée. Les
+l’écosystème sportif.                                          programmes Savoir-nager et Savoir-rouler à vélo,
+                                                               plus facilement évaluables, bénéficient d’une
+La deuxième forme de soutien est en effet
+                                                               plus grande continuité, même si leurs résultats
+celle de la promotion du sport dans le cadre
+                                                               sont encore incomplets ; la concentration
+scolaire et de l’enseignement supérieur.
+                                                               des efforts du côté des associations sportives
+Il s’agit de la majorité des fonds publics
+                                                               scolaires, sur la pratique plus que sur la
+engagés dans le sport au sens le plus large
+                                                               compétition, et sur les publics qui ne sont pas
+du terme (cf. partie 1), très majoritairement
+                                                               déjà pratiquants, reste à consolider.
+consacrés à l’EPS, mais concernant aussi
+le sport scolaire, au travers du soutien aux                   Aussi, les enjeux de continuité dans l’action,
+associations Union sportive de l’enseignement                  d’interaction entre mouvement sportif et
+du premier degré (USEP), Union nationale du                    système éducatif, de clarté des objectifs restent
+sport scolaire (UNSS) et Fédération française                  importants. La réforme engagée de la formation
+du sport universitaire (FFSU), mais aussi aux                  des professeurs des écoles pourrait permettre
+3 765 sections sportives scolaires rassemblant                 de clarifier la part d’activité motrice dans l’EPS
+près de 100 000 élèves en 202497.                              au 1er degré. L’apport de l’évaluation dans ces
+                                                               politiques est également fondamental. Pour
+Au-delà de l’enseignement de l’EPS et du
+                                                               l’évaluation de la santé sportive à l’entrée en
+développement de la filière STAPS, la période
+                                                               6ème, les tests ont été mis à disposition de tous
+récente se caractérise par l’enchaînement de
+                                                               les collèges depuis 2025. Le principe reste celui
+dispositifs dans le contexte des Jeux de 2024 :
+                                                               du volontariat, mais le chemin est encore long
+label Génération 2024/2030 afin de promouvoir
+                                                               pour avoir une vision large de la situation des
+l’activité sportive dans les établissements
+                                                               entrants en 6ème. Pour 2025-2026, seuls 32 % des
+concernés, programmes 30 minutes d’activité
+                                                               élèves de sixième ont passé cette évaluation, et
+sportive quotidienne à l’école et Deux heures de
+                                                               les résultats montrent une situation physique
+sport en plus au collège, Savoir-nager et Savoir-
+                                                               préoccupante. Seulement 55 % obtiennent des
+rouler à vélo.
+                                                               résultats satisfaisants au test de vitesse (sprint
+Ces dispositifs tentent de lier pratique en milieu             sur 30 mètres), 46 % au test de force du bas
+scolaire et ouverture du système éducatif aux                  du corps et 34 % au test d’endurance. Dans les
+acteurs du mouvement sportif. Ils sont pour                    trois tests, les garçons et les élèves des milieux
+certains caractérisés par des modifications des                favorisés obtiennent systématiquement de
+publics cibles, du fait de la réduction des moyens             meilleurs résultats98.
+
+
+97. Rapport relatif à l’effort financier public dans le domaine du sport, annexe au PLF 2026.
+98. Cf. Évaluation des aptitudes physiques – sixième 2025, Série Études, DEPP, février 2026.
+                                                                                               COUR DES COMPTES 39
+
+
+
+
+La contribution du système éducatif au sport,                  primaire ; clarifier la conception du sport
+qui constitue un apprentissage fondamental,                    scolaire et notamment les efforts à mener
+est décisive. L’évolution de son financement                   en direction des publics les plus éloignés de
+s’inscrit dans le cadre des perspectives de                    la pratique sportive ; fluidifier l’organisation
+ré d u c t i o n d e l a d é m o g ra p h i e s co l a i re.   d’ensemble entre l’école et le sport grâce à
+Mais les recommandations formulées par                         un meilleur pilotage de la mise à disposition
+l a Co u r e n 2 0 1 9 9 9 re ste nt d ’ac t u al i té :       des équipements ; se donner des objectifs
+renforcer l’enseignement de l’EPS dans le                      vérifiables à la fin de la scolarité.
+
+
+
+
+99. Cour des comptes, L’école et le sport, une ambition à concrétiser, rapport public thématique, septembre 2019.
+                                                                                    COUR DES COMPTES 41
+
+
+
+
+CONCLUSION
+
+
+ En 2013, la Cour des comptes recommandait déjà que l’État soit plus efficace
+ dans l’orientation de ses moyens consacrés au sport, en les concentrant sur
+ la réduction des inégalités dans l’accès au sport pour tous, en incluant plus
+ efficacement les politiques éducatives et universitaires dans la stratégie, en
+ structurant sa politique du haut niveau pour améliorer les résultats sportifs, en
+ refondant les objectifs de soutien aux fédérations, et en renforçant la solidarité
+ financière entre sport professionnel et sport amateur, pour que le monde
+ fédéral soit, in fine, plus autonome100.
+ Depuis ce rapport, la perspective, puis l’organisation des Jeux de 2024 ont été le
+ point d’ancrage des politiques publiques sportives. Dans ce contexte, plusieurs
+ réflexions stratégiques ont conduit depuis 10 ans à des propositions destinées à
+ réévaluer et adapter la place de l’État et des collectivités territoriales, mais aussi
+ du mouvement sportif et des acteurs professionnels et privés dans les objectifs
+ et les financements des politiques publiques sportives.
+ Un nouveau cadre a certes été mis en place avec la création en 2019 de l’ANS,
+ mais, comme le redoutait la Cour en 2022101, il n’a pas permis de donner un
+ contenu financier et opérationnel au principe de co-construction de la politique
+ du sport initialement imaginé.
+ En préalable indispensable, il convient de mesurer plus précisément les moyens
+ publics consacrés au sport par l’État et les collectivités territoriales afin de
+ clarifier des crédits actuellement enchevêtrés.
+
+
+
+
+ 100. Cour des comptes, Sport pour tous et sport de haut niveau : pour une réorientation de
+ l’action de l’État, rapport public thématique, janvier 2013.
+ 101. Cour des comptes, L’Agence nationale du sport et la nouvelle gouvernance du sport,
+ communication à la commission des finances, de l’économie générale et du contrôle
+ budgétaire de l’Assemblée nationale, juillet 2022.
+42 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+          Le pilotage commun doit donc encore aboutir, pour permettre, dans
+          le contexte de rareté des moyens publics, et dans la perspective d’une
+          priorisation des dépenses, de maîtriser les cinq enjeux principaux pour les
+          politiques publiques sportives :
+               - une clarification de la gouvernance entre État et collectivités territoriales,
+                 mais aussi mouvement sportif ;
+               - un examen préalable approfondi de la soutenabilité financière et
+                 opérationnelle de l’ensemble des investissements publics (État et
+                 collectivités territoriales) liés aux grands évènements sportifs ;
+               - des objectifs plus clairs pour l’État concernant le sport de haut niveau,
+                 au-delà du classement dans le tableau des médailles, et une priorisation
+                 des soutiens publics, notamment en provenance des collectivités
+                 territoriales ;
+               - l’arrêt de la dispersion des soutiens publics en faveur des équipements
+                 en privilégiant, à partir du projet sportif territorial, une programmation
+                 pluriannuelle répondant aux besoins prioritaires évalués à l’échelle des
+                 bassins de vie ;
+               - pour la pratique de tous, l’orientation privilégiée vers un soutien public
+                 s’adaptant aux nouveaux besoins et vers la continuité des efforts de
+                 coordination entre système éducatif et mouvement sportif, en ouvrant
+                 les infrastructures et en privilégiant les programmes continus et
+                 évaluables.
+                                                                             COUR DES COMPTES 43
+
+
+
+
+               RÉFÉRENCES AUX TRAVAUX
+                DE LA COUR DES COMPTES
+La Cour a mené des travaux sur lesquels elle s’est appuyée, en particulier les
+publications suivantes :
+
+ l   Notes d’exécution budgétaire de la mission Sport, jeunesse et vie associative
+     (publication annuelle)
+
+ l   L’héritage des Jeux olympiques et paralympiques de Paris 2024 : bilan financier et
+     héritage, rapport public thématique, octobre 2026
+
+ l   Le financement des équipements sportifs structurants par l’Agence nationale du
+     sport, communication à la commission des finances du Sénat, juin 2026
+
+ l   Le Comité d’organisation des Jeux olympiques et paralympiques de Paris 2024,
+     observations définitives, mai 2026
+
+ l   Fédération française de rugby, observations définitives, février 2026
+
+ l   Les Jeux olympiques et paralympiques de Paris 2024, rapport au Parlement,
+     septembre 2025
+
+ l   Les dépenses publiques liées aux Jeux olympiques et paralympiques de 2024 :
+     premier recensement, rapport public thématique, juin 2025
+
+ l   L’organisation de la coupe du monde de rugby 2023 en France, observations
+     définitives, avril 2025
+
+ l   « L’accès des jeunes au sport », in Rapport public annuel, mars 2025
+
+ l   Fédération française de cyclisme, observations définitives, février 2025
+
+ l   L’organisation des Jeux olympiques et paralympiques de Paris 2024, rapport
+     complémentaire au Parlement, juillet 2023
+
+ l   L’organisation des Jeux olympiques et paralympiques de Paris 2024, rapport au
+     Parlement, janvier 2023
+
+ l   L’agence nationale du sport et la nouvelle gouvernance du sport : des défis qui
+     restent à relever, communication à la commission des finances, de l’économie
+     générale et du contrôle budgétaire de l’Assemblée nationale, juillet 2022
+44 LES SOUTIENS DE L’ÉTAT EN FAVEUR DU SPORT
+
+
+
+
+                    RÉFÉRENCES AUX TRAVAUX
+                     DE LA COUR DES COMPTES
+         l   L’école et le sport : une ambition à concrétiser, rapport public thématique,
+             septembre 2019
+
+         l   L’État et le mouvement sportif : mieux garantir l’intérêt général, rapport public
+             annuel, février 2018
+
+         l   Sport pour tous, sport de haut niveau : pour une réorientation de l’action de l’État,
+             rapport public thématique, janvier 2013
+
+
+
+
+          Les publications de la Cour des comptes sont consultables sur le site Internet :
+                                        www. ccomptes.fr
+            La présente note
+    est disponible sur le site internet
+de la Cour des comptes : www.ccomptes.fr
+
+
+
+
+          LES ENJEUX STRUCTURELS
+                  POUR LA FRANCE
+                                    NOVEMBRE 2026
+

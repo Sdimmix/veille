@@ -1,0 +1,1371 @@
+TITRE: Communauté urbaine Le Mans Métropole - Projet Life Revers'eau (Sarthe)
+PAGE: https://www.ccomptes.fr/fr/publications/communaute-urbaine-le-mans-metropole-projet-life-reverseau-sarthe
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/ROD%202026-230%20%20Le%20Mans%20M%C3%A9tropole%20-%20LIFE%20REVERS%27EAU.pdf
+
+     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+COMMUNAUTÉ URBAINE LE MANS
+     MÉTROPOLE (PROJET LIFE
+               REVERS’EAU)
+                                         (Département de la Sarthe)
+
+                                                              Exercices 2023 et suivants
+
+
+
+
+     Le présent document, qui a fait l’objet d’une contradiction avec les
+destinataires concernés, a été délibéré par la chambre le 10 septembre 2026.
+
+
+
+
+            25 rue Paul Bellamy – BP 14119 – 44041 NANTES cedex 01 - www.ccomptes.fr
+                                                               LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+                                       TABLE DES MATIÈRES
+
+TABLE DES MATIÈRES .............................................................................................. 2
+SYNTHÈSE...................................................................................................................... 3
+RECOMMANDATIONS ................................................................................................ 5
+INTRODUCTION ........................................................................................................... 6
+     1 UN PROJET RÉGIONAL REVERS’EAU QUI S’INSCRIT DANS LE
+       PROGRAMME EUROPÉEN LIFE ......................................................................... 7
+     2 UN PROJET DE RESTAURATION DE LA CONTINUITÉ
+       ÉCOLOGIQUE DE L’HUISNE QUI PRÉEXISTAIT AU PROJET
+       LIFE REVERS’EAU ................................................................................................ 9
+        2.1 Une compétence majeure et déjà très étoffée pour la communauté
+            urbaine ................................................................................................................ 9
+            2.1.1 Des obligations qui se sont structurées sur un périmètre stratégique ........ 9
+            2.1.2 Un SCoT qui comprend dès l’origine des orientations en matière de
+                  ressource en eau et de biodiversité .......................................................... 10
+            2.1.3 Une politique de l’eau qui s’est structurée .............................................. 11
+            2.1.4 Une implication dans les démarches de préservation de la
+                  biodiversité .............................................................................................. 12
+        2.2 Un plan de restauration écologique de L’Huisne déjà arrêté ........................... 13
+        2.3 Un projet LIFE REVERS’EAU qui vient s’intégrer à un plan préexistant ...... 15
+     3 UN PLAN À MI-CHEMIN DE SA RÉALISATION ET CONSOLIDÉ PAR
+       LE PROJET LIFE REVERS’EAU ........................................................................ 16
+        3.1 Des opérations à des degrés de réalisation divers ............................................ 16
+            3.1.1 Le barrage de L’Épau .............................................................................. 17
+            3.1.2 Les trois autres barrages .......................................................................... 18
+            3.1.3 L’exposition évolutive............................................................................. 19
+        3.2 De premiers impacts qui permettent d’envisager un résultat final positif ........ 19
+        3.3 La plus-value du projet LIFE REVERS’EAU ................................................. 20
+            3.3.1 L’apport d’une transversalité et d’une pluridisciplinarité ....................... 20
+            3.3.2 Une forme de reconnaissance de la politique communautaire en
+                  faveur de la biodiversité .......................................................................... 21
+     4 UN PILOTAGE ET UN SUIVI ADMINISTRATIF ET FINANCIER
+       FACILITÉ PAR LA MATURITÉ DE LA COMMUNAUTÉ URBAINE AU
+       NIVEAU DES FONDS EUROPÉENS .................................................................. 22
+        4.1 Une réelle maturité dans le portage de projets européens ................................ 22
+        4.2 Une gouvernance solide en interne et avec la région coordonnatrice du
+            projet ................................................................................................................. 23
+        4.3 Une faible transférabilité avec les autres bénéficiaires associés ...................... 24
+        4.4 Le suivi administratif et financier .................................................................... 25
+
+
+
+
+                                                                      2
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                      SYNTHÈSE
+        La chambre régionale des comptes Pays de la Loire a procédé au contrôle des comptes
+et de la gestion de la communauté urbaine Le Mans Métropole (72) au titre de sa participation
+au projet LIFE REVERS’EAU porté par la région Pays de la Loire et visant à restaurer l’état
+de la ressource en eau sur son territoire. Ce projet s’inscrit dans le cadre du programme européen
+LIFE, dédié à l’environnement et au climat. La participation de la communauté urbaine
+concerne la restauration de la continuité écologique de L’Huisne, rivière cruciale pour
+l’alimentation en eau potable de l’agglomération et qui irrigue, en milieu urbain, le sud de la
+commune membre du Mans. Le contrôle a porté sur les exercices 2023 et suivants. Les
+investigations ont porté sur la genèse du projet manceau, un point d’étape quant à sa réalisation,
+la plus-value apportée par le programme LIFE et la qualité du pilotage et du suivi administratif
+et financier.
+
+       Un plan préexistant de restauration de la continuité écologique sur lequel s’est greffé
+       le projet LIFE REVERS’EAU
+
+        Au-delà de son exploitation, la communauté urbaine a pris assez tôt conscience de la
+nécessité de préserver la ressource en eau pour en garantir la qualité mais aussi pour préserver
+la biodiversité sur son territoire. Elle a donc pris plusieurs initiatives en ce sens.
+        Le SCoT auquel se réfère Le Mans Métropole comprenait dès le démarrage plusieurs
+prescriptions dans ce domaine. Elles ont été renforcées lors de sa procédure de révision. Ces
+prescriptions se déclinent par ailleurs dans les documents d’urbanisme de la communauté
+urbaine. Le Mans Métropole a arrêté une stratégie intégrée et cohérente au sujet de l’eau et qui
+concilie exploitation et préservation. Elle s’est aussi investie dans des dispositifs de protection
+et valorisation de la biodiversité. Enfin, elle a adopté, dès 2016/2017 un plan global de
+restauration de la continuité écologique de L’Huisne d’un montant de 8 M€ HT qui est
+aujourd’hui à mi-chemin de sa réalisation.
+      Dès lors, l’action portée par la communauté urbaine dans le cadre du projet régional
+LIFE REVERS’EAU est issue d’une démarche préexistante sur laquelle le projet s’est greffé.
+       La prise en charge dans le cadre de LIFE concerne essentiellement le principal barrage
+de L’Épau (avec la construction d’une nouvelle passe à sédiments et poissons) et
+subsidiairement le barrage de Pontlieue (concertation avec les riverains) ainsi que la
+communication globale autour du plan de restauration (exposition évolutive). L’exécution est
+conforme aux prévisions à l’exception de la concertation qui a pris du retard du fait d’arbitrages
+budgétaires rendus sur ledit barrage pour lequel les travaux ont été décalés.
+
+       Une plus-value du programme LIFE notamment en termes de pluridisciplinarité et
+       de transversalité
+
+        L’évaluation des résultats de l’action portée par la communauté urbaine dans le cadre
+du projet LIFE REVERS’EAU n’est pas possible aujourd’hui car la santé écologique d’un cours
+d’eau ne peut se juger que sur le long terme. Les indicateurs de suivi retenus dans le cadre du
+projet apportent cependant d’ores et déjà des données encourageantes tant au niveau de la
+circulation des poissons que de la fréquentation de l’exposition.
+
+
+
+
+                                                3
+                                            LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+        Il apparaît par ailleurs que le projet LIFE REVERS’EAU n’a pas été, en tant que tel, un
+élément déclencheur dans la prise de conscience de la nécessité écologique puisque la
+communauté urbaine la prenait déjà pleinement en compte. Une plus-value du projet est
+toutefois exprimée par la communauté urbaine au niveau de l’organisation interne des services
+et sur le collectif de travail (pluridisciplinarité et transversalité). On peut y ajouter le statut
+particulier que confère le projet au plan d’ensemble dans la mesure où il le conforte avec sa
+dimension européenne. C’est un atout pour Le Mans Métropole.
+
+
+       Un pilotage et un suivi de l’action dont la qualité résulte de la maturité de la
+       communauté urbaine en matière de fonds européens
+
+        La communauté urbaine a une réelle maturité au sujet des fonds européens. Elle dispose
+d’un pôle de compétences en interne et a déjà piloté un projet LIFE sur la génération précédente
+en tant que bénéficiaire coordonnateur dans le domaine de l’éclairage public. Le suivi
+administratif et financier est donc satisfaisant. Dès lors, la gouvernance du projet s’est révélée
+solide, en interne et avec la région coordonnatrice du projet, avec des rapports réguliers.
+        Par ailleurs, alors qu’il existe au sein du projet LIFE REVERS’EAU des porteurs de
+projets similaires à celui du Mans Métropole et que la transférabilité est un axe important des
+programmes européens, les échanges restent assez formels sans, par exemple, de groupes
+techniques communs sur des thématiques partagées. Mais cela est plutôt du ressort de la région,
+coordinatrice du projet, qui a indiqué son intention de réaliser, à l’issue de ce dernier, un guide
+visant à valoriser et répliquer les actions menées.
+
+
+
+
+                                                4
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                       RECOMMANDATIONS
+
+
+     Il n’est pas proposé de recommandations.
+
+
+
+
+                                          5
+                                                    LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+                                        INTRODUCTION
+
+         La chambre régionale des comptes Pays de la Loire a inscrit à son programme 2026, le
+contrôle des comptes et de la gestion de la communauté urbaine Le Mans Métropole (72) au
+titre de sa participation au projet REVERS’EAU porté par la région Pays de la Loire. Ce projet
+vise à restaurer l’état écologique des cours d’eau sur son territoire. Il s’inscrit dans le cadre du
+programme européen LIFE, dédié à l’environnement et au climat. Le contrôle a porté sur les
+exercices 2023 et suivants.
+        La compétence de la chambre s’inscrit dans les dispositions de l’article L. 211-4 du code
+des juridictions financières (CJF) qui indique que « la chambre régionale des comptes contrôle
+les collectivités territoriales et les établissements publics locaux ».
+        Ce contrôle s’est également inscrit dans les travaux de la formation commune à la Cour
+et aux chambres régionales des comptes portant sur la mobilisation et les actions du programme
+européen LIFE en France.
+        Une lettre d’ouverture de contrôle a été adressée à M. Stéphane Le Foll, président et
+ordonnateur de la communauté urbaine, le 8 avril 2026. L’entretien d’ouverture du contrôle a
+eu lieu le 4 mai 2026 avec Mme Amel Kherchouch-Avrin, directrice générale des services,
+mandatée à cette fin. Des entretiens techniques ont eu lieu le même jour avec le directeur général
+adjoint chargé de la gestion durable, des services urbains et du patrimoine et son directeur de
+l’eau et de l’assainissement, porteur de l’action LIFE au titre de la communauté urbaine, ainsi
+qu’avec la responsable du pôle des partenariats financiers et européens à la direction des
+finances. L’entretien préalable prévu à l’article L. 243-1 du CJF a été tenu le 15 juin 2026 avec
+M. Laurent Paris, vice-président délégué à l'eau et à l’assainissement du Mans Métropole,
+mandaté à cette fin.
+        La chambre a arrêté ses observations provisoires le 23 juin 2026. Celles-ci ont été
+notifiées au président de la communauté urbaine le 6 juillet 2026 et ont également donné lieu à
+divers extraits adressés à la présidente du conseil régional des Pays de la Loire. Les observations
+définitives de la chambre, arrêtées le 10 septembre 2026, sont contenues dans le présent rapport.
+         La communauté urbaine du Mans a été créée par le décret n° 71-922 du
+19 novembre 1971 et dans le cadre de la loi n° 66-1069 du 31 décembre 1966 relative aux
+communautés urbaines. Elle est entrée en activité le 1er janvier 1972 avec huit premières
+communes. Elle comprend aujourd’hui 20 communes et a pris le nom de Le Mans Métropole
+mais il s’agit toujours statutairement d’une communauté urbaine et non d’une métropole. Son
+activité est encadrée par les articles L. 5215-1 à L. 5215-42 du code général des collectivités
+territoriales (CGCT). Il s’agit de la troisième agglomération des Pays de la Loire, après Nantes
+et Angers.
+        Sa population était de 214 788 habitants en 20231. Celle-ci est très concentrée puisque
+la commune du Mans en regroupe 69 % (148 876 habitants), les 19 autres communes comptant
+ensemble 65 912 habitants (31 %). Les deux autres principales communes sont Allonnes
+(10 846 habitants) et Coulaines (8 226 habitants), la population moyenne des autres communes
+étant de 2 755 habitants.
+
+
+
+1
+    Source : base nationale sur l’intercommunalité et autres collectivités (BANATIC).
+
+
+
+
+                                                         6
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        En 2024, les dépenses réelles de fonctionnement de la communauté urbaine ont été de
+222,59 M€ au titre du budget principal. Ses dépenses d’investissement ont été de 115,70 M€
+dont 84,43 M€ de dépenses d’équipement. Au 31 décembre 2025, les effectifs permanents
+étaient de 1 810 agents représentant 1 781 équivalents temps plein (ETP).
+        La chambre a rendu publiques, le 20 novembre 2020, ses observations définitives sur la
+gestion de la communauté urbaine pour la période allant de 2014 à 2020. Les principaux sujets
+concernaient alors la situation financière jugée saine, un pilotage insatisfaisant sur la réalisation
+des investissements, une mutualisation ralentie avec la commune centre du Mans et des
+insuffisances sur la passation et l’analyse des délégations de service public. Des observations
+définitives ont également été rendues publiques sur la commune du Mans, le 5 avril 2024.
+
+1 UN PROJET RÉGIONAL REVERS’EAU QUI S’INSCRIT DANS
+  LE PROGRAMME EUROPÉEN LIFE
+
+        Le programme européen LIFE est régi par le règlement n° 2021/783 du parlement et du
+conseil européens établissant un programme pour l’environnement et l’action pour le climat.
+Pour la période 2021-2027, le programme LIFE est doté d’un budget de 5,4 milliards d’euros à
+l’échelle européenne, réparti en quatre sous-programmes : nature et biodiversité, économie
+circulaire et qualité de vie, atténuation du changement climatique et adaptation, transition
+énergétique propre.
+        Au titre du premier sous-programme (nature et biodiversité) et en cohérence avec la
+directive n° 2000/60/CE du parlement et du conseil établissant un cadre pour une politique
+communautaire dans le domaine de l'eau (23 octobre 2000), le programme LIFE vise à prévenir
+et réduire la pollution de l'eau, promouvoir son utilisation durable, protéger l'environnement,
+améliorer l'état des écosystèmes aquatiques (zones humides) et atténuer les effets des
+inondations et des sécheresses.
+         En Pays de la Loire, un diagnostic régional a montré que seulement 11 % des cours
+d’eau étaient en bon état écologique. Les causes de dégradation sont multiples : ruptures de
+continuité écologique (mauvaise circulation des sédiments et des poissons), artificialisation des
+bassins versants (écoulements accélérés, disparition du rôle régulateur des zones humides), forts
+taux de prélèvement (plans d’eau artificiels en nombre élevé), pollutions diffuses. En matière
+de continuité écologique, 59 % des cours d’eau sont considérés comme en mauvais état sur le
+territoire régional.
+       C’est pourquoi la région Pays de la Loire a décidé, dans le cadre de ses compétences,
+de candidater au programme LIFE et de proposer, dans ce cadre, un projet de restauration
+dénommé REVERS’EAU décliné en diverses actions territoriales. Cette candidature a été
+retenue, la région étant le bénéficiaire coordinateur et diverses autres entités, ses bénéficiaires
+associés. Une convention a été passée entre la région et l’Union européenne le
+20 novembre 2020.
+        Le projet LIFE REVERS’EAU doit se réaliser de 2020 à 2027 (sept ans) et mobilise des
+crédits à hauteur de 15,09 M€ avec 13 bénéficiaires associés initiaux (auxquels s’adjoindront
+ensuite trois autres bénéficiaires) pour près d’une quarantaine d’actions. La contribution
+demandée à l’Union européenne est de 7,12 M€ (47 %), celle de l’agence de l’eau
+Loire-Bretagne de 4,11 M€ (27 %) et celle de la région Pays de la Loire de 1,21 M€ (9 %). Les
+bénéficiaires apportent une contribution de 2,64 M€ (18 %).
+
+
+
+
+                                                 7
+                                             LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+                      Tableau n° 1 : Financement global de LIFE REVERS’EAU
+
+                                                                               En €
+ Union européenne                                                                      7 120 584
+ Agence de l’eau Loire-Bretagne                                                        4 117 521
+ Région                                                                                1 215 441
+ Bénéficiaires associés                                                                2 648 128
+    Dont Le Mans Métropole                                                               150 000
+
+ Total                                                                                15 099 674
+
+Source : programme LIFE
+
+
+         Le Mans Métropole est l’un des bénéficiaires associés au projet et porte en direct une
+action C.6 de restauration de la continuité écologique de la rivière de L’Huisne. Ce cours d’eau
+prend sa source dans le département de l’Orne, traverse celui de l’Eure-et-Loir et enfin celui de
+la Sarthe. Au bout d’un tracé de 165 kms, il traverse le sud de la commune du Mans avant de
+se jeter dans La Sarthe au sud-ouest du territoire. Le problème de continuité écologique se pose
+du fait de son passage en milieu urbain avec le risque associé de pollution et surtout par la
+présence de quatre barrages sur son parcours comme le montre la carte suivante. Cette action
+s’inscrit dans l’objectif n° 2 du projet REVERS’EAU qui est de restaurer le fonctionnement
+naturel des bassins versants. Il s’inscrit aussi dans le schéma directeur d’aménagement et de
+gestion des eaux (SDAGE) Loire-Bretagne 2022-2027 dont l’objectif n° 2 est de préserver les
+milieux aquatiques.
+
+
+                    Graphique n° 1 : Parcours de L’Huisne sur la commune du Mans
+
+
+
+
+Source : Le Mans Métropole
+
+
+
+
+                                                 8
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2 UN PROJET DE RESTAURATION DE LA CONTINUITÉ
+  ÉCOLOGIQUE DE L’HUISNE QUI PRÉEXISTAIT AU PROJET
+  LIFE REVERS’EAU
+
+2.1 Une compétence majeure et déjà très étoffée pour la communauté
+    urbaine
+
+2.1.1 Des obligations qui se sont structurées sur un périmètre stratégique
+
+        La compétence de protection et mise en valeur de l'environnement et de politique du
+cadre de vie est une compétence obligatoire des communautés urbaines suivant l’article
+L. 5215-20 du CGCT. S’y rattache la compétence de gestion des milieux aquatiques et de la
+prévention des inondations (GEMAPI), dans les conditions prévues à l'article L. 211-7 du code
+de l'environnement.
+       Au niveau de la ressource en eau, Le Mans Métropole est concerné par trois bassins
+versants : celui de La Sarthe amont (Alençon, Mamers) au nord, celui de La Sarthe aval
+(Allonnes, La Suze, Sablé) à l’ouest et au sud et celui de L’Huisne à l’est et au sud (Mortagne,
+La Ferté-Bernard). L’agglomération mancelle se retrouve donc à la confluence de ces trois
+bassins avec des besoins élevés en matière d’alimentation en eau potable du fait de la population
+et des activités présentes. La gestion de ces bassins est donc cruciale pour la communauté
+urbaine d’autant que le territoire est peu pourvu en nappes phréatiques et l’essentiel de
+l’alimentation en eau potable se fait par pompage direct dans les cours d’eau et surtout
+L’Huisne.
+        La rivière de L’Huisne traverse le sud de la commune du Mans, en milieu urbain, avant
+de se jeter dans La Sarthe au sud-ouest du territoire. Cette rivière dispose de plusieurs atouts
+dans une perspective d’alimentation en eau potable. Le débit de la rivière y est relativement
+constant sur l’année et le bassin versant est étendu, avec peu de prélèvements (étant faiblement
+peuplé et sans implantations économiques majeures) et surtout composé de prairies avec donc
+peu d’intrants liés à l’agriculture.
+       La communauté urbaine exerce en direct la compétence de prévention des inondations
+mais a délégué celle de la gestion des milieux aquatiques aux syndicats qui correspondent peu
+ou prou aux trois bassins versants précités et dont elle est membre : le syndicat mixte de La
+Sarthe amont2, le syndicat mixte du bassin versant de L’Huisne Sarthe3 et le syndicat mixte
+Sarthe Est aval unifié (SMSEAU)4. Par ailleurs, l’élaboration, la gestion et l’animation des trois
+schémas d’aménagement et de gestion des eaux (SAGE) correspondant aux trois bassins
+versants précités ont été confiées à l’établissement public territorial de bassin (EPTB) Sarthe
+créé par arrêté inter-préfectoral du 5 août 2024. Il est précisé que la communauté urbaine ne
+lève pas la taxe GEMAPI prévue à l’article 1530 bis du code général des impôts.
+
+
+
+
+2
+  Siret n° 200 099 166 00015.
+3
+  Siret n° 200 091 015 00012.
+4
+  Siret n° 200 079 440 00026.
+
+
+
+
+                                                9
+                                                  LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+         Le Mans Métropole organise aussi sa compétence à partir des différents contrats
+territoriaux de l’eau (CTE) qui sont l’outil contractuel de l’agence de l’eau (Loire-Bretagne au
+cas d’espèce), des maîtres d’ouvrage et des financeurs. Il s’agit du CTE de L’Huisne aval dans
+lequel s’inscrit le projet LIFE mais aussi des CTE Sarthe médiane et Sarthe aval.
+
+2.1.2 Un SCoT qui comprend dès l’origine des orientations en matière de ressource
+      en eau et de biodiversité
+
+       Parmi les documents structurants auxquels se réfère la communauté urbaine, le schéma
+de cohérence territoriale (SCoT) intègre depuis l’origine les thématiques des continuités
+écologiques et de la préservation de la ressource en eau.
+         Le SCoT n’est pas porté en direct par la communauté urbaine mais par le syndicat mixte
+du pays du Mans5 dont elle est membre. Il a été approuvé le 29 janvier 2014. Conformément à
+l’article L. 143-28 du code de l’urbanisme qui requiert une analyse de résultats six ans après
+l’entrée en vigueur dudit schéma, une procédure de révision a été prescrite le 4 février 2019.
+Elle s’est achevée par l’adoption d’un texte amendé le 27 janvier 2026.
+       La question des continuités écologiques et de la ressource en eau a été prise en compte
+dans les différentes moutures du SCoT. À la lecture du document d’orientation et d’objectifs
+(DOO) qui en est la déclinaison réglementaire, on note en effet plusieurs objectifs comme, par
+exemple, au titre des continuités écologiques :
+        •       préserver et restaurer les continuités écologiques structurantes (objectif 44),
+l’objectif étant de minimiser la fragmentation du tissu écologique, les documents d’urbanisme
+devant en tenir compte soit en maintenant soit en recréant les continuités écologiques majeures ;
+        •       maintenir et renforcer le rôle des corridors écologiques (objectif 46), ces
+corridors (cours d’eau par exemple) assurant des connexions entre des réservoirs de
+biodiversité, offrant aux espèces des conditions favorables à leur déplacement et à leur cycle
+de vie ;
+        •       concilier la transition énergétique avec la préservation des paysages et des
+espaces naturels, agricoles et forestiers (objectif 38), l’idée étant de limiter les incidences des
+équipements liés aux énergies renouvelables et de récupération et, en particulier, pour
+l’hydroélectricité, de proscrire la construction ou le maintien de barrages créant des ruptures
+dans la continuité écologique.
+        On relève également dans le document d’orientation et d’objectifs (DOO), plusieurs
+objectifs au titre de la préservation de la ressource en eau comme, par exemple :
+        •      prévenir et réduire la vulnérabilité du territoire aux risques naturels (objectif 39),
+l’idée étant globalement de valoriser et protéger les trames verte et bleue6 sur le territoire et
+notamment d’y préserver la ressource en eau ;
+
+5
+  Le syndicat mixte du pays du Mans gère le pôle d’équilibre territorial et rural (PETR) éponyme qui est la forme
+juridique actuelle des pays créés en application de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire. La chambre a rendu publiques, le 10 juillet 2025, des
+observations définitives sur la gestion dudit syndicat.
+6
+  La loi n° 2009-967 du 3 août 2009 de mise en œuvre du Grenelle de l’environnement (dite loi Grenelle 1) instaure
+dans le droit français la création de la trame verte (berges) et bleue (cours d’eau). La loi n° 2021-1104 du
+22 août 2021 portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets,
+renforce l’intégration de la trame verte et bleue dans les documents d’urbanisme.
+
+
+
+
+                                                       10
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       •       préserver les milieux aquatiques (objectif 47) en visant une bonne qualité
+écologique et chimique des cours d’eau, les documents d’urbanisme devant être compatibles
+avec les différents schémas directeurs et locaux de l’eau ;
+       •       mettre en œuvre une stratégie de l’eau (objectif 50) afin de veiller à un
+approvisionnement en eau de qualité, de s’assurer de sa disponibilité pour toute urbanisation et
+de protéger les captages d’alimentation en eau potable.
+
+         On notera à ce titre que le projet d’aménagement et de développement durable (PADD)
+du plan local d’urbanisme (PLU) communautaire du Mans Métropole adopté par délibération
+du 30 janvier 2020 identifiait bien un axe n° 4 visant à intégrer l’eau dans l’aménagement du
+territoire. Le PLU doit ainsi participer à la protection de la ressource en eau et des zones
+humides avec pour orientation de protéger les ressources en eau et les zones humides, pour
+assurer la pérennité de l'approvisionnement et la qualité de l'eau potable.
+        Ces grandes orientations ont été même renforcées lors de la révision du SCoT, celle-ci
+ayant permis de constater que la moitié des communes membres n’avaient pas de politiques
+dédiées aux trames verte et bleue ou à la biodiversité. L’obligation règlementaire de prise en
+compte de celle-ci dans les plans locaux d’urbanisme intercommunaux (PLUI) était perçue de
+fait comme une simple opportunité. Un objectif de plus grande appropriation des trames a donc
+été préconisé dans le texte amendé du 27 janvier 2026.
+
+2.1.3 Une politique de l’eau qui s’est structurée
+
+        Le Mans Métropole a déjà défini, lors des précédentes mandatures, une politique de
+l’eau qui se décline en cinq points. Elle n’est pas encore entièrement formalisée par des
+documents structurants mais elle apparaît cohérente. Elle marque notamment par son approche
+intégrée, regardant toutes les étapes du cycle de l’eau et s’intéressant au volet écologique. Elle
+cherche aussi à mettre les autres politiques publiques de la communauté urbaine en cohérence
+avec la gestion de la ressource, ce qui est innovant.
+        En premier lieu, la politique communautaire de l’eau privilégie, en cohérence avec le
+schéma directeur d’aménagement et de gestion des eaux (SDAGE) Loire-Bretagne, une
+approche intégrée du cycle de l’eau, articulant toutes les problématiques associées : sécurisation
+de l’alimentation en eau potable, maîtrise des rejets et des pollutions via l’assainissement,
+préservation des milieux aquatiques et des rivières, adaptation au changement climatique et à
+la rareté de la ressource.
+        En second lieu, la sécurisation de l’alimentation en eau potable, précisément, est
+déclinée quantitativement et qualitativement. Cela passe premièrement par les infrastructures
+et la gestion de la ressource : unités de production (site principal et sites secondaires),
+diversification et résilience des ressources, préparation de dispositifs de secours
+(interconnections, plan d’urgence). La communauté urbaine indique préparer en ce sens divers
+documents rendus obligatoires : schéma directeur d’alimentation en eau potable (SDAEP), plan
+de gestion de la sécurité sanitaire des eaux (PGSSE), plan d’ultime secours (PUS).
+        Cela passe également par la maîtrise des prélèvements avec une lutte contre les pertes
+(le rendement du réseau, aujourd’hui supérieur à 87 % est ainsi jugé plutôt élevé), une
+sectorisation progressive du réseau, le déploiement d’outils de télérelève et de surveillance, un
+plan de montée en puissance du renouvellement patrimonial. Cette politique de maîtrise vise
+conjointement à limiter les volumes inutilement prélevés et contribuer à la sobriété et protection
+de la ressource en eau.
+
+
+
+                                               11
+                                                        LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+        En troisième lieu, la politique d’assainissement est orientée de manière à protéger les
+milieux aquatiques et les rivières. D’abord, l’objectif est de maîtriser les rejets et améliorer la
+qualité des eaux réceptrices avec la modernisation et mise en conformité des stations
+d’épuration, la réduction des déversements par temps de pluie, la lutte contre les eaux parasites
+et l’anticipation des dispositions de la directive n° 2024/3019/CE du parlement et du conseil
+européens révisant le traitement des eaux résiduaires urbaines (27 novembre 2024)7.
+        Ensuite, cette politique passe également par la réduction des pollutions à la source avec
+la surveillance des rejets industriels, une contractualisation avec les acteurs économiques à
+risque, le suivi et le contrôle du service public de l’assainissement non collectif (SPANC) et la
+prévention des pollutions diffuses.
+        En quatrième lieu, la compétence de gestion des milieux aquatiques et de prévention
+des inondations (GEMAPI) vise à préserver la ressource en eau en quantité, en favorisant le
+ralentissement des écoulements et la recharge naturelle, mais aussi en qualité, en restaurant les
+continuités écologiques et les milieux filtrants naturels. Il s’agit aussi de renforcer la résilience
+du territoire face au changement climatique.
+        En cinquième lieu, la communauté urbaine développe une approche intégrée en faisant
+entrer la problématique de gestion de la ressource en eau dans les politiques publiques et en
+particulier celles de l’urbanisme et de l’aménagement. L’objectif est de prendre
+systématiquement en compte les capacités en eau et assainissement dans les projets urbains, la
+gestion des eaux pluviales (désimperméabilisation et infiltration) et la protection des zones
+sensibles.
+         À ce titre, la communauté urbaine indique par exemple avoir engagé, en lien avec la
+commune membre du Mans qui a la compétence scolaire, un programme de création de noues
+d’infiltration dans les groupes scolaires de la commune (74 groupes existants). Il s’agit
+d’espaces désimperméabilisés, par exemple dans les cours d’écoles, permettant à la fois
+d’infiltrer les eaux pluviales pour une petite pluie et d’organiser leur écoulement en cas de pluie
+plus importante. Ce sont en outre des espaces de biodiversité accessibles aux élèves.
+       Le Mans Métropole dispose donc d’une stratégie en matière d’eau qu’elle a construite
+en propre et qui cherche à concilier alimentation en eau potable et préoccupations écologiques.
+
+2.1.4 Une implication dans les démarches de préservation de la biodiversité
+
+      Au-delà de la stricte question de la ressource en eau, la communauté urbaine a adopté
+une démarche visant à s’impliquer dans la préservation de la biodiversité.
+       Elle participe ainsi au programme national de territoire engagé pour la nature (TEN).
+Ce programme est un dispositif qui valorise l’engagement des collectivités en faveur de la
+reconquête de la biodiversité mais sans financement. La région Pays de la Loire, via son
+dispositif Contrat Nature, a cependant concouru financièrement à ce programme jusqu’à la
+suppression de ce dispositif en 2026. Dans ce cadre, Le Mans Métropole a présenté 45 actions
+avec des communes membres pour un montant total de 3,04 M€ avec un financement régional
+de 0,31 M€ sur 23 desdites actions. Des financements complémentaires ont été obtenus auprès
+d’autres collectivités, de l’État, de l’agence de l’eau et de directions de l’État (direction
+départementale des territoires) et de l’Office français de la biodiversité (OFB) via le fonds vert.
+
+
+7
+    La directive doit être transposée en droit français d’ici le 31 juillet 2027.
+
+
+
+
+                                                             12
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La communauté urbaine a également lancé, en lien avec la commune membre du Mans,
+la mise en place d’un plan Canopée avec, pour premier élément, la réalisation d’une charte de
+l’arbre en 2024. Ce plan s’organise autour d’un ensemble d’actions en faveur du patrimoine
+arboré : place de l’arbre dans les espaces publics et privés, adaptation aux évolutions
+climatiques.
+         Enfin, la communauté urbaine a créé un poste de chargée de mission dédié
+spécifiquement à la biodiversité en 2023. Il devrait devenir permanent en 2026. Un atlas de la
+biodiversité communautaire a été élaboré. Une coordination a également été assurée au titre des
+projets communautaires éligibles au fonds d’accélération de la transition écologique dans les
+territoires (dit fonds vert) sur divers axes : protection des espèces, restauration des continuités
+écologiques et préservation des sols forestiers.
+
+
+2.2 Un plan de restauration écologique de L’Huisne déjà arrêté
+
+        À la conjonction des problématiques de l’eau et de la biodiversité, la question de
+l’équilibre écologique de L’Huisne se pose de manière assez constante à la communauté
+urbaine.
+        Dès 1900, ce cours d’eau a été retenu pour y installer le point principal de captage d’eau
+du Mans avec la construction d’une première usine à eau au barrage de L’Épau. Cette usine est
+aujourd’hui devenue la maison de l’eau qui a une vocation pédagogique et de médiation grand
+public. Une nouvelle usine à eau a été construite à proximité et mise en service en 2024 pour
+un coût total de 30 M€. Une station de mesure de la qualité de l’eau a par ailleurs été installée
+en amont du pompage du barrage de L’Épau. Ce point de captage apporte 90 % de
+l’alimentation en eau potable de l’agglomération actuelle8. La communauté urbaine dispose par
+ailleurs de 40 000 m3 de réservoirs pour le stockage de l’eau sur son territoire. La communauté
+urbaine exploite sa compétence relative à l’eau potable intégralement en régie.
+        De manière plus récente, la transposition en droit français de la directive n° 2000/60/CE
+du parlement et du conseil européen établissant un cadre pour une politique communautaire
+dans le domaine de l'eau (23 octobre 2000) a créé quelques contraintes pour la communauté
+urbaine. Ce texte met en effet l’accent sur le risque de pollution de l'eau, son utilisation durable
+et l’amélioration de l'état des écosystèmes aquatiques. Or, au cas d’espèce, la rivière de
+L’Huisne n’était pas en bon état écologique. La traversée du Mans représente en effet la partie
+la plus urbanisée du bassin versant de L’Huisne avec les risques de pollution associés. Par
+ailleurs, quatre barrages9 ont été construits historiquement sur le cours de L’Huisne à cet
+endroit, notamment dans le cadre de son exploitation. Ceci constituait autant d’obstacles à la
+circulation normale des sédiments et des poissons, ce qui nécessaire pour établir un bon
+équilibre écologique (filtrage, protection des espèces).
+
+
+
+
+8
+  Les 10 % restants proviennent de deux autres captages de moindre importance situés sur les communes
+limitrophes de Sargé-lès-Le Mans (membre de la communauté urbaine) et de Saint-Pavace (non membre de la
+communauté urbaine).
+9
+  Barrages de L’Épau, de Pontlieue, du Gué de Maulny et des Bouches d’Huisne.
+
+
+
+
+                                                  13
+                                                  LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+        Par ailleurs, le passage de trois desdits barrages, auparavant propriété du département,
+sous propriété communautaire en 2017 a accéléré le processus10, Le Mans Métropole acquérant
+ainsi une vision globale du cours d’eau dans son passage urbain et avec une capacité à agir.
+       Enfin, pour partie, L’Huisne passe par un espace naturel communautaire, L’Arche de la
+Nature, qui concerne 500 hectares ouverts au public avec divers équipements dont trois maisons
+thématiques à vocation pédagogique et de médiation grand public (eau, forêt, prairie). Cela crée
+des obligations pour la communauté urbaine en matière d’écologie.
+        Dès lors, Le Mans Métropole a élaboré, de son fait, un plan de restauration écologique
+global concernant tout le parcours urbain de L’Huisne et les quatre barrages. Ce plan est
+ambitieux avec un montant total aujourd’hui estimé à hauteur de 8,08 M€ HT, comme l’indique
+le tableau suivant, avec 4,64 M€ HT de travaux réalisés ou en voie d’achèvement (L’Épau et
+Les Bouches d’Huisne) et 3,44 M€ HT de travaux estimés restant à réaliser (Pontlieue et
+Le Gué de Maulny).
+
+                           Tableau n° 2 : Travaux sur les barrages de L’Huisne
+
+              Barrages                         Montants en € HT                            Statut
+ L’Épau                                                         3 940 285               En voie d’achèvement11
+ Pontlieue                                                      2 522 735                                Estimé
+ Gué de Maulny                                                    918 022                                Estimé
+ Bouches d’Huisne                                                 701 505                                Réalisé
+ Total                                                          8 082 546
+
+Source : Le Mans Métropole
+
+
+         Il est précisé que, sur le territoire communautaire, il n’existe pas d’autres besoins
+majeurs de restauration des continuités écologiques. Des difficultés ont bien été identifiées sur
+un cours d’eau mineur, Le Chaumard, mais il s’agissait davantage d’un mauvais entretien que
+d’ouvrages constituant un obstacle. Hors périmètre, la communauté urbaine est concernée par
+les autres cours d’eau connectés à L’Huisne dont principalement La Sarthe. Cette dernière est
+une propriété domaniale relevant du département et dont la gestion relève de divers syndicats
+de rivières. La communauté urbaine fait état de relations de travail positives avec le département
+et les syndicats de rivières et d’une convergence d’idées sur lesdites continuités. Les calendriers
+de travaux sont ainsi communiqués aux différentes parties afin de se coordonner de manière
+optimale.
+
+
+
+
+10
+   La communauté urbaine était déjà propriétaire du barrage de L’Épau où se situe le principal point de captage de
+l’eau destinée à la consommation de l’agglomération.
+11
+   Au 2 mars 2026.
+
+
+
+
+                                                       14
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2.3 Un projet LIFE REVERS’EAU qui vient s’intégrer à un plan
+    préexistant
+
+        Le projet LIFE REVERS’EAU et son action C.6 relative au Mans viennent donc
+s’intégrer à un plan préexistant. De plus, compte tenu du montant total de ce dernier (8,08 M€),
+le projet qui est en principe un outil d’amorçage, ne pouvait qu’être limité dans les financements
+apportés. Dès lors, seuls certains volets du plan global ont été retenus avec, en premier lieu, la
+construction de la passe à sédiments et poissons sur le principal barrage (L’Épau). Ensuite, dans
+la mesure où la dimension citoyenne est souvent présente dans les programmes européens
+(sensibilisation, ouverture grand public, pédagogie, etc.), deux autres volets ont été pris en
+compte : l’organisation d’une concertation avec les riverains concernés au titre du deuxième
+barrage (Pontlieue) et la création d’une exposition évolutive décrivant l’ensemble du plan de
+restauration écologique de L’Huisne. Elle est destinée à être présentée à la maison de l’eau de
+L’Arche de la Nature.
+        Ces trois volets représentent un montant total de 750 000 € essentiellement en
+investissement (10 000 € au titre du fonctionnement) financés par le programme LIFE à hauteur
+de 60 % (450 000 €), l’agence de l’eau Loire-Bretagne à hauteur de 20 % (150 000 €) et
+Le Mans Métropole également à hauteur de 20 % (150 000 €), comme suit :
+
+
+                  Tableau n° 3 : Financement de LIFE REVERS’EAU Le Mans Métropole
+
+                                                                               En €
+ Travaux de création de la passe à poissons L’Épau                                       720 000
+ Assistance externe sur la concertation avec les riverains                                20 000
+ Assistance externe sur l’exposition évolutive                                            10 000
+ Total dépenses                                                                          750 000
+ Union européenne                                                                        450 000
+ Le Mans Métropole                                                                       150 000
+ Agence de l’eau Loire-Bretagne                                                          150 000
+ Total recettes                                                                          750 000
+
+Source : programme LIFE
+
+
+        Il est précisé que la communauté urbaine Le Mans Métropole n’était pas initialement
+prévue dans le panel des bénéficiaires associés. Elle a été substituée à la métropole de Nantes
+qui s’était retirée du projet. La région devait en effet inclure une importante agglomération
+urbaine sur le thème des continuités écologiques, conformément au cahier des charges du projet
+LIFE REVERS’EAU.
+
+
+
+
+                                                       15
+                                           LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       Les compétences obligatoires de gestion de l’eau et des milieux aquatiques exercées par
+la communauté urbaine se sont structurées autour de trois bassins versants qui convergent sur
+son territoire avec une importance stratégique pour la rivière de L’Huisne qui est le principal
+point de pompage d’eau destinée à potabilisation.
+        Au-delà de son exploitation, la communauté urbaine a pris assez tôt conscience de la
+nécessité de préserver la ressource en eau pour en garantir la qualité mais aussi pour préserver
+la biodiversité sur son territoire. Elle a donc pris plusieurs initiatives en ce sens.
+       Le SCoT auquel se réfère Le Mans Métropole comprenait dès le démarrage plusieurs
+prescriptions dans ce domaine. Elles ont été renforcées lors de sa procédure de révision. Ces
+prescriptions se déclinent par ailleurs dans les documents d’urbanisme de la communauté
+urbaine. Le Mans Métropole a arrêté une stratégie intégrée et cohérente au sujet de l’eau et
+qui concilie exploitation et préservation. Elle s’est également investie dans des dispositifs de
+protection et valorisation de la biodiversité. Enfin, elle a adopté, dès 2016/2017 un plan global
+de restauration de la continuité écologique de L’Huisne d’un montant de 8 M€ HT qui est
+aujourd’hui à mi-chemin de sa réalisation.
+      Dès lors, l’action portée par la communauté urbaine dans le cadre du projet régional
+LIFE REVERS’EAU est issue d’une démarche préexistante sur laquelle le projet s’est greffé.
+
+
+
+
+3 UN PLAN À MI-CHEMIN DE SA RÉALISATION ET CONSOLIDÉ
+  PAR LE PROJET LIFE REVERS’EAU
+
+
+3.1 Des opérations à des degrés de réalisation divers
+
+        Au moment du présent rapport, le plan de restauration écologique de L’Huisne était à
+mi-chemin de son exécution comme l’indique le tableau suivant. Sur les quatre opérations de
+restauration, deux sont en effet aujourd’hui terminées ou en voie d’achèvement, dont
+l’opération la plus lourde financièrement (barrage de L’Épau). Pour ce qui est du projet
+LIFE REVERS’EAU, il est important de noter que son intervention porte principalement sur
+cette opération majeure de L’Épau et marginalement sur celle de Pontlieue. Le projet s’intéresse
+cependant aussi à la globalité du plan de restauration puisqu’il finance conjointement une
+exposition évolutive sur l’ensemble des travaux prévus et leur état d’avancement.
+
+
+
+
+                                               16
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+             Tableau n° 4 : Plan de restauration de la continuité écologique de L’Huisne
+
+  Années            Épau                Pontlieue            Gué de Maulny         Bouches d’Huisne
+   2016        Étude de faisabilité
+   2019     Étude hydroélectrique
+               Marché de maîtrise
+   2021
+                         d’œuvre
+                                      Marché de maîtrise                            Marché de maitrise
+   2023
+                                                d’œuvre                                       d’œuvre
+                                                             Marché de maîtrise
+   2024                    Travaux
+                                                                       d’œuvre
+   2025                    Travaux                                                            Travaux
+   2026                    Travaux
+   2027                                         Travaux                  Travaux
+   2028                                         Travaux                  Travaux
+   2029                                                                  Travaux
+                     Oui (passe à     Oui (concertation
+  LIFE                                                                      Non                  Non
+                       poissons)      avec les riverains)
+  LIFE                                      Oui (exposition évolutive)
+
+Source : Le Mans Métropole
+
+
+3.1.1 Le barrage de L’Épau
+
+        L’opération qui a démarré le plus tôt, dès 2016, est celle concernant le barrage de
+L’Épau qui est le plus en amont. Il disposait d’un clapet et d’un déversoir jugés non fonctionnels
+et ne favorisant pas la continuité écologique du cours d’eau. Il disposait aussi de deux roues à
+aube mais qui nécessitaient une restauration. Le barrage ne pouvait cependant pas être
+démantelé car il contribue à maintenir un niveau d’eau constant pour le pompage au titre de
+l’eau potable.
+        Le plan de restauration visait donc à moderniser ce barrage, à installer une passe à
+sédiments et poissons avec vitre et système de comptage vidéo et à optimiser le potentiel
+hydroélectrique du barrage en exploitant les roues à aube afin que le barrage soit autonome d’un
+point de vue énergétique. Les études de faisabilité ont démarré en 2016/2017. Une étude sur le
+potentiel hydroélectrique du barrage a aussi été réalisée en 2019. Une autre étude sur la
+restauration de la continuité écologique entre le barrage et la confluence avec La Sarthe
+(englobant donc les trois autres barrages) a été quant à elle réalisée en 2021/2022. Un marché
+de maîtrise d’œuvre sur ledit barrage de L’Épau a été notifié en 2021 et un marché de travaux
+en 2024. Ces travaux étaient en voie d’achèvement en 2026. Le projet LIFE REVERS’EAU
+intervient sur cette opération mais uniquement au titre de la réalisation de la passe à sédiments
+et poissons.
+        Comme le montrent les rapports annuels sur l’action C.6, le délai de réalisation a été
+tenu puisque les travaux de la passe à sédiments et poissons étaient prévus initialement au
+3ème trimestre 2024 et ont démarré dès juin 2024 et étaient en voie d’achèvement lors du rapport
+du début de 2026.
+
+
+
+                                                  17
+                                                 LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+3.1.2 Les trois autres barrages
+        Deux autres opérations ont suivi avec la notification de deux marchés de maîtrise
+d’œuvre en 2023 : celles concernant les barrages de Pontlieue et des Bouches d’Huisne (le plus
+en aval). Pour Pontlieue, il s’agit d’un démantèlement du barrage devenu inutile et d’une remise
+en état du site avec une restauration et un aménagement des berges. Pour Les Bouches d’Huisne,
+le projet est plus complexe avec le démantèlement du barrage, la renaturation des berges et la
+création d’un îlot de biodiversité.
+         Le projet LIFE REVERS’EAU intervient sur l’opération de Pontlieue mais uniquement
+au titre de l’organisation d’une concertation avec les riverains dans la mesure où une partie des
+berges est sous propriété privée (78 parcelles). Cette concertation entre dans le marché de
+maîtrise d’œuvre et comporte divers éléments : identification des propriétés privées concernées,
+identification et rencontre des associations concernées (quartier, collectif inondations, clubs
+sportifs), envoi aux propriétaires d’un questionnaire, visite des lieux avec annonce de passage
+aux riverains concernés, organisation de réunions publiques. À l’issue, une procédure de
+déclaration d’intérêt général (DIG)12 est règlementairement prévue. Il convient d’y ajouter une
+demande d’autorisation environnementale (DAE) du fait des possibles impacts sur la ressource
+en eau. Le projet LIFE REVERS’EAU n’est en revanche pas intervenu sur le barrage des
+Bouches d’Huisne.
+        Un marché de travaux a été notifié précisément au titre des Bouches d’Huisne en 2025.
+Ces travaux se sont achevés la même année. En revanche, le marché et les travaux concernant
+le barrage de Pontlieue n’ont pas encore été réalisés et sont aujourd’hui programmés pour
+2027/2028.
+        Comme le montrent les rapports annuels, les retards sont assez importants sur
+l’opération de Pontlieue. La phase règlementaire devait démarrer en 2024 (4ème trimestre). Or,
+seule la phase de concertation a été engagée sur cette année-là (3ème trimestre). La phase
+règlementaire a été alors décalée en 2025 (2ème trimestre) mais lors du rapport 2026, elle n’était
+toujours pas réalisée et à nouveau décalée. Au moment du présent rapport de la chambre
+(juin 2026), elle était plutôt envisagée au second semestre 2026.
+        Ce retard est expliqué par la communauté urbaine par des raisons budgétaires non liées
+au projet LIFE REVERS’EAU. Les travaux de restauration et d’aménagement des berges ont
+été en effet différés du fait de leur coût. La phase de concertation a donc aussi été décalée. On
+soulignera que les premiers éléments de concertation (rencontres avec les riverains, les usagers,
+les associations, etc.) sont documentés dans le cadre du projet. Il existe des comptes rendus
+justifiant de celle-ci.
+       La dernière opération du plan de restauration écologique de L’Huisne concerne le
+barrage du Gué de Maulny mais elle n’appelle pas d’observation. Un marché de maîtrise
+d’œuvre a été notifié en 2024 en vue de créer une autre passe à sédiments et poissons sur ce
+barrage et une rampe de passage pour les canoës. Les travaux n’ont pas encore été effectués et
+sont programmés de 2027 à 2029. Le projet LIFE REVERS’EAU n’intervient pas sur cette
+opération.
+
+
+12
+  Conformément à l’article L. 211-7 du code de l’environnement qui permet à un opérateur public d’engager les
+études et travaux d’intérêt général ou d’urgence dans le cadre d’un schéma d'aménagement et de gestion des eaux
+(SDAGE). Une demande d’autorisation environnementale (DAE) est aussi requise par l’article L. 214-3 du même
+code du fait de l’impact sur la ressource en eau.
+
+
+
+
+                                                      18
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.1.3 L’exposition évolutive
+
+        Dans l’esprit d’ouverture citoyenne lié aux programmes européens, l’action C.6
+concernant la restauration écologique de L’Huisne intègre, comme dernier élément,
+l’organisation d’une exposition sur l’intégralité du plan porté par Le Mans Métropole et sur les
+opérations relatives aux quatre barrages. Elle est évolutive et rendra compte des différentes
+phases du plan. L’aspect pédagogique et de médiation grand public de l’exposition mérite donc
+d’être souligné. Elle a été implantée à la maison de l’eau proche du barrage de L’Épau et au
+sein de L’Arche de la Nature espace naturel communautaire.
+        Un marché subséquent d’un accord-cadre sur les prestations de communication de la
+communauté urbaine a été notifié en 2025 (2ème trimestre) pour une prévision qui était sur 2024
+(4ème trimestre) donc sans décalage excessif. L’exposition est opérationnelle, dans sa première
+phase, depuis le début 2026, selon le rapport fourni. Le projet LIFE REVERS’EAU assure le
+cofinancement de cette opération. L’orientation grand public est positive dans le contexte des
+fonds européens.
+
+
+3.2 De premiers impacts qui permettent d’envisager un résultat final positif
+
+        Les travaux de restauration de la continuité écologique de L’Huisne ne sont pas tous
+achevés. Il est donc impossible de mesurer les résultats de cette opération d’envergure. De plus,
+l’amélioration écologique d’un cours d’eau ne peut s’apprécier que sur le long terme notamment
+sur le volet sédimentaire.
+       Il reste qu’à ce jour quelques éléments d’impact sont disponibles et méritent d’être
+appréhendés.
+       Au préalable, il convient de présenter les indicateurs qui ont été définis, en particulier,
+par le projet LIFE REVERS’EAU, pour ce qui le concerne. Des indicateurs de suivi, très
+classiques mais assez probants, ont été ainsi retenus comme le nombre de poissons à passer le
+barrage de L’Épau (en descente et en montée), le nombre de riverains rencontrés lors de la
+concertation relative au barrage de Pontlieue, le nombre de visiteurs de l’exposition, le suivi
+annuel de la qualité de la masse d’eau.
+       Le rapport réalisé par la communauté urbaine auprès de la région Pays de la Loire début
+2026 était plutôt encourageant et faisait état entre mars 2025 et mai 2026 de plus de
+1 000 passages de poissons identifiés grâce au suivi vidéo sur la passe installée au barrage de
+L’Épau, ce qui est positif. Il était également noté le repérage de 14 espèces différentes de
+poissons et plusieurs montaisons à des fins de reproduction. L’effet continuité semble donc se
+mettre en place de manière bien orientée.
+        Pour les autres volets, les impacts sont encore peu marqués. L’exposition évolutive
+atteignait quant à elle près de 2 500 visiteurs déclarés début 2026, ce qui reste moyen mais son
+enrichissement en fonction de l’avancée des différents projets pourrait attirer de nouveaux
+visiteurs.
+
+
+
+
+                                               19
+                                            LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+3.3 La plus-value du projet LIFE REVERS’EAU
+      Quelques éléments ressortent aujourd’hui sur la plus-value du projet
+LIFE REVERS’EAU au regard du plan d’ensemble de restauration de la continuité écologique
+de L’Huisne.
+        En premier lieu, il apparaît que le projet n’a pas été un élément déclencheur dans la prise
+de conscience, par la communauté urbaine, de la nécessité d’effectuer les études et travaux
+correspondants. Comme indiqué, de premières initiatives ont été prises en ce sens dès 2016. Le
+projet LIFE REVERS’EAU arrive donc en appui d’une démarche déjà engagée et auprès d’une
+collectivité mature dans ce domaine. Ensuite, au regard des montants financiers en jeu
+(8,08 M€), le financement LIFE obtenu (450 000 €) n’apparaît pas avoir été déterminant dans
+la candidature de la communauté urbaine.
+
+3.3.1 L’apport d’une transversalité et d’une pluridisciplinarité
+
+        La plus-value avancée par la communauté urbaine porte plutôt sur l’organisation interne
+de ses services et sur le collectif de travail. L’action C.6 de restauration écologique de L’Huisne
+a en effet amené de la pluridisciplinarité et de la transversalité. La pluridisciplinarité est issue
+de la dimension citoyenne propre aux programmes européens. L’objectif de sensibilisation,
+d’ouverture au grand public et de pédagogie a dès lors conduit des équipes diverses à travailler
+ensemble autour du projet. Il en résulte une transversalité que décrit la communauté urbaine
+dans ses habitudes de travail.
+        La direction générale adjointe en charge de la gestion durable, des services urbains et
+du patrimoine est la principale concernée ainsi que plusieurs de ses services. Son service de
+l’eau et de l’assainissement est mobilisé dans la mesure où le projet LIFE REVERS’EAU
+contribue à restaurer la continuité écologique du cours d’eau (donc la qualité de la ressource)
+tout en maintenant sur site l’activité de production d’eau potable. Le service d’architecture et
+du patrimoine est aussi intéressé par l’histoire industrielle du lieu, avec l’existence de la
+première usine à eau sur le barrage, dans une problématique de restauration et de valorisation.
+Enfin, le service en charge de L’Arche de la Nature est quant à lui concerné par les aspects
+pédagogiques et de médiation pour le grand public sur les questions environnementales, en
+particulier au travers de l’exposition évolutive.
+        La direction générale adjointe en charge du développement est l’autre direction
+technique mobilisée par le projet. Son service énergie-climat est concerné par la restauration
+des roues à aube sur le barrage, permettant la production d’électricité. Quant à son service de
+l’urbanisme, il a été associé à la réflexion, initiée par le projet, sur la bonne gestion de la
+ressource en eau et en particulier sur la nécessité de désimperméabiliser les sols (par exemple
+dans l’espace urbain).
+         Il peut être ainsi souligné qu’en lien avec la commune membre du Mans qui a la
+compétence scolaire, Le Mans Métropole a lancé un programme de création de noues
+d’infiltration dans les groupes scolaires de la commune (74 groupes existants). Il s’agit
+d’espaces désimperméabilisés, par exemple dans les cours d’écoles, permettant à la fois
+d’infiltrer les eaux pluviales pour une petite pluie et de favoriser leur écoulement en cas de pluie
+plus importante. Ce sont en outre des espaces de biodiversité accessibles aux élèves. La
+communauté urbaine complète en indiquant que le projet LIFE REVERS’EAU a introduit une
+dimension pédagogique et de médiation vis-à-vis du public. La passe à poissons est ainsi
+appréhendée comme un outil d’éveil.
+
+
+
+                                                20
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        L’action LIFE REVERS’EAU a aussi permis, selon la communauté urbaine, de
+promouvoir en interne la question de la biodiversité et de sensibiliser puis former
+l’encadrement. Diverses formations ont effectivement eu lieu dans les services sur le
+management écologique de la fonction publique (avril 2023), l’impact de l’activité humaine sur
+la biodiversité (27 novembre 2023), les enjeux de la transition écologique (17 janvier 2024).
+        À l’examen, le lien n’est pas véritablement établi, dans ces formations, avec le projet
+LIFE REVERS’EAU même si des convergences existent. Elles relèvent en effet davantage d’un
+objectif interne au management de la communauté urbaine qui, avec ou sans le projet, vise à
+opérer les transitions nécessaires face aux questions environnementales. Le projet devient dès
+lors plutôt un élément de contexte qu’un élément déclencheur. Il reste que l’impact sur la
+transversalité dans le collectif de travail a bien été revendiqué par les divers interlocuteurs
+rencontrés.
+
+3.3.2 Une forme de reconnaissance de la politique communautaire en faveur de la
+      biodiversité
+
+        Une autre plus-value réside, selon la chambre, dans le fait que, même en étant ciblé sur
+une petite partie du plan d’ensemble de restauration, le projet LIFE REVERS’EAU confère un
+statut particulier au plan d’ensemble, lui apporte une reconnaissance et conforte la politique de
+la communauté urbaine en matière de gestion de la ressource en eau et de prise en compte de la
+biodiversité. Ceci positionne aussi Le Mans Métropole dans de bonnes conditions pour solliciter
+à l’avenir d’autres fonds européens dans le cadre d’un nouveau projet LIFE ou d’autres
+dispositifs communautaires.
+         La plus-value du projet est donc réelle pour la communauté urbaine. On observera
+toutefois que certains éléments minorent le constat. Tout d’abord, comme ceci sera abordé infra,
+il y a eu peu d’échanges de pratiques entre les différents bénéficiaires associés au projet ou avec
+d’autres partenaires potentiellement intéressés. Si lesdits bénéficiaires se rencontrent
+régulièrement à l’initiative de la région Pays de la Loire, bénéficiaire coordinateur, la
+communauté urbaine n’a pas fait état d’échanges techniques ou de bonnes pratiques ou de
+travaux communs. D’autres bénéficiaires associés conduisent pourtant des actions similaires
+sur la restauration écologique de cours d’eau, par exemple en Vendée. Or, il est rappelé que la
+transférabilité est un aspect important des programmes européens.
+       Dans sa réponse, la présidente du conseil régional des Pays de la Loire souligne que des
+comités de pilotage, des comités techniques et des webinaires sont régulièrement organisés.
+Mais, on constate que ces instances sont très organisationnelles et portent peu sur la technicité
+des projets.
+        Par ailleurs, le projet ne semble pas avoir eu d’effets, à ce jour visibles, en termes
+d’ouverture sur le citoyen, ce qui est pourtant aussi un objectif des programmes européens.
+Certes, il existe une exposition évolutive à la maison de l’eau localisée à L’Arche de la Nature
+et qui va nécessairement s’enrichir au fur et à mesure de l’avancée du plan de restauration
+écologique. Par ailleurs, la phase de concertation avec les riverains commence tout juste.
+      Il reste que globalement, la plus-value de ce projet peut être attestée pour
+Le Mans Métropole.
+
+
+
+
+                                                21
+                                           LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        Au moment du présent rapport, le plan de restauration écologique de L’Huisne était à
+mi-chemin de son exécution avec une prise en charge dans le cadre de LIFE essentiellement au
+titre du principal barrage de L’Épau (avec la construction d’une nouvelle passe à sédiments et
+poissons) et subsidiairement au titre du barrage de Pontlieue (concertation avec les riverains)
+et de la communication globale autour du plan de restauration (exposition évolutive).
+        En termes de calendrier, il convient d’observer des retards importants pour le barrage
+de Pontlieue avec une phase de concertation et réglementaire prévue en 2024 et non encore
+effectuée mi-2026. Ce retard s’explique pour des raisons budgétaires non liées au projet
+LIFE REVERS’EAU.
+        L’évaluation des résultats de l’action C.6 relative au projet LIFE REVERS’EAU n’est
+pas possible aujourd’hui car la santé écologique d’un cours d’eau ne peut se juger que sur le
+long terme. Les indicateurs de suivi retenus dans le cadre du projet apportent cependant d’ores
+et déjà des données encourageantes tant au niveau de la circulation des poissons que de la
+fréquentation de l’exposition.
+       Le projet LIFE REVERS’EAU n’a pas été un élément déclencheur dans la prise de
+conscience de la nécessité écologique puisque la communauté urbaine la prenait déjà
+pleinement en compte. L’apport financier du projet apparaît par ailleurs peu décisif. Une
+plus-value du projet est toutefois exprimée par la communauté urbaine au niveau de
+l’organisation interne des services et sur le collectif de travail (pluridisciplinarité et
+transversalité). On peut y ajouter le statut particulier que confère le projet au plan d’ensemble
+dans la mesure où il le conforte grâce à sa dimension européenne. C’est un atout pour
+Le Mans Métropole.
+
+
+
+4 UN PILOTAGE ET UN SUIVI ADMINISTRATIF ET FINANCIER
+  FACILITÉ PAR LA MATURITÉ DE LA COMMUNAUTÉ
+  URBAINE AU NIVEAU DES FONDS EUROPÉENS
+
+4.1 Une réelle maturité dans le portage de projets européens
+
+        En termes de pilotage du projet, il est important de noter que la communauté urbaine a
+pu s’appuyer sur son organisation et son expérience en matière de montage et gestion de projets
+européens. La chambre a de fait constaté une réelle maturité qui a servi à l’élaboration et à la
+gestion de l’action entrant dans le projet LIFE REVERS’EAU. Cette maturité explique aussi
+que la région Pays de la Loire se soit rapprochée du Mans Métropole
+        En premier lieu, il convient de souligner qu’il existe en interne aux services un pôle
+dédié aux partenariats financiers et à la recherche de fonds européens en matière
+d’investissement. Il est composé de trois agents. Prochainement, ce pôle devrait également
+intégrer la recherche de financements externes au titre du fonctionnement. En outre, un élu de
+la communauté urbaine suit la question des fonds européens.
+
+
+
+
+                                               22
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La méthodologie employée par le pôle pour détecter en amont les opportunités de projets
+reste toutefois assez classique. Il procède ainsi à une veille d’actualité à l’aide des différentes
+newsletters des institutions européennes. Il n’y a pas de prospection particulière au niveau des
+services de la commission européenne.
+        En second lieu, il est important d’indiquer que Le Mans Métropole avait déjà été, avant
+LIFE REVERS’EAU, le bénéficiaire coordonnateur d’un autre projet entrant dans le
+programme LIFE. La communauté urbaine avait en effet été retenue pour la génération 2011
+des fonds LIFE au titre d’un projet sur l’éclairage public. Ses bénéficiaires associés étaient la
+commune du Mans et le syndicat mixte du pays du Mans13. L’objectif environnemental était de
+réaliser des économies d’énergie et de lutter contre la pollution lumineuse. Cette candidature a
+été acceptée malgré un consortium de bénéficiaires associés jugé peu ouvert à l’époque, avec
+uniquement des institutions mancelles.
+        Le résultat de ce premier projet LIFE a été, selon Le Mans Métropole, de générer des
+baisses significatives de la consommation électrique dans les équipements communautaires. La
+communauté urbaine considère aussi que cette première candidature a eu deux autres effets
+majeurs avec, tout d’abord, une acculturation des équipes techniques et administratives autour
+d’un projet européen. En ce sens, le pôle dédié souligne avoir œuvré à la présentation du dossier
+auprès desdites équipes en les dégageant de tout le volet administratif et financier
+(géré exclusivement par ledit pôle) pour se concentrer sur les bénéfices attendus d’une telle
+candidature. Dès lors, une dynamique semble avoir été créée.
+       Ensuite, cette candidature a eu un effet de levier sur les financements externes futurs de
+la communauté urbaine puisqu’elle a obtenu ultérieurement un concours du fonds européen de
+développement régional (FEDER). Le Mans Métropole confirme ainsi l’effet « transférable »
+des programmes européens, qui en soi ne sont qu’une opération unique et non reproductible (ce
+qui explique qu’au cas d’espèce les quatre barrages de L’Huisne ne sont pas éligibles), mais qui
+placent leurs bénéficiaires en bonne position pour candidater à d’autres financements.
+        Il est d’ailleurs constaté que, sur ces cinq dernières années (depuis 2021), la
+communauté urbaine a bénéficié, tous fonds confondus (c/1317 et c/1327), de 3,78 M€ de
+financements européens dont 2,35 M€ sur son budget principal, 0,80 M€ sur son budget annexe
+des transports et 0,62 M€ sur son budget annexe de l’assainissement.
+
+
+4.2 Une gouvernance solide en interne et avec la région coordonnatrice du
+    projet
+
+        Si la communauté urbaine n’a pas créé de comité de pilotage spécifique pour l’action
+LIFE, elle a mis en place ce type d’organisation au niveau des différentes opérations du plan
+global de restauration. Ces réunions techniques font appel aux élus, services communautaires,
+directions de l’État (direction départementale des territoires) et Office français de la
+biodiversité (OFB).
+
+
+
+13
+   Le syndicat mixte du pays du Mans gère le pôle d’équilibre territorial et rural (PETR) éponyme qui est la forme
+juridique actuelle des pays créés en application de la loi n° 95-115 du 4 février 1995 d'orientation pour
+l'aménagement et le développement du territoire.
+
+
+
+
+                                                       23
+                                           LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+        Des réunions ont ainsi eu lieu, au titre du barrage de L’Épau, les 13 décembre 2021,
+8 avril 2022 et 24 novembre 2022. Il en a été de même au titre des barrages de Pontlieue et des
+Bouches d’Huisne qui ont le même opérateur : 15 septembre 2023, 15 mai 2024, 7 janvier 2025
+et 20 février 2025.
+        À la lecture des comptes rendus, il ressort que les aspects techniques des projets sont
+abordés dans le détail, ce qui permet d’avoir un état d’avancement précis. En revanche, les
+questions de la concertation avec les riverains au titre de Pontlieue sont très peu abordées mais
+celle-ci a été décalée.
+         Avec la région, une convention a été passée le 7 décembre 2023. Comme le stipule cette
+convention, la communauté urbaine a produit des rapports techniques annuels les
+13 décembre 2023, 29 octobre 2024 et 15 janvier 2026. Ces rapports sont conformes aux
+maquettes établies par la région. Ils devaient cependant être réalisés selon un échéancier
+semestriel. Il a été par ailleurs constaté que certaines informations manquent afin d’établir la
+totalité de l’échéancier et de mesurer les délais, par exemple pour l’achèvement des travaux sur
+la passe à sédiments et poissons. Ces points restent cependant mineurs.
+
+
+4.3 Une faible transférabilité avec les autres bénéficiaires associés
+
+       L’un des résultats attendus des programmes européens est la transférabilité des actions
+conduites et des bonnes pratiques établies. L’idée est ainsi de faire bénéficier le plus grand
+nombre d’acteurs des expériences acquises dans le cadre de projets, de mutualiser les
+informations et d’assurer leur diffusion.
+        Or, si des échanges réguliers ont pu avoir lieu, selon la communauté urbaine, avec les
+autres bénéficiaires associés à l’occasion des réunions de coordination faites par la région, il
+n’existe pas de relations directes entre les porteurs d’actions. On aurait pu ainsi imaginer la
+création de groupes techniques communs sur des thématiques partagées, par exemple sur les
+questions liées à l’adhésion des riverains lors d’opérations affectant des parties de cours d’eau,
+sujet sensible dans le cadre de l’opération concernant Le Mans Métropole. Des guides communs
+et diffusables à l’extérieur auraient pu aussi être envisagés.
+       Il est souligné, à ce titre, que le sujet des continuités écologiques est partagé par
+plusieurs entités entrant dans le projet LIFE REVERS’EAU, telles que :
+•   le syndicat mixte Vendée Sèvre Autize (85) qui porte un projet d’aménagement et de
+    transformation de 15 ouvrages (C.5) ;
+•   l’établissement public territorial de bassin de la Vilaine (35) qui porte un projet de
+    caractérisation et restauration de trois têtes de bassins versants (C.7) ;
+•   le département de la Vendée (85) et le syndicat du bassin de l’Oudon (53) qui portent des
+    projets de restauration de masses d’eau (C.11a et C.11b) ;
+•   l’établissement public territorial de bassin de la Sèvre nantaise (85) qui porte un projet de
+    renaturation d’un bassin versant (C.12).
+
+       La communauté urbaine explique qu’elle n’en est pas responsable, du fait de son statut
+de bénéficiaire associé, et que cela relève de la région Pays de la Loire, ce qui est exact. La
+mise en place d’échanges techniques, de mutualisations et leur formalisation (guides pratiques
+par exemple) pourrait être examinée, quoi qu’il en soit.
+
+
+
+
+                                               24
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Dans sa réponse, la présidente du conseil régional des Pays de la Loire souligne qu’au-
+delà de ses propres instances, des échanges ont lieu entre les différents porteurs de projets
+comme par exemple les syndicats de bassins versants mais il ne semble pas s’agir véritablement
+d’instances de travail en commun. Il convient cependant de noter que la région envisage de
+réaliser, à l’issue du projet, un guide « au titre de la réplicabilité et de la valorisation des actions
+menées ».
+
+4.4 Le suivi administratif et financier
+
+       Pour ce qui est du suivi administratif de l’action C.6, l’expérience de gestion de la
+communauté urbaine en matière de programmes européens a été utile. Elle souligne uniquement
+qu’étant entrée tardivement dans le projet LIFE REVERS’EAU, elle n’a pas pu bénéficier des
+formations organisées par la région sur plusieurs sujets comme les modalités de réalisation du
+rapport financier et technique sur portail dématérialisé. Mais ceci a été corrigé par la suite.
+        Il est précisé que la communauté urbaine n’a pas, en tant que bénéficiaire associé, de
+liens avec un point de contact national (PCN), ce qui est la prérogative de la région qui est
+coordonnateur. La communication et les échanges se font essentiellement par l’organisation de
+webinaires, en particulier avec la région sur les aspects techniques des dossiers.
+        Le suivi financier est marqué par le fait que toutes les dépenses consacrées à la
+restauration de la continuité écologique de L’Huisne ne sont pas éligibles à un financement
+LIFE. Dès lors, le pôle spécialisé a effectué un travail sur chaque facture afin d’isoler ce qui
+relève de l’action C.6. Afin de faciliter ce travail, la communauté urbaine demande en principe
+à ce que les bordereaux de prix produits par les candidats à l’attribution de marchés, proposent
+déjà une ventilation de leurs prix par opération, ce qui facilite ensuite la facturation. À l’examen
+et au cas d’espèce, ce n’est pas toujours fait. Ce travail a donc été effectué par le pôle spécialisé,
+par un travail analytique. Le cas échéant, le pôle peut également utiliser des clés de répartition
+afin de déterminer le poids d’une action éligible dans un ensemble plus global de dépenses, ce
+qu’il a pratiqué sur d’autres projets européens. Ce ne fut pas nécessaire pour l’action C.6 car
+les dépenses déjà individualisées permettaient d’atteindre le plafond éligible au programme.
+         À la clôture de l’instruction, l’état d’exécution du projet figurant ci-dessous montrait un
+montant cumulé de réalisation de 486 119 € soit 64,8 % du total de l’action (750 000 €), ce qui
+est satisfaisant.
+
+                                Tableau n° 5 : État d’exécution du projet
+
+                    En €                          2023                2024                 2025
+ Assistance externe (concertation)                                          5 979,96          4 256,00
+ Travaux d’infrastructures (passe)                                     470 378,40                 0,00
+ Autres coûts (exposition)                                                  5 505,00              0,00
+ Total dépenses                                          0,00          481 863,36             4 256,00
+ Union européenne 60 %                                                 289 118,02             2 553,60
+ Le Mans Métropole 40 %                                                192 745,34             1 702,40
+ Total recettes                                          0,00          481 863,36             4 256,00
+
+Source : Le Mans Métropole
+
+
+
+
+                                                   25
+                                           LE MANS MÉTROPOLE (PROJET LIFE REVERS’EAU)
+
+
+
+
+      En termes de marché, il est précisé que l’action entrant dans le projet
+LIFE REVERS’EAU a été rattachée à trois marchés différents.
+         Le premier est le plus important. Il s’agit d’un marché de travaux n° 55961 et concerne
+plusieurs opérations relatives au barrage de L’Épau dont sa rénovation, la réalisation de la passe
+à poissons et des travaux d’optimisation en vue de la production d'hydroélectricité (restauration
+des roues à aube). D’un montant initial de 3 100 264 € HT, il a été passé suivant une procédure
+adaptée ouverte conformément à l’article L. 2123-1 du code de la commande publique. Il a été
+attribué le 12 mars 2024 à un groupement de deux entreprises avec la possibilité de recourir à
+des sous-traitants. Trois avenants sont ensuite intervenus y compris pour modifier le montant
+initial du marché qui atteint en définitive un montant de 3 921 217 € HT soit une augmentation
+globale de 26,4 %. Il s’agit en particulier de prestations supplémentaires devenues nécessaires
+(article R. 2194-2 du code de la commande publique) suite à des considérations techniques
+après mise hors d’eau des équipements du barrage. L’augmentation n’a pas engendré de hausse
+supérieure à 50 % du montant initial, conformément à l’article R. 2194-3 du code précité.
+        Pour ce qui est du programme LIFE REVERS’EAU, la possibilité de recourir à des
+financements du programme est bien mentionnée dans l’acte d’engagement. Il reste que les
+autres supports comme le bordereau des prix unitaires (BPU) ne permettent pas d’isoler les
+dépenses éligibles au programme, ce qui n’apporte pas suffisamment de lisibilité. Ce travail a
+donc été effectué par la suite par le pôle spécialisé.
+         Le second marché est un marché de maîtrise d’œuvre n° 55672 et concerne la remise
+en état de L’Huisne au niveau du barrage de Pontlieue avec diverses opérations dont
+l’organisation de la concertation avec les riverains. D’un montant initial de 158 320 € HT, il a
+été passé suivant un appel d’offres ouvert. Il a été attribué le 13 juillet 2023 à un bureau
+d'études. Deux avenants sont ensuite intervenus avec une modification du montant initial qui
+atteint en définitive 189 072 € HT soit une augmentation globale de 19,4 %.
+        Pour ce qui est du programme LIFE REVERS’EAU, la possibilité de recourir à des
+financements du programme est bien mentionnée dans l’acte d’engagement. Les autres supports
+permettent mieux d’isoler les dépenses éligibles au programme. Par exemple, le cahier des
+clauses administratives particulières indique ainsi, dans les modalités de règlement des comptes
+et la présentation des demandes de paiement (point 11.3), qu’une cotation particulière doit
+intervenir pour la facturation liée à la concertation avec les riverains.
+        Les missions du bureau d’études sont aussi clairement définies et attribuables sans
+difficultés au programme LIFE REVERS’EAU : identification des propriétés privées
+concernées, identification et rencontre des associations concernées (quartier, collectif
+inondations, clubs sportifs), envoi aux propriétaires d’un questionnaire, visite des lieux avec
+annonce de passage aux riverains concernés, organisation de réunions publiques. La ventilation
+des dépenses puis de la facturation en ressort facilitée.
+        Le troisième marché n° 56246 est un marché subséquent d’un accord cadre de
+prestations de conception éditoriale, graphique et de maquettage, dans le cadre d’un groupement
+de commande avec la commune du Mans en date du 10 octobre 2020. Cet accord a été passé
+suivant un appel s’offres ouvert et a été attribué sous forme de deux lots, l’un de création
+graphique et l’autre de conception de magazines, guides ou brochures à une société spécialisée.
+
+
+
+
+                                               26
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Le marché n° 56246 concerne l’exposition évolutive sur le réaménagement de
+l’ensemble des barrages de L’Huisne donc les quatre opérations concernées. Des factures à
+hauteur de 5 505 € ont été émises sur ce marché. Pour ce qui est du programme
+LIFE REVERS’EAU, la passation d’un marché subséquent et une facturation séparée
+permettent d’isoler les dépenses éligibles au programme.
+       Globalement, les procédures de commande publique ont donc été respectées pour la
+mise en œuvre de l’action C.6.
+       Il est précisé qu’en termes de contrôle, une visite sur place des services de la commission
+européenne a eu lieu et a validé la conduite du projet.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        La communauté urbaine a une réelle maturité au niveau des fonds européens. Elle
+dispose d’un pôle de compétences en interne et a déjà piloté un projet LIFE sur la génération
+précédente en tant que bénéficiaire coordonnateur dans le domaine de l’éclairage public. Le
+suivi administratif et financier est donc satisfaisant.
+      Dès lors, la gouvernance du projet s’est révélée solide en interne et avec la région
+coordonnatrice du projet avec des rapports réguliers.
+        Par ailleurs, alors qu’il existe au sein du projet LIFE REVERS’EAU des porteurs de
+projets similaires à celui du Mans Métropole et que la transférabilité est un axe important des
+programmes européens, les échanges restent assez formels sans, par exemple, de groupes
+techniques communs sur des thématiques partagées. La région envisage cependant de réaliser,
+à l’issue du projet, un guide visant à valoriser et répliquer les actions menées.
+
+
+
+
+                                               27
+CLIQUEZ OU APPUYEZ ICI POUR
+          ENTRER DU TEXTE.
+
+
+
+   Les publications de la chambre régionale des comptes
+                      Pays de la Loire
+                sont disponibles sur le site :
+             www.ccomptes.fr/crc-pays-de-la-loire
+
+
+
+
+       Chambre régionale des comptes Pays de la Loire
+                    25 rue Paul Bellamy
+                         BP 14119
+                  44041 Nantes cédex 01
+
+                       Adresse mél.
+                 paysdelaloire@ccomptes.fr
+

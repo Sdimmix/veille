@@ -1,0 +1,3206 @@
+TITRE: Communauté urbaine Caen la mer (Calvados) - Cahier n°2 : actions en faveur de la transition écologique
+PAGE: https://www.ccomptes.fr/fr/publications/communaute-urbaine-caen-la-mer-calvados-cahier-ndeg2-actions-en-faveur-de-la
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/NDR2026-29.pdf
+
+RAPPORT D’OBSERVATIONS DÉFINITIVES ET
+                        SES RÉPONSES                                                              (
+                                                                                                  (
+
+
+
+
+                        COMMUNAUTÉ URBAINE
+                               CAEN LA MER
+                   CAHIER N° 2 : ACTIONS EN FAVEUR DE LA
+                                  TRANSITION ÉCOLOGIQUE
+
+
+
+                                                                                   (Calvados)
+                                                                  Exercices 2021 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés, a
+été délibéré par la chambre le 26 juin 2026.
+
+
+
+
+                   21, rue Bouquet - CS 11110, 76174 ROUEN Cedex - Tél. 02 35 07 92 00
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+
+                                TABLE DES MATIÈRES
+
+
+TABLE DES MATIÈRES .......................................................................................... 2
+SYNTHÈSE ................................................................................................................ 4
+RECOMMANDATIONS ............................................................................................ 5
+INTRODUCTION ....................................................................................................... 6
+1 UNE STRATÉGIE GLOBALE DE TRANSITION ÉCOLOGIQUE
+  RÉCEMMENT FORMALISÉE ............................................................................... 6
+  1.1 Les démarches stratégiques antérieures ............................................................. 7
+  1.2 Un vaste projet de territoire « Caen la mer 2030 s’imagine avec vous »
+      pour la période 2021-2030 ................................................................................. 9
+  1.3 Une feuille de route « Caen la mer, territoire en transition 2030 »,
+      stratégie de transition écologique de la CU CLM, rendue visible par le
+      rapport annuel de développement durable........................................................ 10
+2 UNE PROGRESSIVE ADAPTATION DU PILOTAGE ET DE
+  L’ORGANISATION DE LA TRANSITION ÉCOLOGIQUE.............................. 12
+  2.1 Un pilotage de la transition écologique se structurant, des moyens dédiés ..... 12
+  2.2 Des outils financiers mobilisés ......................................................................... 16
+  2.3 Une démarche d’évaluation en voie de concrétisation ..................................... 18
+3 DES POLITIQUES PUBLIQUES MOBILISÉES EN FAVEUR DE
+  L’ATTÉNUATION DES EFFETS DU CHANGEMENT CLIMATIQUE........... 22
+  3.1 Une action proactive en matière de gestion des déchets .................................. 22
+  3.2 L’affirmation d’une politique de mobilité dans un contexte de forte
+      dépendance à la voiture individuelle ................................................................ 24
+  3.3 Le développement d’un important réseau de chauffage urbain ....................... 25
+  3.4 Un important programme d’amélioration de l’éclairage public des zones
+      d’activités achevé en 2023 ............................................................................... 27
+4 DES ACTIONS D’ATTÉNUATION À RENFORCER POUR SES
+  PROPRES ACTIVITÉS ......................................................................................... 28
+  4.1 Une connaissance de l’empreinte carbone de ses activités à améliorer ........... 28
+  4.2 Le contrôle et la réduction des consommations énergétiques des
+      bâtiments publics .............................................................................................. 30
+  4.3 Le suivi des consommations de fluides et le développement des ENR ........... 31
+  4.4 La gestion des déplacements ............................................................................ 33
+  4.5 Des actions menées en matière de sobriété numérique .................................... 37
+5 UNE APPROPRIATION DES VOLETS ADAPTATION ET
+  PRÉSERVATION .................................................................................................. 39
+  5.1 Des risques climatiques identifiés et des enjeux connus de la CU CLM ......... 40
+
+
+
+
+                                                              2
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+    5.2 Des changements significatifs attendus du climat sur le territoire de la
+        CU CLM ........................................................................................................... 44
+    5.3 Une volonté de maitriser l’étalement urbain .................................................... 47
+    5.4 La prise en compte du risque submersion martine/inondation au travers
+        de la gestion des milieux aquatiques et la prévention des inondations et
+        du projet de PLUi-HM ..................................................................................... 48
+    5.5 Une mise en œuvre croissante d’actions fondées sur la nature ........................ 51
+  ANNEXES ................................................................................................................ 55
+    Annexe n° 1 : Définitions des volets de la transition écologie............................... 56
+    Annexe n° 2 : Définitions adaptation au changement climatique .......................... 57
+    Annexe n° 3 : Axes prioritaires de la feuille de route de la CU CLM ................... 58
+    Annexe n° 4 : Glossaire .......................................................................................... 59
+
+
+
+
+                                                                3
+                                                  COMMUNAUTÉ URBAINE CAEN LA MER
+                       CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+                                       SYNTHÈSE
+
+Créée le 1er janvier 2017, la communauté urbaine Caen la mer compte 48 communes membres
+et s’étend sur une superficie totale de 366 km².
+Sur ce territoire diversifié et contrasté, 60 % des espaces ont une vocation agricole et 32 % sont
+artificialisés. Il reste donc façonné par l’agriculture et demeure essentiellement rural, tout en
+proposant une dense bande littorale et une forte urbanisation à Caen et sa périphérie où un tiers
+des communes regroupe 200 000 habitants.
+Territoire dynamique, la CU CLM poursuit son développement démographique et économique.
+En effet, l’INSEE recense 277 248 habitants en 2022 en progression de 15 % depuis 1990 et le
+territoire accueille 41 % des établissements du département, plus de la moitié des emplois et
+40 000 étudiants.
+La configuration du territoire tout comme son attractivité engendrent des besoins importants en
+termes d’infrastructures, de logements ou d’équipements collectifs. Cette diversité et ce
+dynamisme sont également facteurs de risques et d’enjeux élevés de transition écologique pour
+la CU CLM.
+Elle connait les enjeux et vulnérabilités de son territoire et améliore régulièrement ses
+connaissances. Elle s’est fixée, au travers d’un projet de territoire et d’une feuille de route, une
+stratégie de transition écologique pour la période 2021-2030, un plan d’actions priorisées et
+s’est donnée des moyens humains, techniques et financiers pour mener à terme ses projets. La
+démarche apparaît donc globalement cohérente.
+En matière d’atténuation des effets du réchauffement climatique, l’engagement de la CU CLM
+est notable tant dans la pluralité d’actions mises en œuvre que dans les moyens financiers
+déployés. Elle doit toutefois le renforcer pour ses propres activités, notamment en réalisant un
+bilan des émissions de gaz à effet de serre a minima tous les 3 ans et en tirant les enseignements
+nécessaires.
+Si elle est plus récente, à l’image de beaucoup d’autres collectivités publiques, la CU CLM
+démontre également sa capacité à s’approprier le volet adaptation à se confronter à l’ampleur
+du chantier à venir. La renonciation au projet initial de la Presqu’Ile de Caen et sa redirection
+vers un modèle d’urbanisation temporaire doit être souligné tout à fait positivement.
+Des pistes d’amélioration du pilotage sont enfin à envisager. Pour mener à bien son ambitieuse
+stratégie de transition écologique, le projet d’administration doit davantage refléter les moyens
+que la CU CLM entend déployer pour faire évoluer les savoir-faire, les méthodes et
+l’organisation des services communautaires afin d’être en capacité de réaliser le projet de
+territoire.
+La CU CLM doit également améliorer sa culture de l’évaluation par la formalisation, pour
+chaque projet, d’objectifs et d’indicateurs permettant un suivi et un ajustement plus régulier de
+ses actions en matière de transition écologique.
+
+
+
+
+                                                 4
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                         RECOMMANDATIONS
+
+
+
+
+Les recommandations de régularité :
+
+
+                                      : Établir le bilan des émissions de gaz à effet de serre
+conformément aux dispositions de l’article L. 229-25 du code de l’environnement. .............. 30
+
+                                                    : Compléter l’ensemble des données sur la plateforme de
+l’Observatoire de la performance énergétique, de la rénovation et des actions du tertiaire
+conformément aux articles R. 174-27 à R. 174-30 du code de la construction et de l’habitation
+afin de connaître sa situation précise au regard de l’objectif de réduction des consommations
+d’énergie. .................................................................................................................................. 31
+
+
+
+
+Les recommandations de performances :
+
+
+Recommandation performance n° 1 : Doter la feuille de route d’objectifs évaluables...... 19
+
+Recommandation performance n° 2 : Élaborer un schéma directeur immobilier et
+énergétique. .............................................................................................................................. 31
+
+
+
+
+                                                                       5
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+                                       INTRODUCTION
+
+La chambre régionale des comptes a inscrit à son programme l'examen de la gestion de la
+Communauté urbaine Caen la mer1 (CU CLM) pour les exercices 2021 et suivants.
+Par lettres en date du 16 avril 2025, la présidente de la chambre a informé M. Nicolas Joyau,
+président de la CU CLM depuis le 17 juillet 2024, ainsi que son prédécesseur, M. Joël Bruneau,
+de l’ouverture du contrôle.
+L’examen de gestion a principalement porté sur les axes suivants : fiabilité comptable et
+trajectoire financière (cahier n° 1) et actions en faveur de la transition écologique (cahier n° 2).
+Un entretien d’ouverture de contrôle a eu lieu le 12 mai 2025 avec le président actuel et son
+prédécesseur. L’entretien de fin de contrôle entre l’ordonnateur, son prédécesseur et le magistrat
+rapporteur s’est déroulé le 8 décembre 2025.
+Lors de la séance du 10 décembre 2025, la chambre a arrêté ses observations provisoires,
+transmises, dans leur intégralité à MM. Joyau et Bruneau.
+Le président et l’ancien président ont adressé leurs observations par courriers enregistrés au
+greffe de la chambre le 6 mars 2026.
+Après avoir examiné les réponses reçues, entendu le rapporteur et pris connaissance des
+conclusions du ministère public, la chambre a arrêté le 25 juin 2026 le présent rapport
+d’observations définitives.
+
+
+
+
+1 UNE STRATÉGIE GLOBALE DE TRANSITION ÉCOLOGIQUE
+  RÉCEMMENT FORMALISÉE
+
+Suivant le site des ministères de la transition écologique, de l’aménagement du territoire, des
+transports, de la ville et du logement, pour limiter les effets néfastes du changement climatique,
+il est crucial de s’attaquer à ses causes en maîtrisant les émissions de gaz à effet de serre (GES),
+c’est ce que l’on appelle « l’atténuation ».
+Cependant, compte tenu de l’inertie climatique et de la grande durée de vie des gaz à effet de
+serre accumulés dans l’atmosphère, l’augmentation des températures d’ici à la fin du siècle est
+inévitable et toutes les régions du monde sont concernées. Un autre volet d’action est
+nécessaire : « l’adaptation ». Il s’agit d’en limiter les conséquences sur les activités
+socio-économiques et sur la nature pour les préserver. L’adaptation a pour objectifs d’anticiper
+les impacts du changement climatique, de limiter leurs dégâts éventuels en intervenant sur les
+
+
+
+1
+  Contrairement à la communauté d’agglomération Caen la Mer, la communauté urbaine Caen la mer
+s’orthographie sans majuscule à mer (article 2 de l’arrêté de création du 28 juillet 2016). Cette graphie n'est pas
+conforme aux règles de typographie française qui imposent les traits d'union. Caen la mer aurait dû se graphier
+Caen-la-Mer.
+
+
+
+
+                                                        6
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+facteurs qui contrôlent leur ampleur (par exemple, l’urbanisation des zones à risques) et de
+profiter des opportunités potentielles.
+Ces deux volets mobilisent l’ensemble des pouvoirs publics, notamment les collectivités
+territoriales et leurs groupements, pour prendre des mesures à partir d’une démarche englobant
+connaissance et compréhension des enjeux du territoire, l’élaboration d’une stratégie et
+d’objectifs, la mobilisation de moyens propres (humains, techniques, financiers…), la
+sensibilisation des autres acteurs, notamment les ménages et les entreprises et l’évaluation des
+résultats (voir définitions en annexe n° 1).
+
+
+
+1.1 Les démarches stratégiques antérieures
+
+L’adhésion de la CU CLM à plusieurs dispositifs traduit sa volonté de s’impliquer de longue
+date dans un processus de transition écologique par :
+    • La mise en œuvre d’un Agenda 21 local2 et d’un plan d’action adopté le 14 juin 2013,
+      réparties en six thématiques3, visant à atteindre une trentaine d’objectifs4 de transition.
+      Cet outil a permis à la CU CLM d’élaborer une première stratégie de développement
+      durable dans le cadre d’une démarche globale et partagée avec la population et les acteurs
+      locaux. Outre des mesures d’atténuation, un volet adaptation figurait dans l’agenda 21
+      (objectif 3 de l’axe 1). Par exemple, l’action 11.1 prévoyait la réalisation d’une étude
+      d’identification des ilots de chaleur et une volonté de renaturer et de végétaliser certains
+      secteurs du territoire. Un axe 2 était intégralement consacré à la préservation de la
+      biodiversité et des espaces naturels, la protection de la trame verte et bleue ressortant
+      comme une priorité. Enfin, un axe dit « interne » développait un programme visant à
+      rendre la collectivité plus exemplaire dans son fonctionnement ;
+    • L’engagement en 2016, dans la démarche de labellisation Cit’ergie5 lui a permis d’obtenir
+      en 2018 le label Cap Cit’ergie, correspondant désormais à une labellisation 2 étoiles, avec
+
+
+2
+  Le concept d’agenda 21 local a été développé lors du sommet de la Terre de rio en 1992 au cours duquel 173 pays
+ont adopté le Programme Action 21, visant à un développement durable de la planète au 21 ème siècle. Dans le
+chapitre 28 de ce programme, les collectivités territoriales sont invitées à mettre en place un projet territorial de
+développement durable, autrement intitulé Agenda 21 local.
+3
+  Lutter contre le changement climatique (élaboration d’un PCET) – préserver la biodiversité, les milieux et les
+ressources – renforcer la cohésion sociale et les solidarités – favoriser l’épanouissement de chacun dans un cadre
+satisfaisant – soutenir les modes de production et de consommation responsables – rendre la collectivité exemplaire
+(élaboration d’un agenda 21 interne).
+4
+  Notamment, réduire les émissions de GES liées aux déplacements, penser l’aménagement en fonction des enjeux
+climatiques, développer toutes les nouvelles énergies, sensibiliser le public, protéger la biodiversité en agissant
+avec tous les acteurs, renforcer la cohésion territoriale, viser l’exemplarité en matière d’éducation et d’associations
+des jeunes au développement durable…
+5
+  Mis en œuvre par l’Agence de l’environnement et de la maîtrise de l’énergie (ADEME), le label Cit’ergie (devenu
+label climat air énergie (CAE) en 2021) est un outil opérationnel destiné aux collectivités locales leur permettant
+d’élaborer et de mettre en œuvre une politique de transition écologique à partir d’un référentiel décomposé en
+six thèmes distincts (Planification : existence ou non de documents structurants au sien de la collectivité, niveau
+de diagnostic ; Patrimoine : gestion énergétique du patrimoine bâtimentaire, d’électricité publique ou roulant ;
+Approvisionnement en eau, énergie, assainissement : gestion des fluides, recherche de résilience en termes de
+production et de récupération ; Mobilité : stratégies d’accès aux modes de déplacements alternatifs, de
+
+
+
+
+                                                          7
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                            CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+       une réalisation des actions estimée à 45 %. L’enjeu principal a consisté pour la CU CLM
+       à planifier des actions répondant aux objectifs de réductions des émissions de GES de la
+       loi TEPCV6. Le lancement de la procédure d’élaboration d’un plan climat-air-énergie
+       territorial (PCAET)7 a mis un terme à cette démarche de labellisation.
+       La chambre souligne néanmoins que la poursuite de cette démarche Cit’ergie, aurait pu
+       constituer un outil utile à la CU CLM en vue d’évaluer la performance des actions mises
+       en œuvre sur son territoire en déclinaison du PCAET. De même, la poursuite de la
+       démarche aurait également pu lui permettre d’intégrer et de suivre les volets adaptation
+       et préservation initiés par l’Agenda 21, favorisant ainsi l’aboutissement rapide d’actions
+       dédiées à tous les volets de la transition écologique ;
+   • L’adoption en 2021 d’un schéma directeur de l’énergie (SDE) s’articulant autour de
+     deux étapes : dresser l’état des lieux et les perspectives énergétiques du territoire (état des
+     lieux énergétique, énergies renouvelables, récupération de chaleur, enjeux, marges de
+     progression) et élaborer une stratégie énergétique territoriale (objectifs à 2025, 2030 et
+     2050) traduite en un plan d’action. Ce SDE constitue toujours un outil de référence de la
+     CU CLM sur lequel elle appuie régulièrement ses actions en matière de consommations
+     d’énergie ou de production d’énergie renouvelable.
+     Toutefois, la chambre observe l’absence pour le moment, d’évaluation ou de bilan de
+     l’impact effectif de la mise en œuvre de cette stratégie.
+Ces premiers outils ont servi de base de réflexion à l’élaboration du projet de territoire et à la
+feuille de route de la CU CLM, en réorientant certaines actions, en en accélérant d’autres.
+
+
+
+
+stationnement, de déplacement ; Organisation interne : question du portage et du pilotage politique et technique,
+transversalité, politiques budgétaire et d’achats ; Coopération et communication : qualité des partenariats, de la
+concertation…) et 61 mesures concrètes décrites dans un documents d’aide à l’évaluation. Pour l’obtention du
+label, chaque collectivité est évaluée sur un potentiel de points arrêté préalablement et prenant en compte l’étendue
+des compétences qu’elle peut exercer. Une notation globale détermine le taux de mise en œuvre des actions
+conduites évaluant tant le niveau des actions conduites que la qualité de leur mise en œuvre. Trois étapes sont
+systématiquement conduites : état des lieux de la situation initiale au regard des six domaines permettant à la
+collectivité de se situer (ses pratiques et réalisations actuelles, son ambition) ; définition d’un programme d’actions
+progressif et phase de labellisation (attribution du label pour quatre ans) à la suite d’un audit. Le score de 35 %
+permet d’obtenir le label 2 étoiles ; celui de 50 %, 3 étoiles ; celui de 65 %, 4 étoiles et au-delà de 75 %, 5 étoiles.
+6
+  Loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte.
+7
+  Le plan climat-air-énergie territorial est un dispositif mis en place par la loi no 2015-992 du 17 août 2015 relative
+à la transition énergétique pour la croissance verte et rendu obligatoire pour la métropole de Lyon et les
+intercommunalités de plus de 20 000 habitants. Le plan climat-air-énergie territorial constitue dorénavant le « volet
+climat » du projet territorial de développement durable (PTDD) ou de l'Agenda 21 local que toute collectivité
+publique élaborerait.
+
+
+
+
+                                                           8
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1.2 Un vaste projet de territoire8 « Caen la mer 2030 s’imagine avec vous »
+    pour la période 2021-2030
+
+Au terme d’une phase de mise en œuvre de l’Agenda 21, la CU CLM a élaboré son projet de
+territoire à partir d’un diagnostic partagé visant à recenser tous les atouts et ressources présents
+sur le territoire, mais également les stratégies et les actions déjà mises en œuvre ainsi que les
+axes d’amélioration. Le diagnostic met en avant cinq défis9 que la CU CLM devra relever au
+cours des prochaines décennies.
+En mars 2022, le conseil communautaire a validé quatre ambitions10 visant à anticiper les
+mutations liées aux différentes transitions et plus particulièrement la transition écologique.
+Parmi elles, l’ambition « Accélérer les transitions à travers un nouveau modèle d’aménagement
+plus durable, plus équilibré et plus connecté », est celle qui s’inscrit pleinement dans une
+trajectoire de transition écologique.
+Quatre objectifs sont assignés à cette ambition :
+    • Poursuivre les engagements du territoire dans de nouveaux modes d’aménagement plus
+      durables ;
+    • Conforter la préservation et engager la restauration des trames verte, bleue et noire, des
+      identités paysagères et des ressources du territoire ;
+    • Instaurer une densification durable, acceptable et répondant aux aspirations des citoyens ;
+    • Poursuivre le développement de mobilités durables et non-carbonées.
+Le plan d’action, volet opérationnel du projet de territoire comporte une quinzaine d’actions
+potentiellement structurantes pour la transition écologique (élaboration d’un PLUi-HM, actions
+en faveur de la prise en compte du changement climatique sur la bande littorale et dans les
+autres secteurs, développement d’une ingénierie en faveur des transitions environnementales,
+amélioration de la connaissance des enjeux de biodiversité, agriculture durable, tourisme
+durable, développement d’actions de sensibilisation…). Elles sont cohérentes avec la stratégie
+du PCAET.
+La chambre observe toutefois que les actions et sous-actions s’inscrivent davantage dans une
+stratégie d’atténuation que dans une démarche d’adaptation et de préservation de la biodiversité
+
+
+8
+  Le projet de territoire n’est pas une démarche obligatoire et la loi n’impose aucune forme spécifique au document.
+Néanmoins, l’article L. 5215-1 du CGCT prévoit que la communauté urbaine (…) regroupe plusieurs communes
+(…) qui s’associent au sein d’un espace de solidarité, pour élaborer un projet commun de développement urbain
+et d’aménagement de leur territoire. Le projet de territoire apparaît à la fois comme un document et un guide
+d’action publique locale. Il s’agit d’une démarche concertée visant à conduire un diagnostic du territoire en
+mobilisant ses différents acteurs (économiques, élus, associatifs, citoyens) et les partenaires institutionnels afin de
+déterminer une stratégie territoriale autour d’une vision partagée de son avenir à court ou moyen termes en
+identifiant des orientations stratégiques et en les priorisant.
+9
+  Construire un territoire communautaire solidaire et riche de ses diversités, bâtir une métropole à taille humaine
+ambitieuse et inscrite dans son environnement, construire un territoire de créativité et d’innovation, accélérer les
+transitions écologiques et imaginer des approches plus collectives.
+10
+   Accélérer les transitions à travers un nouveau modèle d’aménagement plus durable, plus équilibré et plus
+connecté, conforter la taille humaine du territoire en faveur de la qualité de vie, favoriser un développement
+économique diversifié, innovant et adapté aux transitions et mettre en place un dialogue territorial au service d’une
+mobilisation collective. Ces quatre ambitions sont déclinées en 11 orientations et 36 objectifs.
+
+
+
+
+                                                          9
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                            CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+même si certaines actions peuvent être considérées comme transversales (planification,
+sensibilisation, ingénierie…).
+
+
+
+1.3 Une feuille de route « Caen la mer, territoire en transition 2030 »,
+    stratégie de transition écologique de la CU CLM, rendue visible par le
+    rapport annuel de développement durable
+
+L’élaboration de la feuille de route « Caen la mer en transition 2030 » a pour objet, selon la
+CU CLM, de compléter et d’intégrer au projet de territoire différents champs d’intervention tels
+que les mobilités, la consommation de l’espace ou la relocalisation des productions
+stratégiques. Elle propose la formalisation d’une stratégie globale de transition écologique,
+réunissant et articulant l’ensemble des démarches en cours.
+La démarche va au-delà d’un plan de mandat et suit la temporalité du projet de territoire. Elle
+décline certaines ambitions et orientations du projet de territoire en une stratégie territoriale.
+27 actions sont communes au projet de territoire.
+La feuille de route et un programme d’actions opérationnelles ont été adoptés le
+29 septembre 2022. Elle s’articule autour de cinq axes stratégiques11 et 20 objectifs
+opérationnels. Le programme d’actions compte 68 actions (207 sous-actions) dont 22
+(91 sous-actions) ont été jugées prioritaires12 (CF annexe 3).
+La chambre relève que les volets adaptation et préservation ont été pris en compte au travers de
+l’axe « un territoire résilient ». Surtout, les actions et sous-actions du volet adaptation
+correspondent à des nécessités du territoire et constituent effectivement des priorités identifiées
+par la CU CLM.
+Elle observe également que le plan d’action intègre une large finalité de sobriété énergétique
+notamment fondée sur des changements de comportements (accompagnement des entreprises
+et des particuliers, sensibilisation du public…), sans se limiter à des actions de rénovation.
+La CU CLM a choisi d’exposer le bilan de la feuille de route dans son rapport annuel sur la
+situation en matière de développement durable, devenu depuis le 1er janvier 2026, rapport sur
+
+
+11
+   Un territoire solidaire : développer des actions de solidarité auprès des publics les plus fragiles et précaires, la
+solidarité et la coopération entre communes et territoires voisins et l’implication citoyenne ;
+Un territoire sobre : maîtriser l’étalement urbain, végétaliser les espaces, encourager la sobriété énergétique,
+accélérer la mobilité bas-carbone, développer le tourisme durable et responsable ;
+Un territoire résilient : préserver et valoriser la biodiversité, éduquer à l’environnement, accompagner le
+changement, préserver et valoriser la ressource en eau, réduire la vulnérabilité du territoire ;
+Un territoire plus autonome : favoriser la filière de l’alimentation locale et bio, impulser le développement des
+filières locales, développer les énergies renouvelables et de récupération locales, accélérer l’économie solidaire ;
+Un territoire d’expérimentation des transitions : développer l’engagement des citoyens et des employeurs en faveur
+de la transition écologique, expérimenter, innover, coopérer et construire la ville de demain, faire de Caen la mer
+un acteur référent en matière de transition écologique et développer des outils pour évaluer les impacts des
+politiques publiques sur le climat et la biodiversité.
+12
+   Les actions prioritaires ont été déterminées lors d’un comité de pilotage réunissant les élus de la CU CLM et
+ceux de la commune de Caen en mars 2022. La méthode de sélection a consisté à retenir les plus emblématiques
+devant être portées avant la fin du mandat et celles ayant un impact important pour faire changer les
+comportements.
+
+
+
+
+                                                         10
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+l’impact sur le développement durable de l’organisation et des modalités de fonctionnement de
+la collectivité territoriale ainsi que sur les politiques qu’elle mène en cette matière sur son
+territoire13. Ce choix offre une bonne visibilité de l’état d’avancement de sa trajectoire de
+transition tout en permettant un débat démocratique sur les actions mises en œuvre et leur
+niveau de réalisation.
+Toutefois, si le rapport expose effectivement le degré de réalisation des 22 actions prioritaires
+de la CU CLM, il pourrait utilement présenter les perspectives pour l’année suivante.
+De plus, la CU CLM explique que des indicateurs ont été définis et repris dans un tableau de
+bord, afin, selon elle, d’évaluer l’efficience des actions engagées et, le cas échéant, d’envisager
+des mesures correctives. Elle précise qu’une plateforme numérique prendra ensuite le relai,
+permettant une mise à jour du tableau de bord et l’élaboration du rapport annuel sur le
+développement durable. La CU CLM ne propose néanmoins pas actuellement de mesure
+corrective pour tenir compte des résultats des indicateurs. En termes de lisibilité, la CU CLM
+gagnerait à renseigner le niveau de consommation des ressources (moyens financiers, humains,
+techniques…) par rapport au prévisionnel, ce qui constitue aussi un paramètre de suivi dont il
+doit être tenu compte.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+Dans la continuité d’outils stratégiques qui ont posé les bases de sa démarche de transition
+écologique, la CU CLM a adopté en 2022 un projet de territoire et une feuille de route
+opérationnelle. Si le plan d’action adossé au projet de territoire est cohérent avec le plan
+climat-air- énergie territorial, le volet atténuation y occupe une place centrale. La feuille de
+route corrige cette orientation en intégrant un volet adaptation et préservation des ressources
+et de la biodiversité.
+Le choix d’exposer le bilan de la feuille de route dans le rapport annuel de développement
+durable de l’établissement lui offre une bonne visibilité et bénéficie au débat démocratique.
+Il conviendrait toutefois d’y intégrer les perspectives des années suivantes et une analyse de la
+consommation des ressources (financières, humaines) par rapport au prévisionnel.
+De plus, bien que des indicateurs soient définis pour suivre les objectifs de la feuille de route
+et de son programme d’actions, aucun mécanisme n’est actuellement prévu pour corriger les
+écarts constatés.
+
+
+
+
+13
+   Depuis le 1er janvier 2026, ce rapport est stipulé à l’article L. 1612-23 du CGCT et précise que Préalablement
+aux débats sur le projet de budget, le maire ou le président de l'assemblée délibérante présente un rapport sur
+l'impact sur le développement durable de l'organisation et des modalités de fonctionnement de la collectivité
+territoriale, ainsi que sur les politiques qu'elle mène, en cette matière, sur son territoire et sur les orientations et
+programmes de nature à contribuer à l'atteinte des objectifs de développement durable ».
+
+
+
+
+                                                          11
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+2 UNE PROGRESSIVE ADAPTATION DU PILOTAGE ET DE
+  L’ORGANISATION DE LA TRANSITION ÉCOLOGIQUE
+
+L’atteinte des objectifs assignés à la stratégie de transition écologique de la CU CLM repose
+sur la mise en œuvre de moyens et la mobilisation de différents acteurs locaux dont les élus et
+les agents. Cette implication est d’autant plus cruciale, qu’une large part de la stratégie repose
+sur un changement des comportements et un ajustement des politiques publiques d’ores et déjà
+mises en œuvre sur le territoire.
+En 2020, une vice-présidence dédiée à la transition écologique a été créée au sein de la CU
+CLM. Cette gouvernance s’articule autour de plusieurs instances14.
+
+
+
+2.1 Un pilotage de la transition écologique se structurant, des moyens dédiés
+
+
+2.1.1 Une organisation administrative en recherche de transversalité
+
+La direction de la transition écologique et énergétique est mutualisée avec la commune de Caen
+depuis 2015. Elle comptait à cette époque 13 agents en charge du développement durable, de la
+maîtrise de l’énergie et de la prévention des risques dans des missions de conseil, d’expertise,
+de sensibilisation et de pilotage de projets.
+La création, en 2017, de la CU CLM a entraîné le développement de deux nouvelles
+compétences : le soutien aux actions de maitrise de l’énergie ainsi que la création et la gestion
+des réseaux urbains de chaleur ou de froid.
+Depuis, elle a nettement élargi son périmètre d’actions pour y intégrer l’alimentation durable,
+le numérique ou la pollution de l’air.
+En 2025, elle comptait 27 agents et un alternant (économe de flux) répartis en cinq services15,
+mais de prochains départs en retraite conduiront à une réorganisation des services et à des
+recrutements permettant de renforcer l’expertise de cette direction (notamment un chargé de
+mission budget vert et bilan GES, un économe de flux et un ingénieur au sein du service réseau
+de chaleur).
+Le développement de cette direction, s’il représente un coût pour la CU CLM, traduit sa volonté
+de se doter d’une expertise et d’une ingénierie indispensables à la réussite de la trajectoire de
+transition écologique. La masse salariale a augmenté de 16,5 % entre 2022 (0,98 M€) et 2024
+(1,14 M€) (contre 7,9 % pour la masse salariale globale).
+
+
+
+
+14
+   Une conférence des maires qui garantit la cohérence entre les actions de la CU CLM et celles des communes
+membres – une commission permanente « transition écologique et environnement » qui examine les projets,
+propose des orientations et prépare les décisions – un groupe d’élus référents transition.
+15
+   Transition écologique, transition énergétique, prévention des risques et milieux naturels, réseaux de chaleur et
+un service support ressources.
+
+
+
+
+                                                       12
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+S’il n’existe pas à ce jour d’organigramme de projet, la CU CLM développe néanmoins une
+approche en mode projet16 et a instauré des instances transversales, sous forme de comités de
+pilotage (composés d’élus et de techniciens), techniques (directions compétentes) et de suivi
+(gestion de l’état d’avancement du projet). Pour faciliter la transversalité en matière de
+transition écologique, des outils de gestion ont été mis en place tels que des plateformes
+collaboratives et des tableaux de bord.
+La chambre invite la CU CLM à poursuivre cette culture de la transversalité, qui est l’un des
+axes de son projet d’administration, permettant d’éviter les réflexes de gestion en silos17.
+
+
+2.1.2 La dimension opérationnelle du projet d’administration18 à améliorer
+
+Entre avril 2021 et mars 2022, la CU CLM, la commune de Caen et le CCAS de Caen ont
+élaboré un projet d’administration couvrant 4 000 agents et 190 métiers différents. Construit à
+partir d’une démarche participative, il identifie cinq axes de travail (une administration ouverte,
+agile, bienveillante, moderne et unifiée) et 15 enjeux ou défis prioritaires accompagnés de
+41 actions visant à l’amélioration du fonctionnement et de l’organisation de l’administration.
+La chambre observe que :
+     • La place qu’occupe la transition écologique est centrale dans le projet de territoire de la
+       CULM, débouchant sur une feuille de route et un plan d’action spécifiques ;
+     • La démarche participative à l’origine du projet d’administration a traduit un niveau
+       d’appréhension des agents dans le domaine de la transition écologique encore limité. Les
+       agents interrogés n’ont, en effet, classé le défi d’une administration davantage tournée
+       vers l’écologie qu’en 5ème position et la sobriété (faire des économies et lutter contre le
+       gaspillage) en dernière position de leurs attentes.
+Or, le projet d’administration n’est pas en adéquation avec ces deux constats et définit peu de
+moyens directement dédiés à l’évolution des agents dans la prise en compte de la dimension
+transition écologique du projet de territoire. Seul l’enjeu 4 « s’engager pour une administration
+plus verte et solidaire » comporte trois actions « inventorier et communiquer sur les actions
+réalisées en matière de transition écologique », « Définir des bonnes pratiques par métier » et
+« déployer des outils et renforcer les incitations ». La dimension opérationnelle fait donc au
+moins partiellement défaut.
+La chambre observe que la CU CLM gagnerait à sensibiliser davantage ses agents.
+Si elle expose qu’un programme spécifique de formations internes a été élaboré pour
+sensibiliser et former les agents à la transition écologique (énergie, eau, gestion des déchets,
+mobilité…), au numérique responsable et l’organisation d’événements écoresponsables, la
+
+
+16
+   Il s’agit d’une méthode de travail permettant à une équipe de se réunir et de se focaliser autour d’un objectif
+spécifique au cours d’une période définie. En termes de management, elle permet de faire travailler une équipe de
+manière collaborative et transversale.
+17
+   Le travail en silo caractérise une organisation dont les services ou départements fonctionnent de manière
+autonome et isolée, recentrée sur leurs spécialités ou compétences, sans partage d’informations ou sans relation
+étroite avec les autres services.
+18
+   Le projet d’administration est une démarche qui cherche à améliorer ou à adapter les services d’une collectivité
+afin de les mettre en capacité de mettre en œuvre les projets décidés par les élus.
+
+
+
+
+                                                       13
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+chambre note toutefois que la participation à ce programme s’effectue sur la base du volontariat
+alors que son intégration à un vaste plan de sensibilisation permettrait une plus large adhésion
+des agents aux objectifs de la CU CLM. En 2022, la participation à cette formation restait
+modeste avec 125 agents, soit 6 % des effectifs de la CU CLM.
+La chambre observe également que le catalogue de formations internes qui proposait
+27 sessions sur la transition écologique en 2024, n’en comporte que trois en 2025.
+En particulier, s’agissant des cadres, en l’état des éléments produits, la chambre invite la
+CU CLM à amplifier leur formation dans la mesure où leur rôle dans le pilotage opérationnel
+de la transition écologique est essentiel. Leur connaissance des pratiques, outils et
+réglementations est indispensable à la réussite du management de la transition écologique dans
+les services.
+La chambre rappelle enfin que si le plan de formation de la CU CLM constitue un outil essentiel
+pour sensibiliser aux enjeux de la trajectoire de transition écologique, l’élaboration d’un plan
+de sobriété à l’échelle de son administration pourrait également constituer un levier utile.
+
+
+2.1.3 Des moyens déployés pour fédérer les différents acteurs du territoire
+
+
+2.1.3.1 Des communes membres impliquées dans la mise en œuvre de la stratégie de la
+        CU CLM
+
+Dans le cadre de ses compétences, la CU CLM a créé des services spécifiques et spécialisés
+pour accompagner les communes membres. Cette démarche permet notamment de proposer
+une expertise sur des sujets complexes pour lesquels les communes ne disposent pas toujours
+des ressources humaines, techniques ou financières nécessaires :
+     • Une mission « Accompagnement technique des projets des communes » proposant aux
+       communes membres une assistance technique sur les sujets les plus complexes (par
+       exemple, l’obligation de délibérer au niveau communal sur les zones d’accélération des
+       énergies renouvelables19), des services communs (par exemple, l’efficacité énergétique
+       des bâtiments publics), des partenariats permettant l’accès à de l’ingénierie ou à de la
+       formation (par exemple, en matière d’économies d’énergie) ou la participation à des
+       groupements de commandes par la rédaction des pièces des marchés ou l’analyse des
+       offres.
+     • Depuis 2022, la CU CLM s’est dotée d’un service commun de l’efficacité énergétique du
+       patrimoine bâti ayant vocation à apporter aux communes membres une expertise
+       spécialisés en énergie. 35 communes ont adhéré, représentant un parc de 960 bâtiments
+
+
+19
+   Les « zones d’accélération des énergies renouvelables » (ZAER), introduites par la loi n° 2023-175 du
+10 mars 2023 relative à l'accélération de la production d'énergies renouvelables, peuvent être définies par chaque
+commune, après concertation des habitants. Il s’agit de zones où est possible et souhaité le déploiement
+d’installations terrestres de production d’énergies renouvelables ou de récupération d’énergie, ainsi que leurs
+ouvrages connexes, en précisant les sources et les types d’installations priorisés. La définition d’une zone
+d’accélération de la production d’énergie renouvelable ne constitue pas en soi une autorisation d’office des projets
+futurs qui resteront chacun soumis à autorisation administrative préalable et donc seront donc susceptibles d’être
+refusés.
+
+
+
+
+                                                        14
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       dont la moitié est soumise au décret tertiaire, et sont accompagnées par des économes de
+       flux dans leur suivi des consommations et dépenses énergétiques (logiciel de suivi, bilans
+       annuels), leurs projets de rénovation et constructions20, leur recherche de financements21,
+       les études de faisabilité ou l’élaboration de leurs programmes pluriannuels
+       d’investissements22. Ce service est financé par les cotisations des communes adhérentes,
+       calculée en fonction du nombre de bâtiments publics et du niveau de service souscrit et
+       par le programme ACTEE+23 qui participe au financement des trois agents économes de
+       flux. En 2024, les cotisations ont représenté un montant de 135 000 € et l’aide ACTEE
+       environ 37 000 €. Les dépenses ont été essentiellement constituées des coûts
+       d’intervention des techniciens (141 000 €).
+     • Dans le cadre de la feuille de route, la CU CLM a lancé en 2025 un nouvel appel à projet
+       « Communes en transition », permettant d’accompagner les communes dans
+       l’accélération du déploiement de la transition écologique. Un budget de 55 000 €
+       (25 000 € en 2023 et 2024) a été consacré à cet appel à projet autour de la thématique
+       « Ville verte, ville fraîche ». 12 projets de micro forêts, de forêts urbaines, de
+       développement de la biodiversité (rucher pédagogique) et de végétalisation ont été
+       retenus et ont reçu un soutien financier ainsi qu’un accompagnement technique de la
+       CU CLM.
+La chambre constate que l’assistance des communes membres concerne encore essentiellement
+les mesures d’atténuation au changement climatique. La CU CLM pourrait à l’avenir
+développer et pérenniser, à l’image de son action « Communes en transition », davantage de
+mesures d’accompagnement des communes membres dans la mise en œuvre d’actions
+d’adaptation aux conséquences du changement climatique et de préservation de la biodiversité
+et des ressources.
+
+
+2.1.3.2 Différents acteurs externes mobilisés autour du projet de territoire
+
+La chambre observe que la CU CLM a intégré l’importance d’identifier et d’associer
+l’ensemble des acteurs du territoire à sa trajectoire de transition écologique.
+Un large volet sensibilisation, participation, coopération et valorisation des publics est mis en
+œuvre par la CU CLM dans ses documents cadres et stratégiques. Ainsi, le projet de territoire
+et la feuille de route développent des actions et sous-actions visant à renforcer le dialogue, à
+associer, à sensibiliser aux grandes transitions, à inciter ou à accompagner les acteurs et les
+pratiques.
+
+
+
+
+20
+   En 2024, ce service suivait 32 projets de réhabilitations et 11 études photovoltaïques.
+21
+   Des financements d’audits énergétiques, représentant entre 50 à 80 % de la dépense selon la commune, ont été
+obtenus et ont permis la réalisation de 126 diagnostics préalables à la décision d’engagement de travaux de
+rénovation.
+22
+   Actuellement, 17 PPI sont suivis par le service.
+23
+   Le programme ACTEE+, qui succède au programme ACTEE mis en œuvre à partir de 2019, est porté par la
+Fédération nationale des collectivités dévolues aux services publics locaux en réseau (énergie, eau, déchets,
+numérique) et accompagne la rénovation énergétique des bâtiments publics. Les fonds sont distribués aux
+communes lauréates d’appels à projets ou dans le cadre de programmes.
+
+
+
+
+                                                      15
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+À ce titre, depuis 2024, les enfants des écoles du territoire sont sensibilisés au travers d’un
+programme dédié « En route vers la transition écologique » autour de sept thématiques24. Dans
+le même sens, un parcours « Quel littoral en 2100 ? » est proposés aux élèves des classes de
+CM1/CM2 (253 élèves y ont participé en 2024 et 197 en 2025).
+Par ailleurs, la CU CLM organise un évènement annuel à destination des entreprises dans le
+cadre du volet animation du SDE sous forme d’une matinale dédiée à la transition énergétique.
+Cet évènement est organisé en partenariat avec Normandie Energies25 et permet de mettre en
+relation les entreprises du territoire normand afin de développer des projets et solutions
+d’efficacité énergétique.
+La CU CLM a enfin recensé 110 partenaires régulièrement consultés ou associés autour des
+projets de transition écologique (l’ADEME, l’Agence d’urbanisme de Caen Normandie
+Métropole (AUCAME), le Syndicat départemental d’énergies du Calvados, l’Université de
+Caen, le GIEC Normand ou ATMO Normandie).
+
+
+2.1.3.3 Un accompagnement à la rénovation énergétiques des logements
+
+La CU CLM accompagne les propriétaires occupants de leur résidence principale, les bailleurs
+et locataires dans des travaux d’amélioration énergétique (isolation, changement des fenêtres,
+ventilation, accessibilité…). Ainsi, en 2024, 175 propriétaires ont été accompagnés dans leur
+rénovation énergétique de leur logement, la CU CLM finançant 205 000 € de subventions
+dédiées se cumulant avec celles proposées par d’autres organismes. Le service a également
+assisté 61 copropriétés représentants 3 150 logements et distribué 382 000 € d’aides.
+Enfin, la CU CLM s’est engagée dans le versement de 1,65 M€ d’aides à l’office public de
+l’habitat Inolya pour la réhabilitation thermique de 29 bâtiments composés de 550 logements à
+Hérouville Saint-Clair avec pour objectif l’obtention du label BBC Effinergie rénovation.
+
+
+
+2.2 Des outils financiers mobilisés
+
+La CU CLM n’a pas arrêté de chiffrage précis du projet de territoire et de la feuille de route.
+Elle n’établit pas davantage de plan pluriannuel d’investissements spécifique à la transition
+écologique.
+En 2024, elle a néanmoins été en capacité de budgéter des dépenses concourant à la transition
+écologique d’un montant de 58 M€ en investissement (sur un montant total de 145 M€) et de
+12,5 M€ en fonctionnement (sur un montant total de 239 M€).
+La CU CLM agit sur un ensemble de leviers utiles au financement de sa démarche par :
+
+
+
+
+24
+   Changement climatique, qualité de l’air, biodiversité, énergie, mobilité, alimentation et urbanisme.
+25
+  Association qui accompagne ses membres dans la réalisation de projets de transition énergétique dans l’industrie,
+l’habitat, le tertiaire et les transports.
+
+
+
+
+                                                       16
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     • La recherche systématique de financements extérieurs. Deux chargés de mission26
+       consacrent une partie de leur activité à la recherche de financements extérieurs, ciblant
+       notamment les dispositifs en faveur de la transition écologique, en lien avec les directions
+       opérationnelles qui sont également amenées à rechercher des financements spécifiques
+       (ADEME, CITEO27 …). Au cours de la période sous-revue, la CU CLM a perçu 8,5 M€
+       de subventions (essentiellement du Fonds vert28 et DSIL29) pour environ 55 M€ de
+       dépenses d’équipements et de travaux en matière de transition écologique. Par ailleurs, la
+       Banque des Territoires accompagne la CU CLM pour le développement du réseau de
+       tramway, l’assainissement ou le réseau de chaleur urbain. À ce titre, elle a prêté près de
+       29 M€ à la CU CLM entre 2023 et 2024. Il s’agit, pour l’essentiel, de prêts sur 30 ans au
+       taux du livret A + 0,4 %.
+       La chambre observe que les demandes de subventions concernent majoritairement des
+       mesures d’atténuation et, pour l’essentiel, le déploiement des pistes cyclables sur le
+       territoire, mais note toutefois que la CU CLM a sollicité en 2025 le financement d’actions
+       de végétalisation de places de la commune de Caen, intéressant le volet adaptation
+       (0,7 M€ sollicité pour des investissements à hauteur de 1,9 M€) ;
+     • Une mobilisation du dispositif des certificats d’économie d’énergie30. La CU CLM a
+       réalisé au cours de la période contrôlée un certain nombre d’opérations (réhabilitation de
+
+
+26
+    Un agent est en charge des dispositifs contractuels avec l'État, la région Normandie et le département du
+Calvados (contrat de relance et de transition (CRTE), dotation de soutien à l’investissement local (DSIL), Fonds
+vert, contrats de territoire avec la région et le département). Un autre agent recherche et suit les financements
+européens, qu’il s’agisse des financements issus de la politique de cohésion (par exemple, le Fonds européen de
+développement régional (FEDER)) ou de programmes sectoriels/thématiques (par exemple, Horizon Europe).
+27
+   Entreprise à mission (entreprise qui intègre des objectifs sociaux et/ou environnementaux dans leurs statuts)
+spécialisée dans le recyclage des emballages et papiers, elle finance des appels à projets de collectivités en matière
+de tri, de réemploi ou de recyclage.
+28
+   Il s’agit du Fonds d’accélération de la transition écologique dans les territoires, dit Fonds vert, en vue de soutenir
+les collectivités territoriales et les EPCI dans leurs investissements pour la transition écologique à l’échelle locale.
+En 2023 et 2024, 3,6 Md€ de subventions ont été versées pour 19 000 projets générant un total de 27 Md€
+d’investissements. En 2025, le Fonds verts est reconduit avec une enveloppe d’un peu plus d’un Md€. Si les aides
+à la rénovation énergétique se poursuivent, l’adaptation au changement climatique et le recyclage des friches sont
+deux nouvelles priorités. En 2023 et 2024, ce fonds a participé à la réalisation d’aménagements cyclables sur le
+territoire de la CU CLM (4 M€).
+29
+   Le DISL permet de financer les investissements des communes et de leurs groupements dans 6 domaines dont
+l’axe 1 développement écologique des territoires, qualité du cadre de vie, rénovation énergétique et développement
+des énergies renouvelables. En Normandie, entre 2016 et 2023, 375 M€ de subventions ont été attribuées à
+2 330 projets entrainant 1,6 milliard d’investissements. Il a distribué 2,6 M€ d’aides à la CU CLM pour la
+réalisation du nouveau palais des sports, d’une station d’avitaillement biogaz ainsi que la rénovation énergétique
+de la piscine d’Hérouville Saint-Clair.
+30
+   Le dispositif des certificats d’économies d’énergie (CEE) a été créé par la loi n° 2005-781 du 13 juillet 2005 de
+programme fixant les orientations de la politique énergétique en réponse à la directive européenne sur l’efficacité
+énergétique. Il constitue l’un des principaux instruments de maîtrise des consommations d’énergie en France. Le
+dispositif repose sur l’obligation faite par l’État aux fournisseurs d’énergie (électricité, gaz, fioul, carburants, GPL,
+chaleur…), soumis à une obligation de réduction de la consommation d’énergie, de financer des actions et des
+travaux éligibles en faveur des économies d’énergie au profit de divers consommateurs (entreprises, collectivités
+territoriales, particuliers…) et de détenir une certaine quantité de CEE à l’issue de périodes de 3-4 ans sous peine
+de sanction financière. Pour atteindre leurs objectifs, les fournisseurs d’énergies sont libres du mode d’action mis
+en œuvre : actions permettant directement la réduction de leurs propres consommations d’énergie, actions
+d’efficacité énergétiques proposées à leurs clients sous forme de primes finançant tout ou partie de travaux ou
+d’accompagnements techniques à la réalisation de travaux ou encore par le rachat de certificats sur le marché des
+
+
+
+
+                                                          17
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+       la patinoire, isolation des chaufferies de bâtiments publics et passage en leds de
+       l’ensemble du parc éclairage public des zones d’activité gérées par la CU CLM) ouvrant
+       droit à l’obtention de CEE31 qu’elle a ensuite vendus pour un montant total de 259 000 €.
+       Par ailleurs, l’extension du réseau de chauffage urbain Caen nord permettra le
+       raccordement de 29 bâtiments de la commune de Caen et un bâtiment de la CU CLM au
+       réseau, générant un volume d’environ 330 GWh de CEE valorisés à hauteur de 2,7 M€.
+       Enfin, depuis 2022, les économes de flux du service commun efficacité énergétique du
+       patrimoine public accompagnent les communes adhérentes sur le dispositif CEE. À ce
+       jour, neuf communes ont bénéficié du dispositif grâce à la réalisation d’opérations
+       éligibles (isolation, remplacements de chaudières, éclairage, …), générant une recette de
+       347 000 €.
+
+
+
+2.3 Une démarche d’évaluation en voie de concrétisation
+
+
+2.3.1 Une culture de l’évaluation à renforcer
+
+Les démarches de transition écologique se prêtent à l’inscription d’une évaluation tout au long
+de leur mise en œuvre parce qu’elles reposent sur des diagnostics quantitatifs (à actualiser), sont
+construites autour de stratégies et d’un volet opérationnel (à réinterroger), produisent des effets
+à court, moyen et long terme, sont influencées par des éléments externes et mobilisent une
+diversité d’acteurs.
+La CU CLM a intégré une évaluation de son projet de territoire « Caen la mer 2030 s’imagine
+avec vous » dès son élaboration en définissant un dispositif de suivi/évaluation. Selon la
+CU CLM, il vise, d’une part, à s’assurer de la bonne déclinaison et de la prise en compte des
+principes stratégiques au sein des politiques et schémas existants, en révision ou en cours
+d’élaboration et, d’autre part, à impliquer l’ensemble des parties prenantes (communes,
+partenaires institutionnels, société civile, monde économique…).
+La méthode retenue par la CU CLM repose sur six questions évaluatives32 déclinées en critères
+évaluatifs et en indicateurs de suivi qu’elle a définis.
+De même, la CU CLM a inscrit l’évaluation de la politique de transition écologique de la
+collectivité parmi les 22 actions prioritaires de sa feuille de route « Caen la mer en transition
+2030 ». Trois sous-actions envisagent la création d’outils de suivi de la démarche, la
+construction d’un budget vert et la mesure de l’empreinte carbone des actions. Une autre action
+« Définir une stratégie d’évaluation », qui ne figurent pas parmi les actions prioritaires, prévoit
+
+
+
+CEE. Les collectivités territoriales présentent la particularité de percevoir des CEE pour les actions d’économie
+d’énergie mises en œuvre sur leur patrimoine, mais aussi par l’accompagnement des habitants sur leur territoire.
+31
+   Les CEE sont comptabilisés en kWh cumac correspondant aux économies d’énergie cumulées sur la durée de
+vie d’une opération (1 CEE = 1kWh cumuc). Les montants forfaitaires d’économies d’énergie en kWh cumuc sont
+arrêtés pour la plupart des opérations.
+32
+   S’agissant de la transition écologique, la question posée est : la mise en œuvre du projet de territoire a-t-elle
+permis un renforcement de la prise en compte des transitions environnementales en faveur d’un modèle
+d’aménagement plus durable ?
+
+
+
+
+                                                        18
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+la définition d’objectifs et d’indicateurs de transition écologique permettant d’évaluer
+l’efficacité de la démarche.
+La chambre observe toutefois, qu’avant d’envisager toute évaluation terminale de sa feuille de
+route, la CU CLM doit en piloter la mise en œuvre afin de suivre régulièrement la pertinence,
+l’efficacité et l’efficience des actions mises en œuvre.
+Ainsi, la CU CLM aurait gagné à définir les objectifs de sa feuille de route ainsi que le dispositif
+de suivi et d’évaluation dès le départ, au stade de son élaboration.
+Si l’analyse des indicateurs des 91 « sous-actions prioritaires » issues du tableau de bord produit
+par la CU CLM n’appellent aucune observation, la chambre constate, en revanche, que peu
+d’objectifs sont actuellement définis. Elle l’invite donc à définir des objectifs pour l’ensemble
+des actions de la feuille de route.
+En réponse aux observations provisoires de la chambre, la CU CLM indique que la feuille de
+route a vocation à être actualisée afin que chaque sous-action dispose en 2027 d’un objectif
+mesurable et d’un ou plusieurs indicateurs annuellement suivis. La chambre en prend note.
+
+
+Recommandation performance n°1                        : Doter la feuille de route d’objectifs
+évaluables.
+
+
+2.3.2 L’évaluation de l’investissement en faveur de la transition écologique : la mise
+      en œuvre progressive du budget vert au sein de la CU CLM
+
+L’article 191 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024 a introduit
+une nouvelle annexe au compte administratif ou au compte financier unique dite « annexe
+environnementale des collectivités locales ». Le décret du 16 juillet 2024 pris en application de
+l’article 191 de la loi de finances pour 2024 en précise les modalités d’application. Cette
+obligation concerne, dès l’exercice 2024, les collectivités territoriales et les établissements
+publics de coopération intercommunale (EPCI) de plus de 3 500 habitants.
+Inspirée du budget vert33 de l’État, la méthode consiste à passer au crible chaque dépense du
+budget principal et des budgets annexes, en prenant en compte, dans un premier temps, les
+dépenses réelles exécutées de la section d’investissement, selon six axes34. La cotation peut être
+favorable, défavorable (atteinte directe à l’environnement ou incitant à des comportements
+défavorables), neutre (dépenses sans effet significatif) ou mixte selon l’impact global sur les
+six axes.
+
+
+
+33
+   Il ne s’agit pas d’un budget à proprement parler mais d’une analyse extra-financière d’une structure qui ne se
+base pas uniquement sur les performances économiques mais sur d’autres critères tels que son comportement
+vis-à-vis de l’environnement, des valeurs sociales ou de la gouvernance. Il ne s’agit pas non plus d’un budget
+climat ou carbone qui consiste à comptabiliser l’ensemble des coûts des mesures mises en œuvre pour atteindre
+des objectifs spécifiques en matière d’atténuation, d’adaptation ou de préservation. Le budget climat permet
+simplement de quantifier le poids des politiques de transition écologique entre elles ou par rapport à d’autres
+politiques couvrant d’autres champs.
+34
+   La lutte contre le changement climatique, l’adaptation à ses effets, la gestion des ressources en eau, l’économie
+circulaire et la gestion des déchets, la lutte contre les pollutions ainsi que la préservation de la biodiversité.
+
+
+
+
+                                                        19
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+Concrètement, cet outil d’analyse constitue une aide à la décision permettant d’objectiver
+l’impact environnemental des dépenses. Il est également un instrument de suivi (de pilotage et
+de contrôle de gestion) de la mise en œuvre des politiques de transition écologique. Il est, enfin,
+un outil utile de communication et de responsabilisation des décideurs.
+Il s’agit, en fait, d’une évaluation, dès lors qu’il vise à évaluer la compatibilité des dépenses et
+des recettes d’une collectivité avec les objectifs qu’elle s’est fixés, de l’impact environnemental
+du budget utile pour améliorer la performance et orienter davantage le dépenses vers la
+transition écologique.
+L’intérêt de la CU CLM pour la mise en œuvre d’un budget vert l’a conduit à recruter un chargé
+de mission « budget vert et bilan de GES ». L’élaboration de la première annexe
+environnementale a nécessité se sensibiliser et de former environ 80 personnes au sein de
+l’ensemble des directions.
+Pour le compte financier unique (CFU) 2024, la CU CLM s’est concentrée, comme le préconise
+l’article 2 du décret du 16 juillet 2024, sur les dépenses d’investissement exécutées aux comptes
+2031 à 2317 de l’instruction budgétaire et comptable M57 qui correspondent à des dépenses
+d’études et de réalisation d’investissements.
+La CU CLM s’est inspirée de la méthode I4CE35. Elle a classé les dépenses en quatre catégories
+selon leur effet sur le climat : favorables (réduisent les émissions de GES), défavorables
+(incompatibles avec la neutralité carbone en raison de leurs émissions de GES), neutres (pas
+d’impact significatif sur la trajectoire de neutralité carbone) et non cotées (ayant un impact sur
+le climat mais non prises en compte par manque de données, d’information, de connaissances
+scientifiques précises…).
+Sur un peu plus de 50 M€ de dépenses d’investissements en 2024 traitées dans le cadre de
+l’annexe environnementale, la CU CLM a déterminé que 29 % (14,5 M€) d’entre elles sont
+favorables à l’environnement contre 18 % défavorables (8,9 M€), les autres étant qualifiées de
+dépenses neutres (51 %) ou n’ayant pu être cotées (4 %).
+Nonobstant la difficulté de l’exercice, la chambre encourage la CU CLM à affiner rapidement
+sa méthode pour :
+     • Réduire le taux de dépenses neutres trop important en l’espèce (25 M€ d’investissements
+       en 2024) ;
+     • Distinguer les dépenses favorables de celles favorables « sous condition »36 ;
+     • Préciser davantage le taux de 29 % de dépenses d’investissement favorables qui
+       apparaissent peu élevées dans un domaine que la CU CLM maîtrise37.
+Enfin, en l’état des éléments produits, la chambre recommande à la CU CLM de prolonger
+l’analyse en tirant les conséquences des résultats notamment en déterminant des solutions
+
+
+
+35
+   I4CE est l’Institut de l’économie pour le climat. Sa méthode consiste à classer les recettes et dépenses selon un
+code couleur pour déterminer celles qui sont de « très favorables » à « défavorables » pour les objectifs de
+transition écologique.
+36
+   Elles permettent une réduction des émissions de GES mais sont encore insuffisantes pour atteindre la neutralité
+carbone et constituent parfois un verrou technologique (par exemple, achat de bus fonctionnant au gaz).
+37
+    40 % des dépenses des EPCI à fiscalité propre sont considérées comme favorable à la lutte contre le
+réchauffement climatique.
+
+
+
+
+                                                        20
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+alternatives aux dépenses défavorables afin de diminuer leur poids dans les dépenses
+d’investissement.
+
+
+2.3.3 Une valorisation des coûts de l’action et de l’inaction à intégrer aux projets de
+      la CU CLM
+
+Dans le cadre de l’élaboration d’un PCAET, le code de l’environnement prescrit la prise en
+compte des coûts de l’action et de l’inaction face aux changements climatiques et à la pollution
+de l’air pour identifier les priorités et les objectifs ainsi que les conséquences
+socio-économiques de la stratégie territoriale38.
+Les coûts de l’inaction correspondent, en l’absence d’actions d’atténuation ou d’adaptation, à
+l’ensemble des effets néfastes induits au plan physique (dégâts matériels, dégradations,
+dévalorisation du bien, pertes d’usage), économique (augmentations du coût de l’énergie, effets
+sur les activités, attractivité, coût des mesures prises en urgence), environnemental
+(conséquences pour la nature) et sanitaire (impacts sur la santé)39.
+Dans une stratégie de transition écologique, le calcul des coûts de l’action et de l’inaction
+constitue un outil utile d’aide à la décision en déterminant les actions prioritaires sur un
+territoire. Concrètement, leur prise en compte permet d’analyser et d’anticiper des dépenses
+futures évitées par la non-intervention, l’intervention inadaptée ou l’intervention tardive40.
+La chambre invite la CU CLM, compte tenu de sa connaissance des risques et vulnérabilités de
+son territoire, à progresser dans l’évaluation de l’ensemble des coûts directs de ses actions et
+des coûts évités par l’absence de mesure adaptée, afin d’en démontrer la pertinence.
+Si la valorisation des coûts de l’action et de l’inaction est un outil utile d’évaluation des
+politiques publiques, elle peut aussi servir la stratégie assurantielle de la CU CLM dans un
+contexte de multiplication des événements climatiques majeurs, de difficultés à s’assurer,
+d’augmentation des primes et de diminution en parallèle de la couverture des sinistres.
+
+
+
+
+38
+   Article R. 229-51 du code de l’environnement : « La stratégie territoriale identifie les priorités et les objectifs
+de la collectivité ou de l'établissement public, ainsi que les conséquences en matière socio-économique, prenant
+notamment en compte le coût de l'action et celui d'une éventuelle inaction ».
+39
+   Rapport Stern sur l’économie du changement climatique (The Economics of Climate Change) paru en 2006, où
+l’auteur démontre les implications économiques, sociales et environnementales du changement climatique et que
+le « laisser-faire » (l’inaction) en matière climatique a un coût supérieur pour l’humanité que l’action. Il estime
+que l’inaction engendrerait une diminution de 5 % par an du produit intérieur brut.
+40
+   Par exemple, la rénovation énergétique des bâtiments a un coût. Mais la réalisation d’un programme priorisé en
+fonction des diagnostics ou bien la cession de certains bâtiments permet d’éviter des impacts plus onéreux encore :
+dégradation du parc immobilier générant des dépenses énergétiques non maîtrisées, des cessions plus difficiles, du
+coût des travaux faits dans l’urgence, d’une réduction globale de l’attractivité, des décès liés à la pollution de
+l’air…). La même valorisation peut être réalisée pour les mesures d’adaptation, par exemple en matière
+d’inondations en comparant le coût des mesures préventives des coûts de remises en état, de pertes humaines,
+économiques ou d’attractivité en cas d’inaction.
+
+
+
+
+                                                         21
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                            CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+La CU CLM structure progressivement son pilotage de la transition écologique, marquée par
+une augmentation des moyens humains et financiers. Une approche transversale en mode projet
+est instaurée, soutenue par des outils collaboratifs.
+Toutefois, le projet d’administration doit se donner davantage les moyens de conduire les
+agents à s’approprier la dimension transition écologique du projet politique de la CU CLM.
+Notamment, la sensibilisation et la formation des agents restent limitées et basées sur le
+volontariat.
+Enfin, le pilotage de la feuille de route doit s’améliorer en incluant pour chaque sous-actions
+des objectifs précis et des indicateurs de suivi.
+
+
+
+
+3 DES POLITIQUES PUBLIQUES MOBILISÉES EN FAVEUR DE
+  L’ATTÉNUATION DES EFFETS DU CHANGEMENT
+  CLIMATIQUE
+
+La CU CLM a entrepris plusieurs actions notables en faveur du volet atténuation représentant
+des engagements financiers importants, concourant à la réduction des émissions de gaz à effet
+de serre sur le territoire communautaire.
+La chambre observe néanmoins qu’une démarche permettant dès le départ de suivre les actions
+mises en œuvre et d’en évaluer les impacts fait encore globalement défaut.
+
+
+
+3.1 Une action proactive en matière de gestion des déchets41
+
+Sur le territoire de la CU CLM, la quantité de déchets ménagers et assimilés (DMA) produite
+(579 kg/hab. en 2022)42, est nettement inférieure aux moyennes départementale (732 kg/hab.),
+régionale (675 kg/hab.) et nationale (696 kg/hab.).
+La CU CLM a engagé une politique volontariste de gestion des déchets en s’appuyant sur :
+
+
+
+41
+   Les déchets ménagers et assimilés (DMA) regroupent les ordures ménagères résiduelles (part des déchets restant
+après différentes tris et finissant à l’incinération ou à l’enfouissement), les déchets d’emballage et de papiers, les
+déchets occasionnels (déchets verts, déblai set gravats, encombrants, équipements électriques et électroniques,
+cartons…) qui compte tenu de leur volume ou de leur poids ne sont pas collectés au titre des ordures ménagères et
+les déchets dangereux pour l’environnement ou la santé (peintures, solvants, colles…) collectés en déchèteries,
+produits par les ménages, les entreprises et les administrations.
+42
+   Source : observatoire des déchets de Normandie. Selon les rapports annuels de la CU CLM sur le prix et la
+qualité du service public de prévention et de gestion des déchets ménagers et assimilés, la qualité de DMA produite
+a été de 616 kg/hab. en 2019 et de 573 kg/hab. en 2023.
+
+
+
+
+                                                         22
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     • Des actions de sensibilisation et d’accompagnement des changements de comportement
+       (environ 200 opérations en 2023) parmi lesquelles 75 animations en lien avec les déchets
+       en milieu scolaire ;
+     • Une large information des usagers et l’accès à des mémos, calendriers ou guides
+       régulièrement actualisés et leur responsabilisation en multipliant le recours à des points
+       d’apport volontaire de collecte (55 nouveaux points d’apports volontaires installés en
+       2024, 156 points d’apport au total) ;
+     • Des collectes spécifiques pour intensifier le tri (encombrants, déchets verts ou déchets
+       électriques et électroniques) ;
+     • La distribution gratuite de composteurs individuels (30 300 entre 2005 et 2024 dont 4 217
+       pour cette seule année) et l’installation de composteurs en pied d’immeubles (79 sites
+       installés depuis 2011) ;
+     • Cinq locaux de réemploi permettant d’y déposer des objets inutilisés en bon état
+       (40 tonnes d’objets récupérés en 2023).
+La chambre observe que ces mesures vont dans les sens d’une réduction des ordures dites
+ménagères qui composaient encore 56 % des DMA en 2023 et d’une meilleure valorisation des
+déchets compostables qui représentaient encore 21 % de la composition des poubelles en 2022.
+Toutefois, malgré les efforts entrepris par la CU CLM, l’évolution de la quantité de DMA
+produite par habitant ne lui permet pas encore d’atteindre la réduction cible fixée au niveau
+national pour 2030 qui est de 15 % par rapport à 201043. En effet, selon le rapport annuel 2023
+sur le prix et la qualité du service public de prévention et de gestion des DMA, entre 2010 et
+2023, la baisse n’est que de 0,5 %.
+En 2022, le coût aidé44 du service de gestion des déchets a représenté 125 € HT par habitant
+contre 116 € HT en moyenne au niveau national. Il a représenté 131 € HT en 2023 en
+augmentation de 4,8 % essentiellement du fait de la progression des coûts de la collecte et de
+la pré-collecte de 8 %. Si les coûts de collecte et de pré-collecte représentent en général 43 %
+des charges globales45, ils ont représenté pour la CU CLM 54 % en 2022 et 58,5 % en 2023.
+À contrario, les charges de transport et de traitement qui totalisent, selon l’ADEME, en général
+49 % des charges totales, n’ont représenté que 38 % et 33,5 % pour la CU CLM.
+En 2022, les produits ont été constitués pour 47,4 % de produits industriels (au même niveau
+que la moyenne nationale), 52 % de soutiens (6 points supérieur à la moyenne nationale), mais
+uniquement 0,6 % d’aides, très en deçà de la moyenne nationale qui se situe à 7 %. De sorte
+que le taux de couverture des charges par les produits est de 19 %, soit un niveau inférieur au
+taux médian de 23 %.
+La démarche de la CU CLM est conforme aux obligations réglementaires. Toutefois, la
+chambre l’invite à analyser les déterminants des coûts de collecte et de pré-collecte en vue de
+les maîtriser davantage.
+
+
+
+
+43
+   Article L. 541-1 1° du code de l’environnement.
+44
+   Il s’agit des charges HT auxquelles sont soustraits les recettes industrielles, les soutiens reversés par
+éco-organismes qui collectent les contributions des « pollueurs » et les subventions reçues.
+45
+   ADEME, Référentiel des coûts du service public de gestion des déchets en France métropolitaine, données 2022.
+
+
+
+
+                                                      23
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+3.2 L’affirmation d’une politique de mobilité dans un contexte de forte
+    dépendance à la voiture individuelle
+
+Le projet de la CU CLM souligne que la diversité de son territoire, à la fois urbain et rural, ainsi
+que le phénomène d’étalement urbain entraînent une augmentation du trafic routier, avec une
+forte utilisation de la voiture (30 % des ménages possèdent deux voitures et moins de 30 % n’en
+possèdent aucune). La conséquence est que la circulation routière représente près de 45 % de
+l’émission de GES sur ce territoire, contre 30 % au niveau national.
+De même, un tiers des actifs occupant un emploi sur le territoire de la CU CLM n’y réside pas.
+La qualité du maillage routier facilite grandement les déplacements et l’importante capacité de
+stationnement à Caen (6 900 places) encourage l’utilisation de la voiture au détriment des
+transports collectifs. Seuls 10,6 % des actifs déclarent aller travailler en transports collectifs
+contre 66 % en voiture.
+Sa politique en matière de mobilité est notamment axée sur un fort accompagnement du report
+modal46. Le volet mobilité du projet de PLUi-HM vise en effet un report modal de la voiture
+(27 % de l’ensemble des déplacements en 2040 contre 42 % en 2022) vers les transports
+collectifs (14 % en 2040 contre 9 % en 2022), le vélo (10 % contre 3 % actuellement) et la
+marche à pied (36 % contre 32 % actuellement).
+Actuellement, le territoire s’appuie sur :
+     • Un réseau de transports collectifs de 12,5 millions de kilomètres et 1 500 points d’arrêt.
+       Il dispose d’un nouveau tramway depuis 2019 et d’un transport à la demande dans les
+       secteurs moins denses. Un projet de création d’une ligne est-ouest du tram est en cours
+       de conception ;
+     • 15 aires de covoiturage ;
+     • Un service de voitures en autopartage à la location, disponibles dans 17 stations réparties
+       essentiellement entre Caen, Hérouville Saint-Clair, Ouistreham et Fleury-sur-Orne ;
+     • L’aménagement de pistes cyclables. En 2022 et 2023, elle a transformé environ
+       28 kilomètres de chemins ruraux en pistes cyclables. Elle projette d’aménager 150 km
+       supplémentaires d’ici à 2030 (passage de 550 à 700 km) et a consacré 5 M€ à
+       l’aménagement cyclable en 2024 (20 km d’aménagements cyclables réalisés) ;
+     • Des services vélos tels que les locations courtes et longues durées, des stationnements
+       sécurisés (parcs à vélos, arceaux notamment dans les parkings souterrains) ou de la
+       location d’abris à vélos (377 abonnés à VéloPark en 2024) ;
+     • La mise en œuvre depuis le 1er janvier 2025, d’une zone à faibles émissions (ZFE), créée
+       pour une durée de 5 ans dans un périmètre couvrant onze communes dont Caen et au
+       moins 50 % de la population de l’aire urbaine. Le périmètre est ouvert aux véhicules
+
+
+
+
+46
+  Le report modal désigne le report d’une partie du flux d’un mode de transport vers un autre (route vers le rail ou
+automobile vers le bus) afin d’améliorer la performance du réseau. Par exemple, l’incitation du report modal de la
+voiture vers les transports en commun permet la fluidité de la circulation, la réduction des émissions de GES mais
+assure aussi la rentabilité des investissements liés au développement des transports en commun.
+
+
+
+
+                                                        24
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        routiers47 classés entre 0 et 548. 2 000 véhicules ont été recensés sur le territoire de la
+        CU CLM comme n’entrant plus dans le champ du classement. La CU CLM a exclu
+        certains axes routiers de la ZFE aux fins de permettre l’accès aux aires de covoiturage et
+        aux parkings relais, puis aux transports en commun ;
+     • L’accompagnement des entreprises dans la définition et du déploiement de leurs plans de
+       mobilité visant à sortir de l’emploi exclusif de la voiture et à rationaliser les déplacements
+       des salariés (télétravail, covoiturage, transports en commun…). Tous les ans depuis 2017,
+       la CU CLM accompagne environ 120 entreprises et structures du territoire dans
+       l’élaboration de leur plan de mobilité.
+
+
+
+3.3 Le développement d’un important réseau de chauffage urbain
+
+La loi n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte
+(LTECV) prescrit la multiplication par cinq de la production livrée par les réseaux de chaleur
+et de froid à l’horizon 2030. Le SDE de la CU CLM identifie un potentiel de livraison de chaleur
+de 300 GWh/an issue des énergies renouvelables ou de récupération. Le projet de PLUI-HM de
+la CU CLM prévoit, dans son règlement écrit (dispositions communes applicable à toutes les
+zones), pour tout programme de construction, desservi par un réseau de chaleur de source
+renouvelable, un raccordement obligatoire à ce réseau de chaleur lorsque l’opération est
+techniquement et économiquement envisageable.
+
+
+
+
+47
+  Deux roues, trois roues, voitures, utilitaires, poids lourds, bus et autocars.
+48
+   Les véhicules sont classés de 0 à 5. Crit’Air 0 concerne les véhicules électriques et hydrogène, Crit’Air 1
+intéresse les véhicules immatriculés après 2011 ainsi que les hybrides rechargeables, Crit’Air 2 inclut les véhicules
+essence immatriculés entre 2006 et 2010 ainsi que les diesels immatriculés après 2011, Crit’Air 3 concerne les
+véhicules immatriculés entre 1997 et 2005 ainsi que les diesels entre 2006 et 2010 et Crit’Air 4 et 5 englobe les
+véhicules diesels immatriculés avant 2006.
+
+
+
+
+                                                        25
+                                                   COMMUNAUTÉ URBAINE CAEN LA MER
+                        CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+   Carte n° 1 : Deux réseaux de chaleurs publics (en violet) et plusieurs réseaux privés (en rouge)
+
+
+
+
+       Source : Schéma directeur d’énergie de la CU Caen la mer
+
+
+Le réseau de chaleur urbain de la CU CLM participe au volet atténuation de sa stratégie en :
+  • Renforçant le réseau afin de créer 68,9 km de réseau supplémentaires et en procédant au
+    remplacement de 18,7 km de réseau ancien d’ici 2030, pour constituer à termes un vaste
+    réseau de 100 km et desservir près de 40 000 logements ;
+  • Intégrant au réseau public un ensemble de réseaux privés actuellement alimentés au gaz
+    et impactant fortement les émissions de GES ;
+  • Raccordant systématiquement au réseau les bâtiments publics (à l’exclusion de ceux pour
+    lesquels il n’existe pas d’intérêt économique avéré), six bâtiments de la CU CLM et 19 de
+    la commune de Caen étant désormais raccordés, outre le centre hospitalier universitaire
+    de Caen et 10 500 foyers de la commune d’Hérouville-Saint-Clair ;
+  • Conduisant des études dans douze communes de la CU CLM pour le déploiement de
+    réseaux de chaleur ;
+  • Employant à termes pour son alimentation, 100 % d’énergies renouvelables et de
+    récupération réparties entre la biomasse et la valorisation des déchets, la CU CLM
+    espérant ainsi éviter l’émission de 87 000 tonnes de CO2 par an ;
+  • Contrôlant le rendement du réseau adapté aux caractéristiques techniques de chaque
+    tronçon, en faisant le choix d’une isolation de classe 2 du réseau (rendement moyen attenu
+    à hauteur de 93,1 %) ou en employant un dispositif d’informatisation du réseau ainsi que
+    des détecteurs de fuite d’eau du réseau permettant d’en suivre la performance.
+Actuellement, la production de chaleur par le réseau public, exclusivement au bois, est répartie
+entre une chaufferie de quartier (la Grâce de Dieu) qui produit environ 39 GWh/an et alimente,
+notamment, 2 700 logements, sept établissements scolaires et une piscine, 20 chaufferies
+
+
+
+                                                  26
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+collectives produisant 13,5 GWh/an et alimentant entre autres des copropriétés, des groupes et
+établissements scolaires, une bibliothèque et des entreprises ainsi qu’une unité de valorisation
+énergétique qui valorise 120 000 tonnes de déchets ménagers, industriels et de santé par an.
+À terme, le réseau devrait produire 375 GWh/an nécessitant la réalisation de trois nouvelles
+chaufferies. Le coût de l’investissement est estimé à 246 M€. La chambre observe que cette
+production permettrait d’atteindre plus que largement les objectifs de la LTECV (38 % en
+2030).
+En termes d’abonnés, la chambre note que sur le réseau Nord, les objectifs de puissances
+souscrites (59 MW) ne sont pas atteints, la CU CLM l’expliquant par le report du raccordement
+d’un abonné en 2028. En l’état, il existe un écart de 9 MW. Néanmoins, pour le réseau sud, la
+puissance souscrite était de 34,3 MW en 2024, l’objectif étant atteint (32,8 MW).
+Par ailleurs, l’article L. 2224-38 du CGCT prescrit la réalisation d’un schéma directeur du
+réseau de chaleur ou de froid dans un délai de cinq ans après la mise en service du réseau et
+avant le 31 décembre 2021 lorsque le réseau a été mis en service en le 1er janvier 2009 et le
+31 décembre 2019. Toutefois, la chambre observe que ce schéma n’a pas été établi, la CU CLM
+se reposant uniquement sur son SDE comportant des éléments d’identification et de
+développement du réseau de chaleur. Ce schéma serait pour la CU CLM un outil utile pour faire
+évoluer son réseau et organiser la mesure et le suivi de son efficacité.
+
+
+
+3.4 Un important programme d’amélioration de l’éclairage public des zones
+    d’activités achevé en 2023
+
+L’arrêté du 27 décembre 2018 relatif à la prévention, à la réduction et à la limitation des
+nuisances lumineuses pose des règles destinées à la protection du ciel nocturne et de la
+biodiversité. Ces prescriptions permettent également de générer des économies d’énergie.
+En matière d’éclairage public, la CU CLM a une compétence directe sur les zones d’activités
+(ZA). Le SDE de la CU CLM envisageait deux mesures pour réduire les consommations
+énergétiques de son parc : une rénovation par le passage en leds de 35 000 points lumineux et
+une extinction nocturne de 10 % du parc dans les communes les plus rurales.
+Le programme de rénovation s’est achevé en 2023 avec un fonctionnement 100 % leds. De
+même, l’extinction de l’éclairage des ZA s’est généralisée à l’initiative des maires des
+communes concernées entre 22 h et 8 h du matin sur une plage de 5 à 8h.
+À la suite des études réalisées pour chaque ZA, un gain prévisionnel de 50 % minimum était
+attendu. La performance du dispositif a été appréciée à partir des factures de consommation
+d’électricité des ZA pour la période 2020-2024. Elles montrent des diminutions des
+consommations d’environ 68 % et des dépenses de l’ordre de 50 %.
+La chambre observe que cette action a produit des résultats. Les impacts en termes de
+consommation et de dépenses sont également à rapprocher des coûts des études préalables et
+de remplacement des lampes à décharges. Il serait utile de suivre le rapport entre le coût des
+études et investissements réalisés et les économies réalisées sur la durée de vie des leds (entre
+35 000 et 50 000 heures), pour mesurer la rentabilité de ce programme, par ailleurs considéré
+par la CU CLM comme utile à la préservation de la biodiversité.
+
+
+
+
+                                               27
+                                                  COMMUNAUTÉ URBAINE CAEN LA MER
+                       CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+La CU CLM a déployé des actions significatives sur son territoire présentant des résultats
+encourageants.
+Par exemple, la rénovation complète du parc d’éclairage des zones d’activités en leds, associée
+à l’extinction nocturne a permis une réduction de 68 % de la consommation électrique.
+Dans le même sens, la production à terme du réseau de chaleur urbain permettra à la CU CLM
+d’atteindre plus que largement les objectifs prescrits par la loi.
+Toutefois, si la production de déchets ménagers et assimilés est sur le territoire de la CU CLM
+inférieure aux moyennes départementales et nationales, le coût par habitant est supérieur à la
+moyenne nationale, principalement dû à une part élevée des coûts de collecte et pré-collecte.
+Ce constat doit conduire la CU CLM à analyser les déterminants de ces coûts pour mieux les
+maîtriser.
+Enfin, face à une forte dépendance à la voiture individuelle, la politique de la CU CLM vise un
+report modal vers les transports collectifs, le vélo et la marche. Des infrastructures et outils
+sont développées en ce sens (tramway, pistes cyclables, ZFE).
+Néanmoins, le faible taux d’utilisation des transports en commun demeure une préoccupation
+et un enjeu de progrès pour la CU CLM.
+
+
+
+
+4 DES ACTIONS D’ATTÉNUATION À RENFORCER POUR SES
+  PROPRES ACTIVITÉS
+
+
+4.1 Une connaissance de l’empreinte carbone de ses activités à améliorer
+
+Aux termes des dispositions de l’article L. 229-25 du code de l’environnement, sont tenus
+d’établir un bilan des émissions de gaz à effet de serre (BEGES) : « 3° (…) les communautés
+urbaines (…) ainsi que les autres personnes morales de droit public employant plus de deux
+cent cinquante personnes. Les personnes mentionnées au (…) 3° joignent à ce bilan un plan de
+transition pour réduire leurs émissions de gaz à effet de serre présentant les objectifs, moyens
+et actions envisagés à cette fin et, le cas échéant, les actions mises en œuvre lors du précédent
+bilan. Ce bilan d'émissions de gaz à effet de serre et ce plan de transition sont rendus publics.
+Ils sont mis à jour (…) tous les trois ans pour les personnes mentionnées au 3°. (…) Les bilans
+des émissions de gaz à effet de serre des personnes mentionnées au 3° portent sur leur
+patrimoine et sur leurs compétences ».
+Dans le cadre de l’élaboration d’un Agenda 21, la CU CLM a fait réaliser un bilan carbone,
+approuvé le 30 mars 2012 par le conseil communautaire, portant sur les émissions produites en
+2010 (année de référence). L’article L. 229-25 du code de l’environnement alors en vigueur
+prévoyait son établissement avant le 31 décembre 2012.
+
+
+
+
+                                               28
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+D’un point de vue méthodologique, le bilan porte sur « le patrimoine et les services » de la
+CU CLM en comptabilisant les émissions directes (chauffage, électricité, gaz…) et indirectes
+de la collectivité (déplacements domicile-travail des agents, collecte des déchets…).
+Il avait également fait le choix de mesurer les émissions de GES produites sur le territoire49.
+Le BEGES s’élevait à 1,6 M teqCO250, les secteurs de l’alimentation, du résidentiel, du tertiaire
+et des déplacements de personnes/transport de marchandise représentant 80 % des émissions
+totales. Le rapport est accompagné de 17 propositions d’actions pour réduire les émissions de
+GES de ces secteurs, reprises dans l’Agenda 21 de la CU CLM. Il posait une ambition de
+réduction des émissions de GES de 193 000 teqCO2 à l’horizon 2030.
+Le BEGES des activités de la CU CLM s’élevait à 36 592 teqCO2, le poste « traitement des
+déchets »51 comptabilisant à lui seul 69 % émissions totales de GES et le second poste résultant
+des consommations énergétiques des bâtiments (15 %)52.
+Un second bilan carbone a été réalisé en 2023 (année de référence 2018) dans le cadre de
+l’élaboration du PCAET par Caen Normandie métropole. Toutefois, la méthode employée est
+différente, ce bilan portant sur les émissions constatées dans le territoire et les secteurs
+d’activités (agriculture, déchets, transports, industrie, résidentiel…) et non sur les émissions
+générées par le patrimoine et les compétences mises en œuvre par la CU CLM. Le diagnostic
+du PCAET fait état d’émissions de GES d’un peu plus de 2 M teqCO2 en 2018 à l’échelle de
+Caen Normandie métropole contre 1,6 évalués en 2010 dans le cadre de l’élaboration d’un
+agenda 21 par la communauté urbaine. Toutefois, les éléments produits ne permettent d’isoler
+les seules émissions de la CU CLM pour les comparer avec le bilan réalisé en 2012.
+En conséquence, l’absence de bilan actualisé des émissions de GES ne permet pas à la CU CLM
+d’évaluer sa progression et d’ajuster sa trajectoire. La chambre rappelle également qu’elle est
+tenue de l’actualiser tous les 3 ans. En conséquence, elle recommande à la CU CLM d’établir
+régulièrement un BEGES.
+En réponse aux observations de la chambre, la CU CLM indique que la réalisation du BEGES
+de l’année 2025 est prévue en 2026. La chambre en prend note.
+
+
+
+
+49
+   Le dioxyde de carbone (CO2), le méthane (CH4), le protoxyde d’azote (N2O), l’hexafluorure de soufre (SF 6),
+les hydrocarbures perfluorés (PFC) et les hydrofluorocarbures (HFC).
+50
+   teqCO2 = tonne équivalent CO2. Le CO2 n’est pas le seul gaz qui augmente l’effet de serre, même s’il est le
+principal (deux tiers des émissions de GES provoquées par l’activité humaine), et n’a pas le même impact dans le
+temps que le CH4 ou le SF6. Pour calculer en teqCO2, il faut donc tenir compte du potentiel de réchauffement
+provoquée par chaque gaz dans le temps. Ainsi, sur 100 ans, une tonne de méthane équivaut à 28 teqCO2 ou une
+tonne de protoxyde d’azote équivaut à 265 teqCO2.
+51
+   En 2010, la CU CLM a collecté 125 170 tonnes de déchets ménagers et assimilés, l’incinération de ces déchets
+intéressant environ 50 % du volume total et leur valorisation 33 %. L’incinération a été en 2010 à l’origine de
+88 % des émissions de GES émises. Cependant, la valorisation des déchets a permis d’éviter 33 672 teqCO2
+d’émissions de GES. La collecte des déchets représentait 8 % des émissions de GES, l’emploi de véhicules roulant
+au gaz naturel pour véhicules (GNV) n’ayant aucun impact sur les émissions de GES, bien que réduisant
+considérablement les émissions de particules fines.
+52
+   En 2010, la CU CLM a émis 5 353 teqCO2 liées aux consommations énergétiques de ses bâtiments pour le
+chauffage, l’éclairage, les usages spécifiques tels que l’informatique et la production d’eau chaude. Le bilan a
+estimé à 35 000 MWh les consommations de l’année de référence réparties entre le gaz (41 %) et l’électricité
+(54 %). Les consommations de gaz représentaient 74 % des émissions de GES. Les équipements sportifs
+apparaissaient comme les plus gros consommateurs de gaz naturel et de climatisation.
+
+
+
+
+                                                      29
+                                                     COMMUNAUTÉ URBAINE CAEN LA MER
+                          CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+                                           : Établir le bilan des émissions de gaz à effet
+de serre conformément aux dispositions de l’article L. 229-25 du code de l’environnement.
+
+
+
+4.2 Le contrôle et la réduction des consommations énergétiques des
+    bâtiments publics
+
+Les articles L. 174-1 et R. 174-22 à R. 174-25 du code de la construction et de l’habitation,
+issus du décret tertiaire, prescrivent aux collectivités de réduire la consommation d’énergie de
+leurs bâtiments à usage tertiaire d’une surface plancher supérieure ou égale à 1 000 m², y
+compris les bâtiments à usage mixte dès lors qu’ils hébergent des activités tertiaires sur une
+surface égale ou supérieure à 1 000 m² et les ensembles bâtimentaires situés sur une même unité
+foncière ou un même site dès qu’ils hébergent des activités tertiaires sur une surface égale ou
+supérieure à 1 000 m².
+Les actions d’économies d’énergie doivent permettre d’atteindre une réduction de la
+consommation d’énergie finale pour l’ensemble des bâtiments concernés, soit en valeur
+relative, d’au moins 40 % en 2030, 50 % en 2040 et 60 % en 2050 par rapport à une année de
+consommation53 qui ne peut être antérieure à 2010, soit en valeur absolue, par un seuil exprimé
+en kWh/m²/an en fonction de la consommation énergétique des bâtiments nouveaux de la même
+catégorie d’activité.
+Actuellement, si le patrimoine bâtimentaire de la CU CLM a fait l’objet d’un inventaire, aucun
+diagnostic généralisé n’a été envisagé afin d’en entreprendre la rénovation énergétique.
+La CU CLM ne s’est donc pas doté d’un plan de rénovation pluriannuel de son patrimoine bâti.
+Le SDE de la CU CLM indique pourtant la nécessité de rénover 75 % du parc tertiaire à un
+niveau bâtiment basse consommation (BBC) d’ici 2050 pour atteindre l’objectif de réduction
+des consommations à l’échelle de son territoire. Afin de disposer d’une vision prospective plus
+précise, la CU CLM prévoit de s’appuyer sur un schéma directeur immobilier et énergique
+(SDIE). La chambre lui recommande de l’élaborer rapidement.
+En réponse aux observations provisoires de la chambre, la CU CLM expose que l’élaboration
+d’un SDIE commun à la CU CLM et à la commune de Caen est en cours depuis 2018. Il s’est
+heurté à certaines difficultés techniques mais des premiers diagnostics ont été réalisés sur les
+patrimoines scolaires et sportifs en 2022 et 2024 ainsi qu’un travail de fiabilisation des données
+de consommation énergétique. La chambre en prend note.
+Par ailleurs, en application des articles L. 174-1 et R. 174-27 à R. 174-30 du code de la
+construction et de l’habitation, les propriétaires, bailleurs ou occupants de locaux tertiaires sont
+tenus de déclarer leurs consommations énergétiques sur la plateforme de l’Observatoire de la
+performance énergétique, de la rénovation et des actions du tertiaire (OPERAT).
+
+
+
+53
+  Cette consommation est ajustée des variations climatiques. Les objectifs de réduction de la consommation
+énergétique peuvent être modulés en fonction des contraintes techniques, architecturales ou patrimoniales ou des
+coûts manifestement disproportionnés des actions par rapport aux avantages attendus sur les consommations
+d’énergie.
+
+
+
+
+                                                      30
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+À ce jour, la CU CLM n’a pas encore achevé la déclaration des consommations énergétiques
+de tous les locaux tertiaires concernés.
+En conséquence, la chambre constate que la CU CLM ne connaît pas précisément l’état des
+consommations de ses bâtiments qui ont une surface d’activité tertiaire, ou un cumul de
+surfaces, supérieure à 1 000 m² et ne peut situer son niveau de consommation par rapport aux
+objectifs de réduction des consommations d’énergie (à court terme - 40 % en 2030). La chambre
+lui recommande d’intégrer rapidement l’ensemble des données sur OPERAT afin de se situer
+et d’ajuster utilement ses objectifs et actions de réduction de consommation d’énergie.
+En réponse aux observations provisoires de la chambre, la CU CLM indique que les
+consommations seront progressivement saisies sur la plateforme OPERAT au premier semestre
+2026 (années 2022, 2023 et 2024) et à partir du mois de septembre pour les consommations
+2025. La chambre en prend note.
+
+
+Recommandation performance n°2               : Élaborer un schéma directeur immobilier et
+énergétique.
+
+
+
+                                             : Compléter l’ensemble des données sur la
+plateforme de l’Observatoire de la performance énergétique, de la rénovation et des actions
+du tertiaire conformément aux articles R. 174-27 à R. 174-30 du code de la construction
+et de l’habitation afin de connaître sa situation précise au regard de l’objectif de réduction
+des consommations d’énergie.
+
+
+
+4.3 Le suivi des consommations de fluides et le développement des ENR
+
+
+4.3.1 Un suivi effectif et ancien des consommations de fluides
+
+Le parc de la CU CLM représente près de 1 000 branchements de fluides (gaz, électricité,
+réseau de chaleur, eau, …).
+La CU CLM dispose d’un service « Gestion technique centralisée », mutualisé avec la
+commune de Caen. Ce service met en place et exploite des systèmes de gestion technique de
+bâtiments (GTB) depuis plusieurs décennies. Cette GTB permet d’exploiter à distance les
+systèmes de chauffage, de ventilation et d’éclairage présents dans les bâtiments. Elle assure, en
+conséquence, une optimisation des consommations énergétiques.
+Si la CU CLM ne connaît pas la consommation pour chaque bâtiment de plus de 1 000 m2 et
+pour chaque fluide, elle suit globalement les consommations de chaque fluide pour l’ensemble
+de son parc immobilier. Cela lui permet d’obtenir une vision globale des consommations et des
+dépenses d’énergie à l’échelle du parc à partir du traitement des factures qu’elle peut affiner
+par point de livraison énergétique. Son objectif est une meilleure maîtrise des consommations
+et, à termes, des émissions de GES.
+
+
+
+
+                                               31
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+                          Tableau n° 1 : Consommations de fluides de la CU CLM
+
+                                2022               2023               2024              Évolution 24-22
+
+                                                   Electricité
+  Consommations (KWh)        11 386 054 kWh     10 928 400 kWh     10 844 193 kWh                - 4,8 %
+                  Coût           1 508 105 €        2 223 985 €       3 089 008 €               + 100 %
+          Coût unitaire                0,13 €              0,2 €               0,28 €
+                                                        Gaz
+  Consommations (KWh)        11 720 103 kWh     14 618 606 kWh     12 267 767 kWh               + 4,7 %
+                  Coût            604 680 €         1 434 418 €       1 509 792 €               + 150 %
+          Coût unitaire                0,05 €              0,1 €               0,12 €
+                                                        Eau
+     Consommations (L)            303 482 L          294 928 L             266 148 L            - 12,3 %
+                  Coût            852 873 €            841 345 €           731 722 €            - 14,2 %
+          Coût unitaire                2,81 €             2,85 €               2,75 €
+                                                   Carburants
+     Consommations (L)            324 885 L          295 245 L             282 074 L            - 13,2 %
+                  Coût            513 723 €            429 353 €           385 375 €             - 25 %
+          Coût unitaire                1,58 €             1,45 €               1,37 €
+            Coût total           3 479 381 €        4 929 101 €           5 715 897 €            + 64 %
+
+Source : Chambre régionale des comptes Normandie d’après données CU CLM
+
+
+À l’image de nombreux EPCI et collectivités territoriales, si la CU CLM a atteint un certain
+niveau de maitrise de ses consommations d’électricité, d’eau et de carburants. La facture totale
+des fluides (électricité, gaz, eau et carburants) s’est néanmoins alourdie de 64 % en
+trois exercices en raison d’une hausse structurelle des coûts de l’énergie.
+La chambre souligne que les principaux progrès résulteront désormais de la gestion énergétique
+des bâtiments (rénovations, cessions, constructions aux normes BBC…), mais aussi de la
+capacité de la CU CLM à développer davantage les installations produisant des énergies
+renouvelables.
+
+
+4.3.2 Le développement des énergies renouvelables ou de récupération
+
+L’ensemble des documents réglementaires applicables sur le territoire de la CU CLM incite
+largement au déploiement des énergies renouvelables ou de récupération (EnR). Ainsi, le
+programme d’actions du PCAET arrête 11 actions visant au déploiement des EnR sur le
+
+
+
+
+                                                  32
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+territoire métropolitain : intégrer davantage d’EnR dans les réseaux de chaleur, développer la
+captation de l’énergie thermique54 ou augmenter la consommation de bois énergie55.
+Dans le cadre de son SDE, la CU CLM a pour objectif de couvrir 45 % des besoins énergétiques
+du territoire par la production d’EnR d’ici 2050. La production d’EnR locales est également
+l’une des priorités de la feuille de route de la CU CLM.
+Pour ses besoins en gaz et en électricité, la CU CLM a opté, dans un premier temps, pour l’achat
+d’électricité 100 % renouvelable pour ses bâtiments avant de faire le choix de réaliser ses
+propres installations de production d’électricité renouvelable.
+Ainsi, la CU CLM dispose d’une installation photovoltaïque de 250 KW (1 200 m² de
+panneaux) sur le toit du palais des sports. Cette installation, d’un coût de l’ordre de 275 000 €,
+produit environ 235 000 KWh /an, totalement autoconsommés par le palais des sports, le stade
+nautique, la patinoire et le conservatoire.
+Elle projette également de réaliser une installation photovoltaïque d’une capacité d’environ
+1MW à la station d’épuration du Nouveau Monde à Hérouville-Saint-Clair pour un coût estimé
+à 1,2 M€. Cette installation permettrait de couvrir environ 10 % des besoins de la station
+d’épuration.
+Si, en 2025, aucun projet d’installation de panneaux photovoltaïques n’a été engagé par la
+CU CLM, elle indique qu’elle étudie l’opportunité de développer des installations
+photovoltaïques lors de chaque projet de construction neuve ou de réhabilitation.
+Par ailleurs, à la suite de l’agrandissement de la station d’épuration (coût 32 M€), une unité de
+méthanisation a été créée sur le site. Le projet a bénéficié de 13,3 M€ de subventions dont
+12,5 M€ de l’Agence de l’eau. L’unité produit l’équivalent de 20 GWh de biogaz (équivalent
+de la consommation de 40 bus ou de 1 500 habitations) par an qui sont injectés dans le réseau
+de distribution de gaz de l’opérateur historique. La CU CLM estime que la revente du gaz à
+GRDF (2 M€ par an) devrait couvrir davantage que les nouveaux coûts de fonctionnement
+induits par les travaux d’agrandissement de la station (passage de la capacité de traitement de
+332 000 à 415 000 EH56). Elle estime également que la production de biogaz réduit l’empreinte
+carbone du site de 4 500 tonnes de CO2.
+
+
+
+4.4 La gestion des déplacements
+
+
+4.4.1 Un lent verdissement du parc de véhicules légers et utilitaires légers
+
+Aux termes des dispositions des articles L. 224-7 et suivants du code de l’environnement, les
+collectivités territoriales, leurs groupements et les établissements publics qui gèrent directement
+
+
+54
+   Il s’agit de récupérer la chaleur fatale c’est-à-dire l’énergie thermique libérée et perdue lors d’un processus
+industriel ou lors du fonctionnement de certains équipements.
+55
+   Il s’agit de l’utilisation du bois à des fins énergétiques pour produire de la chaleur ou de l’électricité après
+transformation en plaquette forestière (broyages des morceaux de bois sans valeur économique ou des branches)
+ou en granulé (compactage des sciures de bois).
+56
+   Équivalent habitant.
+
+
+
+
+                                                        33
+                                                       COMMUNAUTÉ URBAINE CAEN LA MER
+                            CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+ou indirectement un parc de plus de 20 véhicules automobiles, dont le poids total en charge est
+inférieur à 3,5 tonnes, lors du renouvellement annuel de leur parc, doivent acquérir ou utiliser
+des véhicules à faibles émissions (VFE)57 à hauteur de 30 % jusqu’au 31 décembre 2024, 40 %
+du 1er janvier 2025 au 31 décembre 2029 et 70 % à compter de 1er janvier 2030 et à très faibles
+émissions (VTFE)58 à hauteur de 37,4 % du 1er janvier 2026 au 31 décembre 2029 et 40 % à
+compter du 1er janvier 2030.
+Autrement dit, jusqu’à la fin 2024, au moins 30 % des véhicules de moins de 3,5 tonnes
+renouvelées au sein des parcs automobiles des collectivités territoriales devaient être des VFE
+et depuis le 1er janvier 2025, cette part minimale est désormais de 40 %. De même, à partir du
+1er janvier 2026, le renouvellement annuel des véhicules devra comporter une part de VTFE
+d’au moins 37,4 %.
+En 2024, le parc de véhicules légers de la CU CLM était constitué de 539 véhicules dont
+125 véhicules particuliers. Ce parc est composé de véhicules acquis à partir des années 2000,
+124 ayant au moins 15 ans et plus. La moyenne d’âge du parc automobile est de 9,5 ans.
+Au cours de la période sous-revue, la CU CLM a fait l’acquisition de 129 véhicules légers
+consommant essentiellement de l’énergie fossile (82 %). Afin de respecter la norme de 30 %,
+elle aurait dû mettre en circulation au moins 39 VFE (au lieu de 23). La CU CLM n’a respecté
+cette norme qu’en 2021 avec l’acquisition de huit véhicules électriques.
+La chambre observe néanmoins que la CU CLM possède actuellement dans son parc
+automobile de moins de 3,5 tonnes 53 VTFE (10 % de son parc) fonctionnant à l’électricité
+dont 35 ont été acquis à partir de 2019.
+En l’état l’obligation n’est pas respectée. En conséquence, la chambre invite la CU CLM à
+poursuivre ses efforts de verdissement de son parc automobile, notamment des véhicules
+particuliers, afin de se conformer à partir de 2026 à la double obligation, lors du renouvellement
+annuel du parc, de 40 % au moins de VFE et de 37,4 % au moins de VTFE.
+
+
+4.4.2 Une décarbonisation du parc d’autobus en cours
+
+Selon l’article L. 224-8-2 du code de l’environnement, la proportion minimale d'autobus ou
+d'autocars à faibles émissions qui sont acquis ou utilisés par les collectivités territoriales et leurs
+groupements ainsi que pour leurs établissements publics, lorsqu'ils gèrent directement ou
+indirectement un parc de plus de vingt autobus et autocars pour assurer des services de transport
+public de personnes réguliers ou à la demande, est fixée à 50 % jusqu'au 31 décembre 2024 et
+à 100 % à compter du 1er janvier 2025. Pour les autobus, la moitié au moins de ces proportions
+est constituée d'autobus à très faibles émissions pour les agglomérations de plus de
+250 000 habitants (25 % jusqu’en 2024 et 50 % depuis le 1er janvier 2025).
+
+
+
+
+57
+   Les voitures particulières et les véhicules utilitaires légers sont des VFE si leurs émissions à l’échappement sont
+inférieures à 50g de CO2/km.
+58
+   Ces mêmes véhicules peuvent être qualifiés de VTFE si leur source d’énergie est exclusivement l’électricité
+(EL), l’hydrogène (H2), une combinaison d’hydrogène et d’électricité (HE, HH) ou de l’air comprimé (AC).
+
+
+
+
+                                                         34
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Le parc d’autobus de la CU CLM est composé d’environ 200 véhicules. Elle envisage le
+remplacement progressif de l’intégralité des autobus fonctionnant au gasoil à l’horizon 2029
+pour un coût de 60 M€.
+Lors du renouvellement annuel de son parc entre 2021 et 2024, la CU CLM a fait l’acquisition
+de 73 autobus roulant au biogaz59 pour un montant total de 23,5 M€. Elle estime que la mise en
+service de ces véhicules a permis depuis 2021 une réduction des émissions cumulées de GES60
+de 4 800 teqCO2 par rapport aux bus fonctionnant au diesel.
+Le renouvellement des autobus s’est accompagné de l’installation, en 2022, d’une station de
+distribution du GVN comportant 2 compresseurs (dont un de secours). L’installation d’un
+troisième est prévue en 2025, permettant de porter la capacité de charge totale de l’installation
+à 120 bus. Le coût global de cette installation s’élèvera à 4 M€ HT.
+La chambre observe que depuis 2021, la CU CLM va au-delà de la norme posée par le code de
+l’environnement puisque 100 % des bus renouvelés sont des VFE. Elle rappelle néanmoins que
+la CU CLM, qui compte plus de 250 000 habitants, est également tenue depuis 2020 de faire
+l’acquisition de 50 % de VTFE lors du renouvellement de sa flotte, seuls les autobus
+fonctionnant à l’électricité ou à l’hydrogène à 100 % étant actuellement considérés comme
+entrant dans cette catégorie.
+
+
+4.4.3 Des efforts de décarbonation des autres véhicules utilisés
+
+Le parc des véhicules de plus de 3,5 tonnes, non soumis aux dispositions du code de
+l’environnement, est essentiellement composé de véhicules et engins (212 au
+31 décembre 2024) fonctionnant au gasoil non routier (GNR – 87 %), les autres roulant au
+gasoil. La moyenne d’âge du parc est de 15 ans.
+Afin de réduire les consommations d’énergie fossile, la CU CLM déclare qu’elle optimise son
+parc en mutualisant les moyens matériels entre les équipes et qu’elle fait le choix pour ses
+nouvelles acquisitions de carburations moins impactantes pour l’environnement
+(norme Euro 6)61. Elle dispose actuellement de 82 véhicules soumis à la norme Euro 6.
+13 bennes à ordures ménagères de la régie de collecte sont alimentées en biogazole
+(OLEO 100)62. La CU CLM estime que l’emploi de ce carburant a permis une réduction des
+émissions de GES de l’ordre de 323 tonnes de CO2.
+Enfin, en 2020, lors du choix de son prestataire de collecte des déchets ménagers et assimilés
+pour son marché allant de 2021 à 2028, la CU CLM a pris en compte la carburation des bennes
+à ordures ménagères au travers d’un critère environnemental. Ainsi, sur cette période, le parc
+
+
+59
+   Le biogaz est un GVN issu du biométhane.
+60
+   Un autobus fonctionnant au gasoil émet des GES de l’ordre de 12 kgCO2 alors qu’au biogaz cette émission est
+de 25 kgCO2 pour 100 km parcourus.
+61
+   Cette norme, en vigueur depuis le 1er janvier 2014, a pour objectif de poursuivre la réduction des émissions de
+GES (responsables du dérèglement climatique) et de gaz nocifs pour la santé (responsable de nombreuses maladies
+respiratoires) des poids lourds (véhicules de plus de 3,5 tonnes). Elle impose des valeurs limites d’émissions
+d’oxydes d’azote, de monoxyde de carbone, d’hydrocarbures et de particules fines, soit en grammes par kWh :
+0,4, 1,5, 0,13 et 0,01 au lieu de 9, 4,9, 1,23 et 0,36 g/kWh autorisées en 1993 par la norme Euro 1. Tout nouveau
+véhicule mis sur le marché doit être conforme avec cette norme.
+62
+   Il s’agit d’un carburant composé à 100 % de colza réduisant de 60 % les émissions de GES par rapport au gasoil.
+
+
+
+
+                                                       35
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+de bennes à ordures ménagères du prestataire fonctionne à 100 % au GNV. En l’état des
+éléments produits, la chambre constate toutefois qu’un GNV classique n’émet que 6 % de CO2
+en moins que le gasoil, seul un bioGNV permettrait une réduction très sensible des émissions
+(de l’ordre de 80 %).
+
+
+4.4.4 Une volonté effective d’inciter les agents aux déplacements et mobilités
+      durables
+
+En tant qu’employeur, la CU CLM dispose de plusieurs outils pour limiter les déplacements de
+ses agents ou pour encourager des modalités alternatives à l’usage du véhicule thermique.
+D’une part, dans son règlement du temps de travail, la CU CLM s’est dotée d’un régime de
+télétravail concernant les différentes catégories d’agents dont les emplois sont compatibles avec
+le télétravail, soit 981 agents au total (48 % de l’effectif permanent). Ce dispositif accorde, sous
+certaines conditions63, jusqu’à deux jours de télétravail par semaine, auquel peut s’ajouter un
+télétravail exceptionnel de 10 jours supplémentaires par an pouvant être utilisés dans certaines
+circonstances (grèves, aléas climatiques, pollution…). Aucune indemnité n’est versée aux
+agents en situation de télétravail.
+La CU CLM a recensé 480 agents ayant recours effectivement au régime de télétravail
+(50 % de l’effectif cible – 23,5 % de l’effectif permanent) dont 42 % d’agents de catégorie A,
+33 % d’agents de catégorie B et 25 % d’agents de catégorie C.
+En l’absence de BEGES récent, la CU CLM n’est pas en mesure d’indiquer la réduction
+d’émission de GES réalisée.
+D’autre part, en application des dispositions de l’article L. 3261-3-1 du code du travail,
+l’employeur public peut prendre en charge tout ou partie des frais engagés par ses agents se
+déplaçant entre leur résidence habituelle et leur lieu de travail en recourant à des modes de
+transports alternatifs et durables64. Cette prise en charge n’est pas obligatoire et prend la forme
+d’un forfait mobilités durables (FMD).
+La CU CLM a modifié le régime de son FMD en 2022 pour tenir compte de l’élargissement
+des conditions d’attribution et a porté l’indemnité forfaitaire à 300 € par personne. Le montant
+de l’indemnité est modulé pour les agents ne travaillant pas à temps plein.
+En 2023 et 2024, 278 et 391 agents (20 % des agents permanents en 2024) ont bénéficié d’un
+FMD, soit des coûts pour la CU CLM de 83 200 et 110 100 €.
+
+
+
+
+63
+   Le régime de télétravail de la CU CLM est soumis à quatre conditions : éligibilité des activités, compatibilité de
+la demande au regard des nécessités de service et de l'organisation du service, savoir-faire de l'agent (autonomie,
+capacité à rendre compte…) et conditions techniques (connexion informatique) et juridiques (assurance habitation
+notamment).
+64
+   Vélo personnel, y compris vélo électrique, Covoiturage, en tant que passager et en tant que conducteur, engins
+de déplacement personnels, cyclomoteurs et motocyclettes en location ou en libre-service, Autopartage de
+véhicules à faibles émissions (notamment les véhicules alimentés totalement ou partiellement par : électricité,
+hydrogène, gaz naturel), engins de déplacement personnel motorisés (électriques) des particuliers : trottinettes,
+mon roues, gyropodes, skateboard, hoverboard, et Transports publics (hors abonnement).
+
+
+
+
+                                                        36
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+De plus, elle participe aux frais liés aux trajets domicile/travail de ses agents à hauteur de 75 %
+du coût de l’abonnement. En 2023 et 2024, 195 et 208 agents (représentant 11 % des agents
+permanents en 2024) en ont bénéficié pour des montants de 44 128 € et 61 239 €.
+La CU CLM n’est toutefois pas en mesure de produire le gain d’émissions de GES évitées grâce
+aux FMD et à la participation aux frais d’abonnement des transports collectifs.
+Enfin, la CU CLM dispose de 72 vélos, dont 39 vélos à assistance électrique, mis à disposition
+des agents pour leurs déplacements professionnels, ce qui demeure modeste au regard du
+nombre d’agents composant la structure.
+Au regard des éléments produits par la CU CLM, la chambre l’encourage à mettre rapidement
+en œuvre un plan de mobilité à destination de ses agents.
+
+
+
+4.5 Des actions menées en matière de sobriété numérique
+
+Selon le rapport ADEME-ARCEP sur l’évaluation de l’impact environnemental du numérique
+en France65, publié en janvier 2025, l’empreinte carbone générale de consommation de biens et
+services numériques en France représentait 4,4 % de l’empreinte carbone nationale en 2022
+(29,5 Mt eqCO2), équivalent aux émissions totales du secteur des poids lourds
+(30,5 Mt eqCO2).
+Or, l’impact du numérique sur l’empreinte carbone pourrait doubler d’ici à 2040. Toutefois, la
+loi ne fixe que depuis peu des obligations et la prise de conscience des enjeux écologiques du
+numérique relève essentiellement des actions volontaristes des collectivités locales.
+La loi n° 2020-105 du 10 février 2020 relative à la lutte contre le gaspillage et l’économie
+circulaire contient deux dispositions s’appliquant à l’administration locale. D’une part, elle doit
+recourir à des logiciels dont la conception permet de limiter la consommation énergétique liée
+à leur utilisation (article 55 de la loi). D’autre part, elle a l’obligation d’acquérir des biens issus
+du réemploi, de la réutilisation (récupération de certains composants uniquement) ou
+comportant des matières recyclées dans des proportions de 20 à 100 % selon le type de produit
+(article 58). Le décret n° 2021-254 du 9 mars 2021 fixe cette part à 20 % pour les équipements
+informatiques (ordinateurs, téléphones mobiles, photocopieurs, imprimantes, cartouches
+d’encre…).
+La loi n° 2021-1485 du 15 novembre 2021 visant à réduire l’empreinte environnementale du
+numérique en France (loi REEN) contient plusieurs dispositions intéressant les collectivités.
+Notamment, elles doivent prendre en compte les indices de réparabilité66 (à compter du
+1er janvier 2023) et de durabilité67 (à compter du 1er janvier 2026) lors de leurs achats de
+produits numériques. Elles doivent également réorienter les équipements informatiques dont
+
+65
+   Étude co-dirigée par l’ADEME et l’Autorité de régulation des communications électroniques, des Postes et de
+la distribution de la presse (ARCEP). Cette étude quantifie le poids du numérique en France : 11 % de la
+consommation d’électricité est liée aux services numériques, 117 millions de tonnes de ressources sont nécessaires
+tous les ans pour produire et utiliser les équipements numériques, les datas centers (équipement lés à l’hébergement
+et au traitement des données tels que les serveurs, les disques durs) représentent 46 % de l’empreinte carbone du
+numérique et la phase de fabrication concentre la majorité des impacts environnementaux (60 %).
+66
+   Indice renseignant le consommateur sur la capacité à réparer le produit concerné.
+67
+   Indice informant sur la fiabilité et la robustesse d’un produit.
+
+
+
+
+                                                        37
+                                                    COMMUNAUTÉ URBAINE CAEN LA MER
+                         CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+elles se séparent vers un réemploi avec un objectif de 50 % des produits réformés à l’horizon
+2025.
+Enfin, les EPCI de plus de 50 000 habitants doivent formaliser une stratégie numérique
+responsable au plus tard le 1er janvier 2025 après avoir élaboré pour le 1er janvier 2023 un
+programme de travail.
+À partir de 2019, la CU CLM s’est engagée dans une démarche de sobriété numérique avec
+l’accompagnement de l’ADEME, en vue de l’obtention d’une labellisation numérique
+responsable.
+La CU CLM a inscrit cette démarche dans sa feuille de route. Ainsi, l’axe 4 « Un territoire
+sobre » prévoit une action prioritaire visant à mettre en œuvre une démarche de sobriété
+numérique au sein de la CU CLM, au rachat de matériel recyclé, à communiquer sur les bonnes
+pratiques et à valoriser la chaleur fatale issue des data centers. Elle envisage sa labélisation
+numérique responsable en 2025 ou 2026.
+Pour y parvenir, la CU CLM déploie des actions de sensibilisation et tente de réguler les usages
+en vue de maîtriser les consommations.
+Ainsi, en 2022, elle a créé un module de formation sur la sobriété numérique et a formé depuis
+165 agents (59 en 2024)68. Un guide destiné aux agents est désormais disponible pour se
+conformer aux bonnes pratiques. La chambre invite toutefois la CU CLM à poursuivre la
+sensibilisation de ses agents à la sobriété numérique, moins de 10 % l’ayant été depuis 2022.
+La CU CLM met également à disposition des agents un guide de nettoyage numérique (réduire
+la taille des courriers électroniques ou des images, nettoyer sa boite mails…). Deux campagnes
+de nettoyage se sont déroulées en 2023 et 2024 et ont permis la suppression de 2,4 téraoctets
+(To)69.
+Elle s’est aussi fixée pour objectifs une nette réduction des impressions, un maximum de 20 %
+d’impressions couleur par an et un minimum de 50 % d’impressions recto/verso. Elle a observé
+une diminution de 30 % des impressions entre 2017 et 2022 (- 2M), le mode couleurs
+représentant encore 33 % des impressions actuellement et le mode recto/verso uniquement
+40 %.
+Les actions de la CU CLM s’inscrivent également dans la politique de renouvellement et de
+recyclage du matériel. Le renouvellement des ordinateurs n’est plus automatique et leur durée
+de vie a été allongée de cinq à sept ans. Certains sont ensuite distribués dans les écoles et la
+CU CLM assure le recyclage des déchets d’équipements électriques et électroniques (DEEE)
+en ayant recours, dans le cadre d’un partenariat, à une société spécialisée qui rénove une grande
+partie du matériel et le revend, participant ainsi à l’économie circulaire. Quatre points de
+collectes permettent de récupérer les téléphones portables des agents.
+Actuellement, la CU CLM n’est pas en mesure de renseigner les gains économiques et
+environnementaux réalisés grâce aux mesures de sobriété mises en œuvre.
+
+
+
+
+68
+  Cette formation inclue également un volet consacré aux risques de cyberattaque.
+69
+   Un téraoctet est l’équivalent de 1 000 gigaoctets (Go) soit 1 million de mégaoctets (Mo). Supprimer 2,4 To
+revient à dégager un espace pouvant accueillir 500 000 photos de haute résolution ou 1 million de photos de
+résolution classique.
+
+
+
+
+                                                     38
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+À l’image de son projet d’administration qui doit mieux intégrer les besoins de montée en
+puissance des agents en matière de transition écologique, la CU CLM doit renforcer les actions
+lui permettant d’aboutir à une meilleure sobriété de ses propres activités.
+Les efforts de la CU CLM doivent se concentrer sur la régularisation de ses obligations
+déclaratives (BEGES, OPERAT) et l’accélération de la transition écologique opérationnelle,
+notamment par la rénovation énergétique du patrimoine et la décarbonation de sa flotte
+automobile.
+Ainsi, l’absence de bilan actualisé empêche l’évaluation de la trajectoire de réduction des
+émissions de gaz à effet de serre alors CU CLM est tenue d’établir ce bilan tous les trois ans.
+De même, aucun diagnostic généralisé ni plan de rénovation pluriannuel n’est actuellement
+arrêté pour le parc immobilier.
+S’agissant de la mobilité des agents de la CU CLM, la mise en œuvre d’un plan de mobilité est
+requise.
+Enfin, une meilleure mesure des impacts (GES évitées, économies réalisées…) est indispensable
+pour ajuster les stratégies futures.
+
+
+
+
+5 UNE APPROPRIATION DES VOLETS ADAPTATION ET
+  PRÉSERVATION
+
+À l’image de nombreuses collectivités territoriales et de leurs regroupements, la CU CLM s’est
+déjà engagée dans un grand nombre d’actions concourant à l’atténuation des émissions de GES.
+Les obligations légales et réglementaires sont en effet plus anciennes, les actions pour y
+parvenir assez homogènes d’un territoire à l’autre et les objectifs à atteindre sont connus.
+La mise en œuvre du volet adaptation est plus récente, mais également plus complexe, la
+spécificité de chaque territoire ou partie de territoire imposant des réponses précises et adaptées,
+fondées sur une identification des vulnérabilités, l’élaboration de scenarios et la priorisation des
+mesures mises en œuvre. Les moyens techniques et financiers nécessaires peuvent être très
+conséquents.
+L’adaptation peut en effet conduire à faire évoluer durablement les infrastructures, à repenser
+l’urbanisation, à apporter des mesures correctives importantes, à modifier certains modèles ou
+usages pour renforcer la résilience d’un territoire.
+Nonobstant cette complexité, la chambre constate les efforts notables entrepris par la CU CLM,
+même si à l’instar de l’ensemble des acteurs de la transition écologique, les actions les plus
+significatives restent à entreprendre.
+
+
+
+
+                                                39
+                                                     COMMUNAUTÉ URBAINE CAEN LA MER
+                          CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+5.1 Des risques climatiques identifiés et des enjeux connus de la CU CLM
+
+La CU CLM appuie sa connaissance des risques, des vulnérabilités et l’identification des enjeux
+de son territoire sur :
+     • les données et diagnostics produits par les services de l’État (DREAL, DDTM,
+       Conservatoire du littoral…) ;
+     • les diagnostics réalisés à l’occasion de l’élaboration du plan climat air énergie territorial
+       (PCAET)70 ou lors de la préparation par du plan local d’urbanisme intercommunal valant
+       programme local de l’habitat et plan de mobilité (PLUi-HM) ;
+     • les travaux permanents du groupe d’experts intergouvernemental sur l’évolution du
+       climat (GIEC) Normand, du conservatoire du littoral ou de l’Université de Caen.
+Au cours de la période sous-revue, la CU CLM a régulièrement ajusté son niveau de
+connaissance des risques et enjeux du territoire par des démarches ponctuelles : études
+d’opportunité (par exemple, relocalisation des campings – 50 000 € en investissement en 2024),
+paysagères (par exemple, renaturation des berges de l’Orne – 20 000 € en investissement en
+2024), de vulnérabilité (par exemple, entreprises situées le long du canal de Caen – 50 000 € en
+fonctionnement en 2024) ou de réflexion (par exemple, lutte contre les ilots de chaleur –
+44 500 € en 2024).
+
+
+5.1.1 Un territoire confronté à différentes réalités, génératrices de risques
+
+Créée le 1er janvier 2017, la CU CLM regroupe l’ancienne communauté d’agglomération Caen
+la mer (environ 265 000 habitants et 35 communes membres) et les communautés de
+communes Entre Thue et Mue et Plaine sud de Caen ainsi que de la commune de Thaon.
+La CU CLM compte désormais 48 communes membres71, s’étendant sur une superficie totale
+de 366 km². Elle porte sur une diversité de réalités territoriales urbaine, rurale et littorale,
+socio-démographique, économiques ou fonctionnelles. Ces facteurs socioéconomiques, parfois
+très différents, influencent directement la vulnérabilité du territoire.
+
+
+
+
+70
+   Le PCAET a été élaboré à du pôle métropolitain Caen Normandie Métropole, qui réunit, six Intercommunalités
+autour du bassin de vie caennais : Caen la mer, Cingal – Suisse Normande, Cœur de Nacre, Pays de Falaise,
+Val ès dunes, Vallées de l’Orne et de l’Odon.
+71
+   Caen, Authie, Bénouville, Biéville-Beuville, Blainville-sur-Orne, Bourguébus, Bretteville-sur-Odon, Cairon,
+Cambes-en-Plaine, Carpiquet, Le Castelet, Castine-en-Plaine, Colleville-Montgomery, Colombelles,
+Cormelles-le-Royal, Cuverville, Démouville, Épron, Éterville, Fleury-sur-Orne, Le Fresne-Camilly, Giberville,
+Grentheville, Hermanville-sur-Mer, Hérouville-Saint-Clair, Ifs ,Lion-sur-Mer, Louvigny, Mathieu, Mondeville,
+Mouen, Ouistreham, Périers-sur-le-Dan, Rosel, Rots, Saint-André-sur-Orne, Saint-Aubin-d'Arquenay,
+Saint-Contest, Saint-Germain-la-Blanche-Herbe, Saint-Manvieu-Norrey, Sannerville, Soliers, Thaon, Thue et
+Mue, Tourville-sur-Odon ,Troarn Verson, Villons-les-Buissons.
+
+
+
+
+                                                     40
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                 Carte n° 2 : Les 48 communes de Caen la mer
+
+
+
+
+         Source : CU CLM
+
+
+Environ 60 % des espaces du territoire ont une vocation agricole. 32 % sont artificialisés72,
+essentiellement à Caen et dans sa périphérie, et 8 % des espaces sont constitués de forêts, de
+milieux naturels ou semi-naturels et d’eau. Le territoire demeure donc essentiellement rural,
+façonné par l’agriculture.
+Toutefois, la population et les emplois sont concentrés au sein d’un important pôle urbain autour
+de la commune de Caen.
+
+
+
+
+72
+   La loi n° 2021-1104 du 22 août 2021, portant lutte contre le dérèglement climatique et renforcement de la
+résilience face à ses effets, définit à son article 192 l’artificialisation comme « l'altération durable de tout ou partie
+des fonctions écologiques d'un sol, en particulier de ses fonctions biologiques, hydriques et climatiques, ainsi que
+de son potentiel agronomique par son occupation ou son usage ».
+
+
+
+
+                                                           41
+                                                    COMMUNAUTÉ URBAINE CAEN LA MER
+                         CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+5.1.2 Un territoire poursuivant un développement dynamique73
+
+La population de la CU CLM s’établissait à 277 248 habitants en 2022, en hausse de plus de
+4 % depuis 2016 et en progression de 15 % depuis 1990.
+Le taux de natalité apparaît certes en baisse (1 % entre 2016 et 2022 contre 1,3 % entre 1999 et
+2006), mais demeure suffisamment dynamique pour procurer au territoire un solde naturel
+positif de 0,1 %. Le solde des entrants/sortants, de nouveau positif de 0,6 % depuis 2016,
+concourt également à la croissance démographique du territoire.
+Malgré une tendance au vieillissement, la population demeure relativement jeune avec, en 2022,
+39,2 % d’habitants de moins de 30 ans (contre 33,9 % en Normandie) et 25,9 % âgée de 60 ans
+et plus (contre 29,1 % en Normandie).
+Le nombre de ménages a cru de 14,1 % entre 2011 et 2022 (+ 17 052).
+À fin 2024, le territoire concentre 41 % des établissements du département et propose
+157 087 emplois, soit 57 % des emplois du Calvados.
+Le diagnostic du SCoT élaboré à l’échelle du pôle métropolitain Caen Normandie Métropole
+prévoit une croissance des emplois comprise entre 560 et 2 250 par an essentiellement au sein
+de la CU CLM, une augmentation de la population de l’ordre de 12 % sur la période 2020-2040
+et des besoins de logements neufs de l’ordre de 22 % sur la même période.
+Si la poursuite du développement du territoire constitue un atout important de son attractivité,
+elle amplifie également certains enjeux de la CU CLM notamment en raison de l’exposition des
+populations et des activités aux aléas climatiques.
+
+
+5.1.3 Une nette diversité d’occupation des sols
+
+Caen est la principale commune de la CU CLM (108 398 habitants en 2022) et cinq communes
+du territoire regroupent 59 % de la population totale74.
+18 communes75, composant le pôle principal autour de la commune de Caen, concentrent 72 %
+des habitants (200 080) et 84 % des emplois (129 199) sur une surface de 119,4 km², soit un
+tiers de la superficie totale de la CU CLM. Elles représentent une concentration urbaine très
+dense et particulièrement artificialisée, consistant un premier facteur de risque.
+La bande littorale, pôle secondaire d’environ 10 kilomètres de long, est également relativement
+urbanisée. Elle est constituée de quatre communes76 regroupant 17 563 habitants en 202277 sur
+
+
+
+
+73
+    Source : dossiers INSEE « Intercommunalité – Métropole de Caen la Mer », « région Normandie » et
+comparateur de territoires « Intercommunalité Métropole de Caen la Mer » et « Calvados », 6 novembre 2025.
+74
+   Caen, Hérouville-Saint-Clair, Ifs, Mondeville et Ouistreham regroupent 162 286 habitants.
+75
+     Caen, Authie, Bretteville-sur-Odon, Cambes-en-Plaine, Carpiquet, Le Castelet, Colombelles,
+Cormelles-le-Royal, Cuverville, Démouville, Épron, Fleury-sur-Orne, Giberville, Hérouville-Saint-Clair, Ifs,
+Louvigny, Mondeville et Saint-Contest.
+76
+   Lion sur Mer, Hermanville sur Mer, Colleville Montgomery et Ouistreham.
+77
+   Insee.
+
+
+
+
+                                                    42
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+un territoire de 30,5 km², mais comporte 50 % des résidences secondaires (3 225)78 du territoire.
+Elle constitue donc un autre facteur de risque.
+
+
+5.1.4 Une artificialisation79 soutenue mais en ralentissement
+
+Si la CU CLM n’apparaît artificialisée qu’à hauteur de 32 %, les deux principaux pôles urbains
+sont nettement artificialisés (52 % de leur surface totale) et la commune de Caen est
+artificialisée à hauteur de 89 %. Les 26 autres communes membres présentent une physionomie
+nettement plus rurale et ne sont donc artificialisées que sur 19 % de leur surface totale.
+Entre 2011 et 2023, 926 hectares d’espaces naturels, agricoles et forestiers, soit 2,55 % de la
+superficie totale du territoire de la CU CLM, ont été consommés, majoritairement pour le
+développement de l’habitat (515 hectares) et des activités économiques (270 hectares).
+Si la CU CLM a absorbé 95 hectares en 2019 et 82 hectares en 2020 pour les besoins de son
+développement, les dernières années montrent une nette inclinaison : 43 hectares artificialisés
+en moyenne par an entre 2021 et 2023 contre 75,5 hectares en moyenne par an entre 2016 et
+2020.
+750 hectares des surfaces artificialisées proviennent des surfaces agricoles utiles, soit une
+diminution de 3,5 %. Cette artificialisation a un impact important dès lors que la qualité
+agronomique des terres agricoles présentes sur le territoire de la CU CLM figure parmi les
+meilleures du département du Calvados (17 % du territoire est constituée de terres à hautes
+potentialités agronomiques).
+La sobriété foncière, notamment par le biais de la lutte contre l’étalement urbain, constitue en
+conséquence pour la CU CLM un très fort enjeu décliné dans l’ensemble des documents de
+planification.
+Ainsi, des objectifs de densification urbaine et de réduction de la consommation des terres
+agricoles et naturelles sont intégrées au projet de PLUi-HM80 de la CU CLM. Le projet
+d’aménagement et de développement durable (PADD) du PLUi-HM reprend les objectifs du
+schéma régional d’aménagement, de développement durable et d’égalité des territoires
+(SRADDET) et du schéma de cohérence territoriale (SCoT) limitant à 380 ha entre 2021 et
+2030 (38 ha par an en moyenne), puis à 205 ha entre 2031 et 2040 la consommation d’espaces
+agricoles et naturels.
+
+
+
+
+78
+   Insee.
+79
+   Source : les données du présent rapport concernant l’artificialisation du territoire de la CU CLM sont issues du
+site gouvernemental « portail de l’artificialisation des sols ».
+80
+    Notamment, l’orientation n° 4 « Favoriser une densification respectueuse du contexte urbain et porteuse
+d’amélioration du cadre de vie », page 49 du PADD ou l’orientation n° 3 « Optimiser le potentiel de
+développement au sein des espaces déjà urbanisés », page 31 du PADD et l’orientation n° 1 « Inscrire Caen la mer
+dans la trajectoire zéro artificialisation nette en 2050 et réduire la consommation d’espaces agricoles et naturels »,
+page 41 du PADD.
+
+
+
+
+                                                         43
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+5.2 Des changements significatifs attendus du climat sur le territoire de la
+    CU CLM
+
+Des diagnostics de vulnérabilité au changement climatique ont été posés au cours de
+l’élaboration du PCAET par le pôle métropolitain Caen Normandie Métropole et de celle du
+projet de PLUi-HM, de sorte que les tendances sont connues de la CU CLM.
+La chambre s’est appuyée sur les diagnostics produits par la CU CLM ainsi que sur les données
+de l’outil Climat Diag accessibles à l’échelle intercommunale depuis 202281 et sur le dernier
+rapport du GIEC Normand du 5 avril 2025 dont les informations se recoupent et offrent des
+tendances quasiment identiques.
+Le territoire de la CU CLM doit s’attendre à l’accroissement de sa vulnérabilité aux épisodes
+de fortes chaleurs et aux inondations.
+
+
+5.2.1 Des températures moyennes annuelles en augmentation
+
+À Caen, la température moyenne a augmenté de 1,7°C entre 1970 et 2023 (11,7°C).
+Selon le scénario le plus pessimiste du GIEC, la température moyenne annuelle pourrait
+atteindre 15°C en 2100 (+ 3,3°C). Au sein de la CU CLM, la commune de Caen et les villes à
+sa périphérie, très urbanisées, seraient impactées, contrairement à la bande littorale au nord de
+la CU CLM.
+Le rapport du GIEC Normand du 5 avril 2025 montre qu’entre 1971 et 2023, le nombre de jours
+dépassant 25°C dans la journée à Caen a doublé (30 jours) et pourrait avoisiner 50 en 2100. De
+même, les vagues de chaleur82 deviendraient plus fréquentes (entre 44 et 68 jours par an) ainsi
+que les nuits anormalement chaudes83 (entre 84 et 96 nuits par an, soit plus d’1/4 de l’année).
+Le territoire serait donc exposé à une sensibilité accrue au phénomène d’îlot de chaleur urbain84
+(ICU).
+Quant aux périodes de froid85 (23 jours en moyenne entre 1976 et 2005), elles pourraient être
+nettement réduites sur le territoire de la CU CLM avec 12 jours en 2050 et 8 jours en 2100 et
+celles de grand froid (- 5°C) et de très grand froid (- 10°C) disparaître. Les chutes de neige,
+pourraient baisser, de 16 jours par an en moyenne sur la période 1976/2005, à 5 jours en 2100.
+
+
+
+
+81
+   Ces données sont issues du centre de ressources pour l’adaptation au changement climatique des ministères de
+la transition écologique, de l’aménagement du territoire, des transports, de la ville et du logement. Il comporte une
+base « Donner accès aux scénarios climatiques Régionalisés français pour l'Impact et l'Adaptation de nos Sociétés
+et environnement » et un accès au portail « DRIAS Les futurs du climat » mis en œuvre par Météo France.
+82
+   La vague de chaleur est constituée de jours de chaleur (valeur maximale égale ou supérieure à 25°C) de forte
+chaleur (valeur égale ou supérieure à 30°C) et de très forte chaleur (valeur égale ou supérieure à 35°C).
+83
+   Il s’agit d’une nuit où la température est supérieure d’au moins 5 degrés par rapport à une valeur de référence
+locale.
+84
+   Selon le Centre d’études et d’expertise sur les risques, l’environnement, la mobilité et l’aménagement (Cerema),
+l’ilot de chaleur résulte de l’élévation des températures de l’air et de surface en centre-ville par rapport aux
+périphéries, plus particulièrement la nuit.
+85
+   Il s’agit d’une période où la température est inférieure ou égale à 0°C.
+
+
+
+
+                                                        44
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+5.2.2 Une modification des régimes hydrographiques
+
+Sur le territoire de la CU CLM, comme sur celui de l’ensemble de la Normandie, il serait
+constaté une diminution du nombre de jours de précipitations86 (120 contre 130 en moyenne
+sur la période 1976/2005). Mais, dans le même temps, le volume cumulé des précipitations
+augmenterait (751 mm contre 710 mm actuellement sur la période 1976/2005). Le nombre de
+jours avec de fortes précipitations (supérieures à 20 mm), quasiment nul actuellement, ferait
+son apparition sur le territoire.
+Cette modification du régime des pluies participera au développement du risque d’exposition
+aux inondations.
+Les périodes de sécheresse apparaîtraient plus fréquentes et plus longues (de mai à septembre
+inclus). Elles pourraient passer de 22,4 jours annuels (moyenne constatée entre 1976 à 2005) à
+30 jours en moyenne à l’horizon 2100, voire jusqu’à 35 jours pour les zones les plus urbanisées.
+Le nombre de jours avec un sol qualifié de sec87 pourrait bondir de 35 %, augmentant ainsi le
+risque de feu de végétation88.
+
+
+5.2.3 L’inondation principale source de risques du territoire de la CU CLM
+
+Entre 1984 et 2020, 77 % des 256 arrêtés de catastrophes naturelles pris sur le territoire de la
+CU CLM ont concerné des inondations, les tempêtes n’en représentant que 21 %. Toutes les
+communes ont été concernées, Rots, Ouistreham, Mondeville ou Mathieu déposant entre
+6 et 12 déclarations chacune au cours de la période contrôlées.
+Cet aléa est multi-causal puisque le territoire est soumis aux inondations par crues, remontées,
+ruissellements et par submersions marines du fait de niveaux topographiques inférieurs au
+niveau de la mer sur certaines parties. En particulier, une grande partie de la vallée de l’Orne,
+qui passe par des zones très urbanisées, est en dessous du niveau de la mer.
+Le risque est très accru en cas de concomitance des phénomènes notamment en présence d’une
+forte élévation du niveau de la mer conjuguée à de forts coefficients de marée et/ou à des
+tempêtes intenses ainsi qu’à des précipitations soutenues.
+Un plan de prévention multirisques (PPRM) couvrant 23 communes, dont 16 communes
+membres de la CU CLM, a été adopté le 10 août 2021. Le centre de la commune de Caen est
+très largement concerné par ce plan.
+Le territoire apparaît également confronté au risque de salinisation des nappes et aux remontées
+salinés (biseau salé) du fait de la diminution du niveau des nappes d’eau souterraines et de
+l’élévation du niveau de la mer. Cette élévation, en fonction des scénarios, pourrait être
+comprise entre 26 cm et 1,10 mètre89. La pénétration du biseau salé pourrait alors atteindre
+
+
+86
+   Un jour est considéré avec précipitations si la quantité d’eau recueillie est supérieure à 1 mm, soit 1 litre d’eau
+par mètre carré.
+87
+   Un sol est qualifié de sec lorsque l’indice d’humidité des sols est inférieur à 0,4. La valeur de base 1 signifie que
+le sol est humide sans être saturé en eau.
+88
+   Ce risque est actuellement qualifié de nul. Ce risque pourrait être porté à 3 jours par an si les conditions de
+chaleur (40°C et plus), de vent et de sècheresse du sol (indice d’humidité proche de 0) sont réunies.
+89
+   Selon les données issues de Clim Diag, l’élévation pourrait se situer à + 62 cm en 2100.
+
+
+
+
+                                                          45
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+3,5 km à l’intérieur des terres en raison de la baisse de débit de certains cours d’eau tels que la
+vallée de l’Orne.
+Les travaux réalisés par le bureau de recherches géologiques et minières (BRGM) lors de
+l’élaboration du projet de PLUi-HM de la CU CLM confirment la forte vulnérabilité des
+aquifères côtiers90 aux intrusions salines en 2100.
+Pour faire face au risque d’inondation, au cours de la période sous revue, la CU CLM s’est
+dotée d’outils et s’est engagée dans différentes actions :
+     • Un programme d’actions de prévention des inondations (PAPI) pour les basses vallées de
+       l’Orne et de la Dives91 a été initié en 2023, dont le programme d’études en cours lors du
+       contrôle permettra d’affiner le diagnostic territorial et d’approfondir les connaissances
+       des vulnérabilités, enjeux et risques ;
+     • La mise en place en 2025 avec l’État d’un projet partenarial d’aménagement (PPA) de
+       l’estuaire de l’Orne et son littoral en vue, à partir d’études hydraulique et techniques, de
+       mettre en œuvre des actions concourant à sa réorganisation et de sa recomposition ;
+     • Une démarche commune, avec les communautés de communes Cœur de Nacre et
+       Normandie Cabourg Pays d’Auge, « Notre littoral pour demain » entreprend depuis 2021
+       une gestion durable de la bande côtière à partir d’une stratégie commune de gestion de la
+       bande côtière à l’horizon 20, 50 et 100 ans92. Au niveau de la CU CLM, cette stratégie
+       s’est concrétisée par la mise en œuvre d’actions de communication et de sensibilisation
+       (campagne de sensibilisation « Ici commence la mer » en 2023, « Notre littoral pour
+       2100 » à destination des écoles). Sont également engagés depuis 2024, un plan d’entretien
+       des digues et de renaturation de l’estuaire de l’Orne pour créer des zones d’expansion des
+       crues ainsi qu’une campagne de diagnostic de la vulnérabilité des entreprises situées dans
+       les des zones les plus exposées au risque d’inondation ;
+     • Le lancement de plusieurs études en 2024 pour l’élaboration d’un schéma d’intentions
+       paysagères des berges de l’Orne en vue de la renaturation du site, pour la reconnexion du
+       cours d’eau à sa zone humide et la désartificialisation du site et pour la faisabilité de la
+       relocalisation des campings à risques situés sur le littoral.
+L’entretien des digues et des épis93 (58 épis ont été réparés, consolidés ou créés entre 2021 et
+2024 pour un montant total de 3,5 M€) ainsi que le ré-ensablement et la végétalisation en 2022
+de la dune sur la commune Colleville-Montgomery.
+
+
+
+
+90
+   Un aquifère est un sol réservoir contenant une nappe d’eau souterraine et suffisamment perméable pour que
+l’eau puisse y circuler. Lorsque cette nappe d’eau douce est en contact avec l’eau de mer, on le qualifie d’aquifère
+côtier.
+91
+   104 communes et près de 300 000 habitants.
+92
+   Un programme de 39 interventions a été arrêté autour de la communication et de la sensibilisation, de
+l’amélioration permanente des connaissances et de la surveillance des sites, de l’entretien des digues ou de
+l’adaptation et de la renaturation
+93
+   Ouvrage perpendiculaire au trait de côte en bois ou en béton permettant le maintien des plages.
+
+
+
+
+                                                        46
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+5.3 Une volonté de maitriser l’étalement urbain
+
+L’expansion urbaine maîtrisée par la densification est prise en compte par la CU CLM. La
+densification participe directement aux deux volets de la transition écologique dès lors que
+l’étalement urbain est couteux en émissions de GES, fragmente les espaces naturels et réduit la
+biodiversité. La densification présente également un intérêt économique pour la réalisation et
+la gestion des réseaux, des équipements et des services.
+En vue de la réduction de consommation d’espaces naturels et de l’étalement urbain, la question
+de la densité urbaine94 occupe une place importante dans le projet de la CU CLM. L’une des
+actions de la feuille de route porte sur la question de « rendre attractive la densité urbaine » et
+l’une des sous-actions prescrit de « mettre en œuvre et de promouvoir une densification
+acceptable ». Cette approche s’inscrit dans les orientations du PADD du projet de PLUi-HM
+(conforter le cadre de vie des habitants, optimiser l’usage des zones d’activités économiques et
+favoriser une densification respectueuse du contexte urbain et porteuse d’amélioration du cadre
+de vie) et la volonté de densifier les centres urbains présentant une grande mixité fonctionnelle
+tout en assurant une bonne intégration architecturale et paysagère.
+Dans le projet de PLUi-HM de la CU CLM, l’OAP thématique « habitat » consacre une grande
+part à la désirabilité de la densité et au travail des formes urbaines. Elle prescrit de remobiliser
+le foncier bâti sous-utilisé et vacant, de développer les opérations en dents-creuses et de
+repenser les formes urbaines en développent une offre neuve dense et qualitative. Un objectif
+de 70 % d’offre de logements en tissu urbain existant est posé.
+Des densités résidentielles minimales sont imposées pour toute opération d’aménagement en
+extension urbaine (par exemple, 57 logements par ha en centre urbain et 40 dans la couronne
+urbaine) ou en tissu urbain existant de 5 000 m² et plus. Un niveau de densité est également
+prescrit pour toute construction à proximité des transports en commun en site propre.
+De plus, l’AOP incite à la densification douce c’est-à-dire à la densification du tissu urbain
+existant sans modification profonde des formes urbaines grâce à des aménagements du type
+surélévation de bâtiment, extension de façade ou densification de cœur d’ilot.
+Une étude de stratégie foncière identifie les espaces potentiels de densification sur le territoire
+en recensant les friches, le bâti vacant, les grandes parcelles peu bâties en tissu pavillonnaire,
+les espaces peu utilisés au sein des grandes propriétés, les anciens équipements ainsi que le bâti
+dégradé ou les dents creuses situées en centre-ville ou dans les centres bourgs. Cette
+identification a permis d’arrêter des AOP sectorielles définissant 22 projets de densification.
+Une cartographie des gisements fonciers du territoire est visible dans le rapport de présentation
+au sein du document de justification des choix retenus.
+Enfin, le règlement écrit du projet de PLUi-HM identifie des secteurs permettant des efforts de
+densification : règles d’implantation et de gabarit plus souples, hauteur augmentée (+ 1 niveau)
+permettant des surélévations en zones U1 et U2, règles permettant la production de logements
+intermédiaires, de maisons groupées et de petites collectifs en zones à dominante résidentielle,
+règles d’implantation et de gabarits facilitant la réalisation de petits immeubles collectifs en
+
+
+94
+   Selon l’ADEME, en urbanisme, la densité peut s’illustrer de différentes façons : elle est résidentielle quand elle
+exprime le rapport entre le nombre de logement construits ou à construire et une surface donnée, mesurant ainsi
+l’occupation du sol ; elle est humaine quand elle prend en compte le nombre d’habitants sur une surface donnée ;
+elle est bâtie quand elle s’intéresse à la surface construite sur une surface de terrain donnée.
+
+
+
+
+                                                        47
+                                                    COMMUNAUTÉ URBAINE CAEN LA MER
+                         CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+zone de densification dédiée, règles facilitant les extensions et les surévaluations des
+équipements collectifs existants.
+
+
+
+5.4 La prise en compte du risque submersion martine/inondation au travers
+    de la gestion des milieux aquatiques et la prévention des inondations et
+    du projet de PLUi-HM
+
+Depuis le 1er janvier 201895, la CU CLM exerce la compétence relative à la gestion des milieux
+aquatiques et la prévention des inondations (GEMAPI). Elle assume intégralement cette
+compétence obligatoire depuis le 1er janvier 2025 et la dissolution du syndicat mixte de lutte
+contre les inondations dans la vallée de l’Orne et son bassin versant. Elle participe à ce titre aux
+démarches intercommunales réparties sur son territoire en tant qu’adhérente du syndicat mixte
+du bassin de Dives, du syndicat de la Vallée de la Seulles et de l’entente intercommunale du
+bassin versant de l’Odon.
+La CU CLM ambitionne de faire de la GEMAPI un outil d’aménagement du territoire.
+Concrètement, les principales mesures déployées par la CU CLM au cours de la période de
+contrôle ont concerné des travaux de restauration des cours d’eau, canaux et plans d’eau du
+domaine public ou privé, la participation à différents syndicats, l’entretien et la gestion des
+digues et systèmes d’endiguement, la sensibilisation aux risques littoraux, le lancement
+d’études relatives à la réduction de la vulnérabilité des entreprises riveraines du Canal de Caen
+à la mer ou sur une réduction des risques littoraux.
+En 2024, les principaux investissements GEMAPI (1,2 M€) et interventions d’entretien
+(320 000 €) ont porté sur les digues, le réseau d’eau pluviale ou le littoral.
+En 2025, la CU CLM a budgété une somme de 165 000 € pour la poursuite des études visant à
+définir le degré de vulnérabilité au risque submersion/inondation des entreprises situées au bord
+du Canal de Caen à la mer.
+S’agissant des investissements prévus en 2025, ils intéressent pour l’essentiel les risques
+littoraux par la mise en œuvre de deux études consacrées, d’une part, à la faisabilité de
+relocalisation des campings littoraux, des aires des gens du voyage de Mondeville et de
+Ouistreham ainsi que le bâti professionnel situé sur la Presqu’ile (50 000 € en 2025, 75 000 €
+en 2026 et 2027 – subvention FEDER de 80 % de la dépense) et, d’autre part, à la renaturation
+des berges de l’Orne entre Mondeville et Colombelles en vue de réduire le risque inondation en
+conciliant les autres enjeux du cours d’eau (accès au public, prise en compte des réseaux, qualité
+paysagère…) (coût : 19 000 € subventionné à hauteur de 80 % par l’agence de l’eau
+Seine Normandie). Par ailleurs, la CU CLM a décidé, à compter de l’exercice 2025, la création
+d’une réserve foncière mobilisable pour la relocalisation d’équipement ou d’activités et
+d’opérations de renaturation visant à réduire la vulnérabilité du territoire. Elle a alimenté cette
+réserve par la somme de 500 000 €.
+
+
+
+
+95
+  Lois n° 2014-58 du 27 janvier 2014 de modernisation de l’action publique territoriale et d’affirmation des
+métropoles et n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la république.
+
+
+
+
+                                                    48
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Pour financer l’exercice de cette compétence, la CU CLM a institué en 2022 une taxe
+GEMAPI96. Elle a arrêté par délibération le montant de la taxe à 9 € par habitant et un produit
+global de 2,5 M€ par an.
+Ce produit cadre avec les besoins financiers de la CU CLM qui envisage de gros travaux sur
+les systèmes d’endiguement fluviaux et littoraux (4,7 M€) ainsi que la réalisation de bassins de
+lutte contre les inondations (prévisionnel de 3,3 M€ sur la période 2025/2030).
+La chambre observe que l’exercice de la compétence GEMAPI par la CU CLM depuis 2018 a
+permis de redynamiser la démarche de prise en compte du risque submersion/inondation sur le
+territoire.
+De plus, les zones humides du territoire sont identifiées et ont fait l’objet d’une évaluation
+environnementale. La chambre observe qu’elles sont traitées en lien avec la trame verte et
+bleue97 et intégrées au projet de PLUi-HM dans la OAP thématique « environnement ».
+Les orientations du PADD du projet de PLUi-HM de la CU CLM prennent en compte les
+risques identifiés par le SCoT (inondation par débordement, par remontée de nappes ou par
+ruissellement). Le règlement écrit pose des prescriptions pour chacun d’entre eux : interdiction
+de construire ou d’aménager en zones AU, A et N si les ouvrages ou constructions sont
+susceptibles de constituer un obstacle à l’écoulement des eaux, interdiction de construire dans
+les zones soumises à débordement de nappe et restrictions dans celles soumis à des remontées
+sans débordement (sous-sols interdits, réalisation d’étude préalable…), obligation de laisser
+libre de tout aménagement les axes de ruissellement identifiés dès lors que les ouvrages et
+constructions sont susceptibles de dégradation du fait d’une inondation ou de constituer un
+obstacle aux écoulements (interdiction de construire ou d’aménager sur une largeur de
+10 mètres de chaque côté d’un axe). Concernant l’aménagement en zone inondable ou sous le
+niveau de la mer, les constructions nouvelles sont interdites tout comme les clôtures pleines et
+les murs bahuts, les extensions sur constructions existantes uniquement autorisées en zones
+urbanisées et des zones de refuge doivent être créées à l’étage.
+La chambre observe que la CU CLM se dote progressivement de moyens lui permettant
+d’exercer cette compétence, l’approche étant cohérente avec les prévisions du GIEC.
+
+
+5.4.1 Un exemple d’anticipation : le renoncement au projet d’urbanisation de la
+      Presqu’île de Caen
+
+La résilience s’entend de la capacité d’un territoire (personnes, institutions, entreprises…) à
+anticiper, à réagir et se réorganiser face à des évènements chroniques98, de façon à maintenir
+
+
+
+
+96
+   Article 1530 bis du code général des impôts.
+97
+   La « trame verte et bleue » est une politique qui, à l’échelle d’un territoire, vise à préserver et à restaurer un
+réseau de continuités écologiques pour que les espèces animales et végétales puissent circuler, s’alimenter, se
+reproduire, se reposer, assurant ainsi leur cycle de vie.
+98
+   Il s’agit de chocs (incendies, inondations, pandémies, canicules…) ou de stress (manque d’eau, d’infrastructures
+adaptées, de logements…).
+
+
+
+
+                                                        49
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+les fonctions clés du territoire qui permettent à ses habitants de continuer à y vivre et à
+s’épanouir99.
+L’action de la CU CLM sur la Presqu’il de Caen100 et remplit tout ou partie des critères d’une
+approche anticipative et résiliente.
+Concrètement, depuis 2018, par l’intermédiaire de la SPLA Caen Presqu’ile, une ZAC
+« Nouveau Bassin » mixte (200 000 m² de SDP – 80 % habitat (2 500 logements) /
+20 % activités économiques (35 000 m²)) a été approuvée par la commune de Caen et donne
+lieu à différents aménagements dont la CU CLM est en charge.
+Les premières connaissances du secteur ont permis d’établir des dispositifs de sécurité aux
+risques d’inondation et de submersion marine (création d’un volume d’expansion des eaux plus
+vaste, décollement des bâtiments d’un mètre au minimum, couloirs d’écoulement des eaux). Ce
+projet intégrait un scénario d’élévation de niveau de la mer de + 1 mètre à l’échéance 2100.
+Or, les rapports de synthèse du GIEC normand et du Haut conseil sur le climat ont confirmé en
+2023 l’accélération de la montée du niveau de la mer et l’existence d’une marge d’incertitude
+pouvant conduire à une hausse de + 1,85 mètre.
+Ce rapport a conduit à une double réflexion : la révision régulière à la hausse du niveau
+prévisionnel d’élévation de la mer, avec une marge d’incertitude importante, et une
+interrogation quant au lit de l’Orne dans son estuaire du fait de l’élévation du niveau de la mer
+(place des marées dans les décennies à venir). Des études plus récentes ont mis en lumière que
+le site sera impacté, dans l’hypothèse basse d’une élévation à + 1 mètre, par des phénomènes
+d’inondation pendant au moins 100 jours par an.
+Le projet de construction d’un écoquartier a donc été suspendu afin d’entreprendre une vaste
+étude hydraulique dans l’estuaire de l’Orne, permettant d’actualiser le PPRM en 2028. Cette
+suspension a été précédée d’une phase d’information et de concertation avec les différents
+acteurs du site. Elle a entrainé l’annulation du prolongement du tramway vers le Nouveau
+Bassin et la mise en pause d’un projet de passerelle entre la presqu’il et un proche quartier.
+Dans l’attente, la CU CLM a aménagé (dépollution/valorisation des terres) des espaces publics
+sur une surface de 7,7 ha (dont 5 ha d’espaces verts) afin d’en favoriser l’appropriation par la
+population (coût : 3,5 M€ essentiellement pour la phase de dépollution).
+Le projet a connu une évolution récente par la mise en œuvre d’une urbanisation transitoire et
+réversible basée sur un modèle résilient :
+
+
+
+
+99
+   Un système résilient doit être capable de :
+• intégrer les vulnérabilités à son fonctionnement et son organisation ;
+• réactualiser régulièrement ses connaissances et de se préparer à une éventuelle crise (système apprenant et
+    informé) ;
+• réduire durablement voire mettre un terme à l’exposition (système robuste) ;
+• impliquer l’ensemble des parties concernées (système inclusif) ;
+• montrer sa flexibilité et sa réactivité en innovant et en proposant des alternatives, en déployant les moyens
+    existants (système réactif).
+100
+     La Presqu’ile de Caen est située sur les communes de Caen, d’Hérouville Saint-Clair et de Mondeville. Elle
+couvre une surface de 300 ha. Le secteur est en friche et offre différentes opportunités permettant de lutter contre
+l’étalement urbain et respecter le ZAN. Différents aménagements d’importance y ont déjà été réalisés tels que le
+tribunal judiciaire et une bibliothèque.
+
+
+
+
+                                                        50
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+   • le foncier n’est pas vendu, mais mis à la disposition des aménageurs pendant une durée
+     de 50 ans (baux à construction), le modèle économique reposant sur l’exploitation des
+     bâtiments construits ;
+   • les opérateurs seront désignés à l’issue d’une consultation (appel à manifestation
+     d’intérêt) pour une livraison des bâtiments en 2030 ;
+   • les bâtiments doivent pouvoir être déconstruits (urbanisme et installations temporaires)
+     lorsque l’occupation du site sera rendue difficile voire impossible ;
+   • Le site sera restitué à la nature entre 2080 et 2100 si les scénarios les plus pessimistes
+     sont confirmés.
+Cette évolution du projet a, par ailleurs, permis de remobiliser les équipes de la CU CLM qui
+ont dû abandonner le projet initial (nécessitant 10 années de travail) pour une nouvelle stratégie.
+En conséquence, même si le coût de l’action (le renoncement au projet initial) est élevé (coûts
+de l’élaboration du projet sur 10 ans et de sa réorientation, coûts humains notamment liés à
+l’investissement des équipes dans le projet initial, mais également à la décision d’annulation du
+prolongement du tramway, foncier moins valorisé et abandon à terme), la démarche anticipe
+des coûts de l’inaction pouvant s’avérer encore plus élevés en terme de sécurité des personnes
+et de coût des mesures prises dans l’urgence.
+
+
+
+5.5 Une mise en œuvre croissante d’actions fondées sur la nature
+
+Les solutions fondées sur la nature constituent des instruments privilégiés des collectivités
+territoriales et des EPCI pour leurs mesures d’adaptation au changement climatique :
+renaturation de surfaces artificialisées, aménagement d’ilots de fraicheur, végétalisation des
+espaces publics pour réduire les ilots de chaleur. La gestion du cycle de l’eau constitue
+également un pilier de l’adaptation par la désimperméabilisation, la création de plan d’eau, la
+renaturation des berges et la restauration des fonctionnalités naturelles des cours d’eau et la
+prévention des risques.
+
+
+5.5.1 L’intégration de solutions de végétalisation dans les projets d’aménagements
+
+La végétalisation des espaces rend de nombreux services : meilleure infiltration de l’eau,
+amélioration du cadre de vie, lutte contre les ilots de chaleur, lutte contre l’érosion de la
+biodiversité, amélioration de la santé…
+La CU CLM n’a pas établi de plan de végétalisation des espaces publics. Néanmoins, cet
+objectif est intégré à la feuille de route de l’établissement comme l’une des priorités.
+
+
+
+
+                                                51
+                                                      COMMUNAUTÉ URBAINE CAEN LA MER
+                           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+En partenariat avec la commune de Caen et l’Université de Caen, la CU CLM s’est engagée
+dans l’identification des ilots de chaleur urbains (ICU)101102 afin d’en visualiser les effets à
+l’aide de capteurs. Dans le même sens, la CU CLM a répondu à un appel à projet de l’ADEME
+visant à financer des actions permettant la réduction des conséquences des ICU (végétalisation,
+préservation de la biodiversité, aménagements écologiques).
+En 2024, la CU CLM a budgété les sommes de 16 500 € en fonctionnement et 28 000 € en
+investissement pour le projet d’étude sur les ilots de chaleur. Des outils de mesures vont être
+progressivement implantés afin de réaliser une cartographie en temps réel et modéliser le climat
+sur son territoire. Le coût total du projet avoisine 240 000 € financé à hauteur de 56 400 € par
+la CU CLM qui a reçu une aide de 50 000 € de l’ADEME dans le cadre d’un appel à
+manifestation d’intérêt sur la résilience.
+La chambre observe toutefois que cette action figurait déjà dans l’Agenda 21 et que la CU CLM
+a pris un retard dans l’identification des ICU et de leurs causes. Un recensement anticipé des
+ilots de chaleur aurait également pu alimenter les débats autour du projet de PLUi-HM.
+La commune de Caen a néanmoins élaboré une carte utile des ilots de fraicheur montrant la
+bonne répartition sur l’ensemble du territoire de surfaces conséquentes d’espaces verts. La
+chambre invite la CU CLM à encourager cette pratique auprès des communes-membres,
+notamment celles les plus urbanisées.
+Dans l’attente des résultats de l’étude sur les ICU, l’AOP « environnement » du projet de
+PLUi-HM de la CU CLM recommande une approche bioclimatique des aménagements et des
+constructions : recherche d’une orientation des façades permettant de tirer le meilleur profit de
+l’ensoleillement, répartition des surfaces vitrées pour tenir compte des saisons, dispositifs
+occultants (débords de toits, auvents, casquettes, persiennes, brise-soleil…) pour le confort
+d’été, emploi de revêtements et de matériaux réduisant l’absorption de chaleur… De même, les
+dispositions communes du règlement écrit imposent, pour lutter contre le phénomène d’ilot de
+chaleur urbain, d’employer des matériaux absorbant peu le rayonnement solaire et l’emploi de
+revêtements pour les façades et toitures privilégiant les tons clairs et proposant un pouvoir
+réfléchissant élevé.
+Par ailleurs, la CU CLM et les communes membres travaillent à des actions de végétalisation
+des villes. Le rapport de développement durable de la CU CLM fait état de 1 880 arbres et
+arbustes et 3 500 vivaces plantés sur l’ensemble du territoire en 2024.
+Parmi les actions prioritaires de la feuille de route, la CU CLM a accompagné en 2024 la
+création de 10 micro forêts sur le territoire de la commune de Ouistreham. Elle a également
+réalisé en 2023 et 2024, en partenariat avec la commune, l’aménagement du cours d’eau du Vey
+dans la commune de Caron en vue de resserrer son lit et d’en augmenter le débit. Elle a
+également procédé à la plantation d’espèces locales (530 mètres renaturés au total).
+
+
+
+101
+    L’expression ICU fait référence au phénomène d’élévation de température localisé en milieu urbain, notamment
+la nuit. Au plan scientifique, ils constituent des microclimats localisés provoqués par l’activité humaine et/ou
+l’urbanisme. Ils s’amplifient avec le réchauffement climatique.
+102
+    Les principales causes des ICU résultent de la diminution des espaces verts et des sols naturels à cause de
+l’urbanisation (réduction des zones ombragées et d’évapotranspiration), densification des constructions et des
+infrastructures (les bâtiments et routes stockent plus de chaleur que les zones végétalisées), la morphologie des
+villes (étroitesse des rues et hauteur des bâtiments) et rejets de chaleur liés aux activités humaines (circulation,
+climatisation, industrie...).
+
+
+
+
+                                                        52
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+5.5.2 Une gestion des eaux usées                            et   pluviales     et    des     opérations       de
+      désimperméabilisation effectives
+
+En application des dispositions de l’article L. 2224-10 du CGCT103, la CU CLM a approuvé le
+11 mai 2023 les zonages d’assainissement des eaux usées et pluviales104. Ces zonages
+répondent à l’enjeu central d’aménager le territoire en conciliant développement urbain, gestion
+des eaux usées et pluviales, respect des écosystèmes et conditions financières satisfaisantes.
+Dans le projet de PLUi-HM, le CU CLM tire les conséquences des enjeux liés à la gestion des
+eaux usées et pluviales dans l’OAP « environnement ». Elle préconise d’imposer la mise en
+place de principes de gestion, récupération et réutilisation des eaux pluviales au sein des
+nouvelles opérations de construction. De même, différentes OAP sectorielles ciblent des
+programmes locaux d’aménagement pour lesquels des cœurs d’ilots végétalisés et perméables
+aux eaux pluviales, des espaces verts ou des ouvrages perméables spécifiques devront être
+réalisés.
+Par ailleurs, les dispositions du règlement écrit, communes à l’ensemble des zones du projet de
+PLUi-HM, prévoient que les espaces libres de construction doivent notamment intégrer la
+gestion des eaux pluviales.
+Concrètement,      la     CU CLM         s’est     engagées     dans      des    actions    de
+désimperméabilisation/végétalisation des espaces publics. Sur la seule commune de Caen,
+7,5 ha de surfaces ont été désimperméabilisées depuis 2020, essentiellement par le retrait des
+enrobés en pied d’arbres et la plantation de végétaux (pour un coût de 2,7 M€). De même, dans
+la commune de Mondeville, d’importantes opérations ont été entreprises pour végétaliser les
+trottoirs.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+La CU CLM fait face à une complexité accrue dans la mise en œuvre de l’adaptation
+climatique, comparée aux actions d’atténuation déjà structurées. Le territoire, caractérisé par
+sa diversité (urbaine, rurale, littorale) et son dynamisme démographique et économique,
+présente des vulnérabilités spécifiques, notamment liées à l’artificialisation des sols et à la
+concentration urbaine autour de Caen.
+Les principaux risques identifiés sont l’augmentation des températures, la modification du
+régime hydrologique et, principalement, les inondations (crues, submersions marines).
+La CU CLM a engagé plusieurs mesures stratégiques pour maîtriser l’étalement urbain avec
+l’intégration d’objectifs de densification et de sobriété foncière dans le projet de PLUi-HM,
+
+
+103
+    Les communes ou leurs établissements publics de coopération délimitent après enquête publique : les zones où
+des mesures doivent être prises pour limiter l’imperméabilisation des sols et assurer la maîtrise du débit et de
+l’écoulement des eaux pluviales et de ruissellement et les zones où il est nécessaire de prévoir des installations
+pour assurer la collecte, le stockage éventuel et, en tant que de besoin, le traitement des eaux pluviales et de
+ruissellement lorsque la pollution qu’elles apportent au milieu aquatique risque de nuire gravement à l’efficacité
+des dispositifs d’assainissement.
+104
+    Ce document réglementaire est composé d’une notice explicative du zonage, d’un règlement de zonage et des
+cartes de zonages. Il est rendu opposable aux documents d’urbanisme sur le territoire de Caen la mer.
+
+
+
+
+                                                       53
+                                                  COMMUNAUTÉ URBAINE CAEN LA MER
+                       CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+pour renforcer la prévention des inondations (études hydrauliques, entretien des digues,
+renaturation des berges et création d’une réserve foncière pour la relocalisation d’activités
+vulnérables) et pour promouvoir la végétalisation et les désimperméabilisations des sols.
+Avec la suspension et la réorientation du projet d’urbanisation de la Presqu’île de Caen vers
+un modèle transitoire et réversible, anticipant l’élévation du niveau de la mer, la CU CLM a
+su mettre en œuvre une approche résiliente, ce qui doit être souligné de façon tout à fait positive.
+
+
+
+
+                                                54
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                      ANNEXES
+
+Annexe n° 1 : Définitions des volets de la transition écologie........................................ 56
+Annexe n° 2 : Définitions adaptation au changement climatique ................................... 57
+Annexe n° 3 : Axes prioritaires de la feuille de route de la CU CLM ............................ 58
+Annexe n° 4 : Glossaire................................................................................................... 59
+
+
+
+
+                                                                55
+                                                   COMMUNAUTÉ URBAINE CAEN LA MER
+                        CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+             Annexe n° 1 : Définitions des volets de la transition écologie
+
+
+                 Définitions retenues par la chambre régionale des comptes
+
+
+Atténuation des effets du changement climatique : elle fait référence aux mesures prises par
+les pouvoirs publics, les entreprises ou les individus, pour réduire ou éviter les gaz à effet de
+serre (GES) ou pour développer ou renforcer les puits de carbone qui les éliminent de
+l’atmosphère. Les politiques d’atténuation cherchent à éviter une aggravation du dérèglement
+climatique par une action globale à long terme sur les émissions de GES. Les politiques
+d’atténuation supposent une intervention globale et uniforme à l’échelle nationale et
+internationale.
+
+
+Adaptation : elle est définie dans le glossaire du 6e rapport d'évaluation du GIEC comme le
+processus d’ajustement au climat actuel ou futur et à ses impacts, afin d’en modérer les
+dommages ou d’en exploiter les bénéfices potentiels. Les politiques d’adaptation prennent acte
+de la réalité du changement climatique à moyen terme et en anticipent les effets. Les actions
+sont obligatoirement adaptées aux spécificités d’un territoire.
+
+
+Mal-atténuation : elle désigne le renforcement des vulnérabilités futures par des actions
+d’atténuation non pensées dans le cadre du changement climatique : rénovation d’un bâtiment
+pour en améliorer les performances énergétiques, mais non adaptée aux futures vagues de
+chaleur ; installation d’un champ de panneaux photovoltaïques sur des espaces naturels.
+
+
+Maladaptation : elle désigne un processus qui conduit à un accroissement de la vulnérabilité
+au changement climatique ou à une altération des capacités et des opportunités actuelles
+d’adaptation. Elle se concrétise dans trois situations : utilisation inefficace d’une ressource
+(recours à la climatisation plutôt que l’amélioration de l’isolation d’un bâtiment), transfert de
+vulnérabilité d’un système à un autre ou d’une période à une autre réduisant la capacité
+d’adaptation future (plantation d’essences d’arbres à croissance inadaptée ou à rotation trop
+longue, détournement d’un cours d’eau) ou l’erreur de calibrage (digue de protection sous
+proportionnée).
+
+
+Résilience : elle fait référence à la capacité d’un écosystème, d’une société ou d’une entreprise
+à anticiper, à se préparer et à réagir aux impacts du changement climatique. Elle doit permettre
+de réduire les vulnérabilités en anticipant les impacts du changement climatique, de renforcer
+la capacité des écosystèmes et des économies à s’adapter et de maintenir les services et
+fonctions essentiels (alimentation, eau, santé…) face au dérèglement. Elle peut conduire à
+renoncer à projet ou une politique publique.
+Source : Chambre régionale des comptes Normandie d’après sources croisées GIEC, ADEME, Ministère de la
+transition écologique
+
+
+
+
+                                                 56
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+           Annexe n° 2 : Définitions adaptation au changement climatique
+
+
+                 Définitions retenues par la chambre régionale des comptes
+
+
+Un aléa est un événement/phénomène perturbateur se produisant avec une probabilité plus ou
+moins élevée et pouvant entraîner des dommages sur les populations, les activités et les milieux.
+Les aléas sont soit des évolutions tendancielles (augmentation des températures moyennes de
+l’air, évolution du régime des précipitations, diminution de l’enneigement…), soit des
+phénomènes climatiques extrêmes (inondation, canicule, mouvement de terrain, tornade…).
+
+
+Les enjeux décrivent les personnes, biens, activités, écosystème, équipements, patrimoines…
+susceptibles d’être affectés par un événement ou un phénomène et de subir des dommages. Sans
+enjeu, il n’y a pas de risque (par exemple, un terrain exposé à un fort aléa inondation ne présente
+aucun risque s’il n’est pas affecté à une activité humaine).
+
+
+Une vulnérabilité caractérise la fragilité d’un enjeu face à un aléa. Elle dépend du degré
+d’exposition (nature et niveau de ce qui est exposé) et de sensibilité (proportion dans laquelle
+un territoire exposé est susceptible d’être affecté favorablement ou défavorablement par un
+aléa) d’un ou plusieurs enjeux. L’adaptation est la réduction d’une vulnérabilité par diminution
+conjuguée de l’exposition à l’aléa et à ses effets potentiels.
+
+
+Un risque résulte de la combinaison d’un aléa et d’une vulnérabilité. Autrement dit, un risque
+correspond à une situation dans laquelle un enjeu vulnérable est exposé à un aléa.
+
+
+L’aléa suppose une prévision, la vulnérabilité une protection et le risque une prévention.
+Exemple : une vague de chaleur (aléa climatique) peut constituer un risque (une source de
+danger) pour la population, les biens, les activités ou le patrimoine naturel (enjeux) en fonction
+de leur vulnérabilité (exposition ou sensibilité au risque). Si l’exposition d’un territoire aux
+fortes températures est générale, la sensibilité dépendra, notamment, de l’âge et de l’état de
+santé de la population et la résilience sera fonction des politiques publiques mises en œuvre sur
+le territoire.
+Source : Chambre régionale des comptes Normandie d’après sources croisées GIEC, ADEME, Ministère de la
+transition écologique
+
+
+
+
+                                                 57
+                                                   COMMUNAUTÉ URBAINE CAEN LA MER
+                        CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+         Annexe n° 3 : Axes prioritaires de la feuille de route de la CU CLM
+
+
+
+
+Source : Chambre régionale des comptes Normandie d’après la feuille de route « Caen la mer, territoire en
+transition 2030 »
+
+
+
+
+                                                   58
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                 Annexe n° 4 : Glossaire
+
+
+
+
+                                                               Signification
+ AUCAME         Agence d’urbanisme de Caen Normandie Métropole
+ ADEME          Agence de l’environnement et de la maîtrise de l’énergie
+ BBC            Bâtiment basse consommation
+ BEGES          Bilan des émissions de gaz à effet de serre
+ BRGM           Bureau de recherches géologiques et minières
+ CCAS           Centre communal d’action social
+ CEE            Certificat d'économie d'énergie
+ CGCT           Code général des collectivités territoriales
+ CO2            Dioxyde de carbone
+ CETEC          Contrat territorial eau et climat
+ CU CLM         Communauté urbaine Caen la mer
+ DDTM           Direction Départementale des Territoires et de la Mer
+ DREAL          Directions régionales de l'environnement de l'aménagement et du logement
+ DSIL           Dotation de soutien à l’investissement local
+ EPCI           Établissement public de coopération intercommunale
+ EnR            Énergies renouvelables ou de récupération
+ FEDER          Fonds européen de développement régional
+ GEMAPI         Gestion des milieux aquatiques et la prévention des inondations
+ GES            Gaz à effet de serre
+ GIEC           Groupe d’experts intergouvernemental sur l’évolution du climat
+ GNV            Gaz naturel pour véhicule
+ ICU            Ilots de chaleur urbains
+ INSEE          Institut national de la statistique et des études économiques
+ LED            Light-emitting diode (diode électroluminescente)
+ LTECV          Loi de transition énergétique pour la croissance vert
+ MWh            Mégawattheure
+ NOTRé          Nouvelle organisation territoriale de la République
+ OAP            Orientations d’aménagement et de programmation
+ PADD           Projet d’aménagement et de développement durable
+ PAPI           Programme d’actions de prévention des inondations
+ PCAET          Plan climat air énergie territorial
+ PLUi           Plan local d’urbanisme intercommunal
+ PLUI – HM      Plan local d'urbanisme intercommunal valant Programme Local de l'Habitat et plan de Mobilité
+ PPRi           Plan de prévention du risque inondation
+
+
+
+
+                                                      59
+                                      COMMUNAUTÉ URBAINE CAEN LA MER
+           CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+                                                     Signification
+PPRM      Plan de prévention multirisques
+SCoT      Schéma de cohérence territoriale
+SDE       Schéma directeur de l’énergie
+SDEC      Syndicat départemental d’énergies du Calvados
+SRADDET   Schéma régional d’aménagement, de développement durable et d’égalité des territoires
+TEPCV     Territoires à énergie positive pour la croissance verte
+TRI       Territoire à risques importants d’inondations
+VFE       Véhicules à faibles émissions
+VTFE      Véhicules à très faibles émissions
+ZAN       Zéro artificialisation net
+ZFE       Zone à faibles émissions
+
+
+
+
+                                             60
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                        ANNEXES DES RÉPONSES
+
+Président de la communauté urbaine Caen la mer ......................................................... 62
+M. Joël Bruneau .............................................................................................................. 66
+
+
+
+
+                                                                  61
+                                              COMMUNAUTÉ URBAINE CAEN LA MER
+                   CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+
+               RÉPONSE DE MONSIEUR LE PRÉSIDENT,
+               COMMUNAUTÉ URBAINE CAEN LA MER
+
+
+
+
+(*) Cette réponse jointe au rapport engage la seule responsabilité de son auteur,
+conformément aux dispositions de l’article L. 243-5 du code des juridictions
+financières.
+
+
+
+
+                                       62
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     63
+                           COMMUNAUTÉ URBAINE CAEN LA MER
+CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+
+                   64
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     65
+                                              COMMUNAUTÉ URBAINE CAEN LA MER
+                   CAHIER N° 2 : ACTIONS EN FAVEUR DE LA TRANSITION ÉCOLOGIQUE
+
+
+
+
+              RÉPONSE DE MONSIEUR JOËL BRUNEAU,
+                   ANCIEN PRÉSIDENT DE LA
+              COMMUNAUTÉ URBAINE CAEN LA MER
+
+
+
+
+(*) Cette réponse jointe au rapport engage la seule responsabilité de son auteur,
+conformément aux dispositions de l’article L. 243-5 du code des juridictions
+financières.
+
+
+
+                                       66
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     67
+« La Société a le droit de demander compte à tout agent public de son administration »
+          Article 15 de la déclaration des Droits de l’Homme et du Citoyen
+
+
+
+
+                   Chambre régionale des comptes Normandie
+                                21 rue Bouquet
+                                   CS 11110
+                            76174 ROUEN Cedex
+                              Tél. 02 35 07 92 00
+                       www.ccomptes.fr/fr/crc-normandie
+

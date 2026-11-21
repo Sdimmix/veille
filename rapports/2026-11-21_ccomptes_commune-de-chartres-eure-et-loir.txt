@@ -1,0 +1,2959 @@
+TITRE: Commune de Chartres (Eure-et-Loir)
+PAGE: https://www.ccomptes.fr/fr/publications/commune-de-chartres-eure-et-loir-4
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/CVLR%202026-022%20-%20CHARTRES_ROD2_2026.pdf
+
+       RAPPORT D’OBSERVATIONS DÉFINITIVES
+                           ET SA RÉPONSE
+
+
+                          COMMUNE DE CHARTRES
+
+                                          (Département d’Eure-et-Loir)
+
+                                                                            Exercices 2019 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés,
+                      a été délibéré par la chambre le 24 juin 2026.
+
+
+
+
+            15, rue d'Escures ◼ 45000 ORLÉANS ◼ T +33 2 38 78 96 00 ◼ centrevaldeloire@crtc.ccomptes.fr
+                                                 www.ccomptes.fr
+                                                                                                     COMMUNE DE CHARTRES
+
+
+
+
+                                            TABLE DES MATIÈRES
+
+
+SYNTHÈSE...................................................................................................................... 5
+RECOMMANDATIONS ................................................................................................ 7
+INTRODUCTION ........................................................................................................... 8
+     1 DES OUTILS MIS EN PLACE EN MATIÈRE DE GOUVERNANCE ET
+       DE DÉONTOLOGIE, MAIS DES FRAGILITÉS PERSISTANTES ................... 10
+        1.1 Un dispositif de prévention des risques d'atteinte à la probité à compléter ..... 10
+        1.2 Des règles de déport respectées ........................................................................ 11
+        1.3 Une information erronée du conseil municipal sur les indemnités versées
+            aux élus ............................................................................................................. 12
+        1.4 Des progrès dans la justification des frais de réception et de restauration ....... 12
+        1.5 Une protection fonctionnelle irrégulièrement octroyée.................................... 13
+            1.5.1 Une décision d’octroi signée par une personne non habilitée ................. 13
+            1.5.2 Des dépenses de montant significatif prises en charge sans contrôle ..... 15
+        1.6 Un contrôle rendu impossible de l’indemnité pour frais de représentation
+            du maire ............................................................................................................ 17
+     2 UNE QUALITÉ ET UNE FIABILITÉ DE L’INFORMATION
+       BUDGÉTAIRE ET COMPTABLE INSUFFISANTES ........................................ 19
+        2.1 Une publicité sur le site internet de la commune à parfaire ............................. 20
+        2.2 Des annexes incomplètes, erronées voire manquantes ..................................... 20
+        2.3 Des inventaires non concordants avec les éléments du bilan ........................... 21
+        2.4 Une régularisation tardive des comptes des travaux en cours .......................... 22
+        2.5 Une absence de mise en œuvre de l’amortissement au prorata temporis ........ 23
+        2.6 Un financement irrégulier de la société publique locale (SPL) C’ Chartes
+            Aménagement par le biais d’avances de trésorerie .......................................... 23
+        2.7 Des provisions insuffisamment comptabilisées ............................................... 25
+        2.8 Des erreurs multiples d’imputation .................................................................. 26
+     3 UN BUDGET PRINCIPAL AUX RATIOS FINANCIERS FAVORABLES ...... 27
+        3.1 Une capacité d’autofinancement de bon niveau ............................................... 27
+            3.1.1 Des produits de gestion en hausse constante ........................................... 28
+            3.1.2 Un rythme moins rapide de progression des charges de gestion,
+                  grâce à des dépenses de personnel maîtrisées ......................................... 29
+        3.2 Un effort d’investissement principalement financé par des ressources
+            propres, mais ayant également nécessité un recours accru à l’emprunt ........... 32
+        3.3 Un niveau d’endettement à surveiller ............................................................... 33
+        3.4 Un fonds de roulement et une trésorerie rétablis .............................................. 35
+     4 LA SITUATION PRÉOCCUPANTE DU BUDGET ANNEXE
+       AMÉNAGEMENTS .............................................................................................. 37
+        4.1 Un défaut général de fiabilité du compte financier unique .............................. 37
+
+
+
+
+                                                                     3
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+             4.1.1 Un schéma comptable irrégulier pour l’enregistrement des
+                   participations du budget principal au budget annexe .............................. 37
+             4.1.2 Des rattachements de recettes injustifiés ................................................. 38
+             4.1.3 Des comptes de stock artificiellement majorés ....................................... 39
+        4.2 Une soutenabilité financière très incertaine des opérations ............................. 41
+ANNEXES ...................................................................................................................... 44
+        Annexe n° 1. Procédure .......................................................................................... 45
+        Annexe n° 2. Écarts entre l’actif immobilisé et l’inventaire comptable
+           (budget principal, en valeur brute) ................................................................... 46
+        Annexe n° 3. Mesures à caractère général en matière de rémunérations
+           décidées au niveau national entre 2019 et 2024 ............................................... 49
+        Annexe n° 4. Tableau d’analyse financière - budget principal - performances
+           financières annuelles et auto-financement ....................................................... 51
+        Annexe n° 5. Tableau d’analyse financière – budget principal – financement
+           des investissements........................................................................................... 52
+        Annexe n° 6. Ressources humaines – suivi des effectifs ....................................... 53
+        Annexe n° 7. Liste des abréviations ....................................................................... 55
+        Annexe n° 8. Réponse ............................................................................................ 56
+
+
+
+
+                                                                   4
+                                                                      COMMUNE DE CHARTRES
+
+
+
+
+                                      SYNTHÈSE
+
+L’essentiel
+La chambre régionale des comptes a contrôlé les comptes et la gestion de la commune de
+Chartres sur les exercices 2019 et suivants. La collectivité présente une situation financière
+favorable en apparence, mais cette appréciation positive est à nuancer compte tenu d’importants
+défauts de fiabilité comptable et, surtout, de risques majeurs portés par un budget annexe.
+Quelques progrès restent également à accomplir en matière de gouvernance et d’outils
+déontologiques et de contrôle interne.
+
+
+
+               Un budget principal aux indicateurs financiers favorables, mais des
+               comptes à la qualité insuffisante
+
+        Le budget principal présente une situation financière globalement favorable. Les
+dépenses de personnel ont été contenues, grâce notamment à la politique de mutualisation
+engagée avec la communauté d’agglomération. Ainsi porté par un rythme de progression des
+recettes plus dynamique que celui des charges, le budget principal a dégagé une capacité
+d’autofinancement de bon niveau au cours de la période contrôlée, qui a permis de concourir à
+l’intense effort d’investissement.
+        Cette appréciation doit toutefois être nuancée compte tenu de la progression de
+l’endettement et du coût de la dette, qui appellent une vigilance accrue pour l’avenir.
+      Par ailleurs, ces résultats sont assis sur des comptes dont la qualité demeure insuffisante.
+Notamment, l’inventaire, les immobilisations en cours, les provisions et certaines imputations
+comptables présentent des anomalies qui en obèrent en partie la fiabilité.
+
+
+               La situation préoccupante du budget annexe « aménagements »
+
+      En matière financière, le principal point de vigilance concerne surtout le budget annexe
+aménagements, créé pour la gestion de l’opération de la ZAC Beaulieu – Les Clos.
+       Les comptes de ce budget annexe sont affectés de lacunes importantes, notamment en
+matière de rattachement des recettes et de comptabilisation des stocks. L’absence de
+détermination du coût de revient des lots empêche une appréciation sincère de la soutenabilité
+financière de l’opération, ainsi que des pertes à terminaison qui se profilent et qui sont
+susceptibles d’être supportées in fine par le budget principal.
+
+
+
+
+                                                5
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+               Des outils de gouvernance à améliorer et une indemnité de frais de
+               représentation insuffisamment encadrée
+
+        Des fragilités en matière de gouvernance et de contrôle interne ont également été
+identifiées, même si des progrès ont été enregistrés au cours de la période. Le dispositif de
+recueil et de traitement des signalements des lanceurs d’alerte reste à formaliser, et
+l’information sur les indemnités versées aux élus, systématiquement minorées dans les états
+afférents, a été tardive et incomplète.
+        Surtout, en l’absence de production des pièces justificatives, il n’a pas été possible à la
+chambre de vérifier que l’indemnité forfaitaire pour frais de représentation versée au maire
+avait fait l’objet d’un usage régulier, dans le seul intérêt des affaires communales.
+
+
+       À l’issue de son contrôle, la chambre a émis cinq recommandations. Elle examinera
+leur mise en œuvre dans un délai d’une année, après présentation au conseil municipal,
+conformément aux dispositions de l’article L. 243-9 du code des juridictions financières
+(CJF).
+
+
+
+
+                                                6
+                                                                      COMMUNE DE CHARTRES
+
+
+
+
+                            RECOMMANDATIONS
+
+Recommandation n° 1. : Adopter un dispositif interne de recueil et de traitement des
+signalements émis par les agents publics en application de la loi n° 2016-1691 du
+9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation
+de la vie économique et de ses textes d’application (p. 11).
+
+Recommandation n° 2. (maire) : Conserver les pièces justificatives des dépenses engagées au
+titre des frais de représentation du maire, permettant d’attester la régularité de l’emploi de
+l’indemnité forfaitaire allouée (p. 18).
+
+Recommandation n° 3. : S’assurer sans délai de l’exhaustivité, de la complétude et de la
+fiabilité des informations figurant dans les annexes aux documents budgétaires (p. 21).
+
+Recommandation n° 4. : Respecter le caractère infra-annuel des avances de trésorerie
+consenties aux sociétés d’économie mixte et sociétés publiques locales conformément à
+l’instruction budgétaire et comptable M 57 (p. 25).
+
+Recommandation n° 5. : Calculer un coût de revient pour chaque lot de la ZAC Beaulieu –
+Les Clos afin de fiabiliser sans tarder la comptabilisation du stock de terrains aménagés (p. 43).
+
+
+
+
+                                                7
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                      INTRODUCTION
+
+        Le contrôle des comptes et de la gestion de la commune de Chartres à compter de
+l’exercice 2019 a été inscrit au programme 2025 de la chambre régionale des comptes Centre-
+Val de Loire, sur le fondement des articles L. 211-3 et L. 211-4 du code des juridictions
+financières (CJF).
+         L’ouverture du contrôle a été notifiée à l’ordonnateur en fonction au cours de la période
+contrôlée par lettre de la présidente du 14 mars 2025. L’entretien de fin de contrôle prévu à
+l’article L. 243-1 du CJF s’est tenu le 12 novembre 2025. L’ensemble des étapes de la procédure
+est présenté en annexe n° 1.
+      De 2019 à mars 2026, M. Jean-Pierre Gorges a été maire de Chartres et président de la
+communauté d'agglomération Chartres Métropole. À la suite des élections municipales de 2026,
+M. Ladislas Vergne lui a succédé le 28 mars 2026.
+        La commune comptait 39 511 habitants au 1er janvier 20231, ce qui en fait l'une des dix
+communes les plus peuplées de la région Centre-Val de Loire. Vieillissante2 et en déclin depuis
+2010, sa population connaît un rebond depuis 2021. Les taux de pauvreté et de chômage sont
+supérieurs à la moyenne régionale3. La commune compte deux quartiers prioritaires de la
+politique de la ville, abritant 13,4 % des habitants.
+        Le bassin d’emploi de Chartres se distingue par une économie principalement orientée
+vers le secteur tertiaire marchand et par des spécialités industrielles dans les secteurs chimique
+et pharmaceutique. Entre 2015 et 2021, le taux annuel moyen de variation de l'emploi total 4
+s'élevait à 0,8 %, dépassant ainsi les niveaux régional (0,1 %) et national (0,6 %).
+        Située à égale distance (près de 85 km) de Paris et d'Orléans, la commune de Chartres,
+classée station de tourisme par décret ministériel du 13 septembre 2013, accueille 1,5 million
+de visiteurs5 chaque année, dont un tiers d'étrangers. Ce statut emporte surclassement de la
+commune dans la catégorie des communes de 40 000 à 80 000 habitants.
+       Depuis le 1er janvier 2011, la commune est membre de la communauté d’agglomération
+Chartres Métropole qui regroupe, en 2025, 66 communes et 140 292 habitants6, dont 28 %
+résident à Chartres. Elle est également au cœur d’un tissu public local dense, participant à six
+sociétés publiques locales (SPL) - dont la SPL C’Chartres Aménagement -, quatre sociétés
+d’économie mixte (SEM) - dont deux sociétés d’économie mixte à opération unique
+(SEMOP) -, un groupement d’intérêt public, un établissement public à caractère industriel et
+
+
+        1
+            Source INSEE, population légale en vigueur au 1er janvier 2023.
+        2
+            La part des personnes âgées de plus de 60 ans est passée de 24,4 % en 2010 à 28,1 % en 2021 et le
+nombre de naissances a baissé sur la période 2014-2021 de 15,2 %. La natalité continue de baisser et l’année 2023
+enregistrait 415 naissances, soit le niveau le plus bas depuis 10 ans.
+          3
+            En 2021, le taux de pauvreté s’établit à 16 % contre 13,5 % pour la moyenne régionale. Le taux de
+chômage est de 12,9 %, contre 11,5 %.
+          4
+            Le taux annuel moyen de variation de l’emploi total mesure l’évolution moyenne par an de l’emploi sur
+une période donnée (plusieurs années), en lissant les hausses et les baisses.
+          5
+            Ces derniers sont notamment attirés par la cathédrale Notre-Dame, inscrite en 1979 sur la liste du
+patrimoine mondial par l'UNESCO et qui a célébré son millième anniversaire en 2025.
+          6
+            D’après la base nationale sur l’intercommunalité et autres collectivités (BANATIC) du ministère de
+l’Intérieur - Recensement de la population en 2025 (millésimée 2022).
+
+
+
+
+                                                       8
+                                                                      COMMUNE DE CHARTRES
+
+
+
+
+commercial, une régie métropolitaine de traitement et valorisation des déchets et un groupement
+d’intérêt économique.
+        L'intégration de la commune dans cet ensemble interconnecté se traduit dans
+l'organisation spatiale, plusieurs entités ayant fixé leur siège en mairie. C’est la directrice
+générale des services (DGS) de la commune et de la communauté d’agglomération qui est
+également chargée d’animer, accompagner et superviser le réseau des filiales.
+        Le présent rapport aborde successivement la gouvernance et la prévention des atteintes
+à la probité, la fiabilité des informations budgétaires et comptables et la situation financière du
+budget principal. Enfin, une dernière partie est consacrée à la gestion du budget annexe
+aménagement.
+
+
+
+
+                                                9
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1 DES OUTILS MIS EN PLACE EN MATIÈRE DE
+  GOUVERNANCE ET DE DÉONTOLOGIE, MAIS DES
+  FRAGILITÉS PERSISTANTES
+
+
+1.1 Un dispositif de prévention des risques d'atteinte à la probité à
+    compléter
+
+     En matière de lutte contre les atteintes à la probité, diverses obligations s’imposent à la
+commune. La plupart d’entre elles ont été respectées.
+         Ainsi, la charte de l’élu local prévue par la loi n° 2015-366 du 31 mars 2015 visant à
+faciliter l'exercice de leur mandat par les élus locaux, qui constitue un socle de règles éthiques,
+a été adoptée lors du conseil municipal du 27 mai 2020, dans le respect des formalités prévues
+à l’article L. 2121-7 du code général des collectivités territoriales (CGCT)7. De même, par
+délibération du 11 mai 2023, la commune a approuvé une charte des administrateurs applicables
+à ses représentants dans les structures satellitaires (entreprises publiques locales (EPL),
+notamment), rappelant les obligations en matière de conflits d’intérêts, de prévention de la
+corruption, de confidentialité et de lutte contre le blanchiment.
+        Depuis 2022, un suivi régulier des données financières des EPL est effectué. Un comité
+de suivi des comptes se réunit chaque année en présence de l’expert-comptable et des
+commissaires aux comptes. Le service interne du contrôle de gestion procède trimestriellement
+à une analyse détaillée des données financières de chaque entité et mentionne, pour certaines,
+les risques inhérents par activité. Les tableaux font l’objet d’une restitution à l’élu référent des
+EPL et à la DGS, le maire en étant informé lors des comités de direction hebdomadaires. Par
+ailleurs, un référent déontologue pour les élus a été désigné par délibération du 20 juin 2024
+(aucune saisine à ce jour).
+        En ce qui concerne les agents publics, une charte déontologique a été délibérée en juin
+2023, qui reprend les droits et obligations de l’agent, rappelle les règles en matière de probité
+et doit être signée de chacun. Présentée aux membres du comité social territorial et en comité
+de direction élargi, les agents de la commune y ont par ailleurs été sensibilisés. Depuis 2018, la
+mission de référent déontologue-laïcité pour les agents, dont les conditions de saisine sont
+précisées dans la charte, est assurée par le centre départemental de gestion de la fonction
+publique territoriale d’Eure-et-Loir8.
+       Il reste toutefois qu’en application des dispositions de l’article 8 de la loi
+du 9 décembre 2016 dite « loi Sapin 2 »9, toute commune qui emploie plus de cinquante agents
+
+
+
+
+        7
+          Le maire doit donner lecture de ce document lors de la séance d’installation faisant suite au
+renouvellement de l’assemblée municipale et le remettre aux élus (article L. 2121-7 du CGCT).
+        8
+          Ce dernier a enregistré deux saisines en 2022 puis onze entre 2022 et 2025.
+        9
+          Loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la
+modernisation de la vie économique.
+
+
+
+
+                                                       10
+                                                                                     COMMUNE DE CHARTRES
+
+
+
+
+est tenue de mettre en place une procédure interne de recueil et de traitement des signalements10.
+Ces derniers peuvent notamment porter sur un crime, un délit, une menace ou un préjudice pour
+l'intérêt général, une violation ou une tentative de dissimulation d'une violation de la loi ou du
+règlement. En l’espèce, si la commune indique avoir mis en place une procédure de signalement
+et de traitement des actes de violence, de discrimination, de harcèlement et d’agissements
+sexistes, ce dispositif ne prévoit pas les modalités et les garanties nécessaires en matière de
+recueil et de traitement des signalements émis par des lanceurs d’alerte.
+        Dans le cadre de l’élaboration annoncée d’une cartographie des risques d’atteinte à la
+probité, la chambre recommande donc à la commune de compléter la démarche en adoptant un
+dispositif de recueil et de traitement des signalements émis par les lanceurs d’alerte, tel qu’il
+est défini dans la circulaire du 26 juin 2024 du ministère de la transformation et de la fonction
+publiques11.
+
+
+Recommandation n° 1. : Adopter un dispositif interne de recueil et de traitement des
+signalements émis par les agents publics en application de la loi n° 2016-1691 du
+9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la
+modernisation de la vie économique et de ses textes d’application.
+
+        En réponse au rapport d’observations provisoires, l’ancien ordonnateur a indiqué qu’une
+nouvelle procédure interne de recueil et de traitement des signalements au sens des articles 6 à
+15 de la loi du 9 décembre 2016 modifiée, serait formalisée en créant un dispositif auprès de la
+direction juridique de la collectivité.
+
+
+
+1.2 Des règles de déport respectées
+
+         L’article L. 1111-6 du CGCT, dans sa version entrée en vigueur le 23 février 2022,
+clarifie les règles de prévention des conflits d’intérêts12 pour les élus municipaux qui participent
+également aux organes décisionnels d’une autre personne morale publique ou privée.
+       En l’espèce, l'examen des délibérations adoptées depuis février 2022 révèle une correcte
+application du dispositif en matière de déports, à l’unique exception d'une délibération
+du 21 mars 2024 portant sur l'une des concessions d'aménagement conclues avec la SPL
+
+
+         10
+             Décret n° 2022-1284 du 3 octobre 2022 relatif aux procédures de recueil et de traitement des
+signalements émis par les lanceurs d'alerte et fixant la liste des autorités externes instituées par la loi n° 2022-401
+du 21 mars 2022 visant à améliorer la protection des lanceurs d'alerte fixe les modalités de mise en œuvre de cette
+disposition.
+         11
+            Circulaire du 26 juin 2024 relative à la procédure de signalement des alertes émises par les agents
+publics et aux garanties et protections qui leur sont accordées dans la fonction publique dans le cadre des articles
+6 à 15 de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la
+modernisation de la vie économique modifiée par la loi n° 2022-401 du 21 mars 2022 visant à améliorer la
+protection des lanceurs d’alerte
+         12
+            Article 2 de la loi n° 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique :
+« constitue un conflit d’intérêts toute situation d’interférence entre un intérêt public et des intérêts publics ou
+privés, qui est de nature à influencer ou à paraître influencer l’exercice indépendant, impartial et objectif d’une
+fonction ».
+
+
+
+
+                                                         11
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Chartres Aménagement. Lors du vote de cette délibération, deux membres du conseil municipal
+ne se sont pas déportés pour l'élu qu'ils représentaient.
+       Afin que cette situation ne se répète pas, la commune a annoncé qu'à partir de
+septembre 2025, un rappel préalable serait effectué avant chaque vote concernant l'obligation,
+pour les élus disposant d'un pouvoir, de se déporter en cas de conflit d'intérêts potentiel.
+
+
+
+1.3 Une information erronée du conseil municipal sur les indemnités
+    versées aux élus
+
+        Conformément à l’article L. 2123-24-1-1 du CGCT, les communes doivent établir
+un état chiffré présentant l’ensemble des indemnités de toute nature dont bénéficient les élus
+siégeant au conseil municipal, au titre de tout mandat ou de toutes fonctions exercées en leur
+sein et au sein de tout syndicat, toute société ou filiale de ces sociétés. Cet état est communiqué
+chaque année aux conseillers municipaux avant l’examen du budget.
+        Alors que cette obligation devait être mise en œuvre avant le 15 avril 2021, le premier
+état, portant sur les indemnités versées en 2022, n’a été présenté aux élus que lors du conseil
+municipal du 9 mars 2023, à l’occasion du débat d’orientation budgétaire. En outre, l’état doit
+rendre compte des « indemnités de toute nature », dont les avantages en nature ou sous forme
+de sommes en numéraire. Or, sa colonne « frais remboursés » n’a pas été renseignée pour les
+exercices 2023 et 2024, bien que de tels remboursements aient été enregistrés au bénéfice de
+certains élus sur cette période (notamment 4 253,13 €13 en 2024).
+        Enfin, de nombreuses irrégularités dans l’établissement de ces états, reconnues par
+la commune au cours de l’instruction, ont été mises au jour. Elles relèvent d’oublis ou d’erreurs
+matérielles, ou sont la conséquence d’une production tardive des informations provenant des
+SPL sur les salaires versés. Sur la période 2022-2024, les montants présentés dans les états ont
+ainsi été systématiquement minorés, révélant un écart de 24 % en moyenne sur les deux derniers
+exercices – sachant que le montant global des indemnités versées aux élus (hors frais de
+représentation), tous mandats confondus, s’établissait à 0,6 M€ en 2024.
+       Dans sa réponse aux observations provisoires, l’ancien ordonnateur a indiqué avoir mis
+en place un contrôle renforcé des données présentées dans l’état accompagnant le rapport
+d’orientation budgétaire pour 2026, sans plus de justifications.
+
+
+
+1.4 Des progrès dans la justification des frais de réception et de
+    restauration
+
+       Selon l’instruction budgétaire et comptable M 57, les dépenses engagées à l’occasion
+des fêtes ou cérémonies nationales et locales sont imputées au compte 6232 - Fêtes et
+cérémonies et les frais de réceptions (organisés hors du cadre de ces fêtes et cérémonies) au
+
+
+       13
+            Cf. grands livres du budget principal 2024 (compte 65312 - frais de mission et déplacements).
+
+
+
+
+                                                       12
+                                                                                 COMMUNE DE CHARTRES
+
+
+
+
+compte 6234 - Réceptions. Les justificatifs des frais de réception, produits aux fins de prise en
+charge par la collectivité, doivent mentionner le nom, la qualité des convives et l'objet de la
+réunion ou, à tout le moins, une attestation de l’organisateur de la réception indiquant son
+objet14. Ces mêmes règles s’appliquent, quelle que soit l’imputation comptable retenue, pour
+les factures de restaurant.
+        Hormis lors des exercices 2020 et 2021, marqués par la crise sanitaire, les frais de
+réception ont subi une diminution de 48 % sur la période 2019-2024. Dans une moindre mesure,
+les dépenses liées aux fêtes et cérémonies ont baissé de 20 %, passant de 0,18 M€ en 2019 à
+0,14 M€ en 2024. Pour l’appréciation de ces taux respectifs, certaines dépenses ont toutefois
+été comptabilisées par erreur au compte 6234 au lieu du compte 6232 (cf. infra partie 2 relative
+à la fiabilité).
+         En plus des dépenses liées à des événements majeurs (14 juillet, fête des lumières et
+inaugurations), les frais de restauration correspondent principalement à des repas de travail
+réunissant des élus. L'examen des documents comptables15 des années 2022 et 2023 a révélé
+une amélioration des pratiques en matière de justification de ces dépenses. En 2022, le montant
+des dépenses insuffisamment justifiées (dans la plupart des cas, la liste des participants au repas
+n'était pas fournie) s'élevait à 11 000 €, mais n'était plus que de 1 700 € en 2023.
+        La chambre relève cependant que des frais de restauration imputés au compte 6288, dont
+certains potentiellement assimilables à des frais de représentation, ont été pris en charge ou
+remboursés au directeur de cabinet durant les exercices 2022 et 2023, sans qu’aucune
+délibération ne l’ait préalablement autorisé. Les montants sont toutefois restés limités et ont
+diminué (1 609,40 € en 2022 et 217,40 € en 2023).
+
+
+
+1.5 Une protection fonctionnelle irrégulièrement octroyée
+
+        De 2019 à mars 2025, 92 agents ont bénéficié d’une protection fonctionnelle. Si certains
+honoraires d’avocats ont été pris en charge au travers de contrats d’assurances, la majeure partie
+des frais engagés a été supportée par la commune et a concerné la procédure pénale engagée
+contre un ancien directeur général des services (DGS).
+
+
+1.5.1 Une décision d’octroi signée par une personne non habilitée
+
+       En mars 2023, un ancien DGS mutualisé entre la commune de Chartres et la
+communauté d’agglomération Chartres Métropole a sollicité la protection fonctionnelle. Mis en
+cause pour « complicité d’abus d’autorité » dans le cadre d’une opération de préemption et de
+modification de zone d’aménagement concerté (ZAC) durant la période 2014-2019, cette
+
+
+
+        14
+           Décision du Conseil d’État du 23 décembre 2015, n° 376324.
+        15
+            Méthodologie : vérification que les dépenses comptabilisées aux comptes 6232 et 6234 portant
+remboursement de frais de restauration ou mandatées directement à des restaurants étaient motivées et que la liste
+des convives était produite. Un examen du compte 6288 - divers-autres a également été réalisé, des dépenses de
+restauration ayant été comptabilisées sur ce compte.
+
+
+
+
+                                                       13
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+protection lui a été accordée dans un courrier du 7 avril 2023, signé de la DGS de la commune
+alors en fonctions.
+         L’octroi de la protection fonctionnelle est une compétence propre du maire16, qui peut
+faire l’objet d’une délégation en application des dispositions de l’article L. 2122-19 du CGCT.
+       En l’espèce, la délégation de signature consentie à la DGS par arrêté du maire
+    er
+du 1 octobre 2022 se limitait aux actes « ne présentant pas de caractère décisionnel », dont
+des « correspondances », et aux « actes subséquents relatifs aux actes décisionnels dans les
+matières non déléguées aux adjoints, conseillers municipaux délégués et directeurs généraux
+adjoints et en cas d’absence ou d’empêchement des adjoints et conseillers municipaux délégués
+ayant reçu délégation ».
+        Or, le courrier accordant la protection fonctionnelle revêt le caractère d’une décision,
+car il emporte des droits pour le demandeur et des obligations de paiement pour la collectivité.
+Rien n’établit que ce courrier n’aurait été que la simple formalisation d’une décision préalable
+du maire. De fait, la décision prise par la DGS excédait le champ de la délégation qui lui avait
+été consentie le 1er octobre 2022.
+       Au cours de l’instruction, puis ensuite dans sa réponse aux observations provisoires,
+l’ancien ordonnateur a tenté de fonder la décision de la DGS en excipant plusieurs actes de
+délégation. En l’espèce, aucune de ces justifications successives n’apparaît valide.
+        Un arrêté du 20 mars 2023 a d’abord été invoqué. Celui-ci donne délégation au directeur
+général adjoint (DGA) ressources et innovation17 pour signer « les actes relatifs à la protection
+fonctionnelle des agents » et prévoit qu'en cas d'absence ou d'empêchement, ce pouvoir est
+exercé « dans les limites identiques » par la DGS. Or, d’une part, cet empêchement n’a pas été
+établi et, d’autre part, le DGA n’avait reçu délégation que pour signer « les déclarations
+diverses (protection juridique des agents et des élus) ». Or, la décision d’octroi de la protection
+fonctionnelle ne peut être regardée comme une simple déclaration quelconque, compte tenu
+notamment des engagements financiers qu’elle emporte.
+        Quant à l’arrêté du 11 avril 2023 par lequel la troisième adjointe au maire en charge de
+l’urbanisme et des travaux a reçu délégation « pour intenter au nom de la commune de Chartres
+les actions en justice ou défendre la commune de Chartres dans les actions intentées contre elle
+dans les cas suivants dans les contentieux en matière d’urbanisme : (…) pour la protection
+fonctionnelle des agents (…) », il est postérieur à la décision d’octroi en cause et ne peut donc
+valablement la fonder.
+        En dernier lieu, dans sa réponse au rapport d’observations provisoires, l’ancien
+ordonnateur a invoqué l’urgence à prendre la décision, ainsi qu’une délégation consentie à la
+DGS en cas d’absence ou d’empêchement du maire. Toutefois, le caractère d’urgence allégué
+n’est nullement établi, dès lors que treize jours se sont écoulés entre la demande de protection
+fonctionnelle et la décision litigieuse et que la convention conclue avec l’avocat de l’ancien
+DGS n’a été signée que le 28 avril 2023. En outre, l’empêchement, là encore, n’est pas justifié.
+Enfin, l’arrêté du 1er octobre 2022 ne déléguait à la DGS que la signature des actes de gestion
+courante. Or, ainsi qu’il a été dit, l’octroi de la protection fonctionnelle ne saurait être regardé
+comme un simple acte de gestion courante.
+
+
+
+         16
+              CAA de Lyon, 3e chambre, 26 avril 2018, 16LY02029.
+         17
+              Cette fonction de DGA chapeautant, notamment, les services juridiques et des ressources humaines.
+
+
+
+
+                                                        14
+                                                                                  COMMUNE DE CHARTRES
+
+
+
+
+       Au demeurant, l’urgence, à la supposer établie, ne pouvait à elle seule habiliter la DGS
+à se substituer au maire pour prendre une décision excédant le champ de sa délégation de
+signature. En effet, aux termes de l’article L. 2122-17 du CGCT, en cas d’absence, de
+suspension, de révocation ou de tout autre empêchement, le maire est provisoirement remplacé,
+dans la plénitude de ses fonctions, par un adjoint, dans l’ordre des nominations et, à défaut
+d’adjoint, par un conseiller municipal désigné par le conseil municipal ou pris dans l’ordre du
+tableau. Ainsi, à supposer même que le maire ait été effectivement empêché, il appartenait à
+l’élu appelé à assurer sa suppléance dans les conditions prévues par cet article d’exercer
+provisoirement ses attributions.
+        Or, non seulement l’empêchement du maire n’est pas justifié, mais il n’est pas davantage
+établi qu’un adjoint ou, à défaut, un conseiller municipal aurait été lui-même empêché d’assurer
+cette suppléance. Enfin, l’arrêté du 1er octobre 2022 ne déléguait à la DGS que la signature des
+actes de gestion courante. Or, ainsi qu’il a été dit, l’octroi de la protection fonctionnelle, qui
+constitue une décision créatrice de droits pour son bénéficiaire et génératrice d’obligations
+financières pour la commune, ne saurait être regardé comme un simple acte de gestion courante.
+       En l’absence de fondement juridique valide, la décision d’octroi de la protection
+fonctionnelle à l’ancien DGS a donc été signée par une autorité incompétente.
+
+
+1.5.2 Des dépenses de montant significatif prises en charge sans contrôle
+
+         En vertu du décret n° 2017-97 du 26 janvier 2017 relatif aux conditions et aux limites
+de la prise en charge des frais exposés dans le cadre d'instances civiles ou pénales par l'agent
+public ou ses ayants droit, alors en vigueur, la décision d’octroi détaille les modalités
+d'organisation de la protection, notamment sa durée, qui s'étend sur toute la durée de l’instance.
+La prise en charge des dépenses inclut les frais de procédure, les honoraires d'avocats ainsi que
+les frais de déplacement et d'hébergement nécessaires.
+        L’article 6 du décret avait prévu un plafond horaire pour la prise en charge des
+honoraires, mais l’arrêté ministériel afférent n'a jamais été pris. En l’absence de limitation
+réglementaire, plus de 104 000 € ont été remboursés à l’ancien DGS sur la période courant de
+2023 à juillet 2025 (cf. tableau n° 1 ci-dessous)18. La possibilité ouverte à l’article 7 du décret
+de limiter le montant pris en charge si « le nombre d'heures facturées ou déjà réglées apparaît
+manifestement excessif » n’a pas été utilisée, au motif de la complexité de l’affaire et des
+diligences effectuées19.
+
+
+
+
+        18
+            En 2025, la commune a émis un titre d’un montant de 15 000 € à l’encontre de la SPL Chartres
+Aménagement, afin d’obtenir le remboursement d’une partie des frais engagés. Cette refacturation est fondée,
+selon la commune « au regard des missions de directeur délégué occupées par M. … au sein de la SPL
+aménagement, et compte tenu du rôle de la SPL Chartres Aménagement (concessionnaire de la ZAC PNE) ».
+La demande ne représente qu’une part minime des frais (14 %).
+         19
+            Le total des frais engagés, dans la même affaire, dans le cadre de la protection fonctionnelle accordée
+au maire s’élève à 77 834,95 €.
+
+
+
+
+                                                       15
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+      Tableau n° 1 : Honoraires d’avocat mandatés dans le cadre de la protection fonctionnelle
+                                     accordée à l’ancien DGS
+
+         N° mandat                                                       Montant TTC (en euros)
+         2023/4331                                                                           16 800,00
+         2023/5316                                                                           11 407,44
+         2023/6491                                                                           12 663,00
+         2024/1755                                                                            9 000,00
+         2024/2959                                                                           11 400,00
+         2024/5264                                                                            3 840,00
+         2024/6250                                                                            7 920,00
+         2024/7140                                                                            7 680,00
+         2024/8932                                                                            6 600,00
+         2025/1311                                                                            3 360,00
+         2025/1606                                                                            7 200,00
+         2025/2228                                                                            4 440,00
+         2025/3714                                                                            1 800,00
+         TOTAL                                                                             104 110,44
+
+Source/note : CRC Centre-Val de Loire d’après les comptes de gestion et comptes financiers uniques (CFU)
+
+
+       La convention conclue par l’ancien DGS avec son cabinet d'avocats, qui a été transmise
+à la commune, définit les missions confiées et les taux horaires des honoraires, en fonction du
+niveau d'expérience des intervenants. Ces taux varient de 230 €/heure à 500 €/heure.
+Les honoraires payés par l’ancien DGS lui ont été directement remboursés par la commune.
+        Ces remboursements ont été appuyés de factures du cabinet d’avocats et de justificatifs
+de paiements préalables. Contrairement à ce que prévoit la réglementation20, aucun mandat n’a
+cependant été accompagné de la décision de l’autorité territoriale autorisant la prise en charge
+des frais par la collectivité, cette pièce étant remplacée par un simple certificat administratif.
+Or, ce dernier ne peut valablement se substituer à une pièce justificative obligatoire, comme le
+rappelle une instruction de la DGFIP21.
+        Quant aux factures, elles ne précisent ni le nombre total d’heures facturées ni sa
+répartition entre avocats. En l’absence de mention des collaborateurs du cabinet d’avocats et de
+leur niveau d’expérience, il est impossible de vérifier la correcte application des taux horaires
+fixés dans la convention. Par ailleurs, certains frais, qui n’y sont pas prévus, sont forfaitisés
+(« honoraires confrère »), sans mention d’un coût horaire. Enfin, la totalité des factures
+d’honoraires ont été remisées, sans que le taux de réduction n’apparaisse clairement.
+       Dès lors, et sans même évoquer le contrôle du service fait dont la commune estime ne
+pas avoir été chargée dès lors qu’elle se bornait à rembourser son ancien DGS, ces différentes
+
+
+        20
+             Décret n° 2016-33 du 20 janvier 2016, déjà cité. Cf. rubrique 2182.
+        21
+             NOR : FCPE1610506J, instruction du 15 avril 2016.
+
+
+
+
+                                                        16
+                                                                               COMMUNE DE CHARTRES
+
+
+
+
+lacunes ne permettaient pas, à tout le moins, de garantir une exacte liquidation de la dépense.
+Cette dernière, qui consiste à vérifier la réalité de la dette et à en arrêter le montant, relevait
+pourtant bien réglementairement de l'ordonnateur22.
+
+
+
+1.6 Un contrôle rendu impossible de l’indemnité pour frais de
+    représentation du maire
+
+        Le versement d’indemnités pour frais de représentation est prévu à l’article L. 2123-19
+du CGCT. Ces indemnités servent à couvrir les dépenses engagées par le maire dans l’exercice
+de ses fonctions et dans l’intérêt des affaires de la collectivité qu’il représente. L’indemnité peut
+être accordée sous la forme d’un forfait, annuel ou mensuel, ou sous la forme d’une prise en
+charge des frais par la collectivité, soit directement, soit par remboursement à l’intéressé.
+Quelles que soient les modalités d’attribution décidées par le conseil municipal, le montant des
+indemnités ne doit pas excéder la somme des frais exposés, sous peine de constituer un
+traitement déguisé23.
+        Par délibération du 27 mai 2020, le conseil municipal a attribué au maire une indemnité
+forfaitaire mensuelle pour frais de représentation de 2 000 €, soit 24 000 € par an24. De 2019
+jusqu’en septembre 2025, 158 000 € lui ont ainsi été versés. La délibération ne fixe pas la liste
+des dépenses pouvant être couvertes par l’indemnité et ne prévoit pas non plus la production de
+justificatifs. Aucune modalité de contrôle n’a été prévue par l’assemblée délibérante.
+        Le procès-verbal de la séance indique par ailleurs quatre abstentions, sans préciser si le
+maire qui dirigeait les débats s’est abstenu de participer au vote et sans qu’il soit possible de
+vérifier si sa présence a pu influencer le résultat. Or, le Conseil d’État 25 a jugé qu'une telle
+influence est établie lorsque l'intéressé, même s’il n’a pas pris part au vote, est présent et préside
+la séance durant laquelle la délibération contestée est adoptée. Ici, le maire de Chartres tire un
+intérêt personnel, matériel et direct de la décision, qui concerne le versement à son profit d’une
+indemnité mensuelle.
+        En outre, la forfaitisation de l’indemnité ne permet pas de vérifier l’utilisation des fonds.
+Si elle dispense de l'obligation de produire au comptable des pièces justificatives à l’appui du
+paiement en application de l’article D. 1617-19 du CGCT, le bénéficiaire doit être en mesure
+de prouver que ses dépenses sont bien liées à sa fonction et servent l'intérêt de la commune26.
+        La chambre a sollicité en vain les services communaux à plusieurs reprises afin de s’en
+assurer. Elle a également demandé au maire de produire, pour une période échantillonnée (mai,
+septembre et décembre 2024), les justificatifs de ses frais de représentation. En réponse, celui-
+ci a indiqué que son « indemnité de frais de représentation est une indemnité forfaitaire non
+
+
+        22
+            Cf. instruction M57, tome 2, p. 94.
+        23
+            Conseil d'État, 17 mars 1939, Association de défense des contribuables de Dijon ; Conseil d'État,
+20 février 1942, Ligue des contribuables de Sevran.
+         24
+            Au titre de son mandat de président de Chartres métropole, le maire de Chartres bénéficie également
+d’une indemnité mensuelle pour frais de représentation de 1 500 € (cf. CRC Centre-Val de Loire, rapport
+d’observations définitives sur la communauté d’agglomération Chartres Métropole, p. 58).
+         25
+            Conseil d'État, 8e sous-section jugeant seule, 17 novembre 2010, 338338, Inédit au recueil Lebon.
+         26
+            Réponse ministérielle n° 04751 publiée au JO le 26 janvier 2023.
+
+
+
+
+                                                      17
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+subordonnée à la production de justificatifs » et qu’à l’exception de la délibération susvisée,
+« aucun autre document n’existe, ni ne peut exister dès lors que le régime choisi est celui de
+l’indemnité forfaitaire non subordonnée à justificatifs ». La chambre relève d’ailleurs qu’en
+contradiction avec cette affirmation, le maire a fait état, lors de l’entretien de fin de contrôle,
+de pièces qui seraient finalement conservées à son domicile.
+        Pour justifier qu’il n’aurait aucun justificatif à produire, pas plus à la chambre qu’au
+comptable, le maire indique que l’indemnité forfaitaire aurait « une valeur normative
+autonome : elle n’est pas un remboursement de frais réels mais une allocation déterminée
+forfaitairement par l’assemblée délibérante, au bénéfice de l’élu ». Cette argumentation, déjà
+présentée lors du contrôle de la communauté d’agglomération Chartres Métropole, est
+principalement fondée sur les dispositions décrétales en matière de pièces justificatives des
+dépenses des collectivités territoriales, qui prévoient que le seul document à fournir en matière
+d’indemnité sous forme forfaitaire est la délibération institutive.
+         Or, la chambre est en droit d’exiger la production de justificatifs de dépenses, sans que
+la nomenclature des pièces justificatives comptables, qui constitue une réglementation
+indépendante à finalité distincte, n’y fasse obstacle. La réponse ministérielle n° 04751 publiée
+au Journal officiel du 26 janvier 2023 précise à cet égard que « l'indemnité de frais de
+représentation peut correspondre à une allocation forfaitaire annuelle à condition toutefois
+qu'elle n'excède pas le montant de frais engagés sous peine de constituer un traitement
+déguisé (…) Compte tenu du contrôle susceptible d'être exercé par le juge administratif et le
+juge des comptes, les maires concernés doivent conserver toute pièce justificative des dépenses
+engagées au titre de l'indemnité dite de représentation. ». Bien que la réponse ministérielle
+n'ait certes pas de portée normative, l'indemnité versée constitue des fonds publics dont
+l'utilisation est précisément définie. La dépense doit être engagée dans le cadre des fonctions
+du maire et dans l’intérêt de la commune. En l’absence de pièces, la nature réelle de la dépense
+ne peut être appréciée par la chambre.
+        D’ailleurs, l’absence de justificatifs ne permet pas de s’assurer du respect des
+dispositions de l’article L. 1111-1-1 du CGCT, qui sont pourtant rappelées en préambule de la
+charte de l’élu local approuvée par la commune, aux termes duquel « l’élu local s’engage à ne
+pas utiliser les ressources et les moyens mis à sa disposition pour l’exercice de son mandat ou
+de ses fonctions à d’autres fins ».
+        En réponse aux observations provisoires, l’ancien ordonnateur se prévaut d’un avis de
+la commission d’accès aux documents administratifs (CADA) n° 20244334 rendu
+le 18 juillet 2024. Or, dans cet avis, la commission a justement émis un avis favorable à la
+communication des notes de frais de représentation du maire, estimant que la demande de
+communication n’est pas rendue sans objet du seul fait que le choix a été fait d’une indemnité
+forfaitaire.
+         La chambre recommande en conséquence que soient rigoureusement conservées les
+pièces justificatives permettant de vérifier que l’indemnité pour frais de représentation du maire
+est utilisée dans le strict cadre de ses fonctions et dans l’intérêt exclusif de la commune.
+
+
+Recommandation n° 2. (maire) : Conserver les pièces justificatives des dépenses
+engagées au titre des frais de représentation du maire, permettant d’attester la régularité de
+l’emploi de l’indemnité forfaitaire allouée.
+
+
+
+
+                                                18
+                                                                        COMMUNE DE CHARTRES
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       Même si certains points demeurent encore perfectibles, la commune a travaillé à
+renforcer sa gouvernance et ses règles déontologiques au cours de la période contrôlée.
+        Toutefois, le contrôle de l’utilisation de l’indemnité forfaitaire pour frais de
+représentation du maire – à raison de 2 000 euros chaque mois - n’a pu être opéré, faute de
+présentation des pièces justificatives des dépenses engagées. La chambre recommande donc
+qu’il y soit remédié sans tarder, avec la mise en place d’un dispositif de conservation pérenne
+de ces pièces par l’ordonnateur.
+        Par ailleurs, les conditions dans lesquelles la protection fonctionnelle a été accordée à
+l'ancien directeur général des services témoignent de certains dysfonctionnements dans
+l’application des délégations et le contrôle de la dépense.
+
+
+
+
+2 UNE QUALITÉ ET UNE FIABILITÉ DE L’INFORMATION
+  BUDGÉTAIRE ET COMPTABLE INSUFFISANTES
+
+        Au 1er janvier 2024, la structure budgétaire de la commune de Chartres s’articule autour
+d’un budget principal et de quatre budgets annexes : petite enfance, parking souterrain,
+restauration des écoles et aménagements. Les budgets annexes tourisme et TVA ont été clôturés
+le 31 décembre 2020.
+         Si le budget principal représente la majorité (48 %) des dépenses de fonctionnement, le
+budget annexe aménagements, dont les opérations comptables sont principalement des écritures
+de variation de stock, en représente 46 %. Ce budget annexe, compte tenu de son importance,
+fait l’objet de développements spécifiques au chapitre 4.
+
+
+                       Tableau n° 2 : Composants du budget communal en 2024
+
+                                                               Dépenses de           Recettes de
+ en euros
+                                                             fonctionnement*      fonctionnement*
+ Budget principal                                                    72 765 297         83 622 733
+ Budget annexe aménagements                                          69 667 883         72 313 622
+ Budget annexe petite enfance                                         6 061 467          6 308 900
+ Budget annexe restauration                                           1 041 263          1 011 745
+ Budget annexe parcs de stationnement souterrain                        604 272            650 186
+ Total                                                              150 140 184        163 907 189
+
+Source : CRC Centre-Val de Loire d’après le CFU 2024 annexe IV A3
+*Y compris les rattachements
+
+
+
+
+                                                   19
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+      Depuis l’exercice 2020, les comptes de la commune sont tenus selon l’instruction
+comptable M57 et présentés sous la forme d’un compte financier unique (CFU) depuis 2021.
+
+
+
+2.1 Une publicité sur le site internet de la commune à parfaire
+
+        Conformément aux dispositions de l’article L. 2121-15 du CGCT, applicables à compter
+    er
+du 1 juillet 2022, les procès-verbaux des conseils municipaux doivent être publiés, dans la
+semaine qui suit la séance, de manière permanente sur le site internet de la commune. Or, bien
+que le site de la commune de Chartres comprenne un onglet « archives du conseil municipal »,
+l'accès exhaustif aux procès-verbaux des séances comme à la liste des délibérations est
+impossible. Ainsi, en 2025, seuls les procès-verbaux des conseils municipaux de janvier et mars
+étaient consultables et les archives n’incluaient pas celui de la réunion du 29 janvier 2026. Ce
+faisant, la commune méconnaît les dispositions législatives précitées comme celles de son
+propre règlement intérieur (articles 19 à 22).
+        S’agissant plus spécifiquement de l’information financière, l’article L. 2313-1 du CGCT
+prévoit que doivent être mis en ligne sur le site internet de la collectivité : une présentation
+brève et synthétique retraçant les informations financières essentielles jointe au budget primitif
+et au compte administratif ; le rapport d’orientation budgétaire ; la note explicative de synthèse
+adressée avec la convocation des conseillers municipaux aux séances de vote du budget primitif
+et du compte financier unique (article L. 2121-12 du même code).
+        Le site internet de la commune de Chartres dispose d'un onglet « finances » permettant
+de consulter les comptes financiers depuis 2022, ainsi que des présentations des principaux
+agrégats et résultats financiers. La présentation des comptes pour l'année 2023 a été améliorée,
+offrant un panorama plus précis des dépenses d'équipement ainsi que des informations relatives
+aux budgets annexes, auparavant réduits à leurs résultats. Le site comporte également des
+éléments concernant les choix en matière de fiscalité et d'endettement. Cependant, les
+informations financières mises en ligne restent partielles et tardives. Ainsi, le site de la
+commune ne contient aucune information aisément accessible et synthétique sur les budgets
+primitifs, même les plus récents. De même, en août 2025, aucun élément n'était encore
+accessible concernant le compte financier unique 2024, voté le 19 juin 2025.
+       Dans sa réponse aux observations provisoires, l’ancien ordonnateur a indiqué avoir
+engagé un travail avec le prestataire gérant le site internet de la commune.
+
+
+
+2.2 Des annexes incomplètes, erronées voire manquantes
+
+       Les annexes aux budgets et comptes administratifs (ou CFU) prévues aux articles
+L. 2313-1 et R. 2313-3 du CGCT permettent d’apprécier avec justesse la situation financière
+d’une collectivité. Celles produites par la commune de Chartres présentent toutefois plusieurs
+lacunes.
+        Ainsi, les annexes concernant les provisions ont été inexistantes. La partie de l'annexe
+relative aux agents non titulaires n’a été remplie qu'à partir du budget primitif 2025 et du compte
+
+
+
+
+                                                20
+                                                                                 COMMUNE DE CHARTRES
+
+
+
+
+financier unique de 2024. Surtout, l'annexe récapitulant les prêts accordés par la commune
+n’était pas complétée, malgré le solde significatif de ce compte au 31 décembre 2023
+(10,4 M€). Cette lacune est d’autant plus dommageable que les prêts accordés par la commune
+à la SPL Chartres aménagements devraient y figurer. Dans sa réponse, l’ordonnateur a souligné
+que le solde susvisé correspondait, non à des prêts mais à des participations ou subventions et
+devait être régularisé. Il n’en reste pas moins qu’au 31 décembre 2025, aucune régularisation
+n'avait été comptabilisée, le compte 274 présentant encore un solde conséquent (9,22 M€), sans
+qu’aucune annexe au budget primitif pour 2026 n’en détermine la composition (bénéficiaire,
+date de délibération, modalités de remboursement).
+        Les annexes sont par ailleurs souvent affectées d’omissions ou d’erreurs. C’est
+notamment le cas de l’annexe relative au suivi des opérations pour compte de tiers, de celle
+relative au concours attribués qui omet les concours alloués en nature, ou de celle permettant le
+suivi des autorisations de programme.
+       En revanche, la chambre constate que, conformément aux dispositions du décret
+du 16 juillet 2024, le compte financier unique 2024 inclut l'annexe consacrée à l'impact du
+budget pour la transition écologique27. Sur un montant total de dépenses de 20,3 M€, 78 % des
+dépenses ont été classées neutres, 11 % favorables et 9 % défavorables en termes d’atténuation
+du changement climatique, seul axe devant être évalué à ce stade. Dans le cadre du présent
+contrôle, la chambre ne se prononce toutefois pas sur l’exactitude de ces cotations.
+
+
+Recommandation n° 3. : S’assurer sans délai de l’exhaustivité, de la complétude et de la
+fiabilité des informations figurant dans les annexes aux documents budgétaires.
+
+
+
+2.3 Des inventaires non concordants avec les éléments du bilan
+
+       La responsabilité du suivi des immobilisations incombe conjointement à l’ordonnateur,
+qui tient un inventaire comptable des entrées et des sorties des actifs immobilisés, et au
+comptable public, responsable de leur enregistrement et de leur suivi à l’actif du bilan.
+       En 2024, si l’écart constaté entre les deux documents ne s’élève plus qu’à 2,4 M€, ce
+montant cache des différences significatives, dont certaines n’ont pu être justifiées (cf. annexe
+n° 2).
+         Ainsi, les soldes des comptes 266 - autres formes de participations et 27638 - autres
+créances immobilisés – autres établissements publics, respectivement dotés à hauteur de
+1,5 M€ et 5,9 M€, n’apparaissent pas dans l’inventaire de la commune. Ces soldes n’ont, par
+ailleurs, pas pu être justifiés par le comptable public compte tenu d’archivages limités à 84
+mois. Mettant en avant l’ancienneté des créances (plus de vingt ans), la commune n’a pu
+justifier qu’une partie du solde du compte 266 à hauteur de 602 456 €, correspondant à des parts
+sociales dans la société locale d’épargne (SLE) Pays Chartrain et Drouais, tout en fournissant
+
+
+         27
+            Pris en application de l'article 191 de la loi n° 2023-1322 du 29 décembre 2023 de finances pour 2024.
+L'annexe vise à coter l'impact environnemental des dépenses exécutées selon chacun des axes de la taxonomie
+européenne. Pour l’exercice 2024, l'analyse de l'impact environnemental des dépenses est réalisée de manière
+obligatoire sur l’axe « atténuation du changement climatique ».
+
+
+
+
+                                                       21
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+d’ailleurs un justificatif de valorisation des parts faisant apparaître un montant plus important
+(610 280 €). En l’absence d’élément plus probant, rien ne permet de savoir si ces sommes
+doivent encore apparaitre dans l’actif immobilisé de la commune ou dans quelle mesure elles
+n’auraient pas déjà dû être remboursées. En tout état de cause, elles n’apparaissent pas dans les
+dettes à long terme du budget annexe aménagements (cf. ci-après chapitre 4).
+         De manière générale, les participations et avances consenties aux tiers publics sont
+difficiles à retracer. Ainsi, le solde du compte 274 - Prêts, qui enregistre notamment les
+participations et avances versées à la SPL Chartres Aménagement dans le cadre de concessions,
+s’élève à 11,4 M€ au bilan, alors que celles-ci sont valorisées à hauteur de 22,1 M€ dans
+l’inventaire - montant que la commune n’est d’ailleurs en mesure de justifier qu’à hauteur de
+10,4 M€. Le caractère incomplet de l'annexe IV B6 empêche par ailleurs le lecteur du compte
+financier unique, élu comme citoyen, de prendre la mesure des participations accordées et non
+encore remboursées.
+        Enfin, et à titre de dernière illustration, l’inventaire de la commune ne comprend aucune
+immobilisation au compte 2423, relatif aux biens mis à disposition par la commune à des
+établissements publics de coopération intercommunale dans le cadre d’un transfert de
+compétences. Pourtant, le bilan mentionne un solde de 2,7 M€, qui correspondrait à une écriture
+passée en 2010 selon les recherches des services de la commune.
+         Malgré les efforts de mise en cohérence réalisés entre 2020 et 2022 entre la commune
+et la direction départementale des finances publiques d’Eure-et-Loir, ces anomalies persistantes
+nécessitent encore un travail approfondi pour réduire les écarts et fiabiliser l'actif. Consciente
+de cette situation, la commune a indiqué qu’elle se rapprocherait de la trésorerie municipale
+pour apurer ses comptes. Elle pourra s’appuyer sur la convention de services comptables et
+financiers pour la période 2024-2026, dont la signature a été approuvée lors du conseil
+municipal du 19 juin 2025.
+
+
+
+2.4 Une régularisation tardive des comptes des travaux en cours
+
+       Les comptes d’immobilisations en cours (compte 23) doivent être régulièrement apurés
+au profit des comptes définitifs d’immobilisations incorporelles ou corporelles (comptes 20 ou
+21), à mesure de la réalisation des travaux. Cette opération, qui avait fait l’objet d’une
+recommandation lors du dernier contrôle de la chambre en 201328, est essentielle pour assurer
+la bonne tenue de l’inventaire et ne pas retarder l’amortissement des biens concernés.
+        En 2023, le solde des comptes de travaux en cours s’établissait à 134 M€, soit 7 % du
+solde des immobilisations corporelles. Ce solde était principalement constitué d'actifs non
+transférés malgré leur ancienneté : plus de 72 % de l'encours, soit 97 M€, datait d'avant 2018,
+et 53 % d'avant 2013.
+     Au terme d’un travail de régularisation engagé en 2024 par un agent dédié, le taux des
+immobilisations en cours ne représentait plus, au 31 décembre de cet exercice, que 0,21 % des
+immobilisations corporelles. La signature récente de la convention de services comptables et
+
+
+       28
+         CRC Centre-Val de Loire, Rapport d’observations définitives délibéré le 1 er octobre 2013 et
+communicable le 26 novembre 2013.
+
+
+
+
+                                                 22
+                                                                          COMMUNE DE CHARTRES
+
+
+
+
+financiers, qui comprend notamment une fiche spécifique consacrée à ce type d’opérations,
+devrait permettre à l’avenir un apurement bien plus régulier des comptes d'immobilisation en
+cours.
+
+
+
+2.5 Une absence de mise en œuvre de l’amortissement au prorata temporis
+
+        L’instruction M57, que la commune applique depuis le 1er janvier 2020, impose
+l’amortissement des immobilisations au prorata temporis, qui constitue la méthode comptable
+de droit commun applicable à toute nouvelle immobilisation.
+       Or, par délibération du 12 décembre 2019, la commune a décidé de n’appliquer cette
+méthode qu’aux immobilisations acquises à compter de 2023, justifiant ce choix par le travail
+engagé avec le comptable sur les inventaires et l’état de l’actif. Par délibération du 22 juin 2023,
+la commune a, pour le même motif, différé de nouveau l’application de l’amortissement au
+prorata temporis, sans même se donner de date butoir.
+       Pourtant, la mise en concordance de l’actif n’est pas un obstacle ou une condition
+nécessaire à l’application des dispositions réglementaires précitées, l’amortissement
+s’appliquant aux nouvelles immobilisations.
+       En amortissant ces dernières à compter de l’exercice suivant leur entrée dans le
+patrimoine, la commune méconnait les règles comptables applicables. Il lui appartient donc de
+mettre en œuvre l’amortissement au prorata temporis pour toute immobilisation nouvellement
+acquise.
+
+
+
+2.6 Un financement irrégulier de la société publique locale (SPL)
+    C’ Chartes Aménagement par le biais d’avances de trésorerie
+
+      La SPL C’Chartres Aménagement29 porte                         actuellement   sept     concessions
+d’aménagement attribuées par la commune de Chartres.
+
+
+      Tableau n° 3 : Concessions d’aménagement confiées à la SPL C’Chartres Aménagement
+                                 (situation au 31 décembre 2023)
+
+                                                                        Participation du     Avenants
+ Opération               Date de notification   Fin de concession
+                                                                      concédant (en € HT)     passés
+ Pôle gare                3 septembre 2010      31 décembre 2035           4 960 000             9
+ Plateau nord est         3 septembre 2010      3 septembre 2040               -                12
+ ZAC de La Roseraie         9 février 2010      31 décembre 2030           2 650 000             4
+ Rechèvres                  25 mars 2010        31 décembre 2035           1 530 000             8
+
+
+        29
+          Pour succéder à sa SEM d’aménagement, la commune a créé la SPLA Chartres Aménagement le
+7 septembre 2009, cette société étant elle-même transformée en mars 2011 en SPL.
+
+
+
+
+                                                 23
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                                             Participation du       Avenants
+ Opération                 Date de notification    Fin de concession
+                                                                           concédant (en € HT)       passés
+ Ilot Courtille                22 avril 2011       31 décembre 2027             4 625 000               6
+ Hauts Saumons                 11 mai 2004         31 décembre 2025             1 496 000               7
+ Plateau nord-ouest            16 juin 2011           15 mai 2031                   -               sans objet
+
+Source : Compte-rendu annuel à la collectivité 2023 et synthèse des opérations au 31 décembre 2023
+
+
+         Dans le cadre de telles concessions, la commune concédante peut contribuer au coût de
+l’opération par des apports en nature (terrains) ou financiers (participations ou/et avances de
+trésorerie). Tant le 4° de l’article L. 1523-2 du CGCT que les contrats passés soulignent le
+caractère temporaire du besoin de trésorerie à couvrir. Par ailleurs, l’instruction comptable M57
+définit les avances de trésorerie comme « des avances à court terme (infra annuelles) destinés
+à faire face à un besoin ponctuel et certain de disponibilités ».
+        En l’espèce, certaines avances ont été accordées sur des durées très longues (8 et 9 ans)
+et ont finalement été transformées en participations (cf. tableau n° 4 ci-dessous).
+
+
+   Tableau n° 4 : Avances de trésorerie capitalisées dans le cadre des concessions d’aménagement
+
+                                                  Année de versement des                Montant des avances
+ Opération                N° délibération
+                                                         avances                        capitalisées en 2021
+
+ Pôle gare                  CM2021/138                entre 2012 et 2020                           4 030 000 €
+
+ ZAC de La Roseraie         CM2021/139                entre 2010 et 2019                           2 650 000 €
+
+ Ilot Courtille              M2021/061                entre 2012 et 2020                             864 000 €
+
+Source : Délibérations du conseil municipal de la commune de Chartres
+
+
+       La commune a fait part d’ « une confusion entre avance de trésorerie et participation
+annuelle », ainsi que d'une erreur de comptabilisation des sommes versées. Le principe d’un
+remboursement par capitalisation des avances (transfert des avances du compte 27 – autres
+immobilisations financières vers le compte 204 - subventions d’équipement versées) a été acté
+dans des avenants signés au cours de l'année 2020. Au budget primitif 2025, 2,18 M€ ont été
+prévus à ce titre.
+       Par ailleurs, en application d’une convention signée le 22 avril 2004 dans le cadre de la
+concession d’aménagement « Les Hauts Saumons », la commune a consenti à la SPL des
+avances temporaires de trésorerie. La convention indiquait qu’une avance était demandée
+chaque année par le concessionnaire sans précision de montant, en méconnaissance des
+dispositions législatives précitées.
+       Sur la période 2004-2010, plus de 3,1 M€ d’avances ont ainsi été versés,
+dont 800 000 € ont été remboursés en 2007, le solde s’établissant donc à quelque 2,3 M€.
+La convention d’avance a fait l’objet de quatre avenants, qui ont eu pour effet de différer la date
+de remboursement du solde des avances. Le dernier d’entre eux a porté cette échéance au
+31 décembre 2023, date à laquelle un titre a effectivement été émis. Ce faisant, la commune a
+
+
+
+
+                                                     24
+                                                                                COMMUNE DE CHARTRES
+
+
+
+
+dévoyé les principes de l’avance de trésorerie en permettant à la SPL C’Chartres Aménagement
+de bénéficier de prêts à long terme, que l’avance soit in fine capitalisée ou remboursée30.
+       La préservation des intérêts communaux apparaît d’autant plus de mise qu’en 2023, le
+rapport annuel de la SPL C’Chartres Aménagement, établi en application du décret
+du 4 novembre 202231, mentionnait un risque de « défaut de prise en compte du résultat à
+terminaison des opérations » et d’« interruption du financement des opérations ou du
+financement courant de la société ».
+
+
+Recommandation n° 4. : Respecter le caractère infra-annuel des avances de trésorerie
+consenties aux sociétés d’économie mixte et sociétés publiques locales conformément à
+l’instruction budgétaire et comptable M 57.
+
+
+
+2.7 Des provisions insuffisamment comptabilisées
+
+        L’alinéa 29 de l’article L. 2321-2 et l’article R. 2321-2 du CGCT imposent l’inscription
+de provisions dans trois hypothèses : en cas de litige devant une juridiction, à hauteur du risque
+évalué ; lorsqu'une procédure collective est engagée au sein d'un organisme avec lequel la
+collectivité a contracté un engagement financier ; lorsqu'une créance détenue sur un tiers
+présente un risque d'irrécouvrabilité, malgré les démarches du comptable public. L'instruction
+budgétaire et comptable M57 prévoit également que, conformément au principe de prudence,
+une provision est constituée dès qu'un risque apparaît, quelle que soit sa nature. Ces provisions
+sont comptabilisées au plus tard en fin d'exercice, en fonction des risques survenus.
+        Depuis 2019, la commune n'a pas constitué de provision pour risque contentieux. Or,
+elle est impliquée dans nombreux litiges (50 entre janvier 2022 et mars 2025). Certains ont
+abouti à des condamnations, sans que des provisions aient été préalablement comptabilisées.
+La commune a ainsi été condamnée, par un premier jugement du 23 février 2023, à verser à la
+SCI Chartres Investissement plus de 487 000 €, en raison de la délivrance d'un certificat
+d'urbanisme et d'un permis de construire jugés illégaux. Un second jugement du 23 février 2024
+y a ajouté une indemnisation à hauteur de 150 000 € pour perte de valeur vénale, en plus des
+dépens et frais de justice.
+       De même, jusqu’en 2023, la commune n’a comptabilisé aucune provision pour
+dépréciation des actifs circulants, alors même que de nombreuses pertes sur créances
+irrécouvrables ont été comptabilisées, pour des montants parfois significatifs.
+
+
+
+
+        30
+           Depuis 2020, la commune a également octroyé à la SPL d’autres avances de trésorerie dans le cadre
+des concessions « Ilot de la Courtille » et « ZAC de la roseraie » dont le dénouement financier n’appelle pas de
+remarque particulière.
+        31
+           Décret n° 2022-1406 du 4 novembre 2022 relatif au contenu du rapport du mandataire prévu par l'article
+L. 1524-5 du CGCT.
+
+
+
+
+                                                       25
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                   Tableau n° 5 : Pertes sur créances irrécouvrables de 2019 à 2024
+
+ en euros                          2019       2020        2021       2022        2023         2024
+ 6541 « créances admises en
+                                    15 081     12 149      11 100    40 0331     15 250       15 902
+ non-valeur »
+ 6542 « créances éteintes »          9 558      4 761       1 090     79 308          1 012    1 685
+ 654 « pertes sur créances
+                                    24 639     16 911      12 191    119 341     16 263       17 587
+ irrécouvrables »
+
+Source : Balances des comptes
+
+
+       Le montant particulièrement élevé constaté en 2022 découle notamment d’une créance
+de près de 80 000 € détenue sur une société mise en liquidation judiciaire en avril 2021. Le
+risque d'irrécouvrabilité étant inhérent à la procédure collective engagée, dont la liquidation
+représente la phase ultime, la constitution d'une provision dès 2021 aurait été justifiée. De
+même, la liste des créances admises en non-valeur en 2022 inclut des créances nées en 2008 et
+2009 pour près de 29 000 €, dont l'ancienneté appelait à elle seule la constitution d'une
+provision.
+       En application d’une délibération du 22 juin 2023, la commune a comptabilisé une
+provision pour dépréciation des actifs circulants, à hauteur de 10 000 € en 2023 et 15 000 € en
+2024. Son montant est déterminé à partir d’un taux d'irrécouvrabilité de 15 % des créances
+douteuses prises en charge depuis plus de deux ans. Or, l'état des restes à recouvrer de 2023
+questionne le montant ainsi provisionné au regard du risque effectif. En effet, à la fin 2023, la
+commune détenait une créance de 38 000 € sur une deuxième société placée en redressement
+puis en liquidation judiciaire la même année, ce qui aurait dû conduire à inscrire une provision
+équivalente. Ainsi, en raison de ce seul risque, la provision de 10 000 € constituée en 2023
+s’avérait déjà insuffisante.
+
+
+
+2.8 Des erreurs multiples d’imputation
+
+        La qualité comptable repose sur la précision des imputations budgétaires utilisées. La
+collectivité doit donc veiller, sous le contrôle du comptable, à ce que les opérations de recettes
+et de dépenses soient enregistrées sur le compte approprié. Par défaut, dans les comptes des
+classes 6 (comptes de charges) et 7 (comptes de produits), la terminaison 8 est affectée à
+l’enregistrements des opérations autres que celles détaillées par ailleurs dans les comptes de
+même niveau se terminant par 1 à 7.
+       Or, l’examen des enregistrements comptables de plus de 10 000 € réalisés en 2023 sur
+les comptes de classe 6 ayant une terminaison en 8 a permis de révéler de multiples erreurs et
+lacunes :
+  - les dépenses de fourniture de gaz permettant le chauffage d’équipements communaux
+    doivent être comptabilisées aux comptes 60613 « chauffage urbain » ou 60621
+    « combustibles » et non au compte 6288 ;
+  - les remboursements de frais à la communauté d’agglomération sont aléatoirement
+    comptabilisés aux comptes 6288, 60628 - Autres fournitures non stockées et 6068 - Autres
+
+
+
+                                                 26
+                                                                      COMMUNE DE CHARTRES
+
+
+
+
+    matières et fournitures, en lieu et place du compte 62876 - Divers-remboursement de frais
+    au GFP [groupement à fiscalité propre] de rattachement ;
+  - de nombreuses dépenses relatives à des manifestations organisées par la commune
+    (notamment les prestations réalisées dans le cadre de la fête des lumières) auraient dû être
+    comptabilisées au compte 6232 - fêtes et cérémonies (cf. supra).
+         Par ailleurs, l’analyse des dépenses comptabilisées aux comptes 6232 et 6234 -
+réceptions montre que le second enregistre des dépenses relevant du premier (par exemple,
+dépenses pour la soirée des nouveaux arrivants ou frais de restauration dans le cadre de fêtes
+nationales). En 2022, la prestation de traiteur relative à l’inauguration du pôle administratif
+(32 514 €) a été comptabilisée au compte 2313 et a fait, à ce titre, l’objet d’un enregistrement à
+l’actif de la collectivité, alors que cette dépense aurait dû être comptabilisée au compte 6234.
+      En termes de dépenses de personnel, certains comptes enregistrent également à tort des
+versements à l’URSSAF ou aux caisses de retraite. Ainsi, en 2023, 0,3 M€ n’ont pas été
+comptabilisés au compte 6451 - URSSAF (hors apprentis).
+       Dans le cadre de la convention de services comptables et financiers récemment signée,
+la commune s’est engagée à s’assurer de l’exacte imputation de ses opérations. Les erreurs
+relevées par la chambre démontrent que les contrôles que la collectivité dit avoir engagés
+nécessitent encore d'être renforcés.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       La qualité et la fiabilité de l’information comptable et budgétaire appellent des
+améliorations.
+        Le travail entrepris avec le comptable public en vue de réduire l'écart entre l'actif et
+l'inventaire doit se poursuivre, s’agissant notamment de l’intégration régulière des
+immobilisations en cours. Des améliorations sont également attendues en matière
+d’amortissement, de provisionnement et d’exacte imputation des dépenses dans les comptes
+dédiés.
+
+
+
+
+3 UN BUDGET PRINCIPAL AUX RATIOS FINANCIERS
+  FAVORABLES
+
+
+3.1 Une capacité d’autofinancement de bon niveau
+
+       Sur la période 2019-2024, l'augmentation annuelle moyenne de 2,9 % des produits de
+gestion, comparée à celle de 2,1 % des charges de gestion, a permis un excédent brut de
+fonctionnement (EBF) représentant entre 20,9 % et 26,1 % des produits de gestion, soit un
+niveau satisfaisant.
+
+
+
+
+                                               27
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La capacité d’autofinancement (CAF) brute32 a représenté plus de 15 % des produits de
+gestion et couvert l’annuité en capital de la dette et l’effort d’investissement. Son évolution est
+toutefois affectée par l’augmentation du déficit du résultat financier, due à une dette croissante.
+Entre 2019 et 2024, les charges financières ont augmenté de 8 % par an en moyenne, pour
+atteindre 3,4 M€. En fin de période, le niveau de la CAF s’explique également par la perception
+de recettes exceptionnelles, dont la reproduction n’est – par définition - pas garantie.
+
+
+3.1.1 Des produits de gestion en hausse constante
+
+       Les produits de gestion ont augmenté à un rythme soutenu au cours de la période
+contrôlée.
+       Les recettes fiscales33 nettes des restitutions représentaient 72,9 % des produits de
+gestion en 2024, soit un niveau supérieur à celui constaté pour la strate de référence (69,2 %).
+Elles ont augmenté de 1,8 % en moyenne annuelle, passant de 47,5 à 51,9 M€.
+        La progression des ressources liées aux impôts locaux est imputable à l’effet base. Les
+bases fiscales de la commune sont en effet plus élevées que celles de la strate démographique
+de référence, même si elles ont progressé moins vite que ces dernières. La part des locaux
+d’habitation ordinaires dans les bases fiscales du foncier bâti est inférieure à celle de la strate
+de référence (57,3 % contre 64,4 %), alors que la part liée aux établissements industriels et
+assimilés est supérieure (10,2 % contre 4,2 %).
+
+
+                              Tableau n° 6 : Évolution des bases fiscales nettes
+
+                                                                                                           Taux de
+ en euros par habitant                  2019       2020        2021      2022        2023       2024       variation
+                                                                                                          2019-2024
+ Taxe foncière sur les propriétés
+                                         1 601      1 639      1 512      1 578      1 679      1 780           11 %
+ bâties commune de Chartres
+ Moyenne de la strate                    1 471      1 495      1 450      1 505      1 587      1 658           13 %
+
+Source : Ministère de l’intérieur, direction générale des collectivités locales
+
+
+       En 2024, le potentiel financier34 de la commune s'élevait à 1 451 € par habitant, contre
+1 363 € par habitant pour la strate de référence. À ce titre, la collectivité a dû contribuer à
+
+
+
+
+         32
+            La CAF brute, qui représente l'excédent des produits réels de fonctionnement sur les charges réelles de
+fonctionnement, permet le remboursement des dettes et le financement des dépenses d’équipement et des
+subventions d’investissement. (cf. annexe n° 5).
+         33
+            Les recettes fiscales sont constituées des recettes fiscales propres (dont taxes d’habitation et foncières)
+et de la fiscalité reversée. En 2021, le taux de la taxe foncière sur le bâti est passé de 27,75 à 47,97 %,
+concomitamment à la suppression de la taxe d’habitation. Le taux n’a pas changé depuis et se situe au-dessus du
+taux moyen de la strate (40,25 %).
+         34
+            Le potentiel financier représente la masse de recettes que la commune serait en mesure de mobiliser si
+elle appliquait à ses bases fiscales des décisions « moyennes » en matière de fiscalité. Plus le potentiel est élevé,
+plus une commune peut être considérée comme riche.
+
+
+
+
+                                                          28
+                                                                                        COMMUNE DE CHARTRES
+
+
+
+
+hauteur de 104 000 € au dispositif de lissage conjoncturel des recettes fiscales des collectivités
+territoriales (DILICO35).
+        En 2024, la fiscalité reversée s’établissait à 17,5 M€ et représentait 36 % des recettes
+fiscales. Évoluant de 0,6 % par an en moyenne, elle est constituée à 67 % des attributions de
+compensation et à 33 % des dotations de solidarité communautaire.
+       Les ressources d’exploitation sont passées de 4,5 M€ en 2019 à 7,6 M€ en 2024
+(+11,2 % par an en moyenne). Elles représentaient 7,2 % des produits de gestion en 2019 et
+10,7 % en 2024. Cette progression est portée pour 1 M€ par les redevances de stationnement,
+pour 0,8 M€ par des remboursements de frais (dont 0,5 M€ de location de locaux par Chartres
+métropole à compter de 2022), pour 0,7 M€ par les revenus locatifs et redevances et pour
+0,5 M€ par des subventions reçues et d’autres produits.
+      En fin de période, notamment en 2023, la forte augmentation des « autres produits »
+(+1 M€ par rapport à 2022) s’explique par plusieurs éléments :
+   - des écritures comptables erronées, déjà évoquées supra dans la partie consacrée à la qualité
+     des comptes : intégration d’écritures de cession d’actifs au compte 75888 et
+     immobilisation d’une indemnisation versée dans le cadre d’un litige d’urbanisme dans
+     l’attente du rachat des terrains concernés (487 000 €) ;
+   - l’encaissement de recettes exceptionnelles : en 2023, la commune a perçu 300 000 € de
+     recettes de mécénat dans le cadre de l’opération « Chartres en lumières » et a conclu une
+     convention de parrainage médiatique qui lui a apporté 186 000 € - ce montant étant
+     toutefois compensé par une dépense ;
+   - le versement d’une somme résultant de la liquidation d’une association financièrement
+     soutenue par la commune, pour près de 223 000 €.
+        Représentant 14,6 % des produits de gestion en 2024 contre 20,5 % pour la strate de
+référence, les dotations et participations ont, pour leur part, augmenté de 5,2 % en moyenne par
+an et ont ainsi contribué à la dynamique des produits de gestion. Cette progression s’explique
+principalement par celle des allocations compensatrices versées par l’État pour pallier les pertes
+de ressources résultant de l’exonération de taxe foncière sur les locaux industriels : cette recette
+a représenté 3,7 M€ en 2024, soit 35 % des ressources institutionnelles.
+
+
+3.1.2 Un rythme moins rapide de progression des charges de gestion, grâce à des
+      dépenses de personnel maîtrisées
+
+       Les charges de gestion ont progressé de 5,4 M€, soit 2,1 % en moyenne par an, entre
+2019 et 2024. Elles s’établissaient à 53,5 M€ lors de ce dernier exercice.
+       Les charges à caractère général ont augmenté, à elles seules, de 4,7 M€ sur la période.
+Parmi elles, les dépenses liées aux contrats de prestations de services ont connu une hausse de
+3,4 M€, principalement imputable aux prestations payées à la SPL C’Chartres Spectacles
+depuis 2022. Les coûts de l’électricité ont augmenté de 56 % entre 2022 et 2023 en raison du
+
+
+         35
+            Institué par la loi de finances initiale pour 2025, le dispositif de lissage conjoncturel des recettes fiscales
+des collectivités territoriales (DILICO) est destiné à mettre en réserve une part des recettes fiscales de l'exercice
+2025 des communes, de leurs établissements publics à fiscalité propre, des départements et des régions.
+
+
+
+
+                                                           29
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+contexte géopolitique mondial, puis ont diminué en 2024 sous le double effet de la baisse des
+prix et d’une maîtrise de la consommation. S’agissant des autres coûts liés à l’énergie
+(normalement comptabilisés au compte 60613 – Fournitures non stockables – chauffage
+urbain), les erreurs d’imputation déjà mentionnées ne permettent pas de calculer leur évolution.
+        Les « autres charges de gestion » s’établissaient à 4 M€ en 2024, soit 104 € par habitant
+contre 25 € par habitant pour la strate de référence. Elles sont majoritairement constituées de
+versements aux budgets annexes, afin de couvrir des déficits. Le budget annexe petite enfance
+a ainsi été abondé de 2,6 M€ par an au minimum.
+       Quant aux subventions de fonctionnement, elles représentaient 13,6 % des charges de
+gestion en 2024. Elles ont diminué de 2,1 % en moyenne par an. En 2023, les associations
+sportives ont reçu 4,1 M€, dont 1,45 M€ pour C’Chartres Football et 0,9 M€ pour C’Chartres
+Rugby.
+        Enfin, les charges de personnel ont été maîtrisées, n’ayant augmenté que de 0,5 % par
+an en moyenne. La mutualisation des services entre la commune de Chartres et la communauté
+d’agglomération, engagée dès 2011, explique en bonne partie cette trajectoire. Dès l’origine, le
+regroupement des services a eu pour objectif de contenir la masse salariale36 des deux
+collectivités. Il a d'abord porté sur les fonctions supports, puis sur les services « métiers », tels
+que ceux liés à la gestion des bâtiments. La démarche a été achevée en 2021 avec la mise en
+service du pôle administratif, qui a permis de regrouper l'ensemble des services au public
+communaux et intercommunaux. S'y sont ajoutés les services du centre communal d’action
+sociale (CCAS), du centre intercommunal d’action sociale (CIAS) et de Chartres Métropole
+Habitat.
+        Ainsi, les effectifs de la commune sont passés de 802 équivalents temps plein (ETP) en
+2014, première année de la mutualisation, à 666 en 2023 (dont 280 ETP relevant d’une
+refacturation par la communauté d’agglomération). Dans le même temps, les charges de
+personnel refacturées par l’agglomération au titre des services mutualisés sont passés de 12 M€
+en 2019 à 13,1 M€ en 2024 (+9 %) et représentaient 41,1 % des charges de personnel de la
+commune en 2024.
+        Entre 2019 et 2024, les dépenses de personnel communal sont passées de 30,8 M€ à
+32 M€, soit une hausse contenue37. La diminution de 8 % des effectifs sur la même période
+(409 ETPT en 2019 et 376 en 2024) a permis d’absorber les effets des différentes revalorisations
+nationales : ainsi, les conséquences financières des mesures indiciaires38 ont représenté à elles
+seules un surcoût de 1,15 M€ (cf. tableau n°7 ci-après). La diminution du nombre d’agents sur
+emploi permanent masque cependant des disparités suivant le statut : tandis que le nombre
+d’agents titulaires a diminué de 20 %, celui des agents contractuels a augmenté de 43 %. En
+2024, les agents contractuels représentaient 29 % des agents sur emplois permanents, contre
+
+
+        36
+             La masse salariale totale de la commune agrège les charges de personnels payées directement par le
+budget principal et le budget annexe petite enfance de la commune, et celles refacturées par l’agglomération dans
+le cadre de la mutualisation.
+          37
+             Si la Cour des comptes, dans son rapport sur la situation financière et la gestion des collectivités
+territoriales et de leurs établissements (fascicule 2, octobre 2024), avait constaté que la rémunération dans la
+fonction publique territoriale avait crû de près de 20,4 % entre 2016 et 2023, dans le même temps, les dépenses de
+personnels de la commune de Chartres sont passées de 30,5 à 31,7 M€ soit une hausse de 3,9 % seulement.
+          38
+             Les mesures liées aux indices de rémunération comprennent : l’augmentation du point d’indice, le
+relèvement du minimum de traitement, les modifications de correspondance IB et IM, l’attribution de points
+d’indice majoré et la PPCR.
+
+
+
+
+                                                       30
+                                                                                               COMMUNE DE CHARTRES
+
+
+
+
+19 % en 2019. Leurs rémunérations cumulées ont augmenté de 19 %, passant de 3,9 M€ en
+2019 à 4,6 M€ à 2024, pendant que celles des agents titulaires passaient de 9,3 M€ à 8,6 M€,
+soit une baisse de 7 %.
+
+
+               Graphique n° 1 : Évolution en base 100 des effectifs et des charges de personnels
+
+         102
+
+         100
+
+          98
+
+          96
+
+          94
+
+          92
+
+          90                                               Impact rattrapage crise sanitaire et
+                                                           recrutements petite enfance
+          88
+
+          86
+                     2019            2020               2021          2022                    2023             2024
+
+                            Effectifs totaux emplois permanents                Charges de personnels totales
+
+
+Source : CRC Centre-Val de Loire d’après les comptes de gestion et les comptes financiers uniques (CFU)
+
+
+                             Tableau n° 7 : Impact financier des mesures nationales
+
+ en euros                                    2019        2020       2021           2022          2023         2024        Total
+
+ Augmentation du point d'indice                     -           -          -      527 000       128 582                   655 582
+                                                                                                                     -
+ Relèvement du minimum de
+                                                                                                     6 403                  6 403
+ traitement
+ Modification correspondance entre
+                                                    -           -          -              -     169 000              -    169 000
+ indice brut et indice majoré
+ Attribution de points d'indice majorés             -           -          -              -              -   168 231      168 231
+ Garantie individuelle du pouvoir
+                                               308        2 004      2 221         18 693        27 672              -     50 898
+ d’achat
+ SMIC                                                                                            35 486                    35 486
+ Parcours professionnels carrières et
+                                             87 697      25 480     40 350                -              -           -    153 527
+ rémunérations
+ Hausse des cotisations sociales (dont
+                                              9 860      11 263     11 332         17 212            5 726           -     55 392
+ versement transport)
+ Autres (aide exceptionnelle inflation,
+ revalorisation des indemnités
+                                             11 172      11 346     11 462         61 961        18 210       14 667      128 817
+ kilométriques, hausse des frais de
+ mission...).
+ Total                                      109 036      50 092     65 365        624 866       391 079      182 898     1 423 336
+
+Source : Commune de Chartres
+
+
+
+
+                                                               31
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Depuis 2021, le régime indemnitaire se compose principalement du régime indemnitaire
+tenant compte des fonctions, des sujétions, de l’expertise et de l’engagement professionnel
+(RIFSEEP), les indemnités horaires pour travaux supplémentaires (IHTS) étant par ailleurs
+marginales grâce à l’organisation générale des services. Instauré à compter du 1er janvier 2021,
+le RIFSEEP a augmenté de 8 % entre 2019 et 2024, passant de 1,35 M€ à 1,46 M€ -
+dont 1,02 M€ pour l’indemnité de fonctions, de sujétions et d’expertises (IFSE) qui constitue
+la part fixe du régime - . Le complément indemnitaire annuel (CIA), qui en est la part variable
+établie en fonction de la valeur professionnelle de l’agent, s’établit à 62 406 € en 2024, en
+progression constante sur la période39.
+        Au 31 décembre 2024, l’âge moyen du personnel communal était de 45 ans, légèrement
+inférieur à la moyenne nationale dans la fonction publique territoriale, fixée à 46 ans en 2023.
+En 2023, les 14 départs à la retraite enregistrés ont été la principale cause de sortie de service,
+en cohérence avec la pyramide des âges : les agents âgés de 55 ans et plus représentaient en
+effet près de 28 % de l'effectif en 2024. Cette proportion laisse entrevoir de nombreux nouveaux
+départs, qui seront positifs en termes de GVT (glissement vieillesse technicité) – et donc, de
+charges de personnel -, mais qui supposeront également une perte de compétences. Pour y parer,
+la collectivité a d’ailleurs mis en place un comité emploi, qui se réunit toutes les six semaines
+pour examiner les besoins en ressources humaines de chaque service.
+
+
+
+3.2 Un effort d’investissement principalement financé par des ressources
+    propres, mais ayant également nécessité un recours accru à l’emprunt
+
+        Entre 2019 et 2024, les dépenses d’équipement se sont élevées à près de 26 M€ en
+moyenne par an. Elles comprennent plusieurs opérations urbaines d’envergure, parmi lesquelles
+le pôle administratif (47 M€ HT, livré en 2021), le pôle gare (138 M€, achèvement prévu en
+2030), la rénovation du quartier des clos (coût estimé à 104 M€, achèvement prévu en 2035) et
+du quartier Madeleine (opération engagée en 2021, achèvement prévu en 2025), ou encore
+l’aménagement du cloître Notre Dame et des abords de la cathédrale.
+        En 2024, les dépenses d’équipement ont atteint 36,2 M€ (+14,5 M€ par rapport à 2023,
+à relier à l’opération d’un nouveau centre technique mutualisé). En incluant les subventions
+d’équipement, elles représentaient 945 € par habitant, soit plus du double de la moyenne de la
+strate (440 € par habitant).
+        Chaque année, la commune présente un plan prévisionnel d’investissement (PPI)40
+détaillé. Ce plan, triennal et glissant, est thématisé. Il serait cependant souhaitable que les
+sources de financement (recours à l’emprunt, notamment) y soient également indiquées. De
+plus, en l’absence d’informations sur le coût global prévisionnel par thématique et sur les
+investissements déjà engagés, il est difficile d’apprécier la maturité des projets et l’état de leur
+
+
+        39
+             Le montant moyen perçu est de 590 € par agent de catégorie A, 383 € par agent de catégorie B et 267
+€ par agent de catégorie C.
+          40
+             Le PPI recouvre l’ensemble des projets d’investissement et décline les financements nécessaires à leur
+réalisation. Il planifie la stratégie d’investissement. Il permet une approche pluriannuelle de la programmation
+financière via les autorisations de programme et crédits de paiement (AP/CP), notamment sur les opérations
+importantes. Il est généralement calé sur la durée d’un mandat, ce qui n’est pas le cas en l’espèce.
+
+
+
+
+                                                       32
+                                                                                     COMMUNE DE CHARTRES
+
+
+
+
+financement. Enfin, le PPI étant limité à trois ans, son articulation avec les autorisations de
+programme et crédits de paiement (AP/CP), dont les durées sont plus longues, n'est pas
+clairement établie.
+         La CAF nette41 (5,4 M€ en moyenne annuelle) et les autres financements propres42 ont
+permis de couvrir 59 % des dépenses d’équipement en 2023 et 61 % en 2024 (grâce aux recettes
+liées à l'opération du centre technique), contre 38 % en 2019.
+        Le financement propre disponible cumulé entre 2019 et 2024 s'est élevé à 86,8 M€, pour
+un besoin de financement de 82,7 M€43 (cf. annexe n° 5). La commune a cependant mobilisé,
+sur cette même période, 88,9 M€ d'emprunt, ce qui a participé à l’augmentation des réserves
+financières de la commune à hauteur de 6 M€. En 2024, le fonds de roulement net global
+s’établissait à 10,7 M€, soit plus de deux mois de charges courantes.
+
+
+
+3.3     Un niveau d’endettement à surveiller
+
+        En hausse de 7 % par an en moyenne entre 2019 et 2024, l'encours de dette du budget
+principal a atteint 139 M€ en 202444. Lors de cet exercice, l'encours de dette par habitant
+s'élevait à 3 524 €, soit un niveau très supérieur à la moyenne de la strate (991 € par habitant).
+Ce ratio suit une évolution atypique, la dette par habitant des autres communes étant constante
+voire en léger déclin.
+
+
+
+
+         41
+             La CAF nette est calculée à partir de la CAF brute, de laquelle sont retranchées les annuités de la dette.
+         42
+             Notamment les redevances d'investissement liées à l'opération du pôle administratif (3,5 M€ en 2020)
+et les subventions reçues dans le cadre de l'opération du théâtre « le OFF » (0,8 M€ en 2023).
+          43
+             La commune doit également faire face aux engagements pris dans diverses opérations confiées à des
+tiers (comme la SPL C’ Chartres Aménagement) ou gérées en régie directe. Ainsi, en 2022, le solde des
+participations est venu gonfler le besoin de financement de plus de 2 M€.
+          44
+             Les données exposées dans cette partie ont été retraitées des anomalies relevées dans le cadre de la
+fiabilité des comptes. Ainsi et sur la période, le montant des emprunts relatifs au service « archéologie » transféré
+à la communauté d’agglomération (2,5 M€) a été retranché de la dette du budget principal.
+
+
+
+
+                                                         33
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                   Graphique n° 2 : Encours total de la dette par habitant (en euros)
+
+         4 000
+
+         3 500
+
+         3 000
+
+         2 500
+
+         2 000
+
+         1 500
+
+         1 000
+
+          500
+
+            -
+                      2019           2020           2021            2022                2023          2024
+
+                                Chartres
+                                moyenne de la strate (20 000-50 000 habitants )
+                                moyenne de la strate sur classée (50 000 -100 000 habitants)
+
+Source : Fiches individuelles des collectivités 2019 à 2024 (DGFIP)
+
+
+        En 2025, la commune a inscrit 20 M€ d’emprunt à son budget primitif, soit le montant
+réalisé en 2024. Début septembre 2025, 5 M€ avaient été mobilisés.
+        La stratégie communale en matière de dette vise à maintenir une capacité de
+désendettement à un niveau « supportable ». Sous l’effet de la mise en œuvre de projets
+d’envergure rapidement mis en place, à l’instar de l’opération du centre technique, ce ratio tend
+à se détériorer dans la deuxième moitié de la période contrôlée (cf. tableau n° 9 ci-dessous). La
+capacité de désendettement du budget principal et des budgets annexes consolidés (hors budget
+annexe aménagements) est proche de 10 ans en 2024, se situant dans la fourchette du seuil
+critique situé entre 9 et 12 ans, tel qu’établi par la Cour des comptes (cf. notamment la synthèse
+de son rapport 2025 sur les finances publiques locales).
+
+
+                     Tableau n° 8 : Encours de dette et capacité de désendettement
+
+ au 31 décembre                                   2019         2020        2021           2022        2023     2024
+
+                                                 Budget principal
+ Encours de dette (en M€)                            99,7       104,6       117,4          124,5       126,7     139
+ Capacité de désendettement (en années de
+                                                      8,9          7,7            8,7          11,0     10,2     9,8
+ CAF brute)
+                             Budgets consolidés (hors budget annexe aménagements)
+ Encours de dette (en M€)                          100,4        105,3       118,2          125,4       127,5   141,8
+ Capacité de désendettement (en années de
+                                                      8,5          7,6            8,8          10,8     10,1     9,8
+ CAF brute)
+
+Source : Comptes de gestion et CFU
+
+
+
+
+                                                         34
+                                                                                    COMMUNE DE CHARTRES
+
+
+
+
+        La charge des intérêts de la dette pèse de plus en plus sur les résultats de gestion et donc,
+sur la capacité d’autofinancement Sous réserve qu’il se poursuive, le dynamisme des recettes
+fiscales pourrait toutefois permettre à la commune - toutes choses restant égales par ailleurs -
+de faire face à ses engagements.
+       La dette consolidée de la commune, tous budgets confondus, est entièrement sécurisée45.
+Au 1 janvier 2025, elle est constituée à 69 % de prêts à taux fixe. Le taux d’intérêt moyen
+      er
+
+au 31 décembre 2024 s’établissait à 2,51 % selon le rapport annuel sur l’état de la dette de 2024.
+
+
+
+3.4 Un fonds de roulement et une trésorerie rétablis
+
+        Abondé par les emprunts, le fonds de roulement net global46 a connu une progression
+moyenne annuelle de 24,6 % depuis 2020. Combiné à un excédent de financement47 sur
+plusieurs exercices, il engendre une trésorerie d’un niveau parfois élevé, à l’exemple de
+l’exercice 2024 lors duquel celle-ci représentait plus de trois mois de charges courantes.
+
+
+                              Tableau n° 9 : Évolution du niveau de trésorerie
+
+ au 31 décembre (en milliers €)                           2019       2020      2021       2022      2023       2024
+ Fonds de roulement net global                            -2 007     3 553      3 529     4 864      6 490     10 676
+  - Besoin en fonds de roulement global                       597      -440    -4 415       623        -18     -6 076
+  =Trésorerie nette globale (y compris compte 451)        -2 604     3 993      7 944     4 241      6 509     16 752
+   dont trésorerie active                                  4 396     6 993     12 894     9 241      6 449     16 752
+   dont trésorerie passive                                 7 000     3 000      4 950     5 000        -60          0
+ - Solde du compte de rattachement, ie trésorerie
+ mise à disposition du BP (+) ou en provenance du         -2 830     -5 269    -6 124       839     -2 201       522
+ BP (-)
+  dont trésorerie issue du budget annexe aménagements       -611     -2 878    -4 437      -244     -3 648      -219
+        dont trésorerie issue du budget annexe petite
+                                                          -2 997     -2 914    -2 534       411        640       810
+                                               enfance
+     dont trésorerie issue du budget annexe parking           247        39       126       352        321      -397
+              dont trésorerie issue du budget annexe
+                                                              267      216        453       321        486       329
+                                          restauration
+    dont trésorerie issue du budget annexe tourisme           -94       -77       -77          -           -          -
+     dont trésorerie issue du budget annexe activité
+                                                              357      343        344          -           -          -
+                                                  TVA
+ =Trésorerie nette (hors compte 451)                          226    9 263     14 068     3 402      8 710     16 230
+Source : Comptes de gestion et CFU
+
+
+
+           45
+             La totalité des prêts est classée A1 selon la charte de bonne conduite entre les établissements bancaires
+et les collectivités locales, dite charte « Gissler ».
+          46
+             Différence entre les financements disponibles à plus d’un an (les dotations et réserves, les subventions
+d’investissements, les amortissements et provisions, les dettes financières à moyen long terme) et les
+immobilisations (les investissements réalisés et en cours de réalisation).
+          47
+             Ce dont témoigne un besoin en fonds de roulement négatif, soit un excédent de trésorerie générée par
+le cycle d’exploitation.
+
+
+
+
+                                                         35
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+         Faute d'autonomie financière, les budgets annexes ne disposent pas d’un compte de
+disponibilité (classe 5) et leurs trésoreries sont rattachées au budget principal par le biais du
+compte 451 (subdivisé par budget annexe). En l’espèce, c'est le budget aménagements qui
+utilise la majeure partie de la trésorerie48.
+        En termes de gestion, la commune a eu recours à des lignes de trésorerie, dont les
+nombreux tirages ont atteint des sommes conséquentes (41 M€ en 2021 et 30 M€ en 2024),
+étant précisé que ces derniers ont été réalisés en respectant les termes de la délégation au maire,
+plafonnée à 15 M€. Le coût des frais afférents, imputés au compte 6615, n’a cessé d’augmenter
+sur la période, passant de moins de 12 000 € en 2019 à plus de 210 000 € en 2024.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        Porté par un rythme de progression des recettes – notamment fiscales - plus dynamique
+que celui des charges, le budget principal a dégagé une capacité d’autofinancement
+satisfaisante au cours de la période contrôlée, qui a permis de couvrir l’annuité en capital de
+la dette et de concourir à l’intense effort d’investissement (26 M€ de dépenses d’équipement en
+moyenne par an).
+        Le recours accru à l’emprunt au-delà des besoins annuels d’investissement a permis de
+faire face à un programme ambitieux, mais également de reconstituer le fonds de roulement.
+L’endettement de la commune a toutefois atteint un niveau très supérieur à celui des communes
+de la même strate démographique et sa capacité de désendettement tend à se détériorer en fin
+de période contrôlée. Les charges d’intérêts pesant de plus en plus lourdement sur les résultats
+de gestion et donc, sur l’autofinancement, cette trajectoire appelle à la vigilance.
+
+
+
+
+        48
+           Le montant de la trésorerie affectée au budget annexe petite enfance en 2020 et 2021 est dû à une
+absence d'émargement de la subvention d'équilibre du budget principal.
+
+
+
+
+                                                    36
+                                                                      COMMUNE DE CHARTRES
+
+
+
+
+4 LA SITUATION PRÉOCCUPANTE DU BUDGET ANNEXE
+  AMÉNAGEMENTS
+
+        L'opération d'aménagement de la zone d'activité concertée (ZAC) Beaulieu, engagée en
+2002, a été confiée en 2011 à la SPL Chartres Aménagement au travers d’une concession de 15
+ans, finalement résiliée dès 2013. La commune a alors repris l'opération en régie, via le budget
+annexe aménagements qu’elle a créé en 2006. Dans le même temps, un contrat d'assistance à
+maîtrise d'ouvrage (AMO) a été conclu avec la SPL. Résilié en 2024 pour motif d'intérêt
+général, il a été suivi d’un nouveau contrat dont l’échéance est portée au 31 décembre 2032,
+pour un coût annuel de 233 250 € HT.
+       Le budget annexe aménagements retrace également l'opération de la ZAC Les Clos au
+sud-est de Chartres, intégrée au nouveau programme national de renouvellement urbain
+(NPNRU) 2019-2025. Cette opération couvre 47 hectares et prévoit un programme de
+construction de logements visant à promouvoir la mixité sociale (59 % de la surface de plancher
+dédiée à des logements collectifs, 34 % à des logements intermédiaires et 4 % à des logements
+individuels). Séquencée en trois phases, la livraison de la dernière phase est prévue en 2035.
+
+
+
+4.1 Un défaut général de fiabilité du compte financier unique
+
+
+4.1.1 Un schéma comptable irrégulier pour l’enregistrement des participations du
+      budget principal au budget annexe
+
+        Au cours de la période contrôlée, le budget principal a versé 8,22 M€ au budget annexe
+aménagements. La commune a justifié ces versements par la nécessité d’équilibrer le budget
+annexe, le versement régulier de participations (au minimum 1 M€ par an)
+permettant d’anticiper la prise en charge éventuelle d’un déficit lors de la clôture de l’opération
+et de rassurer les partenaires bancaires quant au remboursement des emprunts.
+      Dans le cadre des opérations d’aménagement suivies dans un budget annexe dédié selon
+une comptabilité de stocks, ce qui est le cas en l’espèce, l’instruction budgétaire et comptable
+M57 prévoit deux modalités de participation du budget principal :
+  - les avances, qui permettent de couvrir le besoin de financement du budget annexe. Elles
+    sont comptabilisées au compte 2763 - créances sur des collectivités publiques dans le
+    budget principal et au compte 1687 - autres dettes dans le budget annexe. Elles ont
+    vocation à être remboursées au fur et à mesure des cessions réalisées ;
+  - les subventions d’équilibre, versées en vue de compenser une moins-value réalisée lors de
+    la cession des lots. Elles sont enregistrées en section de fonctionnement du budget principal
+    (compte 657 - charges d’intervention pour compte propre - Subventions) comme du budget
+    annexe (compte 757 - subventions).
+
+
+
+
+                                                37
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+    Tableau n° 10 : Versements du budget principal au budget annexe aménagements (en euros)
+
+      2019              2020               2021              2022               2023               2024
+
+                Écritures comptabilisées sur le budget principal au compte 2748 - Autres prêts
+
+        -                 -             4 420 000          1 000 000         1 800 000           1 000 000
+
+                   Écritures comptabilisées sur le budget annexe au compte 74788 - Autres
+
+    1 000 000         2 420 000         1 000 000          1 000 000         1 800 000           1 000 000
+
+Source : Extraction du compte 2748 produit par la commune et balances générales des comptes
+
+
+        Or, en l’espèce, la commune a combiné des écritures comptables en investissement pour
+le budget principal et des écritures comptables en fonctionnement pour le budget annexe. En
+2025, le budget primitif du budget annexe prévoit ainsi, à nouveau, la comptabilisation d'une
+participation de plus de 1,6 M€ selon ces modalités.
+        L’utilisation simultanée d’écritures spécifiques à la fois aux avances et aux subventions
+d'équilibre n'est pas prévue par la réglementation comptable. Il résulte de ce schéma, qui ne
+permet pas d’établir la nature réelle du versement, deux conséquences possibles :
+  - soit les participations versées sont des avances, ce qui réduirait la dette du budget annexe
+    aménagements au 31 décembre 2024 (38,8 M€) de 8,22 M€ ;
+  - soit les participations sont des subventions d'équilibre, ce qui aurait conduit à majorer
+    indûment les résultats du budget principal sur la période 2019-2024 à hauteur de 8,22 M€
+    - masquant alors, le cas échéant, son déséquilibre réel et son (ses) déficit(s) de clôture.
+
+
+4.1.2 Des rattachements de recettes injustifiés
+
+        La procédure de rattachement a pour objectif d'inclure dans le résultat d'un exercice
+l'ensemble des charges à payer et des produits à recevoir qui y sont associés, mais qui n'ont pas
+pu être enregistrés au cours de cet exercice. En ce qui concerne les produits, cette procédure
+s'applique à ceux dont les droits acquis ont été dûment constatés au 31 décembre, mais qui n'ont
+pu être comptabilisés sur l'exercice concerné.
+        Au cours des années 2019 et 2020, les avances prévisionnelles (respectivement 1 M€ et
+2,42 M€) n'ont pas été mandatées et titrées sur les budgets concernés. Elles ont été inscrites en
+restes à réaliser en dépenses dans le budget principal et en rattachements de recettes dans le
+budget annexe. La commune a indiqué que cette situation, mise en œuvre pour assurer
+l'équilibre du budget annexe aménagements, a permis d'éviter de contracter des emprunts en
+2019 et 2020, en utilisant la possibilité de les mobiliser sur plusieurs années. Cette explication
+ne peut toutefois justifier que les opérations n’aient pas été mandatées et titrées. Un certificat
+administratif établi en fin d'année 2020 pour le budget annexe mentionne l'absence de réception
+de la recette rattachée en 2019 et le renouvellement du rattachement en 2020. Bien que la
+situation se soit résolue en 2021, le schéma d'écritures utilisé reste peu transparent.
+
+
+
+
+                                                      38
+                                                                                       COMMUNE DE CHARTRES
+
+
+
+
+        En outre, en 2022 puis 2023, dans le cadre de la cession du lot 13 de la ZAC des Clos
+décidée par délibération du 15 septembre 2022, la commune a comptabilisé au compte 7015 -
+Ventes de terrains aménagés du budget annexe aménagements, deux rattachements de recettes
+pour des montants respectifs de 1,688 M€ et 2,088 M€, alors que l’acte de vente n’a été signé
+que le 9 avril 2024.
+        Outre que le montant de ces rattachements successifs ne concorde pas avec le prix de
+vente mentionné dans la délibération (2,355 M€), la chambre relève l’absence de droit acquis
+sur la créance au cours des exercices auxquelles elle a été rattachée. En effet, si une délibération
+de cession peut être regardée comme créatrice de droit49 en tant qu’elle acte un accord des
+parties sur la chose et le prix50, elle ne peut être regardée comme une promesse de vente que
+dans la mesure où l’accord n’est soumis à aucune condition51. Or, en l’espèce, la décision de
+céder était soumise à des conditions suspensives (notamment l’obtention d’un permis de
+construire), susceptibles de remettre en cause la transaction. Par suite, les rattachements
+n’auraient pas dû être constatés avant la levée de ces conditions.
+
+
+4.1.3 Des comptes de stock artificiellement majorés
+
+
+    Opérations de stocks dans le cadre d’une opération d’aménagement gérée en régie
+                     directe - Système de l’inventaire intermittent52
+        Sur le plan comptable, les terrains aménagés ayant vocation à être revendus par une
+collectivité locale ne constituent pas, par définition, des immobilisations. Ces opérations de
+production de terrains aménagés sont donc retracées dans des comptes de stocks (comptes de
+classe 3) :
+       - en cours d’exercice, les dépenses afférentes à l’opération d’aménagement font l’objet
+de mandats émis sur les comptes de charges concernés (terrain, études, travaux de voirie et
+réseaux, frais financiers, etc.) ;
+      - en fin d’exercice, les éléments constitutifs du coût de production sont portés aux
+comptes de stocks appropriés ; le compte 335 - travaux en cours est débité par le crédit du
+compte 7133 - variation des en-cours de production de biens du montant des lots en cours
+d’aménagement ;
+        - pendant la durée des travaux, le compte 33 - en-cours de production de biens est, en
+fin d’exercice, crédité par le débit du compte 7133 - variation des en-cours de production de
+biens du montant du stock initial et débité par le crédit du compte 7133 du montant du stock
+final ;
+       - lors de l’achèvement des travaux, le compte 335 - travaux en cours est crédité par le
+débit du compte 7133 (annulation du montant des en-cours) et le compte 3555 - terrains
+
+
+
+         49
+            CAA de Nantes, n° 20NT02617 du 11 juin 2021.
+         50
+            En application de l’article 1583 du code civil, la vente « est parfaite entre les parties, et la propriété est
+acquise de droit à l’acheteur à l’égard du vendeur, dès qu’on est convenu de la chose et du prix, quoique la chose
+n’ait pas encore été livrée ni le prix payé. »
+         51
+            CE, 15 mars 2017, Société Bowling du Hainaut, n° 393407.
+         52
+            Instruction comptable M57 tome 1, p. 167-168.
+
+
+
+
+                                                           39
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+aménagés est débité par le crédit du compte 71355 - variation des stocks de terrains aménagés
+du montant des lots ;
+        - parallèlement, les ventes sont constatées au crédit du compte 7015 - ventes de terrains
+aménagés par le débit du compte 412 - acquéreurs de terrains aménagés stockés.
+Périodiquement et au plus tard en fin d’exercice, le compte 3555 - terrains aménagés est crédité
+par le débit du compte 71355 - variation des stocks de terrains aménagés des terrains vendus.
+        La comptabilisation annuelle des écritures relatives au stock initial et final de terrains
+constitue des opérations d’ordre budgétaire. Par conséquent, des crédits suffisants doivent être
+prévus au budget.
+
+        Les crédits ouverts en recettes de fonctionnement aux budgets 2019 et 2020 sur le
+compte 7133 étaient insuffisants pour enregistrer l'annulation du stock initial à son débit :
+44 M€ ont été inscrits en 2019 et 2020, alors que le stock s'élevait à 53 M€ au 1er janvier 2019
+et à 61,4 M€ au 1er janvier 2020. En conséquence, les écritures de variation des stocks n’ont
+été que partiellement enregistrées, témoignant de l'insincérité des budgets 2019 et 2020,
+respectivement en déséquilibre de 9 M€ et de 17,4 M€.
+       Compte tenu de cette minoration des dépenses de fonctionnement, les budgets primitifs
+prévoyaient des virements de la section de fonctionnement vers la section d’investissement
+(5 M€ en 2019 et 8,5 M€ en 2020). Or, s’agissant d’un budget annexe d’aménagement, les
+dépenses de la section d’investissement doivent être financées par un emprunt et/ou par une
+avance du budget principal - et non par le résultat attendu de la section de fonctionnement du
+budget annexe. Les écritures comptables réalisées ont donc eu pour effet de soulager le budget
+principal du poids d’une avance ou de minorer l’emprunt supporté par le budget annexe. Ainsi,
+en 2019, l’écart entre les sorties de stock (46,3 M€) et la comptabilisation du nouveau stock
+(54,6 M€53) a permis de dégager un résultat d’un montant exceptionnel de 7,3 M€ (contre
+2,3 M€ en moyenne sur la période 2020-2024).
+        De plus, une omission notable affecte les écritures liées à l'achèvement des travaux
+(transfert des lots achevés du compte 335 au compte 3555) et à la sortie des stocks des terrains
+vendus. Cette irrégularité, observée lors de l'opération Les Pastières close en 2021, persiste pour
+la ZAC Les Clos. En effet, bien que des ventes aient été comptabilisées entre 2020 et 2024 (au
+compte 7015), la valeur des lots cédés n’a jamais été enregistrée au compte de stock de terrains
+aménagés (au compte 3555). Par ailleurs, les écritures de mise à jour du stock, tenant compte
+des cessions effectuées, n'ont pas été réalisées.
+        Cette situation, connue dès 2021, trouve son origine dans l'absence de détermination
+d'un coût de revient des terrains aménagés, que la commune juge trop complexe à opérer en
+raison des remembrements de parcelles intervenus. Elle a indiqué qu’elle définirait les écritures
+de régularisation nécessaires, mais que celles-ci ne seraient réalisées qu’à la fin de l'opération -
+ce qui contrevient de nouveau au principe de sincérité budgétaire et à l’obligation faite aux
+collectivités territoriales de voter leurs budgets en équilibre réel en application de l’article
+L. 1612-4 du CGCT.
+
+
+
+
+       53
+            Mandats et titres émis sur le compte 713.
+
+
+
+
+                                                        40
+                                                                         COMMUNE DE CHARTRES
+
+
+
+
+        Au final, les comptes de stocks du budget annexe ne sont pas fiables, en prévision
+comme en exécution, la valeur du stock de terrains aménagés non encore vendus n’étant ni
+inscrite au budget ni comptabilisée dans le résultat de la fin d’exercice.
+       Au-delà de cette situation, qui rend, de fait, le bilan de l’opération et les résultats
+successifs insincères, la commune est incapable de déterminer si les prix de cessions couvrent
+les coûts d’aménagement engagés et, le cas échéant, quel devrait être le montant de la
+subvention d’équilibre. Par ailleurs, la commune ne dispose d'aucun moyen pour estimer la
+dépréciation éventuelle de la valeur de son stock de terrains aménagés et enregistrer les écritures
+correspondantes.
+
+
+
+4.2 Une soutenabilité financière très incertaine des opérations
+
+
+              Les différents risques afférents aux opérations d’aménagement
+                                 de terrain en régie directe
+Les communes et leurs groupements peuvent réaliser des opérations de viabilisation de
+terrains sous forme de zones d’activité, en vue de leur cession. Ces aménagements constituent
+des activités de production, classées comme services publics à caractère administratif et
+soumises aux instructions budgétaires et comptables M14 ou M57.
+Plusieurs risques hors bilan sont encourus :
+   - un risque de liquidités : la réalisation des opérations requiert généralement de recourir à
+     d’importants financements en début de période, sous forme d’emprunts bancaires ou
+     d’avances du budget principal. Le besoin de trésorerie se maintient donc potentiellement
+     jusqu’au terme de la commercialisation des lots ;
+   - un risque économique : l’équilibre des opérations dépend non seulement de l’effectivité
+     des cessions, mais aussi du prix de vente des terrains ;
+   - un risque budgétaire, qui découle du précédent et nécessite que le budget principal verse
+     une subvention d’équilibre.
+
+        Entre 2019 et 2024, les flux annuels de trésorerie d’exploitation – c’est-à-dire le solde
+entre les charges décaissées pour les opérations d’aménagement et les recettes encaissées au
+titre de la commercialisation des terrains aménagés – n’ont pas permis de couvrir l’annuité en
+capital de la dette, la couverture étant assurée, parfois en totalité (cas en 2019), par les excédents
+des années antérieures.
+
+
+
+
+                                                 41
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+          Tableau n° 11 : Évolution de la trésorerie mise à disposition par le budget principal
+
+
+ au 31 décembre (en euros)             2019           2020           2021          2022         2023         2024
+
+ Fonds de roulement net
+                                       142 963        471 731        100 283      110 517     -1 454 578     147 367
+ global
+ - Besoin en fonds de
+                                       753 780      3 349 429       4 537 020     354 177      2 193 642     365 777
+ roulement global
+  = Trésorerie nette                -610 817       -2 877 698      -4 436 736    -243 660     -3 648 220    -218 410
+  dont compte de
+ rattachement, trésorerie
+                                    -610 817       -2 877 698      -4 436 736    -243 660     -3 648 220    -219 410
+ mise à disposition du BP (+)
+ ou en provenance du BP (-)
+ dont trésorerie active                       0                                                                1 000
+
+Source : Comptes de gestion et CFU
+
+
+        Afin de financer son projet d’aménagement, la commune a recouru à l’emprunt
+(7,3 M€)54, la mobilisation du fonds de roulement restant limitée (0,2 M€). Le budget annexe a
+par ailleurs bénéficié de la trésorerie mise à disposition par le budget principal dans de larges
+proportions, notamment en 2020, 2021 et 2023.
+
+
+                              Tableau n° 12 : Évolution du fonds de roulement
+
+ au 31 décembre
+                                2019              2020           2021           2022          2023          2024
+ (en euros)
+ Solde sur les
+ opérations                  -1 012 879       1 085 352          707 505    1 374 963         456 950      1 195 966
+ d'aménagement
+ Part affecté à               1 761 967       7 569 990      1 576 784          780 908     3 853 680      2 971 291
+ l’investissement
+  Annuité en capital de
+                              1 612 840       1 756 871      1 876 380      1 945 617       2 024 745      2 079 113
+ la dette
+  Nouveaux emprunts de
+                              2 400 000       1 000 000          800 000        580 000              0     2 500 000
+ l'année
+  Var. autres dettes
+                                   -873              -287          2 573           -888         -2 701       14 908
+ et cautionnements
+ Variation de fonds de
+                                -224 845          328 768        -371 448        10 234     -1 565 094     1 601 945
+ roulement)
+
+Source : Comptes de gestion et CFU
+
+
+
+
+          54
+             La chambre observe que les annexes au compte financier unique du budget annexe aménagements sont
+erronées s’agissant de la dette. Ainsi, l’annexe relative à l’encours de dette pour l’exercice 2024 ne mentionne pas
+les passifs comptabilisés au compte 165 - dépôts et cautionnements reçus, 1678 - Autres emprunts et dettes et 1687
+- autres dettes, alors que le solde de ces comptes représente un total de 7,3 M€.
+
+
+
+
+                                                            42
+                                                                       COMMUNE DE CHARTRES
+
+
+
+
+       Bien que le financement du budget annexe procède donc majoritairement de l’emprunt,
+l’encours de dette tend à diminuer sur la période 2019-2024 (-2,3 % en moyenne chaque année),
+pour atteindre 38,4 M€ lors du dernier exercice. Dans le même temps, le stock de terrains
+aménagés a augmenté de 2 % en moyenne chaque année, pour s’établir à 68,8 M€.
+        Toutefois et comme indiqué précédemment, la valorisation des comptes de stock n’est
+pas fiable.
+       Au 31 décembre 2024, le bilan du budget annexe apparaît solide en apparence, les actifs
+couvrant plus du double des passifs. Or, le suivi financier de l’assistance à maîtrise d’ouvrage
+de la ZAC Beaulieu - Les Clos, produit à l’appui du rapport d’activité 2024, révèle un déficit
+prévisionnel de l’opération à hauteur de 45,3 M€, laissant entrevoir à terme la nécessité du
+versement par le budget principal d’une substantielle subvention d’équilibre.
+       L’opération est encore loin d’être achevée : fin 2024, selon l’annexe 2 du même rapport,
+seulement 32 % des cessions foncières prévues ont été réalisées, alors même que le projet a
+démarré il y a 14 ans. La commercialisation de certains lots demeure incertaine, notamment
+parce que la commune ne dispose pas de la maîtrise foncière. Ces incertitudes sont susceptibles
+d’affecter significativement le résultat final déficitaire de l’opération.
+        En l’absence de calcul d’un coût de revient des lots restant à céder, la commune n’est
+pas en mesure d’apprécier si la valeur du stock est cohérente avec les prix du marché et donc,
+si la réalisation du programme suffira à couvrir le passif contracté pour financer les coûts
+d’acquisitions des terrains et de leur aménagement. La chambre recommande donc à la
+commune de déterminer sans tarder un calcul du coût de revient de chaque lot et de fiabiliser
+sa comptabilité de stock.
+
+
+Recommandation n° 5. : Calculer un coût de revient pour chaque lot de la ZAC Beaulieu
+– Les Clos afin de fiabiliser sans tarder la comptabilisation du stock de terrains aménagés.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        La gestion du budget annexe aménagements se caractérise par des schémas comptables
+irréguliers, des rattachements de recettes injustifiés et une surévaluation artificielle des stocks.
+        L’absence de détermination des coûts de revient des lots interdit toute appréciation
+sincère de la soutenabilité financière des opérations et des pertes qui se profilent. Cette
+situation fait peser un risque significatif sur les équilibres financiers futurs de la commune.
+
+
+
+
+                                                43
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                      ANNEXES
+
+Annexe n° 1. Procédure ................................................................................................... 45
+Annexe n° 2. Écarts entre l’actif immobilisé et l’inventaire comptable (budget
+            principal, en valeur brute) .......................................................................... 46
+Annexe n° 3. Mesures à caractère général en matière de rémunérations décidées
+            au niveau national entre 2019 et 2024 ........................................................ 49
+Annexe n° 4. Tableau d’analyse financière - budget principal - performances
+            financières annuelles et auto-financement ................................................. 51
+Annexe n° 5. Tableau d’analyse financière – budget principal – financement des
+            investissements ........................................................................................... 52
+Annexe n° 6. Ressources humaines – suivi des effectifs ................................................ 53
+Annexe n° 7. Liste des abréviations ................................................................................ 55
+Annexe n° 8. Réponse ..................................................................................................... 56
+
+
+
+
+                                                                44
+                                                                     COMMUNE DE CHARTRES
+
+
+
+
+                                   Annexe n° 1. Procédure
+
+
+        Le tableau ci-dessous retrace les différentes étapes de la procédure telles qu’elles ont
+été définies par le code des juridictions financières (articles L. 243-1 à L. 243-6) :
+
+
+                                                                           Dates de réception
+       Objet               Dates                    Destinataires            des réponses
+                                                                              éventuelles
+
+Envoi de la lettre      12 mars 2025
+                                          M. Jean-Pierre Gorges,
+d’ouverture de             reçue le
+                                          ordonnateur en fonction
+contrôle                14 mars 2025
+
+Entretien de fin de
+                      12 novembre 2025    M. Jean-Pierre Gorges
+contrôle
+
+Délibéré de la
+                      26 novembre 2025
+chambre
+Envoi du rapport
+                       19 février 2026
+d’observations                            M. Jean-Pierre Gorges              23 mars 2026
+                      reçu le même jour
+provisoires (ROP)
+Délibéré de la
+                        24 juin 2026
+chambre
+                                          M. Ladislas Vergne,
+                        28 juillet 2026
+Envoi du rapport                          ordonnateur en fonction depuis   18 septembre 2026
+                      reçu le même jour
+d’observations                            le 28 mars 2026
+définitives            28 juillet 2026
+(ROD1)                                    M. Jean-Pierre Gorges, ancien
+                           reçu le                                            Sans réponse
+                                          ordonnateur
+                       29 juillet 2026
+
+
+
+
+                                               45
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Annexe n° 2. Écarts entre l’actif immobilisé et l’inventaire comptable
+                       (budget principal, en valeur brute)
+
+Imputation         Bilan 2024         Inventaire comptable 2024        Écart
+
+238                     184 050,77                       259 821,68              -75 770,91
+
+261                   11 616 960,23                     3 937 806,03           7 679 154,20
+
+266                    1 505 026,00                                -           1 505 026,00
+                                 5
+271                                                                -              5 207,13
+                            207,13
+275                       21 234,19                          120,77              21 113,42
+
+2031                   8 543 994,21                     8 838 402,34           -294 408,13
+
+2033                    481 846,86                       481 846,86                       -
+
+2051                  10 666 173,19                    10 680 233,85             -14 060,66
+
+2088                    472 935,87                       426 546,16              46 389,71
+
+2111                   3 022 435,69                     3 071 076,73             -48 641,04
+
+2112                 128 833 050,32                   128 960 027,33           -126 977,01
+
+2113                   5 530 637,69                     7 004 786,69       -1 474 149,00
+
+2115                   9 439 307,34                     9 824 923,22           -385 615,88
+
+2116                    427 656,40                       427 656,40                       -
+
+2118                   3 720 127,70                     4 132 218,78           -412 091,08
+
+2121                    615 877,36                       615 877,36                       -
+
+2128                   3 137 860,12                     3 128 019,36              9 840,76
+
+2138                  18 827 213,77                    19 345 979,23           -518 765,46
+
+2141                    121 683,89                       121 683,89                       -
+
+2145                   1 193 565,63                     1 193 565,63                      -
+
+2151                  30 541 210,17                    30 541 210,17                      -
+
+2152                  30 147 852,41                    30 812 198,20           -664 345,79
+
+2158                   5 741 083,53                     5 711 276,44             29 807,09
+
+2181                   2 288 120,22                     2 288 144,54                 -24,32
+
+2186                      42 803,31                        42 803,31                      -
+
+2188                  19 389 173,66                    19 189 830,19            199 343,47
+
+2235                    131 169,86                       131 169,86                       -
+
+
+
+
+                                           46
+                                                                 COMMUNE DE CHARTRES
+
+
+
+
+Imputation   Bilan 2024         Inventaire comptable 2024               Écart
+
+2312                  814,80                         17 362,74                    -16 547,94
+
+2313             7 609 851,38                     7 510 792,11                    99 059,27
+
+2315                -8 459,78                                -                     -8 459,78
+
+2316                 1 160,00                         1 160,00                             -
+
+2318                74 838,58                         6 469,92                    68 368,66
+
+2423             2 798 322,72                                -                  2 798 322,72
+
+2741             1 768 000,00                     5 285 000,00              -3 517 000,00
+
+2745                        -                    12 000 000,00             -12 000 000,00
+
+2748             9 632 000,00                     4 806 000,00                  4 826 000,00
+
+2764                51 217,69                        37 917,69                    13 300,00
+
+20421             175 500,00                       209 708,39                     -34 208,39
+
+20422           10 911 860,87                    11 113 278,78                  -201 417,91
+
+21311           96 287 169,03                    96 289 194,95                     -2 025,92
+
+21312           54 057 943,03                    54 248 555,32                  -190 612,29
+
+21313             385 333,98                       385 333,98                              -
+
+21314           82 286 355,06                    82 362 265,11                    -75 910,05
+
+21316            1 406 919,79                     1 406 919,79                             -
+
+21318           65 400 577,79                    66 746 715,73              -1 346 137,94
+
+21321            4 585 942,22                     4 482 485,22                   103 457,00
+
+21328           11 180 278,67                    11 179 084,40                     1 194,27
+
+21351           34 568 660,92                    33 922 691,48                   645 969,44
+
+21531                5 150,48                         5 150,48                             -
+
+21532               13 674,00                        13 674,00                             -
+
+21533           16 138 344,42                    16 138 344,42                             -
+
+21534            1 231 775,89                     1 231 775,89                             -
+
+21536                9 660,00                         9 660,00                             -
+
+21538           10 157 254,44                    10 102 322,38                    54 932,06
+
+21568               51 002,62                        51 002,62                             -
+
+21611             142 997,63                       142 997,63                              -
+
+
+
+
+                                     47
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+ Imputation            Bilan 2024            Inventaire comptable 2024                 Écart
+
+ 21612                        18 723,16                                   -                       18 723,16
+
+ 21621                     4 013 526,03                        3 993 170,62                       20 355,41
+
+ 21622                        42 550,56                           81 629,13                       -39 078,57
+
+ 21713                     1 116 063,34                        1 116 063,34                                -
+
+ 21758                        41 465,68                           41 465,68                                -
+
+ 21828                     3 129 399,38                        3 160 102,30                       -30 702,92
+
+ 21831                     1 378 056,79                        1 402 047,47                       -23 990,68
+
+ 21838                    10 859 223,20                       10 952 130,59                       -92 907,39
+
+ 21841                       653 497,96                         653 497,96                                 -
+
+ 21848                     4 668 980,15                        4 667 198,67                        1 781,48
+
+ 27631                        33 538,78                                   -                       33 538,78
+
+ 27633                        16 669,19                                   -                       16 669,19
+
+ 27638                     5 906 925,14                                   -                     5 906 925,14
+
+ 204411                        1 171,69                            1 171,69                                -
+
+ 204412                       97 410,95                         144 497,04                        -47 086,09
+
+ 204421                          130,73                             130,73                                 -
+
+ 204422                             89,85                            89,85                                 -
+
+ 215738                      361 609,24                         361 609,24                                 -
+
+ 276351                     -116 103,93                                   -                     -116 103,93
+
+ 2041582                     183 812,71                         204 061,73                        -20 249,02
+
+ 20415322                    477 000,00                         477 000,00                                 -
+
+ Total général           740 456 144,35                      738 128 954,09                     2 327 190,26
+
+Sources : Balance des comptes au CFU 2024 et inventaire comptable 2024 produit par la commune
+
+
+
+
+                                                   48
+                                                                                                  COMMUNE DE CHARTRES
+
+
+
+
+   Annexe n° 3. Mesures à caractère général en matière de rémunérations décidées
+                       au niveau national entre 2019 et 2024
+
+                                                                                               Cotisations
+            Point d’indice            SMIC           GIPA                PPCR                                            Autres
+                                                                                                sociales
+
+                                                                Revalorisation indiciaire
+                                                                   au 1er janvier pour
+                                                                 l’ensemble des cadres
+                                                   Oui (base    d’emploi (dernière année                           Revalorisation des
+                                    +1,5 % au       inflation      pour catégorie B et       +0,18 point, part         indemnités
+2019                                                              première année pour
+                                    1er janvier    2,85 % sur                                agent CNRACL            kilométriques
+                                                     4 ans)        catégories A et C)                                 (obligatoire)
+                                                                    Deuxième année du
+                                                                transfert prime point pour
+                                                                 les agents de catégorie A
+
+                                                                Revalorisation indiciaire
+                                                   Oui (base                                                        Mise en place de
+                                                                 au 1er janvier des agents
+                                    +1,2 % au       inflation                                +0,27 point, part      l’indemnité pour
+2020                                                              de catégorie A et C au
+                                    1er janvier    3,77 % sur                                agent CNRACL        rupture conventionnelle
+                                                                titre du PPCR (deuxième
+                                                     4 ans)                                                             (facultatif)
+                                                                    année du protocole)
+
+         Attribution de points                                                                                    Versement d’une aide
+          d’indice majorés à                                                                                     exceptionnelle de 100 €
+           certains agents de       +0,99 % au                  Revalorisation indiciaire                            pour les salaires
+                                                   Oui (base
+       catégorie C au 1er janvier    1er janvier                au 1er janvier des agents                          inférieurs à 2 000 €
+                                                    inflation
+2021                                                             de catégorie A et C au                                (obligatoire)
+            Relèvement du           +2,2 % au      3,78 % sur
+                                                                titre du PPCR (dernière
+       minimum de traitement à      1er octobre      4 ans)                                                           Création des
+                                                                   année du protocole)
+        l’indice majoré 340 au                                                                                    indemnités de fin de
+               1er octobre                                                                                        contrat (obligatoire)
+
+        Hausse de 3,5 % de la
+       valeur du point d'indice
+            au 1er juillet          +0,86 % au
+                                     1er janvier
+            Relèvement du                          Oui (base
+       minimum de traitement à      +2,65 % au      inflation
+2022
+        l'indice majoré 343 à         1er mai      4,36 % sur
+        compter du 1er janvier                       4 ans)
+                                    +2,03 % au
+        Relèvement minimum            1er août
+       de traitement à l'IM 352
+       à compter du 1er octobre
+
+                                                                                                                  Mise en place d’une
+        Hausse de 1,5 % de la                                                                                    prime pouvoir d’achat
+       valeur du point d'indice                                                                                  (à l’appréciation de la
+            au 1er juillet                                                                                             collectivité).
+
+            Relèvement du                                                                                        Revalorisation des frais
+       minimum de traitement à                                                                                         de mission
+        l'indice majoré 353 à                                                                                         (obligatoire)
+                                    +1,81 % au     Oui (base
+        compter du 1er janvier
+                                     1er janvier    inflation                                                    Augmentation du taux
+2023    Relèvement minimum                                                                                          de prise en charge
+                                    +2,22 % au     8,19 % sur
+       de traitement à l'IM 361                      4 ans)                                                        partielle du prix des
+                                      1er mai                                                                      titres d'abonnement
+       à compter du 1er octobre
+                                                                                                                    correspondant aux
+         Attribution de points                                                                                   déplacements effectués
+          d'indice majorés à                                                                                      par les agents publics
+          certains agents de                                                                                       entre leur résidence
+          catégorie B et C à                                                                                      habituelle et leur lieu
+         compter du 1er juillet                                                                                   de travail (passage de
+                                                                                                                        50 à 75 %).
+
+
+
+
+                                                                  49
+ RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                                      Cotisations
+          Point d’indice            SMIC          GIPA        PPCR                     Autres
+                                                                       sociales
+
+                                                                      +1 point part
+                                                                       employeur
+                                                                       CNRACL
+                                  +1,12 % au                         (compensée en
+       Attribution de 5 points                                           2024)
+                                 1er janvier et
+2024   d'indice majorés à tous                    Non
+                                  +1,97 % au                         +0,12 points de
+          les agents publics
+                                 1er novembre                           cotisations
+                                                                       vieillesse du
+                                                                     régime général
+                                                                      (contractuels)
+
+ Source : CRC Centre-Val de Loire
+
+
+
+
+                                                         50
+                                                                                   COMMUNE DE CHARTRES
+
+
+
+
+      Annexe n° 4. Tableau d’analyse financière - budget principal - performances
+                      financières annuelles et auto-financement
+
+                                                                                                            Variation
+en milliers €                         2019       2020        2021     2022          2023        2024        annuelle
+                                                                                                            moyenne
+
+Fiscalité totale (nette)              47 506     47 797      47 483    48 834        50 183     51 867          1,8 %
+
+ Ressources d'exploitation (dont
+                                       4 463      4 273       4 703        5 767      7 271      7 573         11,2 %
+produits exceptionnels réels)
+
+Dotations et participations            8 042      8 012       9 571    10 178        10 360     10 374          5,2 %
+
+Production immobilisée, travaux en
+                                       1 592      1 508       1 462        1 490      1 600      1 285         -4,2 %
+régie
+
+Produits de gestion (A)               61 603     61 590      63 221    66 269        69 414     71 100          2,9 %
+
+Charges à caractère général           10 560      8 785      10 692    13 936        15 750     15 332          7,7 %
+
+Charges de personnel                  26 139     25 356      26 226    26 605        26 630     26 746          0,5 %
+
+Subventions de fonctionnement (dont
+                                       8 180      7 766       7 233        7 741      7 871      7 342         -2,1 %
+subventions exceptionnelles)
+
+Autres charges de gestion              3 250      3 637       3 566        4 111      3 795      4 084          4,7 %
+
+Charges de gestion (B)                48 129     45 545      47 717    52 393        54 045     53 503          2,1 %
+
+Excédent brut de fonctionnement
+                                      13 474     16 045      15 504    13 876        15 369     17 596          5,5 %
+(A-B)
+
++/- Résultat financier                 -2 224    -2 488      -2 245    -2 475        -2 953     -3 382          8,7 %
+
+ +/- Titres et mandats annulés sur
+                                         -34            -5     190           -29           -2          -6     -28,4 %
+exercices antérieurs
+
+= CAF brute                           11 216     13 552      13 449    11 372        12 413     14 208          4,8 %
+
+- Annuité en capital de la dette       6 794      7 078       6 406        7 159      7 933      8 203
+
+= CAF nette ou disponible (C)          4 422      6 473       7 042        4 212      4 480      6 005
+
+  Source : CRC Centre-Val de Loire d’après les comptes de gestion et CFU
+
+
+
+
+                                                        51
+  RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+   Annexe n° 5. Tableau d’analyse financière – budget principal – financement des
+                                  investissements
+
+                                                                                                                    Cumul
+en milliers d'€                                   2019       2020       2021       2022       2023       2024       sur les
+                                                                                                                    années
+CAF nette ou disponible (C)                        4 422      6 473      7 042      4 212      4 480      6 005      32 635
+
+Taxe d'aménagement                                 1 108      1 279        495        466       314         632       4 294
+ + Fonds de compensation de la TVA
+                                                   3 276      7 261      3 395      3 774      2 606      1 893      22 205
+(FCTVA)
+
++ Subventions d'investissement reçues                592      3 562         82        365      1 833      4 863      11 297
+
+
++ Fonds affectés à l'équipement                    1 074      1 005        534        894      1 166        802       5 474
+
++ Produits de cession                                315          548    1 254        331       727       7 748      10 923
+
++ Autres recettes                                        3          6          2          4          0          2        17
++ Recettes d'inv. hors emprunt (D)                 6 367     13 662      5 762      5 833      6 647     15 940      54 211
+= Financement propre disponible (C+D)             10 789     20 135     12 804     10 046     11 127     21 944      86 845
+
+ - Dépenses d'équipement (y compris travaux
+                                                  28 592     25 133     26 110     20 777     18 881     36 154     155 647
+en régie)
+
+ - Subventions d'équipement hors attributions
+                                                     321          359    7 873        177      1 200      1 114      11 045
+de compensation
+ +/- Dons, subventions et prises de
+                                                     -98            0          0          0      -11          -1       -110
+participation en nature, reçus ou donnés
+- Participations et inv. financiers nets           1 576          989    -1 893     2 028       -559        981       3 122
+
++/- Variation autres dettes et cautionnements          -7          -6      -48        -19        -11        -83        -174
+
+= Besoin (-) ou capacité (+) de financement
+                                                  -19 595    -6 339     -19 238    -12 917    -8 374     -16 221    -82 684
+propre
+
++/- Solde des opérations pour compte de tiers        100       -100            0          0          0      -93         -94
+- Reprise sur excédents capitalisés                  111            0          0          0          0          0       111
+
+= Besoin (-) ou capacité (+) de financement       -19 607    -6 439     -19 238    -12 917    -8 374     -16 314    -82 889
+Nouveaux emprunts de l'année (y compris
+                                                  13 370     12 000     19 213     13 810     10 000     20 500      88 893
+pénalités de réaménagement)
+Mobilisation (-) ou reconstitution (+) du fonds
+                                                   -6 237     5 561        -25        893      1 626      4 186       6 005
+de roulement net global
+
+  Source : CRC Centre-Val de Loire d’après les comptes de gestion et CFU
+
+
+
+
+                                                             52
+                                                                                                        COMMUNE DE CHARTRES
+
+
+
+
+                       Annexe n° 6. Ressources humaines – suivi des effectifs
+
+                                Évolution des ETPT entre 2019 et 2024
+
+                                                                                                                                    Évolution
+en ETPT sur l'année               2019         2020            2021                  2022               2023            2024        2019-2024
+                                                                                                                                      en %
+Effectif sur emplois
+                                   409,87      392,52           387,08               394,48             385,57          376,26           -8%
+permanents
+dont titulaires et stagiaires      333,56      310,37           298,49               293,80             283,33          267,18          -20%
+dont contractuels (332-8 et
+                                    76,31       82,15              88,58             100,68             102,24          109,07           43%
+332-14 CGFP)
+Effectif sur emplois non
+                                    58,33       58,11              60,66                 50,96           46,97           47,19          -19%
+permanents
+dont collaborateurs de
+                                      1,66       1,74                1,75                 1,95            0,75            0,75          -55%
+cabinet
+dont collaborateurs de
+                                           -              -               -                  -                  -               -         0%
+groupes
+assistants maternels /
+                                         23           23                 22                 21                 19          17           -26%
+familiaux
+
+Source : Commune de Chartres
+
+
+                         Évolution des ETPT sur emplois non permanents
+
+                                                                                                                                    Évolution
+                                                                                                                                     2019-
+en ETPT sur l'année                            2019           2020            2021          2022          2023           2024
+                                                                                                                                      2024
+                                                                                                                                      en %
+Effectif sur emplois non permanents            58,33          58,11           60,66          50,96         46,97         47,19         -19 %
+
+dont emplois aidés                                    -                              -              -               -           -        0%
+                                                                     -
+dont apprentis                                  3,67           4,66            5,25              4,36          6,10       6,30          72 %
+
+dont remplacement temporaire d'un agent
+                                                6,61           7,24            4,33              5,48          6,43       8,02          21 %
+permanent absent (L. 332-13 CGFP)
+
+dont accroissement temporaire d'activité
+                                                4,21           6,64            6,02              4,42          2,09       4,72          12 %
+(L. 332-23 CGFP)
+
+dont accroissement saisonnier d'activité
+                                                2,44           1,48            3,16              2,20          0,35       2,33           -5 %
+(L. 332-23 CGFP)
+
+dont contrats de projet (L. 332-24 CGFP)              -              -               -              -               -           -        0%
+dont vacataires                                 7,50           8,43            6,95              6,85          7,53       7,73           3%
+dont autres                                    32,24          27,92           33,21          25,69         23,72         17,34         -46 %
+
+Source : Commune de Chartres
+
+
+
+
+                                                              53
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                     Évolution de la structure des ETPT entre 2019 et 2024
+
+ en ETPT sur
+                                 2019                       2024                         Évolution en %
+ l'année
+   par catégorie         A        B            C    A       B               C        A            B           C
+ Effectif sur
+                         50,94   47,48     369,77   47,47   98,98           277,00    -7 %       108 %        -25 %
+ emplois
+   dont titulaires et
+                         40,61   39,28    253,78    39,11   66,99           161,07    -4 %        71 %        -37 %
+          stagiaires
+  dont contractuels      10,33    8,20    102,02     8,35   31,99           100,84   -19 %       290 %         -1 %
+             dont hors
+                                            13,96                            15,09    0%           0%          8%
+            catégories
+
+Source : Commune de Chartres
+
+
+
+            Évolution de la structure des effectifs par filière entre 2019 et 2024
+
+ en ETPT sur l'année                     2019                      2024                      Évolution en %
+
+ Technique                               139,44                    97,63                                 -30 %
+
+ Administrative                          50,10                     51,07                                  2%
+
+ Sociale                                 77,60                     79,91                                  3%
+
+ Animation                               16,16                     13,67                                 -15 %
+
+ Médico-sociale                          54,74                     55,96                                  2%
+
+ Culturelle                              86,81                     80,41                                  -7 %
+
+ Incendie-secours                          -                         -                                    0%
+
+ Sécurité                                23,36                     25,33                                  8%
+
+ Sportive                                 6,01                      4,39                                 -27 %
+
+ Médico-technique                          -                         -                                    0%
+
+ Autres                                  13,96                     15,09                                  8%
+
+ Ensemble                                468,20                    423,45                                -10 %
+
+Source : Commune de Chartres
+
+
+
+
+                                                     54
+                                                          COMMUNE DE CHARTRES
+
+
+
+
+                 Annexe n° 7. Liste des abréviations
+
+Sigle                                  Signification
+
+CAF     Capacité d'autofinancement
+
+CFU     Compte financier unique
+
+CGCT    Code général des collectivités territoriales
+
+CIA     Complément indemnitaire annuel
+
+CRAC    Chambre régionale des comptes
+
+CRC     Chambre régionale des comptes
+
+DGS     Directeur-trice général-e des services
+
+ETPT    Équivalent temps plein travaillé EPA : Établissement public administratif
+
+EPL     Entreprise publique locale
+
+IFSE    Indemnité de fonctions, de sujétions et d’expertise
+
+IHTS    Indemnités horaires pour travaux supplémentaires
+
+SEM     Société d’économie mixte
+
+SPL     Société publique locale
+
+ZAC     Zone d'aménagement concerté
+
+
+
+
+                                     55
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                           Annexe n° 8. Réponse
+
+
+
+
+                                     56
+                                                 COMMUNE DE CHARTRES
+
+
+
+
+Chambre régionale des comptes Centre-Val de Loire
+                15 rue d’Escures
+                 45000 Orléans
+              Tél. : 02 38 78 96 00
+        centrevaldeloire@crtc.ccomptes.fr
+    https://www.ccomptes.fr/fr/crc-centre-val-de-loire
+
+
+
+
+                          57
+
