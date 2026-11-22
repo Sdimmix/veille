@@ -1,0 +1,1341 @@
+TITRE: Association Pour l'Enfance Rurale (Nord)
+PAGE: https://www.ccomptes.fr/fr/publications/association-pour-lenfance-rurale-nord
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/HFR2026-052.pdf
+
+      RAPPORT D’OBSERVATIONS DÉFINITIVES
+                          ET SA RÉPONSE
+
+
+
+
+   ASSOCIATION POUR L’ENFANCE
+                 RURALE (APER)
+
+                                                                                                 (Nord)
+                                                                           Exercices 2021 à 2025
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés,
+                  a été délibéré par la chambre le 8 septembre 2026.
+
+
+
+        14, rue du Marché au Filé - 62012 – Arras cedex  Téléphone : 03 21 50 75 00 www.ccomptes.fr
+                                                                 ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+                                          TABLE DES MATIÈRES
+
+SYNTHÈSE ............................................................................................................................... 2
+RECOMMANDATIONS ........................................................................................................... 3
+INTRODUCTION ...................................................................................................................... 4
+1 UNE ASSOCIATION ASSURANT DES ACTIVITÉS DE SERVICE PUBLIC DE
+  L’ENFANCE ......................................................................................................................... 5
+    1.1 Une croissance continue de l’activité de l’association depuis sa création ...................... 5
+          1.1.1 Les activités supplémentaires confiées à l’association par ses membres.......................... 5
+          1.1.2 Des activités en forte croissance ....................................................................................... 6
+    1.2 Les modalités de financement de ces activités ............................................................... 7
+          1.2.1 Le cadre des financements de la caisse d’allocations familiales ...................................... 7
+          1.2.2 Les contributions et financements communaux................................................................ 8
+    1.3 Un cadre juridique de gestion des activités à sécuriser................................................... 8
+2 UNE GOUVERNANCE ET UNE ORGANISATION À RENFORCER POUR
+  ÉVITER DE NOUVEAUX DYSFONCTIONNEMENTS ................................................. 10
+    2.1 Une gouvernance en inadéquation avec les statuts, source de dysfonctionnements
+        internes .......................................................................................................................... 10
+          2.1.1 Un cadre statutaire peu respecté à actualiser et à préciser .............................................. 10
+          2.1.2 Un défaut de contrôle par le président et par les instances jusqu’en juin 2023 .............. 11
+    2.2 Une organisation interne centrée sur la gestion des activités ....................................... 13
+          2.2.1 Des moyens humains consacrés en priorité aux activités ............................................... 13
+          2.2.2 Une gestion administrative et financière encore fragile ................................................. 14
+    2.3 L’absence de sécurité juridique des actes de gestion .................................................... 17
+          2.3.1 Une gestion des fonds sans organisation formalisée et aléatoire .................................... 17
+          2.3.2 La nécessité de sécuriser les actes de gestion ................................................................. 18
+3 UNE SITUATION FINANCIÈRE À CONFORTER ......................................................... 20
+    3.1 L’information comptable .............................................................................................. 20
+          3.1.1 Publication et certification des comptes ......................................................................... 20
+          3.1.2 La valorisation des contributions volontaires des communes......................................... 20
+    3.2 Une activité en hausse fragilisant l’équilibre financier de l’association....................... 21
+          3.2.1 Un équilibre économique et financier faible à reconsidérer ........................................... 21
+          3.2.2 L’évolution des produits et des charges d’exploitation .................................................. 22
+    3.3 L’équilibre bilanciel et la trésorerie fragilisée .............................................................. 24
+
+
+
+
+                                                                      1
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                          SYNTHÈSE
+
+
+       L’« Association Pour l’Enfance Rurale » a été créée le 3 juin 1997 sous la forme d’une
+association « loi 1901 » à l’initiative de trois communes et de la caisse d’allocations familiales
+du Nord. Elle exerce dans les faits, par délégation des communes d’Estreux, de Saultain et
+Sebourg, des activités relevant des compétences communales de la petite enfance et de
+l’enfance.
+        Son objet est de « développer et de coordonner des actions en faveur de l’Enfance et de
+la Jeunesse et d’en assurer la gestion sur le territoire de ces trois communes ». En plus de la
+restauration scolaire, elle gère trois micro-crèches, les activités extra et périscolaires et l’accueil
+de loisirs sans hébergement (ALSH) pendant les vacances scolaires pour les trois communes.
+         Le cadre associatif de ces activités n’est pas sans risque juridique. Il est défini par une
+convention de partenariat avec les trois communes membres et confirmé par une convention
+territoriale globale pour les financements par la caisse d’allocations familiales du Nord.
+        L’organisation interne mise en place par l’ancienne directrice, avec un contrôle
+insuffisant par le président en fonctions jusqu’en juin 2023 et par les instances de l’association,
+a occasionné des dysfonctionnements graves qui exposent l’organisme à des risques juridiques.
+La direction défaillante a engagé des dépenses sans habilitation et sans réaction des instances
+de l’association. À partir de juin 2023, le changement de président a permis d’engager des
+actions correctives. Leur mise en œuvre devra se poursuivre, quel que soit le choix par les
+communes membres du futur statut de l’opérateur de cette politique publique.
+       Le volume d’activité a doublé entre 2021 et 2024, avec pour corolaire la hausse des
+charges de personnel. Cela a fragilisé l’équilibre économique et financier de la structure.
+L’augmentation des produits payés par les familles et financés par la caisse d’allocations
+familiales n’a pas suffi à couvrir la totalité de la hausse des charges.
+       Si la forme associative perdure, l’équilibre financier de l’association ne pourra venir que
+de l’augmentation des contributions des communes, financière et en nature, qui doivent être
+proportionnelles au niveau d’activité, dans le cadre d’une stratégie pluriannuelle à définir.
+
+
+
+
+                                                  2
+                                                   ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+                                    RECOMMANDATIONS
+                           (classées dans l’ordre de citation dans le rapport)
+
+                             Recommandations (performance)
+
+                                                                      Mise en
+                                                             Mis en            Non mis en
+                Degré de mise en œuvre                                œuvre en              Page
+                                                             œuvre               œuvre
+                                                                       cours
+Recommandation n° 1 : assurer, en lien avec les communes
+membres, la sécurisation juridique des activités de                                X         9
+l’association.
+Recommandation n° 2 : adopter un règlement intérieur.                              X        11
+Recommandation n° 3 : formaliser par écrit les procédures
+                                                                                   X        17
+administratives et financières.
+Recommandation n° 4 : sécuriser les actes de gestion en
+formalisant des délégations de pouvoir et de signature                             X        19
+conformes aux statuts.
+Recommandation n° 5 : se doter d’un guide interne de la
+                                                                                   X        24
+commande publique détaillant les procédures d’achat.
+Recommandation n° 6 : établir une stratégie pluriannuelle.                         X        25
+
+
+
+
+                                                      3
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                   INTRODUCTION
+
+
+       Le contrôle de l’association pour l’enfance rurale (APER) au titre des exercices 2021
+à 2025 a été ouvert par lettre du président de la chambre du 1er octobre 2025, adressée
+à M. Antoine Lorent, président en fonctions depuis 2023. M. Joël Soigneux, président de 2008
+à 2023, a également été informé de ce contrôle par courrier de la même date.
+       L’entretien de fin de contrôle, prévu à l’article L. 243-1 du code des juridictions
+financières, a eu lieu le 5 février 2026 avec les présidents successifs.
+        Dans sa séance du 8 avril 2026, la chambre a arrêté les observations provisoires,
+transmises au représentant légal en fonctions de l’association, à l’ancien président, ainsi qu’à
+des tiers sous forme d’extraits.
+     Après avoir examiné les réponses, la chambre a arrêté, le 8 septembre 2026,
+les observations définitives suivantes. Celles-ci portent sur l’organisation des activités
+de l’association, sur sa gouvernance et sur sa situation financière.
+
+
+
+
+                                               4
+                                                      ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+1 UNE ASSOCIATION ASSURANT DES ACTIVITÉS DE SERVICE
+  PUBLIC DE L’ENFANCE
+
+    L’« Association Pour l’Enfance Rurale » (APER) est composée de trois communes, pour
+lesquelles elle assure la gestion d’activités à destination des enfants.
+
+
+
+1.1 Une croissance continue de l’activité de l’association depuis sa création
+
+
+1.1.1 Les activités supplémentaires confiées à l’association par ses membres
+
+        Créée le 3 juin 1997, l’APER a été fondée à l’initiative de la caisse d'allocations
+familiales du Nord1 et, dans un premier temps, des communes de Saultain, Sebourg, Estreux,
+Préseau et Vicq. Ces deux dernières communes s’en sont ensuite retirées. Son siège social est
+situé dans les locaux de la mairie de Saultain.
+       Elle assurait, à sa création, la gestion uniquement d’une halte-garderie itinérante, avant
+d’étendre par étapes successives son périmètre d’intervention à la restauration scolaire et
+périscolaire à Saultain et Sebourg, puis à la gestion d’accueils de loisirs sans hébergement
+(ALSH) pour les trois communes. Depuis le 1er janvier 2025, elle a intégré une micro-crèche à
+Estreux.
+       En 2025, elle gère des activités pour les enfants qui lui sont confiées par les communes
+de Saultain, Sebourg et Estreux, selon le tableau n° 1 ci-après : trois micro-crèches ; le
+périscolaire et la restauration scolaire ; les accueils de loisirs.
+
+
+                               La répartition territoriale des activités de l’association en 2025
+
+                                                   Saultain           Sebourg                   Estreux
+Micro-crèches, relais petite enfance                 Oui                Oui                       Oui
+                                                                                           Accueil assuré à
+Centres de loisirs                                    Oui                Oui
+                                                                                         Saultain ou à Sebourg
+                                                                                           En régie directe
+Périscolaire et restauration scolaire                 Oui                Oui
+                                                                                           par la commune
+Source : chambre régionale des comptes, à partir de la documentation fournie par l’APER.
+
+
+
+
+1
+    La structure a été créée à la suite de la signature d'un contrat Enfance, le 23 décembre 1995, sous l’appellation
+    « Association Petite Enfance Rurale » qu’elle a conservé jusqu’en 2020.
+
+
+
+
+                                                         5
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        L’association est présentée par ses communes membres comme un atout au service de
+l’attractivité du territoire. Elle répond également à des besoins sociaux identifiés. Selon le
+diagnostic partagé établi avec la caisse d’allocations familiales, le territoire de la communauté
+d’agglomération de Valenciennes Métropole, dont sont membres ces trois communes, présente
+des indicateurs socio-économiques dégradés. Le taux de chômage au sens du Bureau
+international du travail s’établit à 12,6 % pour le territoire, contre 7,5 % au niveau national
+au 3e trimestre 2025, et la part de familles monoparentales représente 35 % des allocataires de
+la caisse d’allocations familiales, soit 11,7 % de la population du territoire par rapport à 9,6 %
+au niveau national2. Selon la caisse, au sein de ce territoire, 13 000 enfants de moins de cinq
+ans sont recensés, dont la moitié a un besoin potentiel d’un mode de garde.
+
+
+1.1.2 Des activités en forte croissance
+
+        De 2021 à 2024, les trois secteurs de l’association ont connu une forte augmentation
+d’activité. Le nombre d’heures réalisées a été multiplié par deux en quatre années, selon le bilan
+établi avec la caisse d’allocations familiales en 2024. La plus forte augmentation se concentre
+sur le secteur périscolaire (avec la restauration scolaire et la pause méridienne).
+
+
+                             L’évolution de l’activité de l’association (nombre d’heures réalisées)
+
+                                            2021             2022           2023            2024        2024/2021
+Micro-crèches                                 23 730           30 451         31 735          33 016      39 %
+Centres de loisirs                            36 692           50 511         59 971          73 979      102 %
+Périscolaire et restauration scolaire         61 400           90 705        102 338         131 573      114 %
+TOTAL                                        121 822          171 667        194 044         238 568      96 %
+Source : chambre régionale des comptes, à partir de la documentation fournie par l’APER.
+
+
+       En 2024, le nombre total d’enfants accueillis est de 326 pour les activités périscolaires,
+92 pour l’accueil du mercredi, et 445 pendant les vacances scolaires.
+
+
+                                               Nombre d’enfants accueillis en 2024
+
+                                    Restauration                                                       Centres
+                                                                 Garderie        Mercredi
+                                      Scolaire                                                         de loisirs
+    Saultain                            149                         50                 46                 218
+    Sebourg                             177                        58                  46                 176
+    Estreux                              -                           -                  -                  51
+    TOTAL                               326                        108                 92                 445
+Source : chambre régionale des comptes, à partir de la documentation fournie par l’APER.
+
+
+
+
+2
+      Insee publication du 1er janvier 2025, données 2022.
+
+
+
+
+                                                             6
+                                                     ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+      Entre 2021 et 2024, le nombre d’enfants pris en charge est passé de 170 à 319 pour
+l’accueil de loisirs de Saultain, et de 54 à 196 pour celui de Sebourg. Chaque micro-crèche
+accueille une trentaine d’enfants par an, ce qui correspond à leur agrément par la caisse
+d’allocations familiales.
+
+
+
+1.2 Les modalités de financement de ces activités
+
+      Le financement de l’association est assuré selon trois modalités : 1. Les prestations
+versées par la caisse d’allocations familiales selon les activités réalisées ; 2. Les subventions
+des communes membres ; 3. Les participations des familles. Entre 2021 et 2024, la part du
+financement liée aux participations des familles a le plus augmenté, passant de 22 % à 36 %,
+alors que la part des subventions communales est passée de 41 % à 29 % des produits de
+gestion.
+
+
+                              L’évolution des différents financements (en % du total annuel)
+
+                                                                           2021                    2024
+Part familles                                                              22 %                    36 %
+Part CAF                                                                   33 %                    34 %
+Part des subventions communales                                            41 %                    29 %
+Source : chambre régionale des comptes, à partir des comptes de l’association APER.
+
+
+
+1.2.1 Le cadre des financements de la caisse d’allocations familiales
+
+       Les trois communes sont signataires d'une convention territoriale globale (CTG)
+proposée par la caisse d’allocations familiales en 2021, en lien avec la communauté
+d’agglomération de Valenciennes Métropole (CAVM) dont elles sont membres3.
+        Cette convention détermine les conditions de financement des activités de l’association
+par la caisse. Celle en vigueur entre 2021 et 2024 a été signée le 13 janvier 2022 avec la CAVM,
+qui ne possède pas la compétence petite enfance.
+
+
+
+
+3
+    Une convention territoriale globale formalise (CTG) est une démarche de partenariat entre la CAF et les
+    communes. Son objectif est d'améliorer l'efficacité, la cohérence et la coordination des services destinés aux
+    habitants des territoires concernés. Sur le territoire de la communauté d’agglomération de Valenciennes
+    Métropole (CAVM), les communes compétentes en matière de politique enfance/jeunesse adhèrent à la CTG.
+    Cette adhésion permet aux opérateurs locaux de bénéficier du maintien des financements antérieurs ou d'un
+    accompagnement financier pour les projets futurs.
+
+
+
+
+                                                        7
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La CTG a pour objectif de définir les champs d’intervention de la caisse d’allocations
+familiales sur le territoire, en partenariat avec les collectivités, en plus d’identifier les besoins
+prioritaires, de pérenniser et optimiser l’offre de services existante et développer des actions
+nouvelles permettant de répondre à des besoins non satisfaits. Un comité de pilotage réunit les
+partenaires institutionnels (caisse d’allocations familiales, MSA4, PMI5, etc.) avec les
+communes et l’association.
+        La CTG 2021-2024 a remplacé les contrats « enfance jeunesse » en place jusqu’en 2020.
+Une nouvelle CTG couvrant la période 2025 à 2029 a été élaborée en 2024. Elle reprend
+l’ensemble des activités de l’association, soit les trois micro-crèches, le relais d’assistantes
+maternelles (RAM), le périscolaire, les centres de loisirs, ainsi que l’ingénierie et la
+coordination. En revanche, la caisse d’allocations familiales ne finance plus, dans ce cadre, les
+activités comme « l’heure du conte » et l’animation de la PMI, qui est un service départemental.
+
+
+1.2.2 Les contributions et financements communaux
+
+        La participation des communes membres est encadrée par une convention de partenariat
+entre les communes et l’association, signée en 2020 et reconduite tacitement chaque année. Des
+conventions annuelles sont signées pour définir le montant des subventions communales
+attribuées.
+      L’ensemble des activités de l’association sont organisées au sein de locaux mis à
+disposition par les trois communes membres, qui en assurent la gestion. Ces charges, dites
+supplétives, sont des contributions volontaires des communes, valorisées dans les comptes de
+l’association.
+
+
+
+1.3 Un cadre juridique de gestion des activités à sécuriser
+
+      L’association exerce des activités de service public à la place des communes membres.
+Cette situation comporte le risque de requalification en association transparente.
+       Selon l’article 1er de ses statuts révisés en 2016, l’APER a manifestement été créée à
+l’initiative de ses communes membres. Cette initiative est indiquée dans la convention de
+partenariat de 2020 et reprise dans chaque convention de financement communal.
+L'article 2 des statuts de 2016 stipule que l'association a pour objet de « développer et de
+coordonner des actions en faveur de l’Enfance et de la Jeunesse et d’en assurer la gestion sur le
+territoire de ces trois communes ». L’exercice de ces activités associatives s’appuie sur un
+fonctionnement quotidien soutenu par les communes membres, notamment avec la mise à
+disposition de locaux.
+
+
+
+
+4
+    Mutualité sociale agricole.
+5
+    Protection maternelle et infantile.
+
+
+
+
+                                                 8
+                                             ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+     De la même manière, la convention de partenariat qui lie l’association et les trois
+communes depuis 2020 ne qualifie pas juridiquement leurs relations au regard du droit de la
+commande publique. Tout au plus, l’article 2, intitulé « définition du champ d’intervention
+commun », précise que les actions sont « déléguées par les communes », puis que des
+changements peuvent être opérés « dans la délégation de gestion ». Aucun autre lien juridique,
+que ce soit une convention de mandat ou un contrat de concession relevant du code de la
+commande publique, autre que cette convention de partenariat n’en définit le cadre juridique.
+      En 2025, le service de gestion comptable de Valenciennes a alerté le président de
+l’association sur les risques encourus. En septembre de la même année, le président a
+commandé une expertise juridique à un cabinet d’avocats qui conclut à la nécessité de
+transformer l’association en société publique locale. D’autres hypothèses permettant de
+sécuriser ses activités, comme la création d’un syndicat intercommunal, ou les conditions du
+maintien d’un format associatif, ne sont pas évoquées dans ce mémoire. À ce stade,
+l’association n’a pas engagé d’actions pour faire évoluer le cadre juridique.
+       Les représentants des communes au sein du conseil d’administration sont renouvelés en
+2026 à l’issue des élections municipales, et devront statuer sur l’option retenue pour sécuriser
+le cadre juridique. Par ailleurs, la chambre rappelle qu’en aucun cas, et quel que soit le statut
+de la structure, un élu désigné pour représenter une commune, ne peut prendre part au vote
+d’une délibération intéressant cette structure présentée au conseil municipal, en application de
+l’article L. 2131-11 du code général des collectivités territoriales (CGCT). Cette disposition
+n’était pas appliquée au début de la période de contrôle pour les trois communes, qui devront y
+veiller dorénavant.
+ Quelle que soit l’option retenue par les conseils municipaux, la chambre recommande de
+mettre en œuvre des actions de sécurisation juridique des activités.
+
+
+ Recommandation n° 1 : assurer, en lien avec les communes membres, la sécurisation
+ juridique des activités de l’association.
+
+       En réponse aux observations provisoires de la chambre, le président de l’association
+s’engage à poursuivre les démarches de sécurisation juridique des activités et indique qu’une
+modification des statuts de l’association sera présentée prochainement à l’assemblée générale.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       L’association APER a été créée en 1997. Elle exerce des activités à destination des
+enfants (ALSH, périscolaire et restauration scolaire, crèche) des communes de Saultain, de
+Sebourg et d’Estreux, qui en sont membres.
+        Son financement est assuré par la participation des familles, les prestations versées par
+la caisse d’allocations familiales et les contributions des communes.
+    Le cadre juridique de ces activités, lié à une convention de partenariat signée en 2020
+entre l’association et les trois communes membres, devra être sécurisé dans les meilleurs
+délais, alors même que leur volume a doublé entre 2021 et 2024.
+
+
+
+
+                                               9
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2 UNE GOUVERNANCE ET UNE ORGANISATION À RENFORCER
+  POUR ÉVITER DE NOUVEAUX DYSFONCTIONNEMENTS
+
+     La gouvernance de l’association n’est pas en adéquation avec ses dispositions statutaires,
+ce qui a pu contribuer à une délégation de pouvoirs à la direction sans un contrôle interne
+suffisant. Les ressources humaines affectées à la gestion administrative n’ont pas suivi
+l’augmentation des activités.
+
+
+
+2.1 Une gouvernance en inadéquation                             avec     les    statuts,     source          de
+    dysfonctionnements internes
+
+
+2.1.1 Un cadre statutaire peu respecté à actualiser et à préciser
+
+                            Portée juridique des statuts d’une association
+       Aux termes de l’article 1er de la loi du 1er juillet 1901 relative au contrat d’association,
+   « l’association est une convention par laquelle deux ou plusieurs personnes mettent en commun
+   d’une façon permanente leurs connaissances ou leur activité dans un but autre que de partager des
+   bénéfices. Elle est régie, quant à sa validité, par les principes généraux du droit applicables aux
+   contrats et obligations ».
+       La loi de 1901 ne fixe qu’un cadre, les associations demeurantes libres de s’organiser comme
+   elles l’entendent, dès lors que leur objet n’est pas illicite. Leurs statuts ont donc « force de loi »,
+   notamment pour l’objet de l’association ainsi que son mode de fonctionnement.
+    Les derniers statuts communiqués à la préfecture et publiés, conformément à la loi
+du 1er juillet 1901, datent de 2016. Ils définissent les principes de fonctionnement de l’APER,
+et renvoient à l’élaboration d’un règlement intérieur pour le fonctionnement des instances.
+
+        2.1.1.1 Des instances associatives peu actives
+        En application des statuts, l’assemblée générale et le bureau n’ont que des fonctions
+limitées. L’assemblée générale ne se réunit qu’une fois par an. Elle est chargée d’élire le conseil
+d’administration. Elle entend les rapports moraux et financiers de l’association et la lecture du
+rapport de vérification du commissaire aux comptes (CAC). Elle délibère, statue et approuve
+les comptes de l’exercice clos, vote le budget de l’exercice suivant. Elle désigne le CAC, chargé
+de la vérification annuelle de la gestion du trésorier. De la même manière, le bureau n’a pas
+d’autre vocation que de réunir les fonctions exécutives.
+        Les statuts mentionnent que la caisse d’allocations familiales et la protection maternelle
+et infantile sont membres de l’association. Pour autant, cette adhésion n’a jamais été formalisée.
+Ces deux organismes sont peu présents lors des réunions, même s’ils peuvent être conviés à y
+assister au titre de leurs fonctions respectives. Ce point devra être clarifié avec le département
+du Nord et la caisse d’allocation familiales du Nord.
+
+
+
+
+                                                     10
+                                             ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+        Les comptes-rendus des instances sont imprécis, et ne mentionnent pas le nombre de
+présents et leurs qualités. La chambre rappelle, qu’en application des statuts, le secrétaire est
+chargé de tout ce qui concerne la correspondance et qu’il doit rédiger les procès-verbaux des
+délibérations et en assurer la transcription sur les registres. Les imprécisions et le non-respect
+des statuts concernant les modalités de désignation et le champ d’intervention des différentes
+instances, ainsi que le nombre de membres, d’administrateurs et de membres du bureau presque
+identique, tous membres élus des communes, nuisent à la vie associative et à l’opérationnalité
+de la gouvernance. Selon les statuts, le conseil d’administration est l’instance qui concentre les
+pouvoirs. Les administrateurs sont nommés pour la durée de leur mandat électif en tant que
+délégués des communes, lors du renouvellement des conseils municipaux. Le président n’a
+qu’une fonction de présidence des instances et la capacité de signer les contrats. Il agit sur
+autorisation expresse du conseil d’administration.
+        Dans les faits, cette instance n’assume pas ce rôle. Plusieurs irrégularités dans
+l’application des statuts de l’association entachent son fonctionnement. Ainsi, le nombre de
+réunion annuelle du conseil d’administration n’est pas respecté. Les administrateurs
+représentant les usagers ne sont plus désignés. Les comptes-rendus des réunions du conseil
+d’administration sont ambigus concernant le nombre et la qualité d’administrateurs nécessaires
+aux délibérations valables de cette instance. Les documents de compte-rendu ne mentionnent
+pas systématiquement les éléments de vérification du quorum, les invités, et la validation du
+compte-rendu de la réunion précédente. La direction présente au conseil d’administration un
+bilan annuel de l’année, mais aucune orientation n’y est formalisée. Le conseil d’administration
+a de fait délégué ses pouvoirs au président, mais sans formaliser une délégation de pouvoir. Si
+la forme associative perdure, la chambre invite ses membres à réviser les statuts.
+
+       2.1.1.2 L’absence de règlement intérieur
+        Les statuts, et l’application qui en est faite, laissent toute latitude au président de
+l’association pour en assurer la gestion. Toutefois, aucun document ne précise la portée des
+pouvoirs qui lui sont attribués, et notamment de ses fonctions de contrôle de l’activité et de la
+gestion de l’association.
+        Les statuts prévoient dans leur article 25 la possibilité d’adopter un règlement intérieur,
+établi par le conseil d’administration et approuvé par l’assemblée générale. Ce document est
+destiné à préciser les statuts, notamment le fonctionnement pratique des instances et des
+activités de l’association. Or celle-ci ne s’est pas dotée d’un règlement intérieur. Si la forme
+associative perdure, la chambre recommande l’adoption de ce document.
+
+
+ Recommandation n° 2 : adopter un règlement intérieur.
+
+       En réponse aux observations provisoires de la chambre, le président de l’association
+s’engage à adopter dans les plus brefs délais un règlement intérieur.
+
+
+2.1.2 Un défaut de contrôle par le président et par les instances jusqu’en juin 2023
+
+       Entre 2021 et juin 2023, la gouvernance de l’association a conduit à des
+dysfonctionnements importants en laissant une place prépondérante à la fonction de direction.
+
+
+
+
+                                                11
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La directrice en fonctions entre juin 2008 et septembre 2023 a disposé d’une grande
+liberté d’action, en raison d’un contrôle insuffisant des représentants légaux et des instances de
+direction de l’association. Le curriculum-vitae de l’intéressée indique qu’elle dispose d’une
+formation initiale administrative et comptable, complétée par un brevet d’aptitude à l’animation
+socio-éducative (BASE) et une formation professionnelle 1ère et 2ème année du diplôme d’État
+relatif aux fonctions d’animation (DEFA), sans toutefois préciser l’obtention du diplôme,
+qualification permettant l’accès aux fonctions de direction.
+        Les fonctions de direction ne sont pas définies par les statuts, mais relèvent du contrat
+de travail signé par le président. Pour l’ancienne directrice, un avenant du 20 juin 2008 à son
+contrat de travail initial de coordinatrice des activités jeunesse du 15 mars 2001 en définit le
+contenu. Il stipule que la liste des activités de direction n’est pas exhaustive et peut évoluer en
+fonction de l’organisation et de la stratégie de l’association. Cet avenant indique que la
+directrice est placée « sous l’autorité directe du président » et qu’elle « s’engage pour
+l’exécution de ses fonctions à respecter tous ordres et instructions qui lui seront donnés par le
+président et devra lui rendre compte régulièrement de son activité et des problèmes rencontrés
+dans l’exercice de sa mission ». L’avenant indique qu’elle devra participer aux réunions
+organisées par le président, aux réunions du conseil d’administration et de l’assemblée générale,
+à la demande du président.
+        En 2023, l’ancien président, M. Soigneux, alors maire de Saultain, a souhaité se retirer
+de la présidence de l’association. De nouveaux délégués et administrateurs ont été désignés par
+le conseil municipal de cette commune. Lors de la réunion du conseil d’administration
+du 15 juin 2023, M. Lorent a été élu président. Il était précédemment trésorier de l’association.
+La directrice en fonctions entre juin 2008 et septembre 2023 a alors été remplacée par un
+nouveau directeur, au début de l’année 2024. M. Lorent est devenu maire de Saultain en 2026.
+       Le changement de président intervenu en juin 2023 a conduit à mettre en lumière des
+carences de gestion. Selon une enquête interne réalisée en novembre 2023, l’ancienne directrice
+bénéficiait d’une totale confiance de la part des instances statutaires, qui ne contrôlaient pas
+suffisamment la gestion interne.
+        En réponse aux observations provisoires de la chambre, l’ancienne directrice relève,
+d’une part, que le président était signataire des documents cadre de gestion, et des contrats de
+travail en application, et que le conseil d’administration adoptait les comptes annuels, le rapport
+moral du président et le bilan annuel, et d’autre part, qu’elle agissait sans délégation formelle.
+Elle considère également avoir alerté les instances sur des dysfonctionnements internes
+ponctuels.
+       La chambre constate que les contrôles réalisés par le président et les instances en
+application des statuts sont toutefois restés limités. Ce type de fonctionnement, sans délégation
+formelle, peut comporter des risques juridiques majeurs.
+      Le 27 décembre 2023, l’association a procédé au licenciement pour faute grave de
+l’ancienne directrice, qui l’a contesté devant le conseil des prud’hommes de Valenciennes.
+Depuis juin 2023, le président signe tous les actes de gestion. Ce mode d’organisation, plus
+conforme aux statuts de l’association, permet un contrôle effectif de sa gestion.
+
+
+
+
+                                                12
+                                                  ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+2.2 Une organisation interne centrée sur la gestion des activités
+
+
+2.2.1 Des moyens humains consacrés en priorité aux activités
+
+        2.2.1.1 Une augmentation des effectifs correspondant à la croissance de l’activité
+        En 2024, l’association comptait 34 salariés permanents (soit 28,3 équivalents temps
+plein), dont la presque totalité affectée directement à l’exercice des activités. Les équipes
+salariées de l’association sont réparties en trois pôles animés par trois coordonnatrices :
+ « Petite enfance » avec les trois micro-crèches et le relais petite enfance ;
+ « Périscolaire » avec la restauration scolaire et les activités de la pause méridienne et la
+  garderie ;
+ « ALSH » (accueils de loisirs sans hébergement), dont un accueil pour adolescents, la
+  ludothèque et les formations aux brevet d’aptitude aux fonctions d’animateur (BAFA) et
+  brevet d’aptitude aux fonctions de directeur (BAFD).
+       L’augmentation de l’activité de l’association entre 2021 et 2024 s’est accompagnée
+d’une croissance de 17 % du nombre de salariés (+ 31 % en équivalents temps plein), et donc
+de la masse salariale. Le nombre de contrats à durée indéterminée (CDI) augmente de 50 %. La
+part des salariés à temps partiel demeure stable. D’autres salariés en contrat d’animation
+complètent l’effectif pour les ALSH organisés pendant les vacances scolaires. Le nombre de
+cadres est passé d’un à cinq en 2024 pour renforcer l’organisation interne des activités.
+
+
+                           L’évolution des effectifs du personnel permanent de l’association
+
+         Au 31/12                 2021            2022            2023            2024         2025
+Équivalent temps plein            21,5            22,71           24,74           28,3         37,61
+Nombre d’agents                    29              29              30              34           44
+ dont cadres                       1                1               1              5             5
+ dont CDI                          20              19              20              30           34
+ dont CDD                          9               10              10              4            10
+ dont temps partiel                13              15              15              13           20
+Source : chambre régionale des comptes, à partir de la documentation fournie par l’APER.
+
+
+        2.2.1.2 Une utilisation mesurée des dérogations légales
+        L’association applique les normes légales d’encadrement des enfants, qui sont
+différenciées selon leur âge et les activités (micro-crèche, périscolaire, extrascolaire).
+        Pour autant, elle utilise certaines des dérogations légales prévues par l’État, ce qui se
+traduit par une réduction des charges de personnel. Ces dérogations autorisent, par exemple,
+deux à quatre enfants supplémentaires par professionnel présent et par activité.
+
+
+
+
+                                                     13
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                       Les taux d’encadrement dérogatoires appliqués par l’association en 2024
+                      Nombre d’enfants encadrés par un         Nombre d’enfants en           Nombre
+                               professionnel                    moyenne par jour           d’encadrants
+                                14 maternels
+Garderie                                                                 108                    9
+                                18 primaires
+                                10 maternels
+Accueil de loisirs                                                       92                     11
+                                14 primaires
+Restauration                    14 maternels
+                                                                         326                    24
+scolaire                        18 primaires
+Source : chambre régionale des comptes, à partir de la documentation fournie par l’APER.
+
+
+2.2.2 Une gestion administrative et financière encore fragile
+        La gestion administrative et financière est assurée par l’équipe de direction qui constitue
+un pôle administratif à l’effectif restreint avec le directeur, qui assure les relations avec les
+financeurs, et plus particulièrement la caisse d’allocations familiales, et l’assistante de
+direction, qui centralise une grande partie des données administratives.
+        Le service administratif n’étant pas suffisamment étoffé, l’association recourt à un
+prestataire externe pour l’établissement mensuel des paies, la clôture des comptes annuels et la
+réalisation des bilans annuels et situations comptables. La saisie des données comptables est
+effectuée ponctuellement par un agent de la commune de Saultain, dont le statut juridique devra
+être clarifié au regard du code général de la fonction publique. Les variables de paie sont
+préparées par l’assistante de direction, puis validées, et ensuite transmises au cabinet d’expertise
+comptable par le directeur.
+
+        2.2.2.1 Un défaut de contrôle interne
+       L’insuffisance des contrôles internes par les instances et le président en fonctions
+jusqu’en juin 2023 a facilité des paiements irréguliers, notamment pour des heures
+supplémentaires.
+
+
+2.2.2.1.1 Des heures supplémentaires de l’ancienne directrice auto-attribuées sans contrôle et
+          non justifiées dont la régularité est mise en cause
+
+        Le contrat de travail de l’ancienne directrice est imprécis sur le temps de travail.
+Ces fonctions de direction auraient dû conduire à instaurer un contrôle annuel du temps de
+travail pour justifier d’heures supplémentaires.
+        Les dispositions relatives au temps de travail ont été modifiées par deux avenants,
+en 2010 et 2012, portant sur les modalités financières de la prime de présence, et la durée et la
+répartition du temps de travail. Aucun autre avenant n’a été établi postérieurement. Sur la durée
+du temps de travail et sa répartition, ces avenants précisent le temps complet de ces fonctions.
+En revanche, ils diffèrent sur la répartition. L’avenant de 2010 prévoit, en fonction des besoins
+de l’association, et le cas échéant, que des heures supplémentaires puissent être demandées par
+la direction. Celui de 2012 précise une modulation du temps de travail avec un planning
+prévisionnel remis en début d’année civile selon la convention collective depuis l’avenant
+de 2010, ce qui correspond aux besoins de l’association pour les périodes scolaires et non
+scolaires.
+
+
+
+
+                                                     14
+                                             ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+       Le dernier avenant régularise cette situation en stipulant que l’ancienne directrice
+effectue, depuis janvier 2010, 151,67 heures de travail par mois en moyenne, et perçoive en
+contrepartie une rémunération mensuelle brute lissée.
+        Précisant encore le statut de cadre de l’ancienne directrice, selon la convention
+collective, la rédaction du dernier avenant reprend la modulation du temps de travail et la
+répartition du temps de travail en nombre d’heures mensuelles moyennes avec la rémunération
+mensuelle lissée, et ne porte plus la mention des heures supplémentaires. La rédaction du
+dernier avenant de 2012 ne mentionne pas de façon claire la forfaitisation du temps de travail
+qui est en fait suggérée par le planning prévisionnel remis à chaque début d’année civile, les
+heures mensuelles moyennes et la rémunération lissée. Ces notions figurent dans la convention
+collective. Cependant, les heures supplémentaires sont, selon les indications de l’avenant, à la
+seule demande de la direction de l’association et indique bien la modulation du temps de travail
+avec une moyenne mensuelle de 151,67 heures de travail dans l’année. Les heures
+supplémentaires ne sont donc plus justifiées, en l’absence de cadre de contrôle annualisé.
+       Avec le statut de cadre, et selon le dernier avenant, l’ancienne directrice a accepté la
+modulation du temps de travail. Il en ressort alors, contrairement à l’avenant précédent, qu’elle
+ne pouvait plus bénéficier de l’attribution d’heures supplémentaires, d’autant plus qu’elles
+devaient être demandées par la direction de l’association. En l’absence de demande explicite et
+expresse en ce sens, la directrice devait moduler son temps de travail. Les heures
+supplémentaires demandées et payées de 2021 à 2023 sont donc contraires tant au contrat et ses
+avenants, qu’aux stipulations de la convention collective relatives dans le cadre de la
+modulation et la forfaitisation du temps de travail.
+       Cette situation irrégulière est désormais corrigée. Le contrat du nouveau directeur
+indique précisément la forfaitisation du temps de travail à 210 jours par an avec une durée de
+repos minimale consécutive de 11 heures quotidiennes, comme l’autorise expressément la
+convention collective.
+
+
+2.2.2.1.2 Un défaut de suivi de la charge de travail
+
+       L’association paie des heures supplémentaires annuellement en un seul règlement,
+généralement en décembre.
+        L’ancienne directrice, remplissant ses plannings horaires quotidiennement, a demandé
+le règlement d’heures supplémentaires, en fin de chaque année. Ces demandes n’ont pas fait
+l’objet d’une validation par le président, celui-ci étant, d’après l’avenant du contrat de travail,
+le référent hiérarchique de la directrice. Elles n’ont pas été non plus l’objet d’interrogation sur
+leur volume.
+       De 2021 à 2023, le paiement de ces heures supplémentaires s’élève à un montant brut
+de 41 211,35 € pour 1 694,50 heures. Ce volume sur près de trois années représente plus d’un
+équivalent temps plein, et en moyenne, plus de 51 heures supplémentaires par mois.
+        La convention collective stipule qu’un suivi des heures travaillées est établi et a pour
+but de contrôler la charge de travail, que l’employeur doit organiser un entretien avec le salarié
+dans les plus brefs délais, s'il est constaté une charge de travail anormale. Les mesures
+correctives prises doivent faire l’objet d'un document écrit.
+
+
+
+
+                                                15
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                     Nombre et montant des heures supplémentaires payées à l’ancienne directrice
+
+                                                                                         Montant moyen
+Année                   Mois             Nombre            Montant en €        Type
+                                                                                         par heure en €
+                                          17,00                      770,19     Total             45,31
+                                          16,00                      418,73     25%               26,17
+                 Septembre
+2021                                       1,00                       31,41     50%               31,41
+                                                                     320,05   Dimanche
+                 Décembre                 446,00                  10 495,79     25%               23,53
+                 Octobre                   11,00                     263,57     25%               23,96
+2022
+                 Décembre                 539,00                  12 914,97     25%               23,96
+2023             Décembre                 681,50                  16 766,83     25%               24,60
+TOTAL                                    1 694,50                 41 211,35                       24,32
+Source : chambre régionale des comptes, à partir des bulletins de paie.
+
+
+       Aucune procédure de charge de travail anormale n’a été mise en œuvre. Ce défaut de
+suivi de la part des organes de direction de l’association est susceptible d’engager la
+responsabilité du président, supérieur hiérarchique de l’ancienne directrice.
+
+
+2.2.2.1.3 Une mise en paiement irrégulière
+
+        Sans en avoir la possibilité ni l’habilitation, et sans contrôle des instances dirigeantes de
+l’association, l’ancienne directrice a engagé elle-même le paiement de ses heures
+supplémentaires, à son propre avantage.
+       Elle a transmis directement ses données de paie concernant les heures supplémentaires
+à l’expert-comptable de l’association, missionné pour la réalisation de la paie des salariés. Ces
+données ont été à chaque fois transmises simplement par messagerie au gestionnaire paie du
+cabinet d’expertise comptable.
+        En réponse aux observations provisoires de la chambre, l’ancienne directrice présente
+la procédure de contrôle interne applicable à l’ensemble des agents placés sous sa
+responsabilité. Elle reconnaît avoir engagé des dépenses sans bénéficier d’une délégation
+formelle, ne justifie pas d’un contrôle pour sa situation, et ne transmet pas de pièces probantes
+de validation interne.
+        La chambre constate que l’expert-comptable a manqué à son devoir d’alerte. Il n’a
+jamais averti l’association et son président sur ces transmissions engageant des dépenses sans
+visa et validation du représentant légal ou des instances de gouvernance.
+
+        2.2.2.2 Une organisation administrative à conforter
+        L’organisation des fonctions administratives de l’association n’a toujours pas été
+renforcée depuis la croissance de l’activité. Il n’existe aucune formalisation ni délégation
+statutaire pour l’ensemble des procédures administratives, comptables et financières.
+En l’absence de procédure, l’ensemble des actes et responsabilités incombent au président,
+en application des statuts, et au directeur, en application de son contrat de travail.
+
+
+
+
+                                                      16
+                                                     ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+        L’association a été confrontée à des difficultés pour assurer la déclaration des données
+réelles entre 2021 et 2023. Chaque année, la caisse d’allocations familiales a dû procéder à
+plusieurs relances et accorder des délais exceptionnels avant que ces transmissions ne soient
+régularisées. Cela aurait pu avoir pour conséquence une perte de financement. La directrice en
+fonctions jusqu’en septembre 2023 était la seule interlocutrice de la caisse d’allocations
+familiales, sans aucun relais ou contrôle interne. Les qualifications réglementaires pour les
+postes de direction6 visent à prémunir les organismes de ce type de défaillance à laquelle
+l’association a été exposée.
+        En réponse aux observations provisoires de la chambre, l’ancienne directrice reconnaît
+les retards de transmission, et expose les contraintes de gestion interne inhérentes à la
+transmission d’information à la caisse d’allocations familiales sans justifier de contraintes
+exceptionnelles.
+        En 2023, l’organisation interne a été revue. Les paiements en ligne et par carte bancaire
+ont été déployés pour limiter les paiements en espèces. Certaines tâches administratives, comme
+les inscriptions, les facturations et les règlements, ainsi que leur suivi, étaient précédemment
+assurées par les coordinatrices des pôles d’activités, les directions des centres de loisirs et
+certains animateurs. Désormais, seuls les animateurs responsables des activités suivent les
+encaissements et les remettent à l’assistante de direction pour le dépôt en banque. Toutefois,
+ces nouvelles procédures ne sont toujours pas formalisées, ce qui pourrait engendrer de
+nouveaux dysfonctionnements.
+        Si la forme associative perdure, la chambre recommande à l’association de formaliser
+par écrit ses procédures administratives et financières afin de sécuriser son fonctionnement.
+
+
+    Recommandation n° 3 : formaliser par écrit les procédures administratives et
+    financières.
+
+       En réponse aux observations provisoires de la chambre, le président s’engage à
+formaliser les procédures administratives et financières de l’association.
+
+
+
+2.3 L’absence de sécurité juridique des actes de gestion
+
+
+2.3.1 Une gestion des fonds sans organisation formalisée et aléatoire
+
+       En l’absence de délégation de pouvoirs et de signature, et de règlement intérieur, la
+gestion des fonds de l’association est aléatoire selon les personnes qui en sont chargées. Cela
+concerne en premier lieu les fonds en espèce. Les montants concernés ne peuvent pas être
+reconstitués en l’absence de pièces justificatives. L’ensemble des dépenses réalisées, et en
+premier lieu les payes versées, sont exposées à un risque juridique.
+
+
+
+
+6
+     Articles R. 2324-34 à R. 2324-37, et R. 2324-46 du code de la santé publique.
+
+
+
+
+                                                        17
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La possibilité de paiement en espèce des activités par les familles et la présence d’un
+coffre-fort auraient dû susciter la rédaction d’un règlement relatif au maniement de ces fonds
+et leur conservation. Au cours de la période de contrôle, seulement la directrice, puis le
+directeur, et l’ancienne secrétaire administrative, devenue assistante de direction, possédaient
+chacun une clé du coffre-fort. Les fonds étaient mis dans des enveloppes préétablies
+correspondant aux encaissements mensuels.
+       Jusqu’en 2021, les fonds ainsi collectés étaient déposés en banque par la secrétaire
+administrative tous les 15 jours, sous la supervision de la directrice. En 2021, la banque a
+demandé que ce soit le représentant légal de l’association qui fasse les remises de fonds.
+Les personnes autorisées étaient, à partir de 2021, le président et l’ancienne directrice, sans
+toutefois disposer d’une telle attribution. En pratique seule l’ancienne directrice procédait aux
+remises de fonds à la banque.
+        Le nouveau président, nommé le 15 juin 2023, s’est inquiété du niveau des espèces en
+caisse (6 190 €), non reversées au 31 décembre 2022. Pour autant, aucun dépôt de fonds à la
+banque n’a été effectué par l’ancienne directrice avant septembre 2023. Le 5 septembre 2023,
+il a été constaté une disparition de fonds dans le coffre-fort, d’un montant de 7 933,50 €.
+Elle a fait l’objet d’un procès-verbal de vol simple sans effraction et sans trace de pesée sur la
+serrure du coffre-fort comme sur la porte du bureau dans lequel il se trouve.
+       L’absence d’organisation et de règle fixées par la direction concernant la gestion des
+fonds en espèces de l’association, ainsi que l’absence de supervision et de contrôle des instances
+compétentes sur ses fonds en espèces ont participé de ces dysfonctionnements.
+
+
+2.3.2 La nécessité de sécuriser les actes de gestion
+
+        Le conseil d’administration de l’APER n’exerce pas les pouvoirs qui lui sont conférés
+par les statuts. Selon ces derniers, le conseil d’administration doit se prononcer sur toute
+demande d’admission, surveiller la gestion des membres du bureau, effectuer tout emploi de
+fonds, solliciter toute subvention et autoriser le président, le trésorier et le trésorier-adjoint à
+faire tout acte, achat et investissement reconnus nécessaires et à passer les marchés et les
+contrats nécessaires à la poursuite de son objet. Sa mission en matière de surveillance et
+d’autorisation n’a pas été exercée. L’association n’a pas formalisé de compte-rendu des
+réunions du bureau. Par conséquent, la chambre n’est pas en mesure d’apprécier le rôle respectif
+de ses membres, leur activité, et plus généralement leur place dans le fonctionnement de la
+structure. Elle relève que le bureau ne possède, selon les statuts, aucun pouvoir décisionnel.
+        Aux termes des statuts, le président représente l’association dans tous les actes de la vie
+civile et assure son fonctionnement. Il nomme les agents. Il peut déléguer ses pouvoirs, sur avis
+du conseil d’administration. Mais, selon l’article 13, le conseil d’administration concentre les
+pouvoirs économiques et financiers. Il peut déléguer tout ou partie de ses attributions au bureau
+ou à certains de ses membres. En pratique, il n’existe pas de délégations de pouvoirs du conseil
+d’administration au bureau ou au président. Le fonctionnement de l’association n’est pas
+conforme aux statuts et comporte des risques juridiques importants.
+
+
+
+
+                                                18
+                                             ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+         Les termes du contrat de travail pour la fonction de direction reviennent à confier à la
+personne qui en est chargée tout le fonctionnement de l’association. Cette tâche est attribuée
+dans les statuts au président, sous le contrôle du conseil d’administration et du bureau.
+En définitive, l’ancienne directrice a assuré l’ensemble des attributions budgétaires et
+financières, en prenant en charge la commande et le règlement des achats, la correspondance
+sociale, les relations avec la banque en presque exclusivité, sans qu’elles lui soient attribuées
+par son contrat de travail et ses avenants. Elle engageait donc les dépenses et signait des chèques
+et utilisait une carte bancaire au nom de l’association, sans habilitation et sans délégation de la
+part du président ou du conseil d’administration. Une attestation de la banque de l’association
+prouve que l’actuel président et l’ancien trésorier ne possédaient aucun pouvoir sur l’ensemble
+des comptes bancaires de l’entité, jusqu’au 6 novembre 2023.
+       Si la forme associative perdure, la chambre recommande à l’association de définir et
+respecter les attributions et la chaîne de responsabilité en matière de délégation de pouvoir et
+de signature de chacune de ses instances, dans ses statuts ou dans un règlement intérieur, et
+à prendre, en adéquation, les actes administratifs de délégation.
+
+
+ Recommandation n° 4 : sécuriser les actes de gestion en formalisant des délégations de
+ pouvoir et de signature conformes aux statuts.
+
+         En réponse aux observations provisoires de la chambre, le président en fonctions
+s’engage à formaliser les délégations de pouvoir et de signature dans le cadre de la révision des
+statuts.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+     L’association a doublé son activité entre 2021 et 2024. Cela rend d’autant plus
+indispensable d’instaurer une gouvernance, une organisation et un fonctionnement plus précis
+et rigoureux. L’organisation mise en place par l’ancienne directrice, avec un contrôle
+insuffisant des instances et du président en fonctions jusqu’en juin 2023, a occasionné des
+dysfonctionnements graves avec des risques juridiques importants.
+    Depuis juin 2023, le changement de président a eu pour conséquence de rétablir un
+fonctionnement interne plus conforme aux statuts. Les mesures correctives mises en œuvre sont
+encore insuffisantes pour garantir la régularité du fonctionnement interne. Si la forme
+associative perdure, l’association devra réviser ses statuts, adopter son règlement intérieur et
+formaliser ses procédures comptables et financières pour sécuriser ses actes de gestion et son
+fonctionnement quotidien.
+
+
+
+
+                                                19
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3 UNE SITUATION FINANCIÈRE À CONFORTER
+
+     L’association répond à ses obligations légales relatives à l’information comptable. Sa
+situation financière dépend des subventions communales permettant d’équilibrer les comptes
+en fonction des tarifs payés par les familles et des prestations versées par la caisse d’allocations
+familiales.
+
+
+
+3.1 L’information comptable
+
+
+3.1.1 Publication et certification des comptes
+
+        L’obligation d’établir des comptes annuels, d’en assurer la publicité par publication au
+journal officiel, de nommer un CAC et de publier son rapport s’impose à toute association
+bénéficiant d’une aide publique d’un montant supérieur à 153 000 €, conformément
+aux articles L. 612-4 et D. 612-5 du code de commerce.
+       Les comptes annuels de l’APER ont été présentés et adoptés chaque année en assemblée
+générale. Le renouvellement du CAC a été effectué lors de l’assemblée générale
+du 17 juin 2021, sur proposition du président, validée et votée à l’unanimité.
+       Les rémunérations des trois plus hauts cadres dirigeants bénévoles et salariés, et leurs
+avantages en nature, doivent figurer systématiquement dans les rapports du CAC, sur la période
+contrôlée, conformément à l’article 20 de la loi du 23 mai 2006 relative à l'engagement éducatif.
+Ces mentions n’apparaissent pas. Selon le CAC, cela imposerait la publication d’informations
+nominatives. Pour autant, la chambre rappelle que cette information peut être exprimée en
+masse financière.
+        Dans un objectif de transparence et de prévention d’éventuels conflits d’intérêts, les
+relations conventionnelles entre l’association et l'un de ses administrateurs ou l'une des
+personnes assurant un rôle de mandataire social doivent être portées à la connaissance de
+l’organe délibérant ou des adhérents par le biais d’un rapport dit « spécial » du CAC.
+       Pour les exercices 2021 à 2024, ces rapports spéciaux ont bien été rédigés, et sont
+présentés à l’organe délibérant, à l’assemblée générale et au conseil d’administration, qui statue
+en application de l’article L. 612-5 du code de commerce.
+       La publication des comptes de l’association a été réalisée pour les exercices 2022
+à 2024, conformément à l’article L. 612-4 du code de commerce.
+
+
+3.1.2 La valorisation des contributions volontaires des communes
+
+       L’association ne supporte pas l’ensemble des charges réelles induites par ses activités.
+Elle respecte les obligations comptables sur la valorisation des contributions en nature
+apportées par les communes. Leur montant est de 0,39 M€ en 2024, après une augmentation
+de 25 % depuis 2021.
+
+
+
+
+                                                20
+                                                      ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+       L’inscription en comptabilité des contributions volontaires en nature7 permet à l’entité
+de rendre compte de l’intégralité des ressources mises en œuvre et d’appréhender le coût réel
+de ses activités. Elles doivent figurer dans le compte de résultat. En cas d’impossibilité, les
+motifs doivent être exposés en annexe, et une information doit être donnée sur leur nature et
+leur importance.
+      Les trois communes mettent à disposition de l’association des locaux, comprenant la prise
+en charge des fluides et l’entretien, du matériel et des installations, ainsi que du personnel.
+
+
+
+3.2 Une activité en hausse fragilisant l’équilibre financier de l’association
+
+
+3.2.1 Un équilibre économique et financier faible à reconsidérer
+
+        L’association est dépendante financièrement de ses partenaires (caisse d’allocations
+familiales et communes). Les ressources provenant des partenaires financiers représentent deux
+tiers des recettes (hors contributions volontaires).
+       Les résultats d’exploitation sont structurellement faibles et présentent un déficit trois
+années sur les quatre de la période de contrôle. En 2024, l’augmentation de l’activité a conduit
+à un déficit de plus de 0,12 M€.
+
+
+                                          L’évolution des résultats d’exploitation
+
+                 En €                     2021           2022         2023            2024      2024-2021
+Total des produits                         911 810      1 056 963     1 213 344       1 289 437   41 %
+Total des charges                          913 311      1 080 654     1 196 217       1 410 063   54 %
+Résultat d'exploitation                     - 1 501       - 23 691       17 127       - 120 626 - 7936 %
+Prestations en nature, mise à
+                                           307 436          314 166     371 871         385 683     25 %
+disposition gratuite
+Source : chambre régionale des comptes, à partir des comptes de l’association APER.
+
+
+         L’augmentation significative de l’activité a induit celle des charges, notamment de
+personnel. Le coût réel de la prise en charge des activités de l’association n’est pas couvert en
+totalité par le produit de la tarification réglée par les familles et par les prestations payées par
+la caisse d’allocations familiales. Le prix payé des prestations par les familles peut difficilement
+augmenter dans de trop grandes proportions sans se traduire par une baisse de la fréquentation.
+Il en résulte des résultats en déficit pour l’association.
+
+
+
+
+7
+    Articles 211-1 à 211-4 et 431-10 du règlement n° 2018-06 de l’Autorité des normes comptables.
+
+
+
+
+                                                       21
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Ce constat pose la question du financement et la recherche d’autres financeurs, comme
+l’indique la convention de partenariat entre l’association et les communes. Ce document oblige
+ces collectivités à verser des subventions annuelles, calculées suivant les coûts évalués des
+activités pour l’année, diminuées des prestations de services ordinaires versées par la caisse
+d’allocations familiales et des participations des familles.
+        Les résultats en déficit sont jusqu’à présent absorbés par le fonds de roulement et
+la trésorerie, dont les niveaux étaient suffisants. Cependant, cette trajectoire n’était pas
+soutenable sur le long terme, ce qui a conduit à revaloriser les subventions communales en
+2025.
+
+
+3.2.2 L’évolution des produits et des charges d’exploitation
+
+        3.2.2.1 Des produits évoluant plus faiblement que l’activité
+       L’activité a doublé sur la période 2021-2024. Les produits d’exploitation n’ont
+progressé que de 41 %. Ils s’élèvent à 1,29 M€ en 2024, contre 0,91 M€ en 2021.
+       Les subventions de fonctionnement reçues des trois communes (0,37 M€ en 2024) sont
+en légère baisse de 2 % par rapport à 2021. Elles représentaient 29 % des produits d’exploitation
+en 2024, contre 41 % en 2021.
+
+
+                                   L’évolution des produits d’exploitation de l’association
+
+                 En €                      2021         2022          2023            2024      2024-2021
+Ventes de prestations de service            496 563      648 781        745 051         894 286    80 %
+Concours publics et subventions             373 875      357 104        367 104         367 729    -2%
+Contributions financières                         -            -         81 537               -      -
+Reprises d'amort, Provisions                 41 363       51 051         19 622          27 395   - 34 %
+Autres produits                                   9           27             30              27   200 %
+Total des produits                          911 810    1 056 963      1 213 344       1 289 437    41 %
+Source : chambre régionale des comptes, à partir des comptes de l’association APER.
+
+
+        La vente des prestations de services est en hausse de 80 %, à 0,89 M€ en 2024 contre
+0,50 M€ en 2021. Elle correspond en grande partie à la reprise de l’ensemble des activités
+périscolaires de la commune de Sebourg. Sa hausse est moins marquée que celle de l’activité
+de l’association, mais elle se situe dans une tendance similaire. Elle est composée des produits
+des familles et de la caisse d’allocations familiales.
+       Les participations des familles s’élèvent à 0,46 M€ en 2024, en progression de 135 %,
+bien au-delà de la hausse d’activité en nombre d’heures. Sa part de financement est passée
+de 22 % en 2021 à la plus élevée en 2024 (36 %), en augmentation de plus de 66 %.
+       Le paiement des prestations de services par la caisse d’allocations familiales pour les
+heures réalisées est de 0,43 M€ en 2024, en hausse de 44 %. La part de ce financement dans les
+produits est relativement stable à 34 % en 2024.
+
+
+
+
+                                                      22
+                                                  ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+        3.2.2.2 Des charges en plus forte hausse que les produits
+       Les charges d’exploitation ont progressé plus fortement à la hausse que les produits,
+passant de 0,91 M€ en 2021 à 1,41 M€ en 2024, soit une augmentation de 54 % sur la période.
+        Les charges de personnel sont le premier poste de dépenses et s’élèvent à plus d’1 M€
+en 2024, après une progression de 48 % depuis 2021. De 2023 à 2024, elles ont augmenté
+de 27 %. L’augmentation de ces charges est due à celle de l’activité, aux capacités d’accueil de
+l’association et aux normes d’encadrement des enfants. L’association a également repris à sa
+charge une partie du personnel d’une commune. Cette reprise devra s’inscrire dans un cadre
+respectant le code général de la fonction publique.
+        Le reste des charges est constitué d’achats de fournitures et autres approvisionnements
+pour les diverses activités d’accueil de loisirs périscolaires, extrascolaires et les micro-crèches,
+et les services extérieurs avec les transports pour les sorties et autres prestations d’animation
+pour les activités. Elles comprennent aussi les prestations informatiques et comptables en
+ressources humaines et paie, et les diverses prestations de conseil en 2023. Elles présentaient
+ensemble une hausse de 77 %, passant de 0,19 M€ en 2021 à 0,33 M€ en 2024. Leur part dans
+les charges d’exploitation est passée de 20 % à près de 29 % en 2023, puis 24 % en 2024.
+Les mises à disposition ou contributions volontaires des communes s’élèvent à 0,39 M€
+en 2024. Elles ont aussi progressé d’un quart depuis 2021.
+
+
+                                  L’évolution des charges d’exploitation de l’association
+
+                  En €                    2021         2022          2023             2024        % 2024-2021
+Achats de matières et autres
+                                           115 379        153 413      174 177         198 988       72 %
+approvisionnements
+Autres charges et charges externes          72 720      105 795        171 296          133 217     83 %
+Impôts et taxes et versements assimilés     27 707       34 046         43 220           55 952     102 %
+Salaires et traitements                    556 564      623 921        648 687          805 021     45 %
+Charges sociales                           131 642      144 059        144 472          200 692     52 %
+Dotations aux amort.                         9 225       19 113         14 269           16 011     74 %
+Autres charges                                  74          307             96              182     146 %
+Total des charges                          913 311    1 080 654      1 196 217        1 410 063     54 %
+Source : chambre régionale des comptes, à partir des comptes de l’association APER.
+
+
+
+
+                                                     23
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        L’association est un pouvoir adjudicateur, en application de l’article L. 1211-1 3° du
+code de la commande publique, faisant partie des « organismes de droit privé dotés de la
+personnalité juridique constitués par des pouvoirs adjudicateurs en vue de réaliser certaines
+activités en commun ». La chambre constate qu’elle n’a pas organisé sa fonction achat
+en conséquence. Elle ne dispose pas d’outil de computation des seuils et procède à ses achats
+sans publicité ni mise en concurrence. Elle organise la restauration scolaire à Saultain et
+Sebourg. À cette fin, elle adhère au groupement de commande de l’agglomération
+valenciennoise pour le marché public de confection des repas (0,2 M€ par an). Les autres achats
+sont de faibles montants et ne requièrent pas de formalisme particulier. En revanche,
+l’association devra déterminer les règles qu’elle s’applique pour garantir les principes généraux
+de transparence, de libre accès à la commande publique et d’égalité de traitement applicables
+dès le premier euro. Son activité étant en hausse, le montant de ses achats croît et pourra se voir
+appliquer un formalisme plus important. Par conséquent, la chambre recommande à
+l’association de structurer sa fonction achat et de se doter d’un guide de la commande publique.
+
+
+ Recommandation n° 5 : se doter d’un guide interne de la commande publique
+ détaillant les procédures d’achat.
+
+      En réponse aux observations provisoires de la chambre, le président de l’association
+s’engage à organiser la fonction achat de la structure et mettre en place un outil de computation
+des seuils afin de sécuriser les achats.
+
+
+3.3 L’équilibre bilanciel et la trésorerie fragilisée
+      Le bilan s’équilibre à 0,6 M€ en 2024 et son volume a perdu 28 % depuis 2021. Ce constat
+est dû à la baisse des fonds propres (- 32 %) qui ont résorbé les résultats déficitaires, l’actif
+immobilisé étant faible.
+      Les fonds propres constituent les deux tiers du passif du bilan. Le fonds de roulement est
+négatif sur trois exercices et proche de zéro en 2024. La trésorerie, d’un niveau confortable
+en 2021, présente une baisse de plus d’un tiers de son volume sur la période, pour s’élever
+à 0,38 M€ en 2024. Les fonds propres ont compensé les déficits annuels depuis 2021.
+
+
+                                     L’évolution des principales données bilancielles
+
+           En €                 2021            2022            2023            2024        2024-2021
+Actif immobilisé                   39 200          45 873          35 425          30 212     - 23 %
+Actif circulant                   221 614         200 814         196 124         192 378     - 13 %
+Disponibilités                    570 867         531 688         585 510         378 007     - 34 %
+Total Actif                       831 681         778 375         817 059         600 597    - 28 %
+Fonds propres                     565 166         545 809         523 267         381 977     - 32 %
+Provisions                              -               -             132          29 126       NS
+Dettes à court terme              266 515         232 566         293 660         189 494     - 29 %
+Total Passif                      831 681         778 375         817 059         600 597    - 28 %
+Source : chambre régionale des comptes, à partir des comptes de l’association APER.
+
+
+
+
+                                                     24
+                                                  ASSOCIATION POUR L’ENFANCE RURALE (APER)
+
+
+
+
+       La trajectoire financière est restée globalement excédentaire entre 2021 et 2024.
+L’association disposait de fonds suffisants pour faire face à ses déficits annuels.
+
+                                  L’évolution de l’équilibre bilanciel et de la trésorerie
+             En €                    2021           2022           2023           2024       2024-2021
+Fonds de roulement                    525 966        499 936        487 974        380 891     - 28 %
+Besoin en Fonds de roulement          - 44 901       - 31 752       - 97 536         2 884      94 %
+Trésorerie                            570 867        531 688        585 510        378 007     - 34 %
+Source : chambre régionale des comptes, à partir des comptes de l’association APER.
+
+
+        En revanche, l’association n’a pas été en mesure de produire une analyse financière.
+En 2025, les subventions des communes ont été revalorisées pour couvrir les besoins de
+financement, mais sans s’appuyer sur une analyse des besoins de la population. La trajectoire
+financière n’a pas été pilotée en fonction de l’augmentation de l’activité. Si la forme associative
+perdure, la chambre lui recommande d’établir une stratégie pluriannuelle garantissant
+l’équilibre financier.
+
+
+ Recommandation n° 6 : établir une stratégie pluriannuelle.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        Les comptes de l’association sont produits et certifiés chaque année par le commissaire
+aux comptes. Ils retranscrivent la forte évolution de l’activité de l’association, qui a doublé de
+2021 à 2024. Les produits se répartissent entre la participation des familles, les prestations de
+la caisse d’allocations familiales et les subventions des communes. Leur augmentation entre
+2021 et 2024 a été moins élevée que celle des dépenses. La hausse de ces dernières correspond,
+en premier lieu, aux dépenses liées au personnel nécessaire au respect des normes
+d’encadrement.
+       Par ailleurs, les contributions volontaires des communes représentant des apports en
+nature en locaux, matériels, services et agents, essentiels au fonctionnement de l’association,
+sont en hausse de 25 % entre 2021 et 2024.
+        La hausse contrainte des charges de personnel induite par l’augmentation de l’activité
+a fragilisé l’équilibre économique et financier de la structure, ce qui s’est traduit par un résultat
+d’exploitation déficitaire jusqu’en 2024 (à l’exception de 2023).
+        L’augmentation des subventions communales en 2025 devrait contribuer à stabiliser la
+situation financière, mais ne s’appuie pas sur une analyse des besoins de la population. Si la
+forme associative perdure, la chambre recommande à l’association d’établir une stratégie
+pluriannuelle permettant d’assurer la concordance entre l’évolution de son activité et sa
+trajectoire financière.
+
+                                                     *
+                                                   * *
+
+
+
+
+                                                     25
+                              RÉPONSE AU RAPPORT
+                       D’OBSERVATIONS DÉFINITIVES
+
+
+                   ASSOCIATION POUR L’ENFANCE
+                                 RURALE (APER)
+
+                                                                                      (Nord)
+                                                                   Exercices 2021 à 2025
+
+
+
+
+1 réponse reçue :
+
+- M. Antoine LORENT, Président de l’association pour l’enfance rurale de Saultain.
+
+
+
+
+Article L. 243-5 du code des juridictions financières :
+« Les destinataires du rapport d’observations disposent d’un délai d’un mois pour adresser au greffe
+de la chambre régionale des comptes une réponse écrite. Dès lors qu’elles ont été adressées dans le
+délai précité, ces réponses sont jointes au rapport. Elles engagent la seule responsabilité de leurs
+auteurs ».
+Chambre régionale des comptes Hauts-de-France
+  14, rue du Marché au Filé – 62012 Arras cedex
+
+    Adresse mél. : hautsdefrance@ccomptes.fr
+
+  https://www.ccomptes.fr/fr/crc-hauts-de-france
+

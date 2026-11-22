@@ -1,0 +1,3284 @@
+TITRE: Département de la Meuse
+PAGE: https://www.ccomptes.fr/fr/publications/departement-de-la-meuse-5
+PDF: https://www.ccomptes.fr/sites/default/files/2026-10/GER202650.pdf
+
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+ DÉPARTEMENT DE LA MEUSE
+
+
+                                                            Exercices 2019 et suivants
+
+
+
+
+  3-5 rue de la Citadelle - 57000 METZ - T. +33 3 54 22 30 49 - grandest@crtc.ccomptes.fr
+                                                                                                         DÉPARTEMENT DE LA MEUSE
+
+
+
+
+                                         TABLE DES MATIÈRES
+
+SYNTHÈSE...................................................................................................................... 4
+RAPPELS DU DROIT .................................................................................................... 6
+RECOMMANDATIONS ................................................................................................ 7
+PROCÉDURE.................................................................................................................. 8
+INTRODUCTION ........................................................................................................... 9
+     1 UNE SITUATION FINANCIÈRE ÉQUILIBRÉE MAIS SOUS TENSION ........ 11
+        1.1 Des budgets annexes dont le maintien n’est pas toujours justifié .................... 12
+            1.1.1 Le déficit structurel du budget annexe du parc départemental ................ 12
+                1.1.1.1 Une existence due à des motifs historiques ............................................................ 12
+                1.1.1.2 Un déficit de fonctionnement récurrent .................................................................. 13
+             1.1.2 Des activités dont la nature justifie une intégration au sein du budget
+                   principal ................................................................................................... 14
+        1.2 Un budget principal sous contraintes ............................................................... 15
+            1.2.1 L’érosion de la capacité d’autofinancement............................................ 15
+                1.2.1.1     Des produits de gestion en augmentation ............................................................... 15
+                1.2.1.2     Une hausse des charges de gestion plus importante que celle des produits ............ 18
+                1.2.1.3     La contraction de la capacité d’autofinancement ................................................... 21
+                1.2.1.4     Une légère amélioration de la situation financière en 2025 .................................... 21
+             1.2.2 Un niveau d’investissement volontairement modéré compte tenu
+                   des contraintes posées par l’évolution de l’autofinancement .................. 22
+                1.2.2.1 Des investissements inférieurs à ceux des départements de même strate ............... 22
+                1.2.2.2 Un recours à l’emprunt maîtrisé pour le financement des investissements ............ 23
+                1.2.2.3 Une stratégie d’investissement non déclinée dans une programmation
+                        pluriannuelle ........................................................................................................... 24
+             1.2.3 Un encours de dette maîtrisé ................................................................... 25
+             1.2.4 Une gestion active de la trésorerie .......................................................... 26
+     2 UNE HAUSSE DE LA MASSE SALARIALE CONTENUE PAR LA
+       STABILITÉ DES EFFECTIFS .............................................................................. 27
+        2.1 Une stabilité globale des effectifs traduisant des efforts de gestion et des
+            difficultés de recrutement ................................................................................. 28
+            2.1.1 Une stabilité des effectifs depuis 2019 .................................................... 28
+                2.1.1.1 Des mouvements entre le budget principal et les budgets annexes ........................ 28
+                2.1.1.2 Une volonté de ne pas augmenter les effectifs ....................................................... 29
+                2.1.1.3 Un taux d’administration stable.............................................................................. 29
+             2.1.2 Une augmentation du nombre de postes inoccupés ................................ 30
+             2.1.3 Un développement du recours aux agents contractuels .......................... 31
+                2.1.3.1 Un accroissement continu du personnel contractuel .............................................. 31
+                2.1.3.2 Des pratiques de recrutement parfois dérogatoires au cadre juridique ................... 32
+                2.1.3.3 Une gestion défaillante de la situation administrative d’un agent .......................... 34
+             2.1.4 Un nombre d’assistants familiaux en net recul ....................................... 36
+
+
+
+
+                                                                            2
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        2.2 Une augmentation de la masse salariale principalement portée par des
+            mesures extérieures aux choix de gestion du département............................... 36
+            2.2.1 Une augmentation de la masse salariale due à de multiples facteurs
+                  extérieurs ................................................................................................. 37
+                2.2.1.1 Les mesures extérieures à portée générale ............................................................. 37
+                2.2.1.2 Les mesures extérieures à portée sectorielle ou catégorielle .................................. 38
+             2.2.2 Une progression de la masse salariale accentuée par des choix de
+                   gestion ..................................................................................................... 39
+                2.2.2.1 La revalorisation du régime indemnitaire ............................................................... 39
+                2.2.2.2 Le versement de compléments de rémunération .................................................... 40
+                2.2.2.3 Une « prime de sujétion » irrégulière ..................................................................... 40
+             2.2.3 Des facteurs extérieurs qui représentent plus des deux tiers de la
+                   hausse de la masse salariale .................................................................... 41
+     3 UNE GESTION DU PATRIMOINE MARQUÉE PAR UNE CAPACITÉ
+       D’INVESTISSEMENT VOLONTAIREMENT RESTREINTE ........................... 43
+        3.1 Une gestion immobilière en cours de structuration .......................................... 43
+            3.1.1 Un parc immobilier dont le coût de fonctionnement augmente .............. 43
+                3.1.1.1     Un patrimoine immobilier significatif .................................................................... 43
+                3.1.1.2     Des coûts de fonctionnement en forte hausse ......................................................... 44
+                3.1.1.3     Une trajectoire environnementale à renforcer sur le long terme............................. 45
+                3.1.1.4     Une gestion de la maintenance en cours de réorganisation .................................... 48
+             3.1.2 Des investissements patrimoniaux réalisés en l’absence de stratégie
+                   globale ..................................................................................................... 49
+                3.1.2.1 Des travaux de gros entretien et de renouvellement désormais pilotés par un
+                        outil spécifique ....................................................................................................... 49
+                3.1.2.2 Une autorisation de programme pour les gendarmeries faiblement exécutée ........... 50
+                3.1.2.3 Le plan collèges : une stratégie ambitieuse à réadapter .......................................... 50
+        3.2 Une gestion des ouvrages d’art visant à maintenir le patrimoine en l’état ......... 54
+            3.2.1 Un nombre élevé d’ouvrages d’art départementaux ............................... 54
+            3.2.2 Des outils de suivi performants ............................................................... 54
+            3.2.3 Des choix de gestion visant à limiter la détérioration des structures ...... 55
+                3.2.3.1 Des structures en partie détériorées ........................................................................ 55
+                3.2.3.2 Une politique d’investissement qui repose sur le maintien des structures en
+                        état de fonctionnement ........................................................................................... 56
+        3.3 Une stratégie d’investissement à formaliser ..................................................... 57
+ANNEXES ...................................................................................................................... 58
+        Annexe n° 1. Glossaire ........................................................................................... 59
+        Annexe n° 2. Méthodologie de calcul des agrégats et indicateurs fondant
+           l’analyse financière........................................................................................... 61
+
+
+
+
+                                                                           3
+                                                                  DÉPARTEMENT DE LA MEUSE
+
+
+
+
+                                       SYNTHÈSE
+
+       La chambre régionale des comptes Grand Est a contrôlé les comptes et la gestion du
+département de la Meuse pour les exercices 2019 et suivants.
+
+
+               Une situation financière maîtrisée, mais sous tension
+
+         Le département de la Meuse, marqué par la ruralité, une baisse démographique et un
+vieillissement de sa population, présente une situation financière tendue mais maîtrisée. Les
+dépenses progressent plus vite que les recettes, ce qui fragilise la capacité d’autofinancement
+de la collectivité. Celle-ci ne représente plus que 10 % des produits de gestion du budget
+principal en 2024, contre 12,6 % en 2019. Une légère amélioration est toutefois observée en
+2025.
+       La capacité à investir, limitée par la fragilisation de la capacité d’autofinancement, reste
+modeste comparée à celle des départements de même strate de population. Grâce à ses choix de
+gestion, le département a cependant stabilisé son endettement.
+       Le budget annexe du parc départemental accuse un déficit structurel dû à d’importantes
+charges d’amortissement. Son maintien n’est pas pertinent. Le département doit par conséquent
+procéder à la reprise de cette activité au sein du budget principal. De même, le maintien des
+budgets annexes « mineurs non accompagnés » et « fonds d’aide » n’est pas justifié non plus.
+
+
+               Une augmentation de la masse salariale principalement due à des
+               mesures extérieures
+
+        Hors assistants familiaux, les effectifs départementaux sont demeurés stables entre 2019
+et 2024, autour de 1 000 équivalents temps plein travaillé, grâce à une volonté de maîtrise des
+emplois et aux difficultés de recrutement que la collectivité rencontre, dans un contexte de perte
+d’attractivité de la fonction publique.
+        Malgré cette stabilité, la masse salariale a augmenté de 17 % (+ 8,6 M€), sous l’effet
+conjugué de mesures extérieures que le département a dû appliquer (revalorisations des salaires
+des assistants familiaux et du personnel social et médico-social, revalorisation de la valeur du
+point d’indice de la fonction publique et glissement vieillesse technicité) et de choix de gestion
+internes (revalorisation du régime indemnitaire). Ce sont cependant les mesures extérieures qui
+constituent le principal moteur de cette croissance.
+
+
+               Une gestion du patrimoine marquée par la contrainte financière,
+               nécessitant une stratégie formalisée
+
+       La politique de gestion patrimoniale du département se structure et se renforce sous
+l’égide de la direction du patrimoine et de l’immobilier et de la direction des routes et de
+l’aménagement. Elle s’appuie sur des outils offrant à la collectivité une connaissance exhaustive
+
+
+
+                                                4
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+de l’état de son patrimoine. Le département doit cependant faire face à la vétusté des collèges
+et ouvrages d’art, dans un contexte de capacité d’investissement limitée.
+        La collectivité a mis en place une stratégie environnementale de décarbonation et de
+réduction de ses consommations énergétiques, conformément aux obligations réglementaires.
+Si la consommation énergétique globale a augmenté de 10 % entre 2019 et 2024, les efforts
+engagés en 2025 ont permis une baisse de 5 % des consommations énergétiques liées au
+chauffage.
+       La collectivité a également adopté un plan d’investissement de près de 82 M€ sur 15 ans
+à destination des collèges. Ce plan doit être mis à jour à la lumière de la dynamique
+démographique, qui prévoit une baisse de 20 % du nombre de collégiens d’ici à 2029.
+        La stratégie départementale en matière d’ouvrages d’art vise à maintenir le patrimoine
+en état d’usage, reflétant les tensions entre la capacité d’investissement de la collectivité et l’état
+des ponts meusiens, qui sont près d’un millier, avec une usure supérieure à la moyenne
+nationale.
+       L’adoption par l’assemblée délibérante de schémas directeurs portant sur le patrimoine
+immobilier d’une part, sur les routes et les ouvrages d’art d’autre part, est nécessaire afin de
+formaliser la stratégie patrimoniale du département et de hiérarchiser les projets.
+
+
+
+
+                                                  5
+                                                                DÉPARTEMENT DE LA MEUSE
+
+
+
+
+                             RAPPELS DU DROIT
+
+
+Rappel du droit n° 1         : En matière de recrutements contractuels, se conformer strictement
+aux dispositions du code général de la fonction publique, pris notamment en ses articles
+L. 311-1 et L. 326-1 (recrutement de fonctionnaires sur les emplois permanents), L. 332-24
+(contrats de projets), et L. 332-14 (respect de la durée maximum de deux ans).
+
+Rappel du droit n° 2      : Supprimer la « prime de sujétion », afin de mettre les modalités de
+rémunération des agents contractuels en conformité avec les dispositions de l’article L. 712-12
+du code général de la fonction publique.
+
+
+
+
+                                               6
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                           RECOMMANDATIONS
+
+Recommandation n° 1. : Clôturer les budgets annexes du parc départemental, des mineurs non
+accompagnés et du fonds d’aide Meuse, afin d’intégrer le suivi de ces activités au sein du budget
+principal.
+
+Recommandation n° 2. : Formaliser la stratégie d’investissement de la collectivité, à travers
+l’adoption d’un schéma directeur du patrimoine et de l’immobilier, d’un schéma directeur des
+routes et des ouvrages d’art ainsi que d’une programmation pluriannuelle d’investissements.
+
+
+
+
+                                               7
+                                                                 DÉPARTEMENT DE LA MEUSE
+
+
+
+
+                                    PROCÉDURE
+
+        La chambre régionale des comptes Grand Est (CRC GE) a inscrit à son programme de
+travail pour 2025 le contrôle des comptes et de la gestion du département de la Meuse. Ce
+contrôle, réalisé en application des articles L. 211-3, L. 211-4 et R. 243-1 du code des
+juridictions financières, porte sur les exercices 2019 à 2025.
+       Il a été ouvert le 12 septembre 2025 par lettre du président de la chambre adressée au
+président du conseil départemental, ordonnateur en fonction depuis le 1er juillet 2021. Le
+précédent ordonnateur a été informé de l’ouverture du contrôle par courrier du président signé
+également le 12 septembre 2025. L’instruction a été réalisée sur pièces et sur place.
+       En application de l’article L. 243-1 du code des juridictions financières, les entretiens
+préalables à la formulation des observations provisoires ont eu lieu le 3 février 2026 avec
+l’ordonnateur en fonctions et le 5 février 2026 avec l’ancien ordonnateur.
+       Les observations provisoires de la chambre, délibérées le 6 mars 2026, ont été envoyées
+le 31 mars 2026 à l’ordonnateur en fonction et à l’ancien ordonnateur.
+        Après examen de l’ensemble des réponses et audition d’un tiers mis en cause, auquel un
+extrait avait été communiqué, la chambre a arrêté ses observations définitives le 7 juillet 2026.
+
+
+
+
+                                               8
+  RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                          INTRODUCTION
+
+          La Meuse, deuxième département le moins peuplé de la région Grand Est, se présente
+  comme un territoire principalement rural. Sa population s’élevait à 180 290 habitants au
+  1er janvier 20261 pour une superficie de 6 211 km², soit une densité moyenne de 29 habitants
+  par km². Sur les 499 communes meusiennes, seules trois comptent plus de
+  5 000 habitants : Verdun (16 890 habitants), Bar-le-Duc, chef-lieu du département
+  (14 607 habitants), et Commercy (5 350 habitants). La population départementale a diminué de
+  4,6 % depuis 2019 (- 8 765 habitants)2.
+         La situation socio-économique du territoire meusien se caractérise par un taux de
+  chômage qui avoisine 7 %, soit un niveau légèrement inférieur à la moyenne nationale (7,7 %).
+  De même, le taux de pauvreté3, établi à 14,8 %, est légèrement inférieur à la moyenne de la
+  région Grand Est (15,1 %).
+          Le ressort géographique du département de la Meuse comprend la commune de Bure,
+  sur le territoire de laquelle est située une partie de la zone d’implantation du projet de centre
+  industriel de stockage géologique (Cigéo).
+
+                                                   Le projet Cigéo
+Cigéo est un projet de centre de stockage souterrain de déchets radioactifs de haute ou moyenne activité à
+durée de vie longue produits par l’ensemble des centrales nucléaires françaises, situé à la frontière de la
+Meuse et de la Haute-Marne.
+Le programme est conduit en concertation avec les acteurs locaux publics et privés. Un projet de
+développement du territoire a été signé en 2019 afin de préparer l’arrivée et l’insertion du futur centre dans
+son environnement. Ce document prévoit des actions et orientations dans plusieurs
+domaines : infrastructures, habitat, transport, santé, agriculture, patrimoine, équipements et services à la
+population, accompagnement économique et emploi. Les financements prévisionnels associés à ces
+mesures représentent 500 M€ sur cinq ans.
+Un laboratoire souterrain est implanté sur le site depuis 2007.
+L’utilité publique du projet a été reconnue et déclarée par le décret n° 2022-993 du 7 juillet 2022. La demande
+d’autorisation de création de l’installation de stockage a été déposée en janvier 2023. Après l’avis favorable émis
+en décembre 2025 par l’autorité de sûreté nucléaire et de radioprotection (ASNR), cette demande d’autorisation
+de création a été soumise à enquête publique du 18 mai au 2 juillet 2026. Le démarrage de la construction du
+centre est envisagé en 2027. La mise en service de Cigéo, limitée à la phase industrielle pilote, est prévue à
+l’horizon 2050.
+Les conséquences actuelles et futures du projet sont à l’origine d’enjeux dans différents domaines qui
+relèvent des compétences exercées par le département de la Meuse, comme par exemple, l’absorption de
+l’augmentation du trafic routier sur la route nationale 135 ou bien l’installation d’un centre d’incendie et de
+secours sur le site même de Cigéo.
+
+
+
+
+  1
+    Source : décret n° 2025-1362 du 26 décembre 2025.
+  2
+    Source : décret n° 2018-1328 du 28 décembre 2018.
+  3
+    Indicateur qui renvoie à la proportion des personnes dont le revenu est inférieur à 60 % du revenu médian.
+
+
+
+                                                            9
+                                                                              DÉPARTEMENT DE LA MEUSE
+
+
+
+
+        Le budget du département de la Meuse est constitué d’un budget principal et de six
+budgets annexes (voir ci-après). Les recettes de fonctionnement du budget principal atteignent
+267,2 M€ (dont 252,9 M€ de produits de gestion4) en 2024. Rapportées à la population, les
+charges de fonctionnement (1 364 € par habitant) et les dépenses d’investissement (403 € par
+habitant) sont inférieures à celles constatées en 2024 pour les départements de même strate5
+(soit respectivement 1 393 € et 483 € par habitant).
+         Plus de 80 % des Meusiens en emploi utilisent un véhicule motorisé pour se rendre au
+travail. L’entretien des 3 647 km de voirie et du millier de ponts départementaux représente par
+conséquent un enjeu pour l’activité économique du territoire.
+         Le présent rapport analyse la situation financière du département et son évolution (1.),
+le pilotage des ressources humaines et de la masse salariale (2.) ainsi que la gestion du
+patrimoine départemental (3). Les développements relatifs aux ressources humaines ont
+vocation à alimenter les travaux de la formation inter juridictions « finances publiques locales »
+relatifs aux déterminants de l’évolution de la masse salariale des collectivités territoriales.
+
+
+
+
+4
+  Les produits de gestion correspondent aux produits de fonctionnement hors produits financiers, produits
+spécifiques et produits d’ordre (ces derniers sont les produits qui ne donnent pas lieu à un encaissement de deniers
+et qui se traduisent uniquement par un jeu d’écriture comptable).
+5
+  Les départements de moins de 250 000 habitants.
+
+
+
+                                                        10
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1 UNE SITUATION FINANCIÈRE ÉQUILIBRÉE MAIS SOUS
+  TENSION
+
+        L’analyse financière conduite par la chambre régionale des comptes a été réalisée à
+partir des comptes de gestion et des comptes financiers uniques du département de la Meuse.
+L’annexe n° 2 détaille les retraitements réalisés dans ce cadre sur les données comptables de la
+collectivité, conformément aux méthodes d’analyse développées par les juridictions
+financières.
+       Au 31 décembre 2025, le budget du département de la Meuse regroupe un budget
+principal et six budgets annexes. Le budget annexe « méthode d’action pour l’intégration des
+services d’aide et de soins dans le champ de l’autonomie » (MAIA) a été clos en 2022.
+
+
+                    Tableau n° 1 : composition du budget du département de la Meuse
+
+                                                                        Évolution                 Évolution
+                                                                          depuis                    depuis
+                                                        Produits de                 Charges de
+                                                                         2019 ou                   2019 ou
+                          Nomenclature                   gestion de                 gestion de
+ Libellé de budget                         Création                       depuis                    depuis
+                           comptable                     l’exercice                  l’exercice
+                                                                         l’année                   l’année
+                                                        2024 (en €)                 2024 (en €)
+                                                                            de                        de
+                                                                        création                  création
+                                          Antérieure
+ Budget principal             M57                       252 857 514         13 %    224 493 301         16 %
+                                           à 2019
+ Budget annexe « parc                     Antérieure
+                              M57                           7 712 872       13 %      6 379 217         11 %
+ départemental »                           à 2019
+ Budget annexe
+                              M57            2020           2 693 677       28 %      3 063 206        768 %
+ « e-Meuse Santé »
+ Budget annexe                            Antérieure
+                              M57                            828 234        41 %       658 118         - 13 %
+ « fonds d’aide »                          à 2019
+ Budget annexe
+ « mineurs non
+                              M57            2019           5 855 176       21 %      5 862 792         16 %
+ accompagnés »
+ (MNA)
+ Budget annexe
+ « structure d’accueil
+ de mineurs non
+                              M22            2020            973 167        11 %      1 040 300         54 %
+ accompagnés en
+ évaluation »
+ (SAMNAE)
+ Budget annexe
+                              M41            2023             46 542       - 44 %        50 576         23 %
+ « vente de chaleur »
+
+Source : CRC GE, d’après les données issues des comptes de gestion et des comptes financiers uniques
+
+
+        La gestion des budgets départementaux relève de la direction des finances et des affaires
+juridiques. Au sein de celle-ci, les missions budgétaires, financières et comptables sont réparties
+
+
+
+                                                       11
+                                                                      DÉPARTEMENT DE LA MEUSE
+
+
+
+
+entre deux services. Le service « budget et exécution budgétaire » est en charge du suivi des
+budgets (équilibres, résultats et affectation), de la préparation des documents budgétaires, du
+suivi de la section de fonctionnement, du contrôle et du suivi des mandats et des titres. Il assure
+aussi le suivi et le développement du système d’information de gestion financière. Le service
+« prospective financière » assure la gestion de la dette et de la trésorerie, le suivi de la section
+d’investissement, de certaines recettes (dotations, transfert de fiscalité, droits de mutation à titre
+onéreux) et de l’inventaire comptable de la collectivité.
+       Par ailleurs, d’autres directions comprennent dans leurs effectifs des agents qui
+contribuent directement à la mise en œuvre des opérations budgétaires, financières et
+comptables du département (préparation, suivi et analyse budgétaire, engagements de dépenses,
+émissions de mandats ou de titres…). C’est le cas notamment de la direction du patrimoine et
+de l’immobilier (DPI), de la direction des routes et de l’aménagement (DRA) et du pôle vie
+familiale et sociale, dans lesquels cinq, huit et douze agents assument respectivement de telles
+fonctions.
+        Le budget principal représente plus de 93 % des produits de gestion du département de la
+Meuse (voir tableau n° 1). En outre, il assure le financement de l’ensemble des budgets annexes,
+à l’exception de celui de vente de chaleur. Par conséquent, la situation financière de la collectivité
+a été appréciée sur la base de l’examen du budget principal (1.2). Au préalable, la pertinence du
+maintien de certains budgets annexes a fait l’objet d’une analyse particulière (1.1).
+
+
+
+1.1 Des budgets annexes dont le maintien n’est pas toujours justifié
+
+        Le département de la Meuse recourt à la technique du budget annexe pour assurer le
+suivi comptable de différentes activités (voir tableau n° 1). Ce choix n’est pas pertinent en ce
+qui concerne le parc départemental, dont la section de fonctionnement est en déséquilibre
+structurel (1.1.1). Il ne l’est pas davantage en ce qui concerne les mineurs non accompagnés et
+le fonds d’aide, en raison de la nature même des activités en cause (1.1.2).
+
+
+1.1.1 Le déficit structurel du budget annexe du parc départemental
+
+
+        1.1.1.1 Une existence due à des motifs historiques
+
+         Le parc départemental est un service rattaché à la direction des routes et de l’aménagement.
+Il assure la gestion et la maintenance de 600 engins, dont 400 véhicules, nécessaires à l’exploitation
+et l’entretien du réseau routier. Il réalise des travaux (signalisation, terrassement, etc.) au profit du
+département et d’autres collectivités territoriales (communes rurales).
+       Créés dans les années 1960, les parcs de l’équipement avaient pour mission l’entretien
+des routes relevant de la gestion des directions départementales de l’équipement (DDE) de l’État.
+
+
+
+
+                                                   12
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Le transfert des routes nationales d’intérêt local aux collectivités territoriales en 20046 a conduit
+au transfert définitif des parcs de l’équipement aux départements à compter de 20097.
+       Dans le département de la Meuse, ce transfert a été effectif en janvier 2011. Le choix d’un
+budget annexe a alors été retenu pour permettre la réalisation et le suivi de prestations pour
+d’autres collectivités territoriales, suivre les opérations soumises à la taxe sur la valeur ajoutée
+(TVA)8 et valoriser la flotte de matériels ainsi que les compétences des 37 agents du service.
+
+
+         1.1.1.2 Un déficit de fonctionnement récurrent
+
+        Les recettes de fonctionnement du budget annexe du parc départemental représentent,
+hors reprise sur les excédents capitalisés9 (voir infra), 8,4 M€ en 2024. Elles sont constituées à
+89 % des remboursements de frais versés par le budget principal du département. Les
+prestations de travaux réalisées sur la voirie qui relève d’autres collectivités ne représentent que
+104 354 € sur le même exercice.
+      Les dépenses de fonctionnement atteignent 8,6 M€ en 2024, dont 1,4 M€ de dotations
+aux amortissements10 (compte 6811).
+       Du fait d’une insuffisance des produits pour couvrir les charges d’amortissement des
+véhicules et autres matériels qui sont inscrits à son bilan, la section de fonctionnement du budget
+annexe du parc départemental affiche un déficit récurrent11.
+        Aussi, afin de rétablir l’équilibre budgétaire, le département de la Meuse a sollicité des
+services de l’État l’autorisation de transférer les excédents capitalisés du parc départemental
+vers sa section de fonctionnement. Cette dérogation aux normes comptables est permise par le
+code général des collectivités territoriales (CGCT)12, sous certaines conditions.
+       La direction générale des collectivités locales et la direction générale des finances
+publiques ont apporté une réponse positive à la demande du département de la Meuse. Par suite,
+une délibération adoptée en octobre 2024 par le conseil départemental a procédé, sur le budget
+
+
+
+
+6
+  Loi n° 2004-809 du 13 août 2004 relatives aux libertés et responsabilités locales.
+7
+  Loi n° 2009-1291 du 26 octobre 2009 relative au transfert aux départements des parcs de l’équipement et à
+l’évolution de la situation des ouvriers des parcs et ateliers.
+8
+  Suite à un rapport conjoint de l’inspection générale des finances et de l’inspection générale de l’administration
+(voir infra), les nomenclatures comptables (et désormais la M57) ne recommandent plus de recourir à un budget
+annexe pour suivre les opérations soumises à TVA, compte tenu des lourdeurs de gestion que représentent les
+budgets annexes.
+9
+  Les excédents capitalisés sont constitués des résultats affectés en réserve. Ces ressources sont comptabilisées en
+fonds propres au bilan. Elles n’ont pas vocation à financer la section de fonctionnement.
+10
+   Les dotations ou charges d’amortissement sont les charges qui constatent la perte de valeur comptable des biens
+que possèdent un organisme, du fait de l’usure causée par le temps. Il s’agit de dépenses d’ordre de la section de
+fonctionnement, ce qui signifie qu’elles ne donnent pas lieu à un décaissement de deniers et se traduisent
+uniquement par un jeu d’écriture comptable. L’amortissement des biens permet de renouveler ceux-ci à l’issue de
+leur durée d’utilisation.
+11
+   Durant la période 2019 à 2023, le résultat de la section de fonctionnement du budget annexe du parc
+départemental n’a été excédentaire qu’en 2020.
+12
+   Articles L. 3661-12 (en vigueur jusqu’au 31 janvier 2025) et article L. 1612-33 (en vigueur depuis le
+1er janvier 2026).
+
+
+
+                                                        13
+                                                                                 DÉPARTEMENT DE LA MEUSE
+
+
+
+
+annexe du parc départemental, au transfert d’une partie des excédents capitalisés, soit
+883 514 €13, vers la section de fonctionnement.
+        La reprise sur excédents capitalisés a permis au budget annexe du parc départemental
+de retrouver un résultat de fonctionnement excédentaire de 806 440 € en 2024. Cette
+amélioration présente cependant un caractère ponctuel car l’opération ne pourra pas être
+renouvelée, dès lors que le budget annexe ne dispose plus d’assez de réserves disponibles. Or,
+l’insuffisance des produits pour faire face aux charges d’amortissement est structurelle. Les
+conditions nécessaires à un équilibre pérenne du budget annexe ne sont pas remplies et le
+compte financier unique pour l’exercice 2025 fait apparaître à nouveau un déficit de
+fonctionnement.
+         Compte tenu de cette situation, le maintien d’un budget annexe pour réaliser le suivi de
+l’activité du parc départemental n’est pas pertinent, d’autant plus que ce service à caractère
+administratif ne comptabilise aucun endettement et que la part des ressources perçues au titre de
+prestations réalisées pour d’autres collectivités représente moins de 1 % des produits de gestion.
+
+
+1.1.2 Des activités dont la nature justifie une intégration au sein du budget principal
+
+       Les budgets annexes constituent une exception au principe d’unité budgétaire, selon
+lequel l’ensemble du budget doit être présenté dans un document unique. La création d’un
+budget annexe est obligatoire pour le suivi des activités relevant du secteur social et
+médico-social, des opérations d’aménagement et des services publics à caractère industriel ou
+commercial. Elle est facultative dans les autres hypothèses.
+        Les budgets annexes « mineurs non accompagnés » et « fonds d’aide » ont été créés afin
+de répondre à la volonté de l’assemblée départementale d’individualiser le suivi comptable des
+moyens consacrés par le département de la Meuse à la prise en charge des mineurs étrangers en
+situation d’isolement d’une part, aux actions d’aide ou de secours d’urgence délivrées aux
+personnes en difficulté d’autre part. Ainsi, ils retracent l’activité de services publics à caractère
+administratif. Ils sont financés majoritairement par des ressources provenant du budget principal.
+         Ces activités ne relèvent pas des domaines soumis à l’obligation de constitution d’un budget
+annexe. Leur suivi comptable pourrait par conséquent être assuré au moyen d’outils plus souples14,
+qui ne portent pas atteinte au principe d’unité budgétaire (comptabilité analytique, nomenclature
+fonctionnelle). Dans cette perspective, le budget annexe « fonds d’aide » peut être supprimé. Par
+ailleurs, l’article L. 1412-2 du CGCT exclut la possibilité d’une gestion individualisée pour « les
+services qui, par leur nature ou par la loi, ne peuvent être assurés que par la collectivité elle-
+même ». C’est le cas du budget annexe « mineurs non accompagnés », dont l’activité renvoie à une
+politique publique qui relève exclusivement de la compétence départementale.
+       En conséquence, la chambre recommande au département de procéder à la suppression
+des budgets annexes du parc départemental, des mineurs non accompagnés et du fonds d’aide.
+
+
+
+
+13
+     Sur un total de 1 001 456 €.
+14
+     Rapport IGF-IGA, Revue de dépenses relatives aux budgets annexes des collectivités territoriales, mai 2016.
+
+
+
+                                                           14
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     Recommandation n° 1. : Clôturer les budgets annexes du parc départemental, des
+     mineurs non accompagnés et du fonds d’aide Meuse, afin d’intégrer le suivi de ces
+     activités au sein du budget principal.
+
+        Le département a précisé que la clôture du budget annexe du parc départemental sera
+effective au 1er janvier 2027.
+
+
+
+1.2 Un budget principal sous contraintes
+
+        La situation financière du département de la Meuse s’est fragilisée entre 2019 et 2024.
+Cette dégradation provient du fait que les produits de gestion ont crû moins vite que les charges
+de gestion. Ces évolutions ont diminué la capacité d’autofinancement du département (1.2.1) et
+contraint sa capacité à investir (1.2.2). Le financement des investissements s’est toutefois fait
+dans le cadre d’un endettement maîtrisé (1.2.3), le département mettant par ailleurs en œuvre
+une gestion active de sa trésorerie (1.2.4). Les résultats projetés pour l’exercice 2025 traduisent
+une stabilisation de la situation financière (1.2.5).
+
+
+1.2.1 L’érosion de la capacité d’autofinancement
+
+
+          1.2.1.1 Des produits de gestion en augmentation
+
+       Les produits de gestion du département de la Meuse représentent un total de 252,8 M€
+en 2024, soit une hausse de 13 % par rapport à 2019.
+        Ils sont principalement constitués des ressources fiscales (58 % des produits en 2024),
+et des ressources institutionnelles (31 %). Le reste provient de la fiscalité reversée par l’État
+(6 %), des ressources d’exploitation (3 %) et des travaux en régie15 (2 %).
+
+
+
+
+15
+  Les travaux en régie correspondent à des investissements qu’une collectivité crée pour elle-même avec ses
+propres moyens. Ces immobilisations sont comptabilisées en section d’investissement pour leur coût de production
+(charges de personnel, matériaux), grâce à un jeu d’écritures comptables.
+
+
+
+                                                      15
+                                                                                           DÉPARTEMENT DE LA MEUSE
+
+
+
+
+      Graphique n° 1 : évolution de chaque composante des produits de gestion du département de la
+                                             Meuse (en €)
+
+
+      250 000 000                                                                               3 283 421      3 455 440
+                                                                            3 664 627
+                                   3 315 691            3 119 344
+               3 245 168
+                                                                                               76 344 116     78 523 314
+      200 000 000                                                          74 945 315
+               76 575 086         71 619 242           71 242 675
+                                                        6 717 342           7 015 790           7 363 109     7 536 955
+               6 023 494           5 618 413
+      150 000 000
+                                                                           15 317 498          15 399 537     16 146 992
+               6 086 426          17 295 858           16 840 303
+
+      100 000 000
+
+                                                      133 478 617          141 502 604         143 259 182   147 194 814
+             130 868 551          126 637 529
+       50 000 000
+
+
+                0
+                 2019                 2020                2021                 2022                  2023        2024
+              Ressources fiscales propres (nettes des restitutions)   Fiscalité reversée
+              Ressources d’exploitation                               Ressources institutionnelles
+              Production immobilisée, travaux en régie
+
+
+     Source : CRC GE, d’après les comptes de gestion et les comptes financiers uniques
+
+
+        La nature des ressources fiscales propres des départements s’est transformée durant la
+période sous revue. Pour la Meuse, 42 % de ces ressources fiscales provenaient du produit des
+impôts locaux en 2019. À la suite du transfert aux communes de la part départementale de la
+taxe foncière sur les propriétés bâties (TFPB) en 2021, ainsi que de la suppression de la part
+départementale de la cotisation sur la valeur ajoutée des entreprises (CVAE) en 2023, ce taux
+n'est plus que de 2 % en 2024 (voir graphique n° 2).
+        Ces pertes de ressources ont été compensées par le transfert à la collectivité d’une
+fraction de la TVA. Ce changement a entraîné une réduction de la capacité du département à
+lever l’impôt. Il a aussi accru la sensibilité de la collectivité au cycle économique. En effet,
+comme pour les droits de mutation à titre onéreux (DMTO)16, les recettes de TVA baissent
+lorsque la conjoncture se dégrade, alors que les dépenses départementales se rapportent
+majoritairement au domaine de la solidarité17 et qu’elles sont par conséquent en hausse lorsque
+l’activité économique se contracte. À l’instar des autres départements, la collectivité reçoit donc
+des recettes en partie procycliques pour assurer des dépenses qui sont essentiellement de nature
+contracyclique.
+
+
+
+
+16
+     Les DMTO ont diminué de 3,1 % entre 2019 et 2024.
+17
+     51 % de ses dépenses en 2024.
+
+
+
+                                                                 16
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                    Tableau n° 2 : ressources fiscales propres du département de la Meuse
+
+        En €                2019          2020          2021            2022           2023          2024
+ Impôts locaux nets
+ des restitutions
+                          55 569 349    56 709 146     9 636 732       9 826 273      2 365 680     2 622 098
+ (dont. TFPB et
+ CVAE)
+ + Fraction de la
+ TVA (nettes des
+ restitutions) et                  0             0    48 858 889      53 416 769     63 349 909    65 943 612
+ autres impôts et
+ taxes
+ + Taxe sur les
+ conventions              33 919 038    35 253 047    36 905 247      38 809 327     41 317 461    44 070 663
+ d'assurance
+ + Taxe intérieure
+ de consommation
+                          19 988 772    19 487 023    19 965 286      20 389 833     20 320 160    20 324 829
+ sur les produits
+ énergétiques
+ + Taxes liées à
+ l'urbanisation et           799 577      713 827          734 955      636 738        832 556        620 698
+ l'environnement
+ + Droits de
+ mutation à titre         14 280 272    14 736 122    17 641 077      18 637 118     15 350 293    13 831 566
+ onéreux
+ + Autres taxes
+ (nettes des               6 311 542     - 261 636      - 263 568      - 213 453      - 276 877      - 218 652
+ reversements)
+ = Ressources
+                         130 868 551   126 637 529   133 478 617     141 502 604    143 259 182   147 194 814
+ fiscales propres
+
+Source : CRC GE, d’après les comptes de gestion et les comptes financiers uniques
+
+
+       Par ailleurs, les ressources fiscales reversées au département par l’État18 ont connu une
+hausse de 165 % (6,1 M€ en 2019 contre 16,1 M€ en 2024), du fait du reversement des frais de
+gestion de la TFPB (environ 6 M€) et de l’augmentation des montants reversés au titre du fonds
+de péréquation des DMTO19. Leur part dans les produits de gestion passe ainsi de 3 % à 6 %.
+       Les ressources institutionnelles, principalement constituées de la dotation globale de
+fonctionnement (DGF), croissent faiblement en montants bruts. Leur part relative dans les
+produits de gestion diminue cependant de 34 % à 31 %.
+       Les ressources d’exploitation augmentent de 1,5 M€ de 2019 à 2024, tandis que les
+travaux en régie n’évoluent que marginalement.
+
+
+
+18
+   À ne pas confondre avec les compensations fiscales provenant de l’attribution d’une part de TVA, évoquées
+plus haut, et faisant suite aux suppressions des parts départementales des impôts locaux.
+19
+   Transfert de recette permettant aux départements recevant une moindre part de cette ressource fiscale de
+bénéficier d’une compensation issue d’un fonds abondé par un prélèvement sur les ressources de ceux en percevant
+le plus.
+
+
+
+                                                      17
+                                                                          DÉPARTEMENT DE LA MEUSE
+
+
+
+
+                                Tableau n° 3 : évolution des produits de gestion
+
+                                                                                      Évolution 2019-2024
+ En €                                                 2019              2024
+                                                                                          (arrondis)
+
+ Ressources fiscales propres                          130 868 551      147 194 814                  13 %
+
+ Ressources fiscales reversées par l’État               6 086 426        16 146 992                165 %
+
+ Ressources d’exploitation                              6 023 494         7 536 955                 25 %
+
+ Ressources institutionnelles                          76 575 086        78 523 314                  3%
+
+ Production immobilisée, travaux en
+                                                        3 245 168         3 455 440                  6%
+ régie
+
+ Total                                                222 798 725      252 857 514                  13 %
+
+Source : CRC GE, d’après les comptes de gestion et les comptes financiers uniques
+
+
+
+           1.2.1.2 Une hausse des charges de gestion plus importante que celle des produits
+
+      Si les produits de gestion sont en hausse sur la période, les charges de gestion ont
+augmenté de façon encore plus dynamique.
+       Les charges de gestion sont ainsi passées de 193,1 M€ en 2019 à 224,5 M€ en 2024, soit
+une hausse de 16 %. Cette croissance est légèrement supérieure à l’inflation20.
+
+
+
+
+20
+     L’inflation cumulée a été de + 14,9 % entre 2019 et 2024.
+
+
+
+                                                         18
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Graphique n° 2 : évolution de la part relative de chaque composante des charges de gestion
+                                    du département de la Meuse (en €)
+
+        250 000 000
+
+
+                                                                                         21 867 038       21 373 672
+        200 000 000                                                  19 348 205                           10 949 742
+                                                   17 392 965                            10 709 351
+                17 815 408       18 056 634                          11 212 359
+                 8 914 684        9 165 034         9 288 146
+                                                                                         54 417 305       55 981 398
+        150 000 000                                                  51 824 261
+                48 568 796       48 651 729        49 588 366
+
+
+        100 000 000
+                                                                     107 379 673         111 714 835     114 378 204
+                99 292 892       102 767 489       105 071 836
+         50 000 000
+
+
+               18 561 507        15 795 869        17 931 747        21 196 204          21 374 289       21 810 285
+                 0
+                  2019              2020              2021                 2022             2023             2024
+
+              Charges à caractère général      Dépenses d’interventions           Charges de personnel
+              Subventions de fonctionnement    Autres charges de gestion
+
+       Source : CRC GE, d’après les comptes de gestion et les comptes financiers uniques
+
+
+       Les charges à caractère général ont augmenté de 18 %, soit une croissance de 18,5 M€
+en 2019 à 21,8 M€ en 2024 essentiellement due à la hausse du coût de l’énergie21 et du
+chauffage urbain22 (+ 2,3 M€).
+       Les autres charges de gestion passent de 17,8 M€ à 21,3 M€, soit une augmentation de
+20 % compte tenu principalement de la hausse de la contribution versée au service
+départemental d’incendie et de secours (6,6 M€ en 2019 contre 7,8 M€ en 2024), du versement
+d’une subvention à destination du mémorial de Verdun (aucun versement en 2019 contre
+850 000 € en 2024), dans le cadre de la participation de la collectivité au financement du
+fonctionnement de ce dernier et, enfin, de l’évolution du poids de la subvention versée par le
+budget principal au budget annexe des mineurs non accompagnés, en augmentation de près de
+29 %, passant de 4,1 M€ en 2019 à 5,3 M€ en 2024.
+        Les subventions de fonctionnement augmentent de 22,8 % (8,9 M€ en 2019 ; 10,9 M€
+en 2024) compte tenu de l’accroissement des subventions aux personnes de droit privé
+(+ 1,9 M€), du fait d’une expérimentation conclue avec l’agence régionale de santé (ARS)
+jusqu’à la fin de l’année 2026, à destination des mineurs à double-vulnérabilité, nécessitant le
+versement de subventions aux structures qui prennent en charge ces publics. Afin de compenser
+cette augmentation, la collectivité a indiqué à la chambre avoir totalement arrêté en 2025 le
+versement de nouvelles aides aux communes. Seules les subventions correspondant aux projets
+engagés antérieurement ont continué à être versées, sur la base des engagements déjà pris et des
+conventions signées. Les estimations transmises par le département font état d’une économie
+de 0,4 à 0,5 M€ réalisée à ce titre.
+
+
+21
+     Compte 60612, passant de 0,5 M€ en 2019 à 1,7 M€ en 2024.
+22
+     Compte 60613, passant de 0,7 M€ en 2019 à 1,8 M€ en 2024.
+
+
+
+                                                           19
+                                                                            DÉPARTEMENT DE LA MEUSE
+
+
+
+
+      Les dépenses d’intervention (aides directes et indirectes à la personne), qui représentent
+51 % des charges de gestion en 2024, ont augmenté de 15 M€ sur la période, soit une hausse de
+15,2 %.
+        Les aides indirectes à la personne, c’est-à-dire les frais d’accueil familial et de séjours
+de l’aide sociale à l’enfance (ASE), ainsi que les frais de séjours pour personnes âgées, ont
+connu la plus forte progression, passant d’un total de 44,4 M€ en 2019 à 58 M€ en 2024. Cette
+hausse est due à une augmentation globale de l’activité de la protection de l’enfance ainsi qu’à
+une évolution des modalités de prise en charge, le recours à l’accueil en structures collectives,
+plus coûteux pour la collectivité, devenant plus fréquent à cause de la baisse du nombre
+d’assistants familiaux (voir infra).
+       Les dépenses relatives aux aides directes à la personne (revenu de solidarité active ou
+RSA, allocation personnalisée d’autonomie, prestation de compensation du handicap) ont
+progressé de 2,7 % seulement. Elles passent ainsi de 54,8 M€ en 2019 à 56,3 M€ en 2024.
+       Cette évolution des coûts de la politique d’insertion, marquée par une diminution de
+6,8 % des dépenses de RSA, s’explique par la combinaison de plusieurs facteurs, demeurant
+toutefois non chiffrés : mise en place de processus ciblés de contrôle ; animation du réseau des
+partenaires permettant d’obtenir un taux satisfaisant de sorties positives du RSA23 ;
+amélioration de la situation du marché de l’emploi.
+       La progression des charges de personnel du budget principal a été contenue à 15,3 %,
+soit une hausse comparable au taux de l’inflation (14,9 %). Bien que diverses mesures de
+revalorisation salariale soient intervenues durant la période (voir infra), la proportion des
+charges de personnel au sein des charges courantes a légèrement baissé, de 24,9 % en 2019 à
+24,6 % en 2024.
+
+                               Tableau n° 4 : évolution des charges de gestion
+
+                                                                                         Évolution 2019-2024
+ En €                                             2019                   2024
+                                                                                             (arrondis)
+
+ Charges à caractère général                        18 561 507             21 810 285                  18 %
+ Dépenses d’interventions                           99 292 892            114 378 204                  15 %
+ Dont aides directes à la personne                  54 834 157             56 317 540                   3%
+ Dont aides indirectes à la personne                44 458 735             58 060 664                  31 %
+ Charges de personnel                               48 568 796             55 981 398                  15 %
+ Subventions de fonctionnement                        8 914 684            10 949 742                  23 %
+ Autres charges de gestion                          17 815 408             21 373 672                  20 %
+ Total                                             193 153 287            224 493 301                  16 %
+Source : CRC GE, d’après les comptes de gestion et les comptes financiers uniques
+
+
+
+
+23
+     Le nombre de bénéficiaires du RSA a chuté de 9 366 en janvier 2020 à 7 485 en août 2025.
+
+
+
+                                                         20
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+          1.2.1.3 La contraction de la capacité d’autofinancement
+
+       La hausse des dépenses ayant été supérieure à celle des produits, la capacité
+d’autofinancement (CAF)24 du département s’est contractée durant la période sous revue.
+      Les CAF brute et nette25 du budget principal ont diminué respectivement de 9,9 % et
+22,2 % entre 2019 et 2024, même si l’exercice 2024 présente une certaine amélioration.
+
+
+                       Graphique n° 3 : évolution de la capacité d’autofinancement
+
+      35 000 000                                    30 847 382     29 844 179
+                    28 099 480      28 204 571
+      30 000 000
+                                                                                                   25 323 735
+      25 000 000                                                                   22 795 553
+                                                    18 298 509     18 249 922
+      20 000 000    15 394 009      16 295 909
+      15 000 000                                                                                   11 975 194
+                                                                                   10 449 581
+      10 000 000
+       5 000 000
+               0
+                       2019            2020            2021           2022            2023            2024
+
+                   CAF brute         CAF nette          Tendance (CAF brute)           Tendance (CAF nette)
+
+
+     Source : CRC GE, d’après les comptes de gestion et les comptes financiers uniques
+
+
+        L’évolution défavorable des CAF brute et nette par rapport à 2019 traduit une érosion
+de la capacité du département à financer ses investissements.
+
+
+          1.2.1.4 Une légère amélioration de la situation financière en 2025
+
+        Les données issues du compte financier unique pour 2025 témoignent d’une hausse des
+charges de gestion contenue à 0,6 % par rapport à 2024. Les produits de gestion augmentent
+pour leur part de près de 1,6 %. Ils se caractérisent par une croissance de 23 % des DMTO
+(17 M€ en 2025 contre 13,8 M€ l’année précédente) et de 7,4 % de la taxe spéciale sur les
+conventions d’assurance (47,3 M€ en 2025, soit 3,2 M€ de plus qu’en 2024). Les CAF brute et
+nette augmentent respectivement de 2,7 et 2,8 M€. L’encours de dette (136,5 M€) diminue de
+
+
+
+24
+   La CAF brute représente les ressources dont un budget dispose après paiement de ses charges de fonctionnement,
+hors produits de cessions. Elle peut être calculée en intégrant au résultat de gestion (= produits de gestion – charges
+de gestion) les résultats financier (= produits financiers – charges financières) et spécifique (= produits spécifiques
+– charges spécifiques). La CAF brute doit être d’un niveau suffisant pour couvrir le paiement de l’annuité en
+capital de la dette. Le résultat de la différence entre la CAF brute et le montant de l’annuité en capital de la dette
+correspond à la CAF nette, c’est-à-dire la part des ressources disponibles pour assurer le financement des
+investissements.
+25
+   Voir note de bas de page précédente.
+
+
+
+                                                         21
+                                                                         DÉPARTEMENT DE LA MEUSE
+
+
+
+
+1,5 %. Ces indicateurs traduisent ainsi une légère amélioration de la situation financière du
+département en 2025.
+
+
+1.2.2 Un niveau d’investissement volontairement modéré compte tenu des
+      contraintes posées par l’évolution de l’autofinancement
+
+
+        1.2.2.1 Des investissements inférieurs à ceux des départements de même strate
+
+       Les dépenses d’investissement d’une collectivité territoriale sont principalement
+composées, hors remboursement du capital de la dette, des dépenses d’équipement, c’est-à-dire
+de l’ensemble des coûts liés aux immobilisations (constructions, projets, aménagements, etc.)
+que la collectivité a enregistré au cours d’un exercice. Pour le département de la Meuse, les
+dépenses d’équipement s’élèvent sur l’ensemble de la période à 174,6 M€. Les dépenses
+d’investissement comprennent aussi les subventions d’équipement versées par la collectivité,
+qui représentent un volume de 40,3 M€ sur la période. En hausse jusqu’en 2022, les dépenses
+et subventions d’équipement ont ensuite baissé en 2023 et 2024.
+
+
+                   Graphique n° 4 : investissements du département de la Meuse (en €)
+
+     40 000 000
+                                                                    34 769 085
+     35 000 000                                                                       32 013 489
+                                                       29 530 605                                       28 820 115
+     30 000 000
+                     25 135 558      24 368 346
+     25 000 000
+
+     20 000 000
+
+     15 000 000
+                                                       8 036 728    8 242 438         7 442 071
+     10 000 000                                                                                         6 948 740
+                      5 179 141       4 522 649
+       5 000 000
+
+              0
+                        2019            2020             2021         2022               2023             2024
+
+                    Dépenses d'équipement                                    Subventions d'équipement
+
+                    Tendance (dépenses d'équipement)                         Tendance (subventions d'équipement)
+
+
+Source : CRC GE, d’après les données des comptes de gestion et des comptes financiers uniques
+
+
+        La population du département de la Meuse est supérieure à la population moyenne des
+départements de la même strate (moins de 250 000 habitants). Cependant, le montant des
+investissements de la Meuse (dépenses et subventions d’équipement) est inférieur à la moyenne
+des investissements réalisés par ces mêmes départements : la Meuse est l’un des départements
+qui investit le moins par habitant (1 162 €, pour une moyenne départementale de 1 475 € sur la
+période 2019-2024).
+
+
+
+
+                                                        22
+     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+           Tableau n° 5 : dépenses d’investissement des départements de moins de 250 000 habitants
+
+                                                                                             Dépenses cumulées
+   Département (moins de       Dépenses d'investissement       Population moyenne sur         d’investissement
+     250 000 habitants)        cumulées 2019-2024 (en €)             la période            2019-2024 par habitant
+                                                                                                   (en €)
+ Lozère                                       213 121 974                        76 550                      2 784
+ Hautes-Alpes                                 341 920 044                       140 982                      2 425
+ Ariège                                       290 561 928                       153 521                      1 893
+ Haute-Marne                                  308 136 074                       173 858                      1 772
+ Haute-Saône                                  414 538 753                       235 688                      1 759
+ Lot                                          293 239 881                       174 135                      1 684
+ Hautes-Pyrénées                              369 113 675                       229 310                      1 610
+ Cantal                                       219 729 716                       144 862                      1 517
+ Moyenne de l’échantillon                     262 278 275                       177 776                      1 475
+ Alpes-de-Haute-Provence                      240 625 855                       164 397                      1 464
+ Haute-Loire                                  318 083 725                       227 420                      1 399
+ Corrèze                                      313 540 934                       240 438                      1 304
+ Indre                                        275 231 796                       220 264                      1 250
+ Meuse                                        215 008 964                       185 100                      1 162
+ Gers                                         206 918 191                       191 445                      1 081
+ Creuse                                       125 710 091                       117 326                      1 071
+ Nièvre                                       193 151 660                       205 285                        941
+ Territoire de Belfort                        120 097 406                       141 609                        848
+
+Source : CRC GE, d’après les données des comptes de gestion et des comptes financiers uniques
+
+
+             Les principaux postes de dépenses sont l’entretien des routes et des ouvrages d’art, ainsi
+     que les dépenses à destination des collèges (voir infra).
+
+
+             1.2.2.2 Un recours à l’emprunt maîtrisé pour le financement des investissements
+
+             À l’échelle globale de la période 2019 à 2024, le département de la Meuse a financé ses
+     investissements à 41 % par la CAF. Les emprunts représentent quant à eux 30 % du
+     financement.
+
+
+
+
+                                                          23
+                                                                            DÉPARTEMENT DE LA MEUSE
+
+
+
+
+               Graphique n° 5 : le financement des dépenses d’investissement de 2019 à 2024
+
+
+                                                              1%
+
+                                                        7%
+
+                                                10%
+
+                                                                         41%
+                                          10%
+
+
+
+
+                                                      31%
+
+
+
+
+              CAF Nette                         Emprunts                       Fonds affectés à l'équipement
+              Fonds de compensation de la TVA   Subventions                    Produits de cession
+
+     Source : CRC GE, d’après les données des comptes de gestion et des comptes financiers uniques
+
+
+       Le département de la Meuse a adapté son niveau d’investissement en fonction de ses
+capacités pour éviter toute augmentation de sa dette (voir ci-dessous).
+       Le recours à l’emprunt (67,1 M€) a même été légèrement supérieur au besoin de
+financement, ce qui a permis à la collectivité d’abonder son fonds de roulement26 de 2,5 M€.
+
+
+           1.2.2.3 Une stratégie d’investissement non déclinée dans une programmation
+                   pluriannuelle
+
+       Le département n’a pas formalisé de programmation pluriannuelle d’investissement
+(PPI) en dehors de celle pour les gendarmeries de 2020 et du plan collège de 2017 (voir infra).
+Les investissements font l’objet d’un suivi à travers des tableaux de bords dédiés, communiqués
+aux élus lors des discussions budgétaires.
+      Même si la collectivité gère ses projets via des autorisations de programme et crédits de
+paiement (AP/CP), le département devrait établir et formaliser une PPI pour l’ensemble de ses
+dépenses et projets d’investissement (voir infra).
+
+
+
+
+26
+  Le fonds de roulement correspond à l’excédent des ressources stables (à plus d’un an) sur les emplois stables (à
+plus d’un an) du bilan. Il vise à compenser les décalages entre l’encaissement des recettes et le paiement des
+dépenses.
+
+
+
+                                                            24
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1.2.3 Un encours de dette maîtrisé
+
+       L’encours de dette du département de la Meuse a diminué de 145,2 M€ à 138,6 M€ entre
+2019 et 2024, soit une baisse de 4,6 %.
+
+
+                         Tableau n° 6 : encours de dette du département de la Meuse
+
+
+          En €              2019           2020          2021             2022         2023             2024
+
+
+ Au 31 décembre         145 249 496    145 840 835    138 291 961     132 697 705   131 951 733      138 603 192
+
+
+Source : CRC GE, d’après les données des comptes de gestion et des comptes financiers uniques
+
+
+        Cependant, les charges financières ont paradoxalement presque doublé, passant de
+1,6 M€ en 2019 à 3,7 M€ en 2024. Cette augmentation s’explique par le coût des emprunts
+contractés après le relèvement des taux d’intérêts en 2022 ainsi que par le renchérissement de
+la charge d’intérêts liée aux emprunts à taux variables.
+        La dette du département est pour autant saine : les 30 prêts en cours sont classés parmi
+les moins risqués27 selon la charte de bonne conduite entre les établissements bancaires et les
+collectivités territoriales.
+           Le délai de désendettement28 s’établit à cinq ans et demi en 2024. Il est stable depuis
+2019.
+
+                     Tableau n° 7 : délai de désendettement du département de la Meuse
+
+                       En années                        2019     2020       2021    2022      2023       2024
+
+        Délai de désendettement (Dette/CAF brute)       5,2         5,2     4,5      4,4       5,8        5,5
+
+     Source : CRC GE, d’après les données des comptes de gestion et des comptes financiers uniques
+
+       Le délai de désendettement est de près de moitié inférieur au seuil d’alerte de 10 ans29,
+qui constitue l’un des indicateurs d’une situation financière dégradée. Par conséquent, le niveau
+d’endettement du département est soutenable au regard de ses capacités de remboursement.
+
+
+
+
+27
+   Un emprunt est risqué lorsque son taux d’intérêt peut varier de façon importante et imprévisible en cours de
+remboursement.
+28
+   Le délai de désendettement mesure le nombre d’années qui sont théoriquement nécessaires pour que le
+département rembourse intégralement sa dette, en y consacrant l’intégralité de sa CAF brute.
+29
+   Article 29 de la loi n° 2018-32 du 22 janvier 2018 de programmation des finances publiques pour les années
+2018 à 2022.
+
+
+
+                                                        25
+                                                                                DÉPARTEMENT DE LA MEUSE
+
+
+
+
+1.2.4 Une gestion active de la trésorerie
+
+        La trésorerie est la somme d’argent qui est disponible à une date donnée (liquidités)
+pour honorer les paiements à effectuer. Sur le plan comptable, elle se définit comme la
+différence entre le fonds de roulement et le besoin en fonds de roulement, qui mesure le montant
+nécessaire pour financer le décalage entre les encaissements de recettes et les décaissements de
+dépenses.
+
+
+                 Tableau n° 8 : trésorerie du département de la Meuse au 31 décembre
+
+          En €                 2019          2020             2021           2022          2023           2024
+
+ Fonds de roulement            917 735      8 375 699     6 804 163         - 374 722    - 7 561 530   - 1 613 532
+ - besoin en fonds de
+                           - 1 467 924    - 5 466 909    - 5 062 260      - 12 328 602   - 6 100 940   - 4 611 497
+ roulement
+ = trésorerie nette          2 385 660    13 842 608     11 866 423        11 953 879    - 1 460 589     2 997 965
+ En nombre de jours de
+                                      4             26               22             21            -2              5
+ charges courantes
+
+Source : CRC GE, d’après les données des comptes de gestion et des comptes financiers uniques
+
+
+        Celle-ci est alimentée principalement par un besoin en fonds de roulement négatif30, ce
+qui signifie que le département de la Meuse encaisse plus rapidement ses créances qu’il ne paie
+ses fournisseurs. Toutefois la collectivité respecte le délai global de paiement de 30 jours
+imposé par les articles L. 2192-10 et R. 2192-10 du code de la commande publique. Ce délai
+s’améliore entre 2019 et 2024.
+
+
+                            Tableau n° 9 : évolution du délai global de paiement
+
+        En jours               2019          2020             2021           2022          2023           2024
+
+ Délai global de
+ paiement moyen                 28             25              23             19             18             18
+ (arrondi)
+
+Source : CRC GE, d’après les données fournies par le département de la Meuse.
+
+
+        Le département assure, en lien avec le comptable public, un suivi quotidien de sa
+situation de trésorerie. La gestion mise en œuvre vise à ajuster le plus strictement possible le
+volume des liquidités aux besoins journaliers de décaissement31.
+
+
+
+30
+  Autrement dit un excédent en fonds de roulement.
+31
+  Les collectivités territoriales ont une obligation de dépôt de leurs liquidités au Trésor public, sur un compte
+unique non rémunéré. Maintenir une trésorerie pléthorique par rapport aux besoins de paiement représente un coût
+pour les collectivités, car un tel excédent improductif de disponibilités aurait pu être mobilisé pour le financement
+de projets locaux, afin de réduire le recours à l’emprunt et les frais financiers correspondants.
+
+
+
+                                                         26
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                    Pour y parvenir, le département mobilise régulièrement des lignes de trésorerie32.
+
+
+          Graphique n° 6 : nombre de tirages du département de la Meuse sur ses lignes de trésorerie
+
+     20
+
+     15
+
+     10
+
+     5
+
+     0
+
+          janv-19   avr-19   juil-19   oct-19   janv-20   avr-20   juil-20   oct-20   janv-21   avr-21   juil-21   oct-21   janv-22    avr-22   juil-22   oct-22   janv-23   avr-23   juil-23   oct-23   janv-24   avr-24   juil-24   oct-24   janv-25   avr-25   juil-25
+
+
+Source : CRC GE, d’après les données fournies par le comptable public
+
+
+       En moyenne, neuf opérations de tirage sur les lignes de trésorerie ont été réalisées par
+mois entre janvier 2019 et août 2025. En 2024, la charge d’intérêts pour ces tirages s’est élevée
+à 230 319 €.
+
+
+
+
+2 UNE HAUSSE DE LA MASSE SALARIALE CONTENUE PAR
+  LA STABILITÉ DES EFFECTIFS
+
+        Des lignes directrices de gestion ont été successivement établies par le département de
+la Meuse pour les périodes 2021-2023 et 2024-2029. Elles définissent un cadre pluriannuel pour
+renforcer l’attractivité de la collectivité, à travers la promotion et la valorisation des parcours
+professionnels, l’amélioration des conditions de travail et l’augmentation du pouvoir d’achat
+des agents départementaux, qu’ils soient fonctionnaires titulaires ou contractuels. L’objectif de
+fidélisation du personnel s’appuie sur cinq axes déclinés en une quarantaine d’actions. Un
+tableau de bord rend compte du suivi des mesures : 11 d’entre elles ont été réalisées, la mise en
+œuvre des autres est en cours.
+        Sans que cela préjuge des résultats de cette démarche, les effectifs départementaux hors
+assistants familiaux33 (voir ci-après) sont demeurés stables entre 2019 et 2024 (2.1). La masse
+salariale a cependant augmenté sous l’influence de différents facteurs (2.2).
+
+
+
+
+32
+   Instrument de crédit à court terme (moins d’un an) accordé par une banque et qui permet de répondre à un besoin
+ponctuel de liquidités.
+33
+   Les assistants familiaux sont des salariés du département qui hébergent à leur domicile un ou plusieurs enfants
+en difficulté. Ils relèvent d’un statut spécifique de droit public (voir ci-après).
+
+
+
+                                                                                                                                      27
+                                                                         DÉPARTEMENT DE LA MEUSE
+
+
+
+
+2.1 Une stabilité globale des effectifs traduisant des efforts de gestion et
+    des difficultés de recrutement
+
+       Le décompte des agents d’une collectivité peut être exprimé en personnes physiques, en
+équivalent temps plein (ETP) ou en équivalent temps plein travaillé (ETPT).
+
+                              La notion d’équivalent temps plein travaillé
+L’ETPT quantifie les effectifs d’un organisme en prenant en compte la durée annuelle d’activité des
+agents : ainsi, un agent à temps plein qui a été en poste la moitié de l’année (recrutement le 1er juillet par
+exemple) correspond à 0,5 ETPT.
+Dans le cadre du présent rapport, l’appréciation de la situation et de l’évolution des effectifs se fonde,
+sauf pour les assistants familiaux dont le temps de travail relève d’un régime particulier, sur les ETPT
+calculés à partir des fichiers de paye qui ont été transmis au comptable public et qui portent sur les
+exercices 2019 à 2024. Les traitements sur ces bases de données ont été réalisés au moyen d’une
+application informatique développée par les juridictions financières pour leur usage propre. Le choix en
+faveur des ETPT permet de prendre en compte non seulement la quotité de travail, mais aussi la durée
+d’activité rémunérée des agents pour chaque exercice.
+Bien que la durée légale annuelle de travail pour un agent à temps plein en poste toute l’année soit de
+1 607 heures, la base de calcul à prendre en compte pour la durée d’activité rémunérée est de
+1 820 heures, ce qui correspond au nombre total d'heures payées pour une année. Toutes les périodes
+rémunérées sont incluses dans cette base de calcul : congés payés, formations, absences pour maladie,
+etc. Le nombre d'heures payées à prendre en compte pour un agent est le nombre d'heures cumulées du
+premier au dernier jour de l'année, ou au dernier jour de travail de l'agent s’il quitte la collectivité en
+cours d’exercice.
+        Le nombre d’ETPT des agents du département de la Meuse est resté globalement stable
+entre 2019 et 2024 compte tenu d’une gestion rigoureuse des emplois, d’une part (2.1.1), mais
+aussi compte tenu d’une augmentation des postes vacants sur lesquels le département n’arrive
+pas à recruter (2.1.2). Le maintien des effectifs n’est rendu possible que grâce au recrutement
+d’agents contractuels, dont le nombre augmente (2.1.3). Par ailleurs, le nombre d’assistants
+familiaux diminue malgré une augmentation des besoins (2.1.4).
+
+
+2.1.1 Une stabilité des effectifs depuis 2019
+
+       De manière générale, nonobstant quelques variations d’un exercice à l’autre, les effectifs
+du département sont restés stables aux alentours de 1 000 ETPT entre 2019 et 2024.
+
+
+        2.1.1.1 Des mouvements entre le budget principal et les budgets annexes
+
+       En sus du budget principal, le département de la Meuse comptabilise des charges de
+personnel sur quatre de ses budgets annexes : « parc départemental », « e-Meuse santé »,
+« mineurs non accompagnés » (MNA) et « structure d’accueil de mineurs non accompagnés en
+évaluation » (SAMNAE).
+       Les effectifs du budget principal et du budget annexe « MNA » ont diminué
+respectivement de 17 et 10 ETPT durant la période examinée. Ces baisses ont été
+
+
+
+                                                     28
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+quasi-intégralement neutralisées par la progression des effectifs des budgets annexes
+« e-Meuse santé » (8 agents en 2024) et « SAMNAE » (15 agents), tous les deux créés en 2020.
+Les effectifs du budget annexe du parc départemental sont stables par rapport à 2019.
+
+
+                    Tableau n° 10 : évolution des effectifs du département de la Meuse
+
+                En ETPT                      2019            2020    2021    2022    2023       2024
+ Budget principal                               927            926     936     924       910      910
+ Budget annexe « parc départemental »          33,2           35,5    37,5    35,4       34,8    33,6
+ Budget annexe « e-Meuse santé »                    0          1,5     3,9     4,7        6,9     8,1
+ Budget annexe « MNA »                         20,5           11,6    10,4     7,5        7,9    10,7
+ Budget annexe « SAMNAE »                           0         10,8    11,5    11,3       12,6    15,1
+ TOTAL                                          981            985     999     982       972      977
+
+Source : CRC GE, d’après les données de paie du département
+
+
+      Le budget principal et le budget annexe du parc départemental regroupent 97 % des
+moyens humains (dont 94 % pour le budget principal).
+
+
+        2.1.1.2 Une volonté de ne pas augmenter les effectifs
+
+        Le maintien du volume global d’ETPT des agents départementaux entre 2019 et 2024
+résulte pour partie des principes mis en œuvre pour limiter les besoins de la collectivité en
+personnel, dans le contexte d’une volonté de maîtrise des dépenses : développement de la
+polyvalence au sein des unités de travail, analyse des possibilités de réorganisation des services
+afin d’optimiser les moyens disponibles. Par ailleurs, la nécessité des remplacements des
+départs en retraite ou des créations de poste est évaluée à chaque fois et fait l’objet d’une
+validation hiérarchique avant le lancement des processus de recrutement.
+
+
+        2.1.1.3 Un taux d’administration stable
+
+        Le taux d’administration rapporte les effectifs permanents et non permanents d’une
+collectivité ou d’un établissement public à la population de son territoire. Cet indicateur est
+exprimé en ETP pour 1 000 habitants. La chambre a mesuré l’évolution du taux
+d’administration du département à partir des effectifs issus des fichiers de paie.
+
+
+
+
+                                                        29
+                                                                              DÉPARTEMENT DE LA MEUSE
+
+
+
+
+              Tableau n° 11 : évolution du taux d’administration du département de la Meuse
+
+         ETP au 31 décembre           2019      2020        2021       2022       2023        2024     Évolution
+     ETP (hors assistants
+                                         999       998      1 017         984          966      989      -1%
+     familiaux)
+
+     Nombre d’habitants              189 055   187 187    185 355    184 083     183 001     181 919     -4%
+
+     Taux d'administration
+                                         5,3        5,3        5,5        5,3         5,3        5,4
+     (en ETP pour 1 000 habitants)
+
+     Source : CRC GE, d’après les données de paie du département
+
+
+        Le taux d’administration pour l’ensemble des budgets du département de la Meuse est
+de 5,4 ‰ en 2024. Ce taux est resté stable depuis 2019. Il est inférieur au taux d’administration
+moyen pour les départements de moins de 300 000 habitants, soit 6,7 ‰ selon les données de
+la direction générale des collectivités locales (DGCL).
+
+
+2.1.2 Une augmentation du nombre de postes inoccupés
+
+         La stabilité des effectifs manifeste aussi les difficultés du département à pourvoir la
+totalité des emplois qu’il offre.
+        Le nombre de postes inoccupés augmente : il passe de 78 au 31 décembre 2019 à 102 au
+31 décembre 2024. Cette hausse est due pour partie à l’attention que la collectivité porte à
+l’ajustement de ses moyens humains aux besoins des services, ce qui lui permet de geler
+temporairement certains emplois34. D’après le département, le nombre de postes relevant de
+cette catégorie est passé de 30 en 2019 à 51 en 2024.
+        La progression du volume des postes vacants résulte aussi de difficultés que la
+collectivité rencontre en matière de recrutement.
+       Le phénomène national35 de perte d’attractivité de la fonction publique n’épargne pas le
+département de la Meuse. Plusieurs facteurs contribuent à cette perte d’attractivité : la
+méconnaissance des métiers et des voies d’accès (concours), le désintérêt pour le statut de
+fonctionnaire, les niveaux de rémunération perçus comme insuffisants, la concurrence avec des
+conditions d’exercice professionnel plus favorables offertes par les employeurs du secteur privé.
+        Ainsi, en l’absence de candidature adaptée, les processus de recrutement se sont révélés
+infructueux afin de pourvoir des emplois qui demeurent vacants au 31 décembre 2024 dans des
+domaines variés et toutes les catégories hiérarchiques : contrôleur de gestion36, agent de
+prévention professionnelle, médecin, psychologues37, sage-femme, responsables de service38,
+
+
+34
+   Exemples : chargé de mission développement touristique, animateur de l’observatoire départemental des
+territoires, concierge du parc départemental.
+35
+   Cf. Sénat : Catherine Di Folco, avis sur le projet de loi de finances pour 2023 : fonction publique, commission
+des lois, Sénat, n° 121 (2022-2023), 17 novembre 2022.
+36
+   Poste vacant depuis deux ans.
+37
+   Deux postes vacants.
+38
+   Services emploi et insertion, pilotage immobilier, aide sociale à l’enfance.
+
+
+
+                                                       30
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+agents d’exploitation, mécanicien, second de cuisine, juriste. Le département indique que le
+nombre de postes vacants par défaut de candidature appropriée est passé de 48 en 2019 à 51 en
+2024.
+        Le rapport relatif au débat d’orientations budgétaires pour 2025 rappelle la volonté du
+département d’améliorer son attractivité en qualité d’employeur : plusieurs actions sont
+déployées pour permettre à la collectivité de répondre à ses besoins en personnel et de faire face
+à la rotation de ses effectifs. Le recrutement d’agents contractuels représente l’une des voies
+mobilisées pour y parvenir.
+
+
+2.1.3 Un développement du recours aux agents contractuels
+
+
+           2.1.3.1 Un accroissement continu du personnel contractuel
+
+       Les emplois permanents des collectivités territoriales doivent en principe être occupés
+par des fonctionnaires. Cependant la loi n° 2019-828 du 6 août 2019 de transformation de la
+fonction publique a étendu les possibilités de recrutement d’agents contractuels par les
+employeurs publics locaux. Ces dispositions ont été reprises par le code général de la fonction
+publique (CGFP) en 2022.
+        L’augmentation du nombre d’agents contractuels au sein des effectifs de la collectivité
+traduit l’appropriation et la mise en œuvre de ces règles par le département de la Meuse.
+
+
+ Tableau n° 12 : évolution des agents titulaires et contractuels (hors assistants familiaux) au sein des
+                                      effectifs départementaux
+
+                                                                                                Part des    Part des
+       En ETPT           2019         2020        2021        2022        2023         2024     effectifs   effectifs
+                                                                                                  2019        2024
+      Contractuels         170,7       186,4       195,9        211,8      218,1        226,4      17 %        23 %
+       Titulaires          810,2       798,7       803,2        770,7      753,9        750,5      83 %        77 %
+         Total             980,9       985,1       999,0        982,4      972,0        977,0     100 %       100 %
+
+Source : CRC GE, d’après les fichiers de paie du département
+
+
+         Les ETPT d’agents contractuels progressent de 34 % entre 2019 et 2024. Leur part au
+sein des effectifs est comparable à celle constatée au plan national. En effet, selon la direction
+générale de l’administration et de la fonction publique (DGAFP)39, les agents contractuels40
+représentent 23 % des effectifs physiques (hors contrats aidés) de la fonction publique
+territoriale en 2022.
+
+
+
+
+39
+     Source : fonction publique, chiffres clés 2024.
+40
+     Hors assistants maternels et familiaux, apprentis et collaborateurs de cabinet.
+
+
+
+                                                           31
+                                                                         DÉPARTEMENT DE LA MEUSE
+
+
+
+
+         Le recrutement par contrat sur un poste permanent41 dans la fonction publique
+territoriale peut intervenir sur la base de différents fondements juridiques :
+        -   dans l’attente du recrutement d’un fonctionnaire (article L. 332-14 du CGFP) ; ce
+            motif représente environ 90 contrats par an au département de la Meuse ;
+        -   en considération des besoins des services ou de la nature des fonctions, et sous
+            réserve qu’aucun fonctionnaire n’a pu être recruté (article L. 332-8 du CGFP) ; le
+            nombre de contrats de ce type a été porté de 22 en 2019 à 55 en 2024 ;
+        -   pour assurer temporairement le remplacement d’un agent public (article L. 332-13
+            du CGFP) ; seuls six contrats s’appuient sur ce fondement juridique en 2024, contre
+            17 en 2019.
+        Les postes non permanents ne peuvent pas être pourvus par un fonctionnaire et sont
+obligatoirement occupés par un agent contractuel. Ils comprennent notamment les emplois liés
+à un accroissement temporaire ou saisonnier d’activité (article L. 332-23 du CGFP) et les
+contrats de projet (article L. 332-24 du CGFP). Si le département de la Meuse, en raison de la
+nature de ses compétences, réalise peu de recrutements au titre d’un accroissement d’activité,
+la collectivité a développé le recours au contrat de projet.
+       Cet outil permet aux employeurs publics de recruter un agent afin de mener à bien une
+opération particulière. Le contrat prend fin lorsque l’opération a été réalisée ou au plus tard au
+bout de six ans, en incluant les renouvellements d’engagement. Le département a mobilisé sept
+contrats de projet dès 2020 et jusqu’à 18 en 2024, afin notamment de répondre aux besoins du
+budget annexe en personnel, dans le cadre de l’expérimentation e-Meuse santé.
+
+
+        2.1.3.2 Des pratiques de recrutement parfois dérogatoires au cadre juridique
+
+
+2.1.3.2.1 Concernant les contrats de projet
+
+        Quatre assistants socio-éducatifs rattachés au service habitat-logement ont été recrutés
+par contrat de projet. Ces agents sont affectés au sein des maisons de santé de Bar-le-Duc,
+Verdun, Stenay et Commercy. Ils sont en charge de l’accompagnement social lié au logement
+auprès de personnes en situation complexe. Le bilan d’activité du comité social territorial du
+7 octobre 2025 rapporte que le « choix de poursuivre [le dispositif] dans le cadre de contrat de
+projet se justifie par la nécessité de développer et de faire évoluer encore l’accompagnement
+des situations complexes compte tenu de la spécificité et de la singularité des situations
+rencontrées ». Cependant, les missions confiées à ces travailleurs sociaux ne définissent pas de
+résultat à atteindre pour attester de la réalisation d’une opération précise. En l’espèce, le recours
+au contrat de projet vise avant tout à prévenir le risque de pérennisation des postes concernés,
+dans un contexte où la continuité dans le temps des financements associés au dispositif42 n’est
+pas assurée. Les quatre agents n’auraient donc pas dû bénéficier d’un contrat de projet.
+
+
+
+
+41
+   Les postes permanents sont les emplois qui répondent aux besoins de l’activité normale et habituelle de la
+collectivité territoriale.
+42
+   Fonds de l’Union européenne, de l’État et de l’agence régionale de santé.
+
+
+
+                                                     32
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2.1.3.2.2 Concernant les vacances temporaires d’emploi
+
+        L’embauche par contrat pour faire face à une vacance temporaire d’emploi, dans
+l’attente du recrutement d’un fonctionnaire, ne peut excéder une durée totale de deux ans,
+renouvellements compris (article L. 332-14 du CGFP). L’examen de la situation d’un
+échantillon d’agents recrutés sur ce fondement révèle un dépassement de cette limite pour trois
+d’entre eux. Dans un cas le contrat a duré six ans. La situation de l’agent concerné a ensuite été
+régularisée, à travers la poursuite de la relation professionnelle sous la forme d’un contrat à
+durée indéterminée (CDI).
+
+
+2.1.3.2.3 Concernant le recrutement d’agents contractuels en catégorie C
+
+        L’article L. 326-1 du CGFP autorise, par dérogation à l’article L. 320-1, le recrutement
+sans concours au 1er grade des cadres d’emploi de catégorie C43, lorsque ce grade est doté de
+l’échelle de rémunération la moins élevée de la fonction publique. Ce mode de recrutement
+permet donc de garantir que les emplois permanents relevant de ces niveaux hiérarchiques
+soient occupés par des agents titulaires.
+        Or, le département privilégie l’embauche par contrat d’agents qui pourraient pourtant
+être recrutés directement en qualité de fonctionnaires. Ainsi, les effectifs des agents titulaires
+de catégorie C sont en baisse au sein du budget principal. Ils s’établissent à 371 ETPT en 2024
+contre 405 ETPT en 2019. Cette pratique renforce la dynamique d’accroissement de la
+proportion des agents contractuels dans les effectifs. En recrutant par contrats des agents qui
+pourraient être recrutés en qualité de fonctionnaires stagiaires44, le département contrevient
+donc au principe posé par l’article L. 311-1 du CGFP selon lequel les emplois permanents des
+collectivités territoriales doivent être occupés par des agents titulaires.
+        Le département fait valoir que le recrutement contractuel de personnes qui pourraient
+être nommées directement fonctionnaires stagiaires répond à la volonté de certains candidats
+qui refusent de s’engager dans une carrière au sein de la fonction publique, en raison des
+contraintes liées aux règles statutaires ou aux modalités de rémunération. La collectivité indique
+aussi que la réalisation d’une première expérience en qualité de contractuel permet à
+l’employeur public et à l’agent concerné de vérifier la bonne adéquation entre les compétences
+détenues et le poste occupé, puis de décider ou non de renouveler la relation professionnelle
+(comme agent contractuel ou le cas échéant comme fonctionnaire). Le recrutement initial par
+contrat est ainsi considéré comme une étape du parcours professionnel au sein de la fonction
+publique : la nomination directe des fonctionnaires stagiaires de catégorie C est subordonnée à
+l’exécution préalable d’un CDD.
+
+
+
+
+43
+   Les agents de la fonction publique territoriale sont répartis au sein de trois catégories qui correspondent à des
+niveaux hiérarchiques et de rémunération. Ces niveaux hiérarchiques sont, dans l’ordre décroissant : la catégorie
+A, la catégorie B et la catégorie C. Chaque catégorie regroupe plusieurs cadres d’emplois, qui sont eux-mêmes
+découpés en grades.
+44
+   Les personnes qui accèdent à la fonction publique en qualité de fonctionnaire sont en principe recrutées comme
+stagiaires, pour une période définie par les textes et qui est variable selon les situations. Cette période de stage est
+à la fois une phase d’apprentissage et une phase probatoire. Elle peut être prolongée dans certains cas. À l’issue,
+le fonctionnaire est titularisé sur son poste s’il a fait la preuve de ses aptitudes. À défaut, il peut être licencié pour
+insuffisance professionnelle.
+
+
+
+                                                           33
+                                                                         DÉPARTEMENT DE LA MEUSE
+
+
+
+
+       Au final, la chambre invite le département de la Meuse à respecter strictement les
+dispositions du CGFP lorsqu’il recrute des agents contractuels.
+Rappel du droit n° 1         : En matière de recrutements contractuels, se conformer
+strictement aux dispositions du code général de la fonction publique, pris notamment en
+ses articles L. 311-1 et L. 326-1 (recrutement de fonctionnaires sur les emplois
+permanents), L. 332-24 (contrats de projets), et L. 332-14 (respect de la durée maximum
+de deux ans).
+
+
+       2.1.3.3 Une gestion défaillante de la situation administrative d’un agent
+
+       Le département a recruté l’un de ses anciens agents en qualité de consultant
+immédiatement après son départ à la retraite en juin 2019. La relation professionnelle s’est
+poursuivie par contrats successifs45 jusqu’au 31 décembre 2025. Au cours de cette même
+période, d’autres contrats ont également été conclus, afin de confier à cet agent, de façon
+ponctuelle, des missions supplémentaires auprès de la direction générale des services. Les
+rémunérations totales versées à ces différents titres se sont élevées à 141 773 €.
+        Sans remettre en cause le travail réalisé par l’agent durant cette période, la chambre
+relève plusieurs irrégularités dans la gestion administrative de ce dernier par la collectivité.
+       Sur le non-respect de règles de gestion en matière de ressources humaines
+       Au cours de cette période, l’ancien agent n’a pas été astreint par la collectivité au respect
+de plusieurs règles de gestion en matière de ressources humaines, qu’elles soient légales ou
+internes au département.
+       Tout d’abord, il a travaillé quasi-exclusivement à distance depuis son domicile. Il a
+d’abord résidé dans l’Aube46, puis dans le Maine-et-Loire à compter de 2021, à une distance de
+536 kilomètres du siège du département.
+        Même si la nature des missions confiées à cet agent ne requérait pas sa présence
+physique au sein des locaux départementaux, cette situation contrevient aux règles de la
+collectivité en matière de télétravail. Par ailleurs, son dossier individuel ne contient aucun arrêté
+d’autorisation de travail à distance, alors même que la réglementation prévoit qu’une décision
+individuelle explicite doit être notifiée aux agents bénéficiant du télétravail, précisant
+notamment « la nature et le fonctionnement des dispositifs de contrôle et de comptabilisation
+du temps de travail »47.
+        La collectivité n’a jamais procédé à la vérification du temps de travail effectivement
+réalisé par l’agent. En effet, lorsqu’il était employé sous contrat de projet, celui-ci ne procédait
+pas au badgeage, pourtant obligatoire pour l’ensemble des collaborateurs du département. Par
+ailleurs, l’ensemble des contrats de vacation prévoyait chaque mois l’établissement d’un état
+d’heures, signé de la direction générale, afin d’attester le temps de travail réellement effectué. La
+collectivité, comme l’intéressé, avaient connaissance de cette obligation. Cependant, aucun état
+d’heures n’a été fourni à la direction des ressources humaines.
+
+
+       45
+          Contrats de projet ou contrats de vacation.
+       46
+          Pour un temps de trajet minimum d’une heure et 50 minutes en aller simple.
+       47
+          Articles 5 et 8 du décret n° 2016-151 du 11 février 2016.
+
+
+
+                                                    34
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Par ailleurs, il est établi qu’il n’a formulé aucune demande de congés, ni
+d’indemnisation de ceux-ci sur les périodes pour lesquelles cela était prévu48. La collectivité
+n’a pas non plus réalisé les évaluations annuelles obligatoires de cet agent.
+       Au surplus, les contrats de projet conclus avec l’ancien agent ne contiennent pas la
+plupart des éléments rendus obligatoires par l’article R. 332-37 du CGFP49.
+       Enfin, une hausse des remboursements pour frais de déplacement de cet agent est
+constatée au fil des années. Cette hausse est corrélée au déménagement de l’intéressé dans le
+Maine-et-Loire. Ces remboursements ont porté, de manière irrégulière, sur les frais de
+déplacement entre son domicile et le département de la Meuse50. La chambre rappelle en effet
+que seuls les frais de déplacement professionnels entre la résidence administrative (et non la
+résidence personnelle) et le lieu de mission peuvent être indemnisés. Ces remboursements
+représentent 7 564 € pour la période comprise entre le 1er juillet 2019 et le 31 décembre 2024.
+         Sur l’absence de respect des conditions de recours aux contrats de vacation
+      L’ancien agent a atteint la limite d’âge légale de 67 ans en 2023, sans pouvoir bénéficier
+d’un maintien en fonctions au-delà de cette limite au titre de l’une des dérogations prévues par
+le CGFP51. Afin de poursuivre, malgré tout, la relation professionnelle, le département de la
+Meuse a eu recours à des contrats de vacation à compter de mai 2023.
+        Le recours à des vacataires n’est toutefois légalement possible que pour confier à un
+agent l’exécution d’un ou de plusieurs actes déterminés, répondant à un besoin ponctuel de
+l’administration52. La rémunération doit, en outre, être strictement corrélée à la réalisation
+effective de ces actes. Ces critères conditionnent juridiquement la possibilité de conclure un
+contrat de vacation. Ils ne sont pas réunis en l’espèce.
+        En effet, les contrats conclus ne définissent aucun acte déterminé ni de tâches
+ponctuelles clairement identifiables. Par ailleurs, la rémunération prévue était plafonnée sur la
+base d’un nombre d’heures mensuelles, dont l’atteinte devait être justifiée par la production
+d’états d’heures, lesquels n’ont jamais été transmis à la direction des ressources humaines (voir
+supra). L’agent a néanmoins systématiquement perçu la rémunération maximale prévue à ses
+contrats. Il ressort par ailleurs des échanges de courriels entre la direction des ressources
+humaines et l’agent que le volume mensuel d’heures de vacation a été fixé en fonction du niveau
+de rémunération à garantir à l’intéressé.
+
+
+
+
+48
+   Période sous contrats de projet allant du 1er juillet 2020 au 30 juin 2022.
+49
+   « Le contrat de projet est établi par écrit. Il mentionne l'article L. 332-24 et comporte, outre les mentions
+prévues à l'article R. 331-7, les clauses suivantes :
+1° la description du projet ou de l'opération ;
+2° la définition des tâches à accomplir pour lesquelles le contrat est conclu ;
+3° une description précise de l'événement ou du résultat objectif déterminant la fin de la relation contractuelle
+ainsi que les modalités d'évaluation et de contrôle de ce résultat ;
+4° l'indication du poste occupé ainsi que de la catégorie hiérarchique, telle que définie à l'article L. 411-2, dont
+l'emploi relève ;
+5° la durée du contrat correspondant à la durée prévisible du projet ou de l'opération identifié ;
+6° les procédures et garanties s'appliquant en fin de contrat, y compris en matière de licenciement et de rupture
+anticipée […] ».
+50
+   Ils comprennent parfois des nuitées d’hôtel à Bar-le-Duc.
+51
+   Articles L556-11 à L556-13 du CGFP.
+52
+   Conseil d’État, 2 décembre 2019, M. Boutikar.
+
+
+
+                                                        35
+                                                                  DÉPARTEMENT DE LA MEUSE
+
+
+
+
+        Il résulte de l’ensemble de ces éléments que les contrats de vacation conclus à partir du
+mois de mai 2023 n’étaient pas réguliers : ils ne répondaient pas à un besoin ponctuel de
+l’administration et avaient pour but de permettre la poursuite de la relation professionnelle, en
+contournant les règles applicables à la limite d’âge. La collectivité a mis fin à sa collaboration
+avec l’intéressé à l’issue de l’année 2025, concomitamment au contrôle de la chambre, sans
+procéder à son remplacement.
+
+
+2.1.4 Un nombre d’assistants familiaux en net recul
+
+        L’assistant familial héberge à son domicile à titre onéreux des enfants âgés de 0 à 21 ans
+confiés à l'aide sociale à l'enfance (ASE). Il forme avec les membres de son foyer une famille
+d’accueil. Pour pouvoir exercer, les assistants familiaux doivent disposer d'un agrément délivré
+par le président du département. Cette profession relève d’un statut spécifique régi par le code
+de l’action sociale et des familles (CASF). Pour cette raison, l’effectif des assistants familiaux
+est mesuré en nombre de personnes physiques et non par référence à une durée de travail.
+      Le département de la Meuse employait au total 208 assistants familiaux en 2019 et
+seulement 183 en 2024, soit une diminution de 14 %.
+        Les causes de cette situation sont multiples. Elles tiennent d’abord à un vieillissement
+marqué de cette catégorie d’agents. L’âge moyen des assistants familiaux est de 55 ans en 2024.
+Sur les 183 personnes qui ont exercé ce type de fonctions au cours de l’exercice, 28 avaient plus
+de 60 ans et 14 plus de 63 ans. Le niveau des contraintes, des exigences et des responsabilités qui
+caractérisent le métier d’assistant familial explique aussi le recul des effectifs.
+        La collectivité déploie un plan de communication depuis trois ans pour lutter contre ces
+difficultés. Les objectifs de ce plan sont de promouvoir la profession d’assistant familial, d’en
+renforcer l’attractivité et de susciter de nouvelles vocations, car les besoins sont en hausse : le
+nombre d’enfants confiés à l’ASE a en effet progressé de 12 % dans le département de la Meuse
+entre 2020 et 2023.
+
+
+
+2.2 Une augmentation de la masse salariale principalement portée par des
+    mesures extérieures aux choix de gestion du département
+
+       En dépit de la stabilité des effectifs, les dépenses totales de personnel pour le budget
+principal et les budgets annexes départementaux ont progressé de 8,6 M€ (charges patronales
+incluses) entre 2019 et 2024.
+
+
+
+
+                                                36
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+           Tableau n° 13 : évolution des charges de personnel du département de la Meuse
+
+            En €                  2019          2020          2021          2022           2023          2024
+ Budget principal              48 568 796    48 651 729     49 588 366   51 824 261    54 417 305     55 981 398
+ Budget annexe                  1 691 150     1 624 673      1 668 542     1 673 453     1 729 160     1 754 982
+ « parc départemental »
+ Budget annexe                           0      143 362       336 473       401 745        516 586       627 387
+ « e-Meuse santé »
+ Budget annexe « MNA »            786 704       514 869       486 871       450 821        497 628       575 461
+ Budget annexe                           0      380 421       443 112       528 402        591 084       670 853
+ « SAMNAE »
+ TOTAL                         51 046 650    51 315 054     52 523 364   54 878 682    57 751 763     59 610 081
+
+Source : CRC GE, d’après les comptes de gestion du budget principal et des budgets annexes du département
+
+
+       Le département applique les mêmes règles de rémunération à ses agents contractuels
+qu’à ses agents titulaires.
+       La hausse de la masse salariale de près de 17 % est due en premier lieu à des mesures
+nationales ou exogènes qui s’imposent au département (2.2.1). Elle résulte en second lieu des
+choix de gestion effectués par la collectivité elle-même (2.2.2). Ce sont néanmoins les facteurs
+extérieurs qui ont pesé le plus sur la croissance de la masse salariale depuis 2019 (2.2.3).
+
+
+2.2.1 Une augmentation de la masse salariale due à de multiples facteurs extérieurs
+
+        Les mesures extérieures qui ont contribué à la croissance de la masse salariale du
+département de la Meuse relèvent de deux types, selon qu’elles s’appliquent à tous les agents
+ou à seulement certaines catégories d’entre eux. L’impact financier de ces mesures a été évalué
+à partir des fichiers de données de paye de la collectivité par une application informatique
+développée par les juridictions financières. En raison de la conception de l’outil, les montants
+indiqués correspondent aux rémunérations brutes hors charges patronales.
+
+
+        2.2.1.1 Les mesures extérieures à portée générale
+
+       Entre 2019 et 2024, différentes mesures nationales à caractère général ont été mises en
+œuvre afin de renforcer le pouvoir d’achat des fonctionnaires, dans un contexte d’inflation des
+prix des biens et services.
+         La valeur du point d’indice53 de la fonction publique a été augmentée de 3,5 % le
+1er juillet 2022. Une nouvelle hausse de 1,5 % est ensuite entrée en vigueur le 1er juillet 2023.
+De plus, cinq points d’indice ont été attribués à tous les agents publics le 1 er janvier 2024. Les
+
+
+53
+  La rémunération des fonctionnaires territoriaux comprend deux composantes : le traitement indiciaire (fixé par
+décret) et le régime indemnitaire (défini par la collectivité). La valeur du point d’indice de la fonction publique
+sert à déterminer le montant du traitement indiciaire.
+
+
+
+                                                       37
+                                                                              DÉPARTEMENT DE LA MEUSE
+
+
+
+
+collectivités territoriales et établissements publics locaux ont dû assumer entièrement les coûts
+afférents à ces trois mesures. Celles-ci représentent une charge financière évaluée à 1,7 M€ en
+2024 pour le département de la Meuse.
+        Une part de la progression de la masse salariale de la collectivité est due au glissement
+vieillesse technicité (GVT)54. L’effet propre de ce mécanisme qui se reproduit chaque année est
+évalué à un coût supplémentaire global de 1 136 680 € entre 2019 et 2024. Ce montant est
+calculé sur la base de la valeur du point d’indice qui était en vigueur avant les revalorisations
+intervenues en 2022 et 2023, afin de neutraliser les conséquences desdites revalorisations.
+L’impact financier de l’attribution de cinq points d’indice à tous les agents (voir ci-avant) a été
+neutralisé également.
+        Par ailleurs, l’article L. 554-3 du CGFP a institué à compter du 1er janvier 2021
+l’obligation pour les employeurs publics de verser une indemnité de fin de contrat (IFC) aux
+agents contractuels à l’issue de leur engagement, sous certaines conditions55. Le montant de
+l’IFC s’élève à 10 % de la rémunération brute globale perçue au titre du contrat. Cette mesure
+représente un coût de 29 652 € en 2024 pour le département. Elle a concerné 88 agents.
+
+
+         2.2.1.2 Les mesures extérieures à portée sectorielle ou catégorielle
+
+         La transposition des mesures du « Ségur de la santé »56 au sein de la fonction publique
+territoriale a imposé aux employeurs publics locaux le versement d’un complément de
+traitement indiciaire (CTI) aux agents des établissements et services sociaux ou
+médico-sociaux. Cette mesure concerne 179 agents du département de la Meuse en 2024. Le
+versement du CTI représente un coût de 434 120 € sur cet exercice.
+        Par ailleurs, la loi n° 2022-140 du 7 février 2022 relative à la protection de l’enfance,
+dite loi « Taquet », a amélioré les conditions et le niveau de rémunération des assistants
+familiaux. Cette rémunération, fixée par l’article D. 423-23 du CASF, est désormais composée
+de deux parts. La première correspond au salaire minimum interprofessionnel de croissance
+(SMIC)57 mensuel, pour le premier enfant accueilli, et la seconde ne peut être inférieure à
+70 fois le montant horaire du SMIC, pour chaque enfant supplémentaire.
+
+
+
+
+54
+   Le GVT désigne les variations automatiques de la rémunération des agents qui sont liées à l’ancienneté
+professionnelle, aux promotions et avancements de grade.
+55
+   L’IFC s’applique aux contrats de droit public, hors contrats répondant à un besoin saisonnier, conclus pour une
+durée totale inférieure ou égale à un an, renouvellements compris, et dont la rémunération brute globale est
+inférieure à deux fois le montant brut du salaire minimum interprofessionnel de croissance.
+56
+   Le décret n° 2022-728 du 28 avril 2022 prévoit la possibilité d’instituer une prime de revalorisation salariale
+pour certains agents de la filière sociale et médico-sociale, à compter du 1er avril 2022. Le décret n° 2022-1497 du
+30 novembre 2022 remplace cette prime par un complément de traitement indiciaire, à compter du
+1er décembre 2022.
+57
+   Montant légal minimum brut horaire que doit percevoir chaque salarié, sauf exception.
+
+
+
+                                                        38
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+ Tableau n° 14 : modalités de rémunération des assistants familiaux (en nombre d’heures de SMIC)
+
+                              Avant la loi « Taquet »                           Après la loi « Taquet »
+     Nombre
+     d’enfants      Salaire
+                                                                      Salaire de
+     accueillis     accueil        Suppléments           Total                        Suppléments           Total
+                                                                        base
+                    global
+
+         1             50 heures       70 heures        120 heures   151,67 heures          0 heure    151,67 heures
+
+         2             50 heures     140 heures         190 heures   151,67 heures        70 heures    221,67 heures
+
+         3             50 heures    219,1 heures    269,1 heures     151,67 heures       140 heures    291,67 heures
+
+         4             50 heures    308,8 heures    358,8 heures     151,67 heures       210 heures    361,67 heures
+
+     Source : CRC GE
+
+
+       Sur la base des contrats d’accueil en cours pour les 171 assistants familiaux en poste au
+31 décembre 202458, l’impact financier de la loi « Taquet » est évalué à 655 746 € pour le
+département, avant prise en compte des augmentations du SMIC horaire brut. Les
+revalorisations du SMIC intervenues successivement en janvier 202459, puis novembre 202460,
+entraînent un coût supplémentaire de 457 026 € pour cet exercice. Par conséquent, la croissance
+de la masse salariale des assistants familiaux représente un total de 1 112 772 € en 2024 (soit
++ 30 %), sous l’effet conjugué de la loi « Taquet » et des hausses du SMIC.
+
+
+2.2.2 Une progression de la masse salariale accentuée par des choix de gestion
+
+       Les choix effectués par le département de la Meuse en ce qui concerne les
+revalorisations du régime indemnitaire61 et l’attribution d’autres compléments de rémunération
+ont aussi contribué à l’augmentation de sa masse salariale. L’évaluation de l’impact financier
+des mesures de gestion mises en œuvre durant la période de contrôle renvoie, comme pour les
+mesures extérieures au pouvoir de décision de la collectivité, aux rémunérations brutes hors
+charges patronales.
+
+
+             2.2.2.1 La revalorisation du régime indemnitaire
+
+      À la différence du traitement indiciaire (voir ci-avant), le régime indemnitaire ne revêt
+pas un caractère obligatoire. Il est institué par les organes délibérants des collectivités et
+
+
+
+
+58
+   Soit 82 contrats pour l’accueil d’un enfant, 62 pour l’accueil de deux enfants et 27 pour l’accueil de trois enfants.
+59
+   11,65 € brut par heure.
+60
+   11,88 € brut par heure.
+61
+   Le régime indemnitaire est l’une des deux composantes de la rémunération des fonctionnaires (voir note de bas
+de page n° 54).
+
+
+
+                                                           39
+                                                                             DÉPARTEMENT DE LA MEUSE
+
+
+
+
+établissements publics locaux, dans le respect du principe de parité avec la fonction publique
+d’État posé par l’article L. 714-4 du CGFP62.
+        Le régime indemnitaire tenant compte des fonctions, des sujétions, de l’expertise et de
+l’engagement professionnel (RIFSEEP) a été institué par la collectivité à compter du
+1er octobre 2019, en remplacement du système antérieurement en vigueur. Ce régime est
+constitué de deux parts, l’indemnité de fonctions, de sujétions et d’expertise (IFSE), liée aux
+fonctions occupées et à l’expérience professionnelle, et le complément indemnitaire annuel
+(CIA)63, fondé sur l’engagement professionnel et la manière de servir de l’agent. La somme des
+plafonds définis par l’organe délibérant pour chaque part ne doit pas dépasser le plafond global
+des primes octroyées aux agents de l’État.
+        Le RIFSEEP du département a notamment fait l’objet d’une revalorisation le
+1 juillet 2022, dans l’objectif d’améliorer le pouvoir d’achat des agents ainsi que l’attractivité
+ er
+
+de la collectivité comme employeur. Cette mesure a contribué à l’augmentation de la masse
+salariale : le coût du RIFSEEP a progressé de plus de 32 %, en passant de 4 à 5,3 M€ entre
+2020 et 2024.
+
+
+        2.2.2.2 Le versement de compléments de rémunération
+
+        Le décret n° 2023-1006 du 31 octobre 2023 a créé une prime exceptionnelle de pouvoir
+d'achat pour les agents de la fonction publique territoriale dont la rémunération mensuelle brute
+n’excède pas 3 250 €, afin de lutter contre l’inflation. La mise en œuvre de cette prime était
+facultative. Son versement devait intervenir avant le 30 juin 2024 et il était subordonné à
+l’adoption d’une délibération. L’organe délibérant ne pouvait pas s’écarter des critères
+d’attribution fixés par le décret. Le conseil départemental de la Meuse a autorisé, par
+délibération du 14 décembre 2023, le versement en une fois au premier trimestre 2024 de cette
+prime. Le coût de cette mesure a été de 454 275 €.
+         Par ailleurs, le département a décidé d’assumer dès 2024 la prise en charge d’une partie
+des cotisations d’assurance de ses agents en matière de couverture du risque prévoyance. À ce
+titre, la dépense de la collectivité s’établit à 112 000 € sur l’exercice. La participation des
+employeurs publics à la couverture du risque prévoyance de leurs agents est devenue obligatoire
+depuis le 1er janvier 2025.
+
+
+        2.2.2.3 Une « prime de sujétion » irrégulière
+
+        La nouvelle bonification indiciaire (NBI) est un élément de rémunération versé pour
+certains emplois qui comportent une responsabilité ou une technicité particulière. Les
+conditions qui ouvrent droit à la NBI sont définies par décrets. Ces derniers énumèrent les cas
+d’attribution ainsi que le nombre de points d’indice supplémentaires qui sont octroyés selon
+l’emploi occupé. La NBI est réservée exclusivement aux fonctionnaires, conformément aux
+dispositions de l’article L. 712-12 du CGFP.
+
+
+62
+   Selon ce principe, les régimes indemnitaires sont fixés par les employeurs publics locaux dans la limite de ceux
+dont bénéficient les différents services de l’État.
+63
+   Le régime indemnitaire du département désigne le CIA par l’expression « prime d’objectifs ».
+
+
+
+                                                        40
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        À l’occasion de la revalorisation de son RIFSEEP en 2022, le département de la Meuse
+a créé une « prime de sujétion » au bénéfice de ses agents contractuels. Cette prime est
+« destinée à compenser l’absence de NBI pour les agents contractuels éligibles au regard des
+fonctions occupées, mais sans possibilité d’octroi au regard de leur statut de contractuel ». Elle
+est « identique au montant de la NBI à laquelle l’agent aurait droit s’il était
+fonctionnaire. Dans l’hypothèse où l’agent devient fonctionnaire, cette prime est remplacée par
+la NBI afférente. L’octroi ou le maintien de cette prime reste lié au cadre réglementaire dont
+relève la NBI, ainsi que les modalités d’application associées. »
+        L’ensemble de ces éléments démontrent que la « prime de sujétion » a été instaurée afin
+de contourner l’interdiction légale d’attribuer la NBI aux agents qui ne sont pas fonctionnaires.
+Nonobstant le changement d’appellation, les agents contractuels départementaux perçoivent à
+travers cette prime une NBI de substitution. Cela est irrégulier sur le plan juridique. La « prime
+de sujétion » a été versée à 20 agents en 2024. Elle a engendré une dépense de 20 362 €.
+        La chambre rappelle au département qu’il doit supprimer cette prime irrégulière.
+Rappel du droit n° 2         : Supprimer la « prime de sujétion », afin de mettre les
+modalités de rémunération des agents contractuels en conformité avec les dispositions de
+l’article L. 712-12 du code général de la fonction publique.
+
+
+2.2.3 Des facteurs extérieurs qui représentent plus des deux tiers de la hausse de la
+      masse salariale
+
+       Les rémunérations brutes hors charges patronales du département de la Meuse s’établissent à
+42,3 M€ en 202464. Cela représente une hausse de 6,4 M€ par rapport à 2019. La contribution de
+chaque facteur précédemment décrit à cette hausse est présentée dans le tableau qui suit.
+
+
+
+
+64
+  Les charges totales de personnel, qui comprennent les charges patronales, s’élèvent quant à elles à 59,6 M€ (voir
+tableau n° 13).
+
+
+
+                                                       41
+                                                                               DÉPARTEMENT DE LA MEUSE
+
+
+
+
+      Tableau n° 15 : impact des facteurs principaux ayant entraîné la croissance des rémunérations
+                                     brutes hors charges patronales
+                                                                                       Part dans les
+                                      Montant de la         Part dans la croissance
+                                                                                   rémunérations brutes
+                                        dépense            des rémunérations brutes
+ En €                                                                                  hors charges
+                                     supplémentaire         hors charges patronales
+                                                                                     patronales 2024
+                                        en 2024             depuis 2019 (arrondis)
+                                                                                        (arrondis)
+                          Mesures générales s’imposant au département de la Meuse
+ Augmentations de la valeur
+                                          1 369 172                        22 %                      3%
+ du point d’indice
+ Effet global du glissement
+ vieillesse technicité depuis             1 136 680                        18 %                      3%
+ 2019
+ Revalorisations du salaire
+ des assistants familiaux
+                                          1 112 772                        17 %                      3%
+ (loi « Taquet » et hausse du
+ SMIC)
+ Complément de traitement
+ indiciaire (« Ségur de la                  434 120                         7%                       1%
+ santé »)
+ Attribution de cinq points
+ d’indice au 1er janvier 2024
+                                            302 249                         5%                       1%
+ (hors revalorisations du
+ point d’indice)
+ Indemnités de fin de contrat                29 652                         0%                       0%
+ Sous-total 1                             4 384 645                        69 %                     10 %
+                       Mesures relevant de choix de gestion du département de la Meuse
+ Croissance des dépenses
+                                          1 299 185                        20 %                      3%
+ liées au RIFSEEP65
+ Prime de pouvoir d’achat
+                                            454 275                         7%                       1%
+ exceptionnelle
+ Participation à la
+ couverture du risque                       112 000                         2%                       0%
+ prévoyance pour les agents
+ Prime de sujétion versés
+                                             20 362                         0%                       0%
+ aux agents contractuels
+ Sous-total 2                             1 885 822                        29 %                      4%
+                                        Autres mesures non détaillées
+ Sous-total 3                               111 413                         2%                       0%
+ Total                                    6 381 880                      100 %                      14 %
+Source : CRC GE, d’après les données de paie du département
+
+
+        Les montants indiqués au titre des augmentations de la valeur du point d’indice, de
+l’attribution de cinq points d’indice au 1er janvier 2024 et des revalorisations des rémunérations
+des assistants familiaux sont à interpréter comme des ordres de grandeur. Les autres montants
+correspondent à un chiffrage précis du surcoût afférent à chaque mesure en cause.
+       La part des facteurs extérieurs aux choix de gestion du département dans la progression
+de sa masse salariale est prépondérante : elle représente plus des deux tiers de la croissance des
+rémunérations brutes hors charges patronales.
+
+
+
+65
+     Le RIFSEEP ayant été instauré à la fin 2019, sa hausse est appréciée par rapport à l’exercice 2020.
+
+
+
+                                                          42
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La hausse du coût des charges patronales depuis 2019 est estimée quant à elle à 2,2 M€66.
+Elle renvoie aux surplus de cotisations afférents aux autres facteurs d’augmentation de la masse
+salariale, ainsi qu’aux évolutions des taux de prélèvements intervenues durant la période.
+
+
+
+
+3 UNE GESTION DU PATRIMOINE MARQUÉE PAR UNE
+  CAPACITÉ D’INVESTISSEMENT VOLONTAIREMENT
+  RESTREINTE
+
+       Outre la gestion de leur patrimoine immobilier, qui inclut les collèges67, les
+départements ont la charge de la construction, de l’aménagement, et de l’entretien des routes et
+ouvrages d’art départementaux68. Au sein du département de la Meuse, ces fonctions sont
+assurées par deux directions distinctes. La direction du patrimoine et de l’immobilier (DPI) est
+en charge de la gestion de l’ensemble du parc immobilier, tandis que la direction des routes et
+de l’aménagement (DRA) a pour mission l’entretien de l’ensemble de la voirie, et notamment
+des ouvrages d’art.
+        La chambre s’est intéressée à la composition et au pilotage du patrimoine immobilier,
+et plus particulièrement aux investissements réalisés à destination des collèges (3.1). Son
+instruction a ensuite plus spécifiquement porté sur la gestion des ouvrages d’art (3.2). De façon
+globale, la stratégie d’investissement du département de la Meuse devra être déclinée dans des
+documents stratégiques validés par l’assemblée départementale (3.3).
+
+
+
+3.1 Une gestion immobilière en cours de structuration
+
+       Le département gère un ensemble de propriétés dont les coûts de fonctionnement
+s’accroissent (3.1.1). Si aucune stratégie globale n’est mise en œuvre du fait de l’absence d’un
+schéma directeur de l’immobilier et d’une programmation pluriannuelle unifiée, la mise en
+place d’outils de gestion modernes a permis au département de rationaliser son action (3.1.2).
+
+
+3.1.1 Un parc immobilier dont le coût de fonctionnement augmente
+
+
+        3.1.1.1 Un patrimoine immobilier significatif
+
+        Le département de la Meuse possède un patrimoine immobilier composé de 174 biens
+dont il a la propriété ou la gestion, pour une superficie totale de 236 632 m2. Les locaux
+
+
+66
+   Soit 8,6 M€ (augmentation des charges totales de personnel) - 6,4 M€ (augmentation des rémunérations brutes
+hors charges patronales).
+67
+   Article L. 213-2 du code de l’éducation.
+68
+   Article L. 131-2 du code de la voirie routière.
+
+
+
+                                                     43
+                                                                                 DÉPARTEMENT DE LA MEUSE
+
+
+
+
+         administratifs de la collectivité constituent la part la plus importante du parc bâtimentaire,
+         incluant l’hôtel du département (valeur estimée à 21 M€). Viennent ensuite les collèges, les
+         locaux techniques, des gendarmeries, ainsi que les bâtiments dédiés à l’aide sociale à l’enfance.
+         La valeur nette comptable de l’ensemble s’élève à près de 167 M€.
+                Le patrimoine départemental est relativement ancien et ses coûts de fonctionnement sont
+         en hausse sur la période.
+
+
+                    3.1.1.2 Des coûts de fonctionnement en forte hausse
+
+                Les coûts de fonctionnement du patrimoine immobilier, cumulés de 2019 à 2024,
+         s’élèvent à 30 M€, dont 16,6 M€ de dépenses énergétiques. Ils ont presque doublé sur la
+         période.
+
+
+                     Tableau n° 16 : coûts de fonctionnement du patrimoine immobilier de 2019 à 2024
+
+                                                                                                               Variation
+      En €              2019        2020         2021         2022         2023        2024         Total
+                                                                                                               2019-2024
+Coût total de
+                       3 485 198   3 046 721   4 768 426    6 305 221     6 326 455   6 076 690   30 008 712       74 %
+fonctionnement
+Dont énergie           1 459 036    950 459    2 378 431    4 082 943     4 060 221   3 726 577   16 657 667      155 %
+Dont entretien et
+                       2 026 163   2 096 262   2 389 995    2 222 278     2 266 234   2 350 113   13 351 045       16 %
+maintenance
+
+Source : CRC GE, d’après les données transmises par le département de la Meuse
+
+
+                 Pris individuellement, les bâtiments qui enregistrent les coûts de fonctionnement les
+         plus élevés (incluant énergie d’une part, et coûts de maintenance d’autre part) sont l’hôtel du
+         département, l’immeuble qui accueille l’institut national supérieur du professorat et de
+         l’éducation (INSPÉ), dont la collectivité est propriétaire et au sein duquel elle dispose
+         également de bureaux, ainsi que les archives départementales. Pris collectivement, les
+         bâtiments dont la charge est la plus élevée sont les collèges, qui représentent près de 35,3 %
+         des coûts de fonctionnement.
+
+
+
+
+                                                            44
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     Tableau n° 17 : coûts de fonctionnement cumulés de 2019 à 2024 par catégorie de bâtiments
+
+                                            Coûts de fonctionnement annuels
+                    Bâtiments                                                       Part dans le total
+                                               moyens 2019-2024 en M€
+              Hôtel du département                         0,5                                   9,86 %
+                      INSPÉ                                0,4                                   7,21 %
+            Archives départementales                       0,3                                   5,83 %
+                    Collèges69                             1,8                                  35,30 %
+                                  70
+                 Autres bureaux                            0,9                                  18,40 %
+                      Autres                               0,7                                  14,16 %
+                                       71
+               Locaux techniques                           0,5                                   9,24 %
+
+          Source : CRC GE, d’après les données transmises par le département de la Meuse
+
+
+        Ramenés au mètre carré, les coûts de fonctionnement de l’hôtel du département et du site
+accueillant l’INSPÉ s’élèvent respectivement à 46 € et 44 € en 2024. Les bâtiments les plus
+coûteux sont les maisons de la solidarité, avec un coût de fonctionnement moyen de 96 € par m2.
+        Sur les 58 bâtiments pour lesquels une analyse était possible72, la chambre a relevé que
+les coûts de fonctionnement avaient plus que doublé pour 13 d’entre eux, tandis que seulement
+9 sites ont enregistré une diminution.
+        Les coûts d’entretien et de maintenance augmentent de près de 300 000 € (+ 16 %) entre
+2019 et 2024. En effet, les travaux d’entretien engendrent un coût croissant pour la collectivité.
+À titre d’exemple, la dernière rénovation de l’hôtel du département date de 1994 et celui-ci
+affiche des problèmes récurrents de fuites car l’étanchéité de la verrière de la structure
+principale n’est plus assurée. La collectivité est donc dans l’obligation d’intervenir de façon
+régulière, au gré des détériorations constatées.
+       Néanmoins, les hausses des coûts de fonctionnement sont principalement dues à
+l’augmentation des dépenses d’énergie (+ 2,3 M€) sur la période, notamment à partir de 2022,
+en conséquence de la conjoncture géopolitique.
+
+
+         3.1.1.3 Une trajectoire environnementale à renforcer sur le long terme
+
+
+3.1.1.3.1 Un plan de transition des émissions de gaz à effet de serre à fiabiliser
+
+        L’article L. 229-25 du code de l’environnement dispose que les départements doivent
+établir un bilan de leurs émissions de gaz à effet de serre (BGES), et y adjoindre un plan de
+
+
+
+69
+   Y compris deux ensembles qui sont gérés en cités scolaires (voir infra) et un centre d’insertion par le travail et
+le loisir ou CITL (service public à destination des adultes en situation de handicap).
+70
+   Tous bureaux, sauf hôtel du département, INSPÉ et un local technique servant aussi de bureaux.
+71
+   Tous locaux techniques, incluant celui ayant aussi un usage de bureaux.
+72
+   Bâtiments dont la collectivité est propriétaire et pour lesquels les données relatives aux coûts globaux de
+fonctionnement et les dépenses énergétiques étaient connues pour chaque année de la période sous contrôle.
+
+
+
+                                                        45
+                                                                        DÉPARTEMENT DE LA MEUSE
+
+
+
+
+transition, dont le but est de préciser les objectifs, moyens et actions envisagés pour réduire ces
+émissions.
+        Ce document doit être mis à jour tous les trois ans, cependant le département de la Meuse
+a choisi de le faire annuellement. Il est accompagné dans cette démarche par un cabinet agréé
+par l’agence de l’environnement et de la maîtrise de l’énergie (ADEME).
+        Sur la période contrôlée, la collectivité a ainsi formalisé cinq BGES (un en 2019, puis
+un par an à compter 2022). Le plan de transition initial, arrêté en 2022, prévoyait que le
+département diminuerait son empreinte carbone grâce à de multiples actions : remplacement
+des 11 chaudières au fuel encore en fonction par des solutions modernes, passage du bâtiment
+accueillant l’INSPÉ en bois-biomasse, passage de la flotte de véhicules légers en 100 %
+électrique, mise en place du télétravail ainsi que de repas végétariens dans les cantines, prise en
+compte de critères environnementaux dans les marchés publics, et plantation de près de
+29 000 arbres. Des bilans ont ensuite été réalisés en 2024 (pour l’année 2023) et 2025
+(pour l’année 2024).
+       Sur le fond, le plan de transition énergétique du département vise une diminution de son
+empreinte carbone de 40 % en 2030 par rapport à l’année 2019, soit une baisse nette de
+680 tonnes73 de dioxyde de carbone (tCO2) par an. Le bilan de l’année 2024, réalisé en
+septembre 2025 enregistre une diminution moyenne de 2,7 % par an. La tendance globale reste
+toutefois en deçà de la diminution annuelle cible fixée à 4,5 %.
+       Les émissions de gaz à effet de serre du département pour l’année 2019, qui servent de
+référence, sont mises à jour et recalculées régulièrement, dès lors que le périmètre des
+compétences de la collectivité évolue ou que des informations plus fiables deviennent
+disponibles. Cela permet d’assurer la comparabilité des données et garantit une lecture
+homogène dans le temps des trajectoires de transition. Ainsi, alors que le plan initial indique
+que le département a émis 20 500 tCO2 en 2019, le bilan de l’année 2023 indique un niveau
+d’émissions de 17 410 tCO2 pour cette même année, tandis que celui de 2024 précise que le
+département a émis, toujours pour 2019, 17 310 tCO2.
+        De même, les données sur les consommations d’énergie sont révisées périodiquement.
+       Cette variabilité de la valeur des indicateurs pour un même exercice impose de
+documenter et de conserver l’historique des évolutions de méthode et de calcul, afin de
+préserver la lisibilité des estimations réalisées.
+
+
+3.1.1.3.2 Une augmentation des consommations énergétiques
+
+         Le décret du 23 juillet 2019 relatif aux obligations d’actions de réduction de la
+consommation d’énergie finale dans des bâtiments à usage tertiaire, dit « décret tertiaire »,
+impose une réduction progressive de la consommation d’énergie dans les bâtiments à usage
+tertiaire d’une surface de plancher supérieure ou égale à 1 000 m2. L’objectif est d’atteindre une
+diminution des consommations énergétiques de ces bâtiments de 40 % en 2030, de 50 % en
+2040 et de 60 % en 2060, par rapport à 201074. En outre, les organisations assujetties doivent
+
+
+73
+  D’après les informations du bilan 2025 pour l’année 2024.
+74
+  Ou bien d’atteindre un niveau de consommation d’énergie finale en valeur absolue correspondant à une
+utilisation efficace et économe de l’énergie, équivalente à celle de bâtiments nouveaux de la même catégorie
+(arrêtés dits « valeur absolue I, II et III »).
+
+
+
+                                                    46
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+également déclarer leurs données de consommations annuelles réelles sur la plateforme
+OPERAT, sous peine de sanctions.
+        Dans ce contexte, le département de la Meuse, qui respecte ses obligations de
+déclaration, a fait réaliser, en 2023, un état des lieux des consommations de ses 30 sites soumis
+au décret par une société prestataire, afin d’identifier différents scénarios d’investissement. Il
+ressort de ce diagnostic que 56 % des sites étudiés étaient en état de performance dit « P3 »,
+c’est-à-dire énergivores ou déperditifs, ou « P4 », c’est-à-dire très énergivores ou déperditifs.
+Les plus importantes sources de dégradation de la note énergétique de ces bâtiments
+provenaient de problèmes d’isolation pour plus de 80 % des immeubles75. Les structures ayant
+obtenu les scores « P3 » et « P4 » sont les collèges (52 %) et les bâtiments administratifs
+(92 %).
+
+
+Graphique n° 7 : causes structurelles expliquant la mauvaise note énergétique des bâtiments évalués
+                                        en « P3 » et « P4 ».
+
+
+
+
+     Source : Département de la Meuse
+
+
+       Afin de suivre l’évolution de ses consommations énergétiques et de réaliser les
+déclarations annuelles sur la plateforme OPERAT, le département de la Meuse s’est doté d’une
+solution dédiée. Celle-ci lui permet d’apprécier, pour chaque bâtiment, l’ensemble des
+informations relatives à ses consommations (globales, électricité, fuel, gaz, eau, propane,
+biomasse et réseau de chaleur), ainsi que les factures attenantes. Cette solution intègre les
+données réelles, mais permet également d’appliquer la méthode des « degrés jours unifiés »
+(DJU), qui corrige ces données réelles des effets du climat, par rapport à une année de référence
+considérée comme normale (en l’occurrence l’année 2022).
+
+
+
+
+75
+  Les problématiques d’isolation des composantes évaluées en niveau P3 et P4 proviennent à 47 % des planchers,
+à 24 % des toitures et de l’étanchéité, et à 10 % des revêtements de façade.
+
+
+
+                                                     47
+                                                                                   DÉPARTEMENT DE LA MEUSE
+
+
+
+
+             L’exploitation de ces données a permis à la chambre de constater que la consommation
+     globale d’énergie augmente de 10 % sur la période 2019-2024. Des disparités sont à relever
+     avec une tendance à la baisse pour les consommations électriques et de fuel, cette dernière
+     catégorie étant, par ailleurs, censée disparaitre totalement à court terme. Cependant, le
+     département devra redoubler d’efforts pour faire baisser ses consommations énergétiques et
+     atteindre les objectifs fixés par le décret « tertiaire ».
+
+
+                       Tableau n° 18 : évolution des différentes consommations énergétiques
+
+  En kilowatts
+  heure (kWh)                                                                                                    Variation
+                        2019           2020           2021            2022           2023            2024
+  corrigés des                                                                                                   2019-2024
+     DJU
+   Globale76          22 466 951     21 776 104     24 953 540      24 569 902     23 220 279      24 629 956           10 %
+    Électricité        5 756 950      5 154 746       4 970 215      5 395 498       5 320 511      5 422 763           -6%
+          Gaz         14 863 452     15 045 973     16 881 692      15 998 539     14 965 226      15 996 967                8%
+          Fuel         1 419 701      1 392 295       1 541 909      1 411 346       1 210 374      1 078 925          - 24 %
+    Propane                     -               -         3 885         24 934          17 870         13 753                 -
+   Réseau de
+                         425 371        183 090       1 554 264      1 734 478       1 663 018      1 954 842          360 %
+    chaleur
+   Biomasse77                   -               -         1 575           5 106         43 281        162 704                 -
+
+Source : CRC GE, d’après les données du département de la Meuse
+
+
+            En dehors des investissements programmés dans les collèges visant, en partie, à
+     améliorer les performances énergétiques de ses bâtiments, le département prévoit d’optimiser
+     ses consommations par la réorganisation de la gestion de la maintenance de son parc
+     immobilier. En 2025, les consommations énergétiques pour le chauffage (gaz, fuel, réseau de
+     chaleur et biomasse), corrigées des DJU, ont diminué de 5 % par rapport à 2024.
+
+
+                 3.1.1.4 Une gestion de la maintenance en cours de réorganisation
+
+             La maintenance du parc bâtimentaire du département de la Meuse est assurée selon un
+     mode d’organisation tricéphale. Une partie est externalisée et confiée à une société privée dans
+     le cadre d’un marché public78. Des agents techniques dédiés sont également en poste dans
+     chacun des collèges. Enfin, cinq agents capables d’intervenir sur divers sites œuvrent en régie
+     au sein de la DPI.
+            Le département de la Meuse s’est doté en 2020 d’un document cadre sur sa maintenance.
+     Ce travail lui a permis de poser un diagnostic de la situation et de mettre en place un référentiel
+     de maintenance. Le choix a été fait de retenir une solution qui permet notamment de garantir la
+
+
+     76
+        Les écarts entre les totaux et l’information relative à la consommation globale sur les années 2019 et 2024
+     proviennent de la différence de périmètre des données de la consommation de biomasse.
+     77
+        Donnée de consommation non corrigée des effets du climat.
+     78
+        Il s’agit de l’entretien, pour l’ensemble des bâtiments, des ascenseurs, des chaudières, des systèmes de chauffage
+     et de sécurité incendie.
+
+
+
+                                                             48
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+traçabilité des demandes d’interventions des utilisateurs, de gérer l’inventaire et le planning
+d’intervention de la régie immobilière (dépannages et petits travaux). Récemment, le
+département est allé plus loin puisqu’il s’est doté, en octobre 2024, de 179 capteurs installés sur
+ses 30 sites assujettis au décret tertiaire, via une solution dédiée. Celle-ci lui permet de récolter
+en temps réel des données techniques sur l’ensemble des sites équipés, et donc d’améliorer la
+gestion de la maintenance (fixation de niveau cible de consommation, mesure de l’écart, gestion
+de la température, de la qualité de l’air etc.). Le département de la Meuse dispose désormais de
+données fiables tant sur les actes de maintenance en eux-mêmes que sur le suivi en temps réel
+de ses principaux bâtiments.
+        Grâce à ces nouveaux dispositifs, la collectivité s’est fixée pour ambition de définir un
+cahier des charges plus contraignant lors du renouvellement de son marché de maintenance en
+juin 2026.
+
+
+3.1.2 Des investissements patrimoniaux réalisés en l’absence de stratégie globale
+
+
+        3.1.2.1 Des travaux de gros entretien et de renouvellement désormais pilotés par
+                un outil spécifique
+
+        Historiquement, les arbitrages du département en matière d’investissements sur les
+besoins en travaux de gros entretien et renouvellement (GER) se faisaient via un indice de
+vétusté, calculé selon le rapport entre les besoins en travaux et le coût de construction d’un
+bâtiment neuf. Le plan collèges de 2017 (voir infra) repose toujours sur cet indice. Cette
+méthodologie demeurait néanmoins peu satisfaisante car elle ne permettait pas de tenir compte
+de la vétusté réelle des bâtiments.
+        Dans ce contexte, le département de la Meuse a fait le choix de se doter en 2021 d’une
+solution technique qui lui permet de connaître de façon précise et en temps réel l’état de son
+patrimoine bâti. Cette interface permet à la collectivité d’apprécier l’état de son patrimoine de
+façon fine. En effet, l’analyse de la vétusté peut se faire soit sur le bâtiment dans sa totalité, soit
+via ses composants. Le niveau de dégradation peut être saisi directement par les agents et intègre
+des projections automatiques en fonction de bibliothèques dites « des lois de vieillissement »,
+c’est-à-dire de bases de données qui retracent le vieillissement normal de tel ou tel composant
+en fonction de sa nature et des matériaux utilisés. Les données départementales implémentées
+dans la solution ont toutefois pu être partielles compte tenu de l’absence de suivi antérieur.
+        Le logiciel simule ensuite des projections de dégradation de l’ouvrage ou des
+composants au cours du temps, ainsi que du niveau de risque associé. Il chiffre le coût des
+investissements à réaliser et permet également de projeter différents scénarios en fonction des
+arbitrages opérés. La collectivité est ainsi en mesure de planifier de façon précise les
+investissements en GER à réaliser, et peut décider d’intervenir soit sur un bâtiment précis, soit
+sur un même type de composants pour l’ensemble de son parc.
+        Pour autant, le département de la Meuse ne disposant pas de schéma directeur du
+patrimoine et de l’immobilier (voir infra), les arbitrages en matière d’investissements
+immobiliers sont décidés en dehors de toute stratégie formalisée, sauf pour les gendarmeries et
+les collèges.
+
+
+
+
+                                                  49
+                                                                            DÉPARTEMENT DE LA MEUSE
+
+
+
+
+        3.1.2.2 Une autorisation de programme pour les gendarmeries faiblement exécutée
+
+        Le département de la Meuse est propriétaire de 13 gendarmeries, dont 10 sont
+actuellement en service. Leur location rapporte à la collectivité environ 500 000 € par an.
+Constatant que ce niveau de ressources ne pouvait plus être garanti compte tenu de la vétusté
+des bâtiments, le département a établi en 2022 une programmation pluriannuelle
+d’investissements (PPI) de 5 M€ sur la période 2022-2031, l’enveloppe globale correspondant
+au montant des loyers perçus sur 10 ans. Une autorisation de programme (AP)79 dédiée a été
+ouverte au sein du budget principal. Les principaux postes de dépenses relèvent du clos-couvert,
+de l’aménagement intérieur ainsi que du chauffage, de la ventilation et de la climatisation.
+        Cependant, la majeure partie des dépenses d’investissement qui sont consacrées aux
+gendarmeries mobilisent d’autres enveloppes budgétaires que l’AP dédiée, ce qui ne permet pas
+de suivre la réalité des investissements effectués. Cette situation transforme l’AP en outil de
+suivi inutile et nuit à la lisibilité de la politique d’investissement déployée en faveur des
+gendarmeries. La chambre invite donc le département à imputer l’ensemble des dépenses
+relatives aux gendarmeries sur l’AP qui lui est dédiée.
+
+
+             Tableau n° 19 : crédits de paiement mandatés sur l’AP « PPI gendarmerie »
+
+           2022                        2023                        2024                    Solde de l’AP
+                 160 000 €                    57 497 €                   191 030 €                   4 591 472 €
+
+Source : CRC GE, d’après les données des comptes de gestion et des comptes financiers uniques
+
+
+
+        3.1.2.3 Le plan collèges : une stratégie ambitieuse à réadapter
+
+       Les départements ont la charge des collèges dont ils assurent la construction, la
+reconstruction, l’extension, les grosses réparations, l’équipement et le fonctionnement80. Le
+département de la Meuse comptabilise sur son territoire 22 collèges publics. L’un d’eux
+comporte deux sites et le second site de ce collège fait l’objet d’une délégation de gestion à une
+communauté de communes81. La collectivité a donc en charge la gestion de 22 établissements,
+dont deux constitués en cités scolaires82, pour un total de 6 899 élèves sur l’année scolaire
+2024-2025.
+
+
+
+79
+   Les autorisations de programme constituent la limite supérieure des dépenses qui peuvent être engagées pour
+l’exécution des investissements. Elles demeurent valables, sans limitation de durée, jusqu’à ce qu’il soit procédé
+à leur annulation. Elles peuvent être révisées.
+80
+   Article L. 213-2 du code de l’éducation.
+81
+   Le collège d’Argonne se situe sur deux sites distincts et le plan collège prévoyait la fermeture du site de
+Varennes. La communauté de communes Argonne Meuse souhaitant maintenir ce site dans le cadre de son projet
+de territoire, le département lui a transféré la compétence « Éducation – volet patrimoine » sur le fondement de
+l’article L. 1111-8 du CGCT. La gestion de l’ensemble du site n’incombe plus au département depuis 2021, et ce
+pour une durée prévisionnelle courant jusqu’à 2028. La communauté de communes a ainsi supporté la totalité des
+coûts d’investissement et de fonctionnement. Elle a signé avec le département en 2025 une convention qui prévoit
+une participation financière départementale pour la viabilisation électrique.
+82
+   Ensemble immobilier constitué d’au moins deux établissements scolaires qui utilisent en commun des locaux.
+
+
+
+                                                         50
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       La gestion des collèges a été transférée aux départements par le premier acte de la
+décentralisation83, sans que celui-ci ne prévoit toutefois le transfert des propriétés. Ainsi, le
+département de la Meuse n’est propriétaire que de huit des 22 établissements dont il a la charge.
+Un plan de transfert de propriété a été mis en place en 2023 et s’étale jusqu’en 202884.
+        Sur les 22 collèges, 19 bâtiments ont été construits antérieurement aux années 1980.
+Seulement deux établissements ont été récemment bâtis par le département, en 1999 et en 2007.
+Le parc éducatif meusien est donc relativement ancien et ne répond pas toujours aux obligations
+légales de mise en accessibilité. Dans ce contexte, afin de supporter les investissements
+nécessaires à la modernisation et la mise en conformité des établissements, la collectivité a
+décidé de se doter en 2017 d’une programmation pluriannuelle dénommée « plan collèges »
+s’étalant sur une durée de 20 ans. Aucune enveloppe précise n’avait été initialement définie,
+seules les orientations sur le volet bâtiment et le volet numérique ayant été fixées. Le plan a été
+complété en 2019 afin d’arrêter une enveloppe globale de 81,6 M€ sur 15 ans.
+        La priorisation des investissements s’est faite sur la base d’un calcul de vétusté tel que
+décrit ci-dessus85, ainsi que des obligations de mise en accessibilité. Sur ce point la collectivité
+a indiqué à la chambre avoir pris du retard, les premiers travaux devant démarrer dans le courant
+de l’année 2026, au lieu de l’année 2024.
+        Les investissements à réaliser se répartissent selon les cinq catégories présentées dans
+le tableau qui suit.
+
+
+            Tableau n° 20 : montants et natures des investissements du plan collège (2019)
+
+               Restructurations et extensions                                            27,2 M€
+               GER et désamiantage                                                       26,2 M€
+               Construction d’un collège neuf (abandonnée)                               15,4 M€
+               Performances énergétiques et confort thermique                              7,7 M€
+               Mise en accessibilité                                                       3,3 M€
+               Sécurisation des établissements                                             1,8 M€
+
+               Source : Département de la Meuse
+
+
+       De 2019 à 2024, le département a investi 29 M€, soit plus de 35 % de l’enveloppe
+prévue.
+
+
+
+
+83
+   Loi du 2 mars 1982 relative aux droits et libertés des communes, des départements et des régions.
+84
+   À l’exception de ceux constitués en cités scolaires, propriétés de la région Grand Est.
+85
+   Voir sous-partie 3.1.2.1 portant sur le nouveau logiciel de pilotage des investissements.
+
+
+
+                                                       51
+                                                                             DÉPARTEMENT DE LA MEUSE
+
+
+
+
+       Graphique n° 8 : montants annuels des investissements dans les collèges de 2019 à 2024
+
+           9 000 000
+
+           8 000 000                                                         7 728 756
+
+           7 000 000
+
+           6 000 000                                            5 679 364
+
+                                      3 574 426   3 887 899                               4 810 887
+           5 000 000
+
+           4 000 000     3 409 327
+           3 000 000
+
+           2 000 000
+
+           1 000 000
+
+                   0
+                           2019         2020         2021         2022         2023          2024
+
+          Source : Département de la Meuse.
+
+
+       L’ensemble des établissements ont fait l’objet d’au moins un premier volet
+d’investissement. Les plus importants postes de dépenses ont concerné la restructuration du
+collège de Revigny-sur-Ornain (7,8 M€), terminée à la rentrée 202486, ainsi que la
+demi-pension et la sécurisation des collèges de Thierville (4 M€) et de Vaucouleurs (3 M€).
+Les plus gros investissements à venir concernent la réhabilitation prochaine du collège Maurice
+Barrès à Verdun (7 M€).
+        L’article L. 213-1 du code de l’éducation prévoit que le conseil départemental arrête sur
+son territoire la localisation des collèges. Il lui incombe ainsi de définir les sites d’implantation
+des établissements en tenant compte de critères d’équilibres démographiques, économiques et
+sociaux.
+        S’appuyant sur un diagnostic démographique, le plan de 2017 prévoyait la redéfinition
+de l’implantation des collèges à travers la fermeture de cinq établissements, dont deux ont
+effectivement été clos en 201887. Le plan arrêtait également la fermeture du collège Maurice
+Barrès et du collège Buvignier (tous deux situés à Verdun), compte tenu de la construction
+souhaitée d’un établissement neuf, ainsi que la fermeture d’un établissement à Bar-le-Duc,
+devant être décidée au plus tard au cours de l’exercice 2020. La collectivité a finalement décidé
+d’abandonner ces projets de fermeture et de réhabiliter le collège Maurice Barrès de Verdun
+plutôt que de construire un nouveau collège, sans que le document cadre n’ait été mis à jour.
+        Le président du département a précisé à la chambre qu’aucune modification de la carte
+scolaire n’interviendrait au cours de l’actuelle mandature. Toutefois, le département de la
+Meuse enregistre une baisse démographique et un vieillissement de sa population. La
+diminution du nombre de collégiens sur la période induit une modification progressive des
+besoins en services publics du territoire.
+
+
+
+86
+   Le département a décidé d’accélérer le calendrier et de procéder à la restructuration de l’établissement suite à
+un important dégât des eaux ayant eu lieu la veille de la rentrée scolaire 2022-2023.
+87
+   Le collège Jean Mermoz à Dun-sur-Meuse, et le collège de la Haute Saulx à Montiers-sur-Saulx.
+
+
+
+                                                        52
+        RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+             Tableau n° 21 : évolution du nombre de collégiens entre 2019 et 2024 rapportée aux niveaux
+                                             d’investissements réalisés
+
+                                 Nombre        Nombre       Variation                     Année de      Investissements
+           Collège               d’élèves      d’élèves                    Différence
+                                                            2019-2024                    construction   2019-2024 (en €)
+                                2019/2020     2024/2025
+   Ancerville Emilie Carles        372           291              - 22 %          - 81      1974               263 425
+    Saint Mihiel-Les Avrils        472           397              - 16 %          - 75    Non connu            456 722
+   Thierville-Saint Exupéry        466           396              - 15 %          - 70      1971             3 956 796
+     Ligny-Robert Aubry            440           389              - 12 %          - 51      1965             1 488 337
+      Revigny-J. Moulin            301           250              - 17 %          - 51      1964             7 820 360
+    Damvillers-JB Lepage           200           156              - 22 %          - 44      1966             1 135 351
+     BLD-Jacques Prévert           306           278               -9%            - 28   Années 1970           521 934
+   Commercy-Les Tilleuls           733           705               -4%            - 28      1973             1 318 030
+   BLD-Raymond Poincaré            350           327               -7%            - 23      1969               625 309
+   Clermont André Malraux          155           136              - 12 %          - 19      1978               405 844
+  Montmédy-Jean Allamont           225           212               -6%            - 13      1999             1 919 337
+      Verdun-Buvignier             420           408               -3%            - 12      1969               537 076
+     Étain-Louise Michel           424           419               -1%             -5       2007               377 663
+    Fresnes-Louis Pergaud          277           277                0%              0       1965               819 371
+   Verdun-Maurice Barrès           232           238                3%              6       1920               340 937
+  Vaucouleurs-Les Cuvelles         379           386                2%              7       1974             3 056 930
+  Gondrecourt-Val d'Ornois         120           131                9%             11       1966               872 611
+    Bouligny-P et M Curie          191           204                7%             13       1950               576 187
+    Vaubecourt-E Châtelet          171           185                8%             14    Années 1950           359 190
+     BLD-André Theuriet            286           308                8%             22       1857               512 895
+ Ancemont-Louis De Broglie         277           316               14 %            39       1975             1 359 626
+    Stenay-Alfred Kastler          432           490               13 %            58       1973               366 728
+            Total                 7 229          6 899            -5%            - 330        -             29 090 659
+
+Source : CRC GE, d’après les données du département de la Meuse
+
+
+               Le nombre de collégiens dans le département de la Meuse a diminué de 330 élèves entre
+        2019 et 2024. Les services de l’éducation nationale prévoient par ailleurs une poursuite de la
+        réduction de l’effectif scolaire d’ici à 2029. Le nombre de collégiens devrait s’établir alors à
+        5 733, contre 7 229 en 2019. Cela représente une baisse prévisionnelle de 20 % en 10 ans.
+               Au regard de ces évolutions démographiques, il est nécessaire que la collectivité
+        reprenne sa réflexion sur la carte scolaire, en étroite concertation avec la direction académique
+        des services de l’éducation nationale (DASEN). Le plan collèges devrait être adapté afin
+        d’assurer la cohérence des investissements du département et d’éviter des engagements
+        financiers sur des établissements dont la pérennité pourrait être remise en cause à moyen terme.
+
+
+
+
+                                                           53
+                                                                          DÉPARTEMENT DE LA MEUSE
+
+
+
+
+3.2 Une gestion des ouvrages d’art visant à maintenir le patrimoine en l’état
+      Au niveau national, le Sénat a posé le constat d’une dégradation de l’état global des
+ouvrages d’art français88, avec pour causes principales un trop faible niveau d’investissement.
+        Le département de la Meuse gère plus de 3 600 kilomètres de routes, engendrant un
+volume d’investissement constant compris entre 6 M€ et 8 M€ par an. La connaissance et la
+conservation des ouvrages d’art du territoire constitue un enjeu particulier de sa politique
+routière. En effet, la collectivité a en charge l’entretien d’un nombre significatif d’ouvrages
+(3.2.1), mais dispose, pour ce faire, d’une capacité d’investissement limitée (voir supra). Le
+département s’est doté d’outils pertinents pour assurer le recensement et le suivi de ses ouvrages
+d’art (3.2.2) et, même si la stratégie d’investissement n’est pas validée par l’assemblée
+délibérante, la collectivité cherche à maintenir les structures en état de fonctionnement (3.2.3).
+
+
+3.2.1 Un nombre élevé d’ouvrages d’art départementaux
+
+        Le département de la Meuse gère 990 ponts, soit près de 5,5 ponts pour 1 000 habitants.
+Le rapport d’information du sénat susmentionné relève qu’au niveau national chaque
+département gère en moyenne 1 100 ponts, soit environ 1,6 pont pour 1 000 habitants89. La
+collectivité possède donc un nombre relativement élevé d’ouvrages d’art eu égard à sa
+population.
+
+        Lors de la commission technique d’octobre 2019 consacrée au suivi et à la
+programmation des ouvrages d’art, le département de la Meuse a fait le constat que 12 % de ses
+ponts étaient en mauvais état structurel, soit 3,5 % de plus que la moyenne nationale. Par
+ailleurs, l’âge moyen des ouvrages (hors ponts en maçonnerie) du réseau routier du département
+apparait bien plus élevé que l’âge moyen sur l’ensemble du territoire français. En effet, alors
+qu’en France 97 % des ponts ont moins de 70 ans, soit la durée de vie réelle moyenne d’un
+pont90, 41 % des ponts meusiens ont dépassé cet âge. Dans ce contexte, le département de la
+Meuse s’est donné les moyens de disposer d’une connaissance fine de l’état de chacune des
+structures.
+
+
+3.2.2 Des outils de suivi performants
+
+        La direction des routes et de l’aménagement (DRA) a pour mission de gérer, entretenir,
+rénover et développer le réseau routier départemental en assurant aux usagers des conditions
+d’utilisation et de sécurité optimales, tout en garantissant sa pérennité et sa pertinence. Elle est
+dotée de 255 ETPT (26 % de l’effectif global du département) et est organisée en plusieurs
+services : un service « commande publique et budget », un service « aménagement foncier »,
+un service « exploitation des routes », un service « entretien et travaux » et un service « parc
+
+
+88
+   Rapport d'information n° 609 (2018-2019) de MM. Patrick Chaize et Michel Dagbert, « Sécurité des ponts :
+éviter un drame ».
+89
+   Le nombre moyen d’habitants par département en France (métropolitaine et d’outre-mer) s’élevait à 683 980 au
+1er janvier 2026, selon l’institut national de la statistique et des études économiques (INSEE).
+90
+   Rapport d'information n° 609 (2018-2019) de MM. Patrick Chaize et Michel Dagbert, « Sécurité des ponts :
+éviter un drame ».
+
+
+
+                                                      54
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+départemental ». La DRA comprend également quatre agences départementales
+d’aménagement (ADA) à Commercy, Verdun, Bar le Duc et Stenay et 16 centres d’exploitation
+répartis sur l’ensemble du territoire.
+        Le département de la Meuse est équipé depuis 2002 de plusieurs outils dédiés, telle
+qu’une base de données renseignant la collectivité sur l’état de dégradation et de fonctionnalité
+de chacun des ouvrages d’art, couplée à un applicatif utilisé par les agents des ADA lors des
+visites d’ouvrages. Ce dernier rend compte de la périodicité des contrôles réalisés, au cours
+desquels les agents peuvent renseigner directement dans le logiciel leurs notes, commentaires,
+et photos. L’ensemble de ces informations remontent ensuite vers la base de données, laquelle
+est par ailleurs alimentée par d’autres sources, notamment les visites effectuées par des
+entreprises extérieures spécialisées (visites sous-marines par exemple).
+       Dans le prolongement du partenariat souscrit pour la gestion de son parc bâtimentaire,
+la DRA s’est également dotée, en 2022, d’un logiciel spécifique. Alimenté par les informations
+issues de la base de données, l’outil lui permet d’analyser l’état global et individuel des
+ouvrages d’art, et d’établir différents scénarios de dégradation ou d’investissement à réaliser
+afin de déterminer les trajectoires à envisager. Ces différents outils permettent donc au
+département de la Meuse de disposer d’une vision exhaustive des structures dont il a la charge
+et d’opérer les arbitrages nécessaires à leur entretien.
+
+
+3.2.3 Des choix de gestion visant à limiter la détérioration des structures
+
+
+            3.2.3.1 Des structures en partie détériorées
+
+        Le département procède à l’évaluation de l’état de ses ouvrages d’art selon la méthode
+VAQOA (valorisation de la qualité des ouvrages d’art), utilisée par 5,7 % des départements91.
+Cette méthode prend en compte, au-delà de l’état physique de l’ouvrage, son importance
+fonctionnelle, ainsi que son rôle dans le réseau routier départemental et pour la mobilité. En
+2024, sur une échelle de gravité, qui va de 1 (ouvrage en bon état) à 5 (ouvrage dont la structure
+porteuse est gravement altérée), près de 9 % des ponts restaient classés 4 ou 5, tandis que 46 %
+étaient classés 1 ou 2. L’indice de sécurité « S » identifie en complément un désordre ou une
+non-conformité à des règlements de sécurité qui n’altère pas la stabilité de l’ouvrage mais qui
+représente un risque immédiat pour les usagers. 17 ponts sont actuellement classés dans cette
+catégorie.
+
+                   Tableau n° 22 : classement VAQOA des ouvrages d’art meusiens en 2024
+
+                                                                 Classement VAQOA
+Indice de gravité                1          2             3      4      5     2S  3S         4S    Vide   Total
+Nombre de ponts                 52        407           426     87      2      1  10          5            990
+Par relative au sein
+                            5,3 %     41,1 %        43 %      8,8 %   0,2 %   0,1 %   1%   0,5 %   0%     100 %
+des ponts
+Source : CRC GE, d’après les données du département de la Meuse.
+
+
+
+
+91
+     Observatoire national de la route, Rapport 2025.
+
+
+
+
+                                                               55
+                                                                      DÉPARTEMENT DE LA MEUSE
+
+
+
+
+         Compte tenu de cette situation dégradée, fin 2025, en Meuse, 35 ponts font l’objet d’une
+restriction à la circulation portant sur la limitation de charge de trafic.
+
+
+       3.2.3.2 Une politique d’investissement qui repose sur le maintien des structures en
+               état de fonctionnement
+
+        L’enjeu principal affiché par la collectivité est désormais de maintenir a minima le
+maintien en classement 3 des 43 % de ses ponts « dont la structure porteuse est faiblement
+altérée sans mise en danger pour l’usager mais nécessitant des travaux à plus ou moins long
+terme ».
+        Les dépenses à destination des ouvrages d’art ont connu une hausse progressive, passant
+de 1,8 M€ en 2019 à 7,1 M€ en 2024. Les dépenses 2024 ont été fléchées à 84 % vers les ponts
+classés en 1, 2 ou 3.
+        Le département de la Meuse dispose d’un projet de politique routière départementale
+datant de 2010. Il détermine le niveau de service global de la voirie meusienne en fonction de
+l’importance de la voie (caractéristiques et niveau de trafic), avec pour objectifs de préserver le
+patrimoine routier, assurer la sécurité des usagers et des riverains, ainsi que des équipes
+d’intervention. Ce projet n’a fait l’objet d’aucune mise à jour alors même qu’une nouvelle
+politique de gestion a été mise en œuvre depuis.
+       En effet, alors qu’auparavant la politique en matière d’entretien des ouvrages d’art
+reposait sur le curage, la réparation et la remise en état, la collectivité s’est engagée depuis
+2020 dans une démarche de stabilisation des ouvrages d’art afin d’éviter leur détérioration vers
+un indice de gravité supérieur (4 ou 5).
+       Ce changement de doctrine repose sur l’anticipation des aléas et de leurs conséquences
+et nécessite de poser des diagnostics complets, rendus possible grâce aux nouveaux outils dont
+la DRA s’est dotée. Cette stratégie induit une hausse des dépenses sur la période.
+
+
+             Tableau n° 23 : dépenses de travaux réalisées sur les ouvrages d’art (en €)
+
+      2019              2020             2021             2022           2023              2024
+       1 805 944        4 304 717        4 856 974        4 298 631      3 594 701          6 726 451
+
+ Source : CRC GE, d’après les données du département de la Meuse
+
+
+        Si cette stratégie permet à la collectivité de maintenir les ouvrages d’art en état d’usage,
+elle ne permet pas de pallier les dégradations les plus significatives et n’empêchera pas la
+détérioration naturelle des structures, dont le vieillissement progresse plus rapidement que ce
+que la capacité financière de la collectivité lui permet d’investir, le coût de remplacement à neuf
+de l’ensemble des ponts ayant été estimé en 2019 à un montant compris entre 380 et 450 M€.
+        Dans ce contexte particulièrement contraint, il est important que la collectivité fasse
+valider sa stratégie globale d’investissement par l’assemblée délibérante.
+
+
+
+
+                                                  56
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.3 Une stratégie d’investissement à formaliser
+
+        Le département de la Meuse n’a pas adopté de schéma directeur de l’immobilier. Les
+décisions d’investissement se font au cas par cas en fonction des arbitrages techniques retenus
+au sein des commissions préparatoires.
+        La collectivité n’est pas non plus dotée d’un schéma directeur pour ses routes et
+ouvrages d’art. En la matière, les décisions sont prises sur la base de propositions de la direction
+des routes et aménagement constituées à partir de données issues de l’outil de gestion (en
+fonction du classement de l’ouvrage mais aussi du type d’ouvrage, de son importance, de la
+circulation…). Elles sont soumises aux agences départementales d’aménagement (ADA) pour
+y porter un regard de terrain, puis validées lors de commissions techniques. Les programmes
+d’investissement arrêtés sont ensuite présentés aux élus lors d’une réunion annuelle chaque
+mois de janvier. Or, aucune commission technique n’a eu lieu en 2024 et en 2025. Le
+département opère donc ses choix de gestion sans avoir formalisé préalablement sa stratégie au
+sein d’un document cadre validé par l’assemblée des élus.
+        De manière générale, les investissements se font en fonction du budget disponible
+annuellement, sans vision pluriannuelle. Pourtant, compte tenu de sa capacité d’investissement
+réduite, de l’usure de son patrimoine et de la hausse des coûts de fonctionnement que celle-ci
+induit, l’établissement de schémas directeurs permettrait au département de mesurer, dans le
+temps, la pertinence de ses choix de gestion et de définir des objectifs ainsi que des orientations
+pluriannuelles claires. Bien que ne revêtant pas de caractère obligatoire, l’adoption de tels
+schémas directeurs par l’assemblée délibérante présenterait l’avantage de nourrir le
+fonctionnement démocratique de la collectivité et faciliterait l’identification d’économies
+potentielles, sur la base de l’exploitation des outils à disposition qui permettent déjà d’avoir une
+vision exhaustive de l’état du patrimoine départemental et des travaux nécessaires à sa
+conservation ou son renouvellement.
+        Ce schéma gagnerait à s’appuyer sur une programmation financière pluriannuelle des
+investissements (PPI) afin de s’assurer de la soutenabilité financière de cette stratégie.
+       La chambre recommande par conséquent au département d’adopter un schéma directeur
+du patrimoine et de l’immobilier, un schéma directeur des routes et des ouvrages d’art, et une
+PPI déclinant ces schémas au niveau financier.
+
+
+Recommandation n° 2. : Formaliser la stratégie d’investissement de la collectivité, à
+travers l’adoption d’un schéma directeur du patrimoine et de l’immobilier, d’un schéma
+directeur des routes et des ouvrages d’art ainsi que d’une programmation pluriannuelle
+d’investissements.
+
+       La mise en œuvre de cette recommandation a été initiée. En réponse aux observations
+provisoires, le département a précisé que l’élaboration des schémas directeurs était en cours et
+qu’une PPI serait présentée en fin d’année 2026 à l’assemblée départementale.
+
+
+
+
+                                                57
+                                                                                          DÉPARTEMENT DE LA MEUSE
+
+
+
+
+                                                      ANNEXES
+
+Annexe n° 1. Glossaire .................................................................................................... 59
+Annexe n° 2. Méthodologie de calcul des agrégats et indicateurs fondant l’analyse
+            financière .................................................................................................... 61
+
+
+
+
+                                                                 58
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                  Annexe n° 1. Glossaire
+     ADA : agence départementale d’aménagement
+     ADEME : agence de l’environnement et de la maitrise de l’énergie
+     AP : autorisations de programme
+     ARS : agence régionale de santé
+     ASE : aide sociale à l’enfance
+     ASNR : autorité de sûreté nucléaire et de radioprotection
+     BGES : bilan des émissions de gaz à effet de serre
+     CAF : capacité d’autofinancement
+     CASF : code de l’action sociale et des familles
+     CDD : contrat à durée déterminée
+     CDI : contrat à durée indéterminée
+     CGCT : code général des collectivités territoriales
+     CGFP : code général de la fonction publique
+     CIA : complément indemnitaire annuel
+     CITL : centre d’insertion par le travail et le loisir
+     CP : crédits de paiement
+     CTI : complément de traitement indiciaire
+     CVAE : cotisation sur la valeur ajoutée des entreprises
+     CRC GE : chambre régionale des comptes Grand Est
+     DASEN : direction académique des services de l’éducation nationale
+     DDE : direction départementale de l’équipement
+     DGA : directeur général adjoint
+     DGAFP : direction générale de l’administration et de la fonction publique
+     DGCL : direction générale des collectivités locales
+     DGF : dotation globale de fonctionnement
+     DJU : degrés jours unifiés
+     DMTO : droits de mutation à titre onéreux
+     DPI : direction du patrimoine et de l’immobilier
+     DRA : direction des routes et de l’aménagement
+     ETP : équivalent temps plein
+     ETPT : équivalent temps plein travaillé
+     GER : gros entretien et renouvellement
+     GVT : glissement vieillesse technicité
+
+
+
+                                              59
+                                                         DÉPARTEMENT DE LA MEUSE
+
+
+
+
+IFC : indemnité de fin de contrat
+IFSE : indemnité de fonctions, de sujétions et d’expertise
+IGA : inspection générale de l’administration
+IGF : inspection générale des finances
+INSEE : institut national de la statistique et des études économiques
+INSPÉ : institut national supérieur du professorat et de l’éducation
+MAIA : méthode d’action pour l’intégration des services d’aide et de soins dans le
+champ de l’autonomie
+MNA : mineur non accompagné
+NBI : nouvelle bonification indiciaire
+PPI : programmation pluriannuelle d’investissement
+RIFSEEP : régime indemnitaire tenant compte des fonctions, des sujétions, de
+l’expertise et de l’engagement professionnel
+RSA : revenu de solidarité active
+SAMNAE : structure d’accueil de mineurs non accompagnés en évaluation
+SMIC : salaire minimum interprofessionnel de croissance
+TFPB : taxe foncière sur les propriétés bâties
+TVA : taxe sur la valeur ajoutée
+VAQOA : valorisation de la qualité des ouvrages d’art
+
+
+
+
+                                         60
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+           Annexe n° 2. Méthodologie de calcul des agrégats et indicateurs
+                             fondant l’analyse financière
+
+           •   Tableau n° 1 : composition du budget du département de la Meuse
+        Les produits de gestion de l’exercice 2024 du budget principal (252 857 514 €) sont
+présentés en montant net des restitutions sur les ressources fiscales. Ils comprennent en outre les
+travaux en régie, mais pas les atténuations de charges, ni les mandats annulés sur exercices
+antérieurs en matière de revenu de solidarité active (chapitre 017).
+         Les charges de gestion de l’exercice 2024 du budget principal (224 493 301 €) sont
+présentées en montant net des atténuations de charges. Elles ne comprennent ni les restitutions sur
+les ressources fiscales, ni les charges financières en matière de solidarité active (chapitre 017), ni
+les titres annulés sur exercices antérieurs en matière de revenu de solidarité active (chapitre 017) et
+d’allocation personnalisée à l’autonomie (chapitre 016).
+       Les produits de gestion de l’exercice 2024 des budgets annexes « parc départemental »
+(7 712 872 €), « e-Meuse santé » (2 693 677 €) et « mineurs non accompagnés » (5 855 176 €) ne
+comprennent pas les atténuations de charges.
+       Les charges de gestion de l’exercice 2024 des budgets annexes « parc départemental »
+(6 379 217 €), « e-Meuse santé » (3 063 206 €) et « mineurs non accompagnés » (5 862 792 €) sont
+présentées en montants nets des atténuations de charges.
+       Les produits de gestion de l’exercice 2024 du budget annexe « structure d’accueil de
+mineurs non accompagnés en évaluation » (973 167 €) ne comprennent pas les remboursements sur
+rémunération du personnel non médical.
+        Les charges de gestion de l’exercice 2024 du budget annexe « structure d’accueil de mineurs
+non accompagnés en évaluation » (1 040 300 €) sont présentées en montant net des
+remboursements sur rémunération du personnel non médical. Par ailleurs, elles ne comprennent pas
+les dotations aux provisions d’exploitation.
+           •   Sous-partie 1.1.1.2 : un déficit de fonctionnement récurrent
+      Le montant de 1,4 M€ mentionné pour les dotations aux amortissements correspond au
+montant inscrit au compte 6811.
+           •   Tableau n° 2 : ressources fiscales propres du département de la Meuse
+       Les montants indiqués pour la ligne « + Autres taxes (nettes des reversements) »
+correspondent au total des soldes du compte 7318 et des subdivisions du compte 738, diminué des
+sommes inscrites au solde des comptes 73918 et 7398.
+        En 2019, le montant de la ligne « + Autres taxes (nettes des reversements) » comprend la
+recette perçue au titre du fonds de soutien interdépartemental (6 628 622 €), imputée au compte
+7388. À partir de 2020, le fonds national de péréquation des droits de mutation à titre onéreux a
+procédé à la fusion du fonds de soutien interdépartemental avec le fonds de solidarité des
+départements. Le fonds national de péréquation des droits de mutation à titre onéreux est imputé au
+compte 7326. Il ne fait pas partie des « ressources fiscales propres » du département, il est
+comptabilisé au sein des « ressources fiscales reversées par l’État ».
+
+           •   Sous-partie 1.2.2.1 : des investissements inférieurs à ceux des départements de
+               même strate et graphique n° 4
+        Les dépenses d’équipement comprennent les travaux en régie et sont présentées en montants
+nets des recettes inscrites aux subdivisions des comptes 20, 21 et 23.
+
+
+
+                                                  61
+     DÉPARTEMENT DE LA MEUSE
+
+
+
+
+62
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     63
+     DÉPARTEMENT DE LA MEUSE
+
+
+
+
+64
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                     « La société a le droit de demander compte
+                      à tout agent public de son administration »
+           Article 15 de la Déclaration des Droits de l’Homme et du Citoyen
+
+
+                 L’intégralité de ce rapport d’observations définitives
+                           est disponible sur le site internet
+                   de la chambre régionale des comptes Grand Est :
+                          www.ccomptes.fr/fr/crc-grand-est
+
+
+
+
+                     Chambre régionale des comptes Grand Est
+                            3-5, rue de la Citadelle
+                                 57000 METZ
+                              Tél. : 03 54 22 30 49
+
+                          www.ccomptes.fr/fr/crc-grand-est
+
+         https://www.linkedin.com/company/chambre-regionale-comptes-grand-est
+                          https://www.instagram.com/crcgrandest
+       https://www.facebook.com/people/Chambre-régionale-des-comptes-Grand-Est
+                      https://bsky.app/profile/crcgrandest.bsky.social
+
+
+
+
+                                           65
+

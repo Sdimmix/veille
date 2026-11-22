@@ -1,0 +1,2344 @@
+TITRE: Commune de Dainville (Pas-de-Calais)
+PAGE: https://www.ccomptes.fr/fr/publications/commune-de-dainville-pas-de-calais
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/HFR2026-053.pdf
+
+       RAPPORT D’OBSERVATIONS DÉFINITIVES
+                           ET SA RÉPONSE
+
+
+
+                        COMMUNE DE DAINVILLE
+
+                                                                            (Pas-de-Calais)
+
+                                                                      Exercices 2020 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés, a
+                       été délibéré par la chambre le 19 août 2026.
+
+
+
+
+         14, rue du Marché au Filé - 62012 – Arras cedex  Téléphone : 03 21 50 75 00 www.ccomptes.fr
+                                                                                                  COMMUNE DE DAINVILLE
+
+
+
+
+                                         TABLE DES MATIÈRES
+
+SYNTHÈSE ............................................................................................................................... 3
+RECOMMANDATIONS ........................................................................................................... 4
+INTRODUCTION ...................................................................................................................... 5
+1 UNE GESTION BUDGÉTAIRE ET COMPTABLE DE QUALITÉ .................................. 6
+    1.1 Des rapports sur les orientations budgétaires presque complets ..................................... 6
+    1.2 Une publication effective des informations budgétaires et financières .......................... 6
+    1.3 Une organisation budgétaire et comptable claire ............................................................ 7
+          1.3.1 Une chaîne budgétaire et comptable sans risque significatif ............................................ 7
+          1.3.2 Des délégations de signature et pouvoirs régulières ......................................................... 8
+          1.3.3 Un règlement budgétaire et financier conforme aux attendus .......................................... 8
+    1.4 Une tenue de la comptabilité d’engagement à conforter ................................................ 9
+          1.4.1 Une procédure d’engagement des dépenses à respecter systématiquement ..................... 9
+          1.4.2 Des restes à réaliser comptablement justes ..................................................................... 10
+          1.4.3 Une procédure de rattachement efficace ......................................................................... 10
+    1.5 Un patrimoine plutôt bien suivi .................................................................................... 11
+          1.5.1 Un inventaire physique des biens à établir ..................................................................... 11
+          1.5.2 Un inventaire comptable et un état de l’actif présentant un écart limité......................... 12
+          1.5.3 Un transfert des immobilisations achevées globalement maîtrisé .................................. 12
+          1.5.4 Des dotations aux amortissements qui n’appellent pas de remarque .............................. 12
+    1.6 Un contrôle efficace de l’ensemble des régies .............................................................. 13
+          1.6.1 Des régies d’avances et de recettes nombreuses et régulières ........................................ 13
+          1.6.2 Un contrôle des régies dûment effectué .......................................................................... 14
+2 UNE SITUATION FINANCIÈRE ÉQUILIBRÉE ET SAINE........................................... 15
+    2.1 Des outils de pilotage financier de qualité .................................................................... 15
+    2.2 Un cycle courant de fonctionnement générateur d’autofinancement............................ 16
+          2.2.1 Des recettes en augmentation, portées par le dynamisme de la fiscalité ........................ 16
+          2.2.2 Des charges de gestion croissantes sous l’effet des dépenses de personnel, facteur
+                de rigidité pour la commune ........................................................................................... 19
+          2.2.3 Un autofinancement confortable à entretenir.................................................................. 21
+    2.3 Un financement des investissements relativement équilibré à préserver...................... 22
+          2.3.1 Un autofinancement permettant de financer 38 % de l’investissement .......................... 22
+          2.3.2 Un financement propre parfois insuffisant, sans réelle conséquence pour les
+                équilibres financiers de la commune .............................................................................. 23
+          2.3.3 Un fonds de roulement mobilisable ................................................................................ 24
+3 LA RÉHABILITATION DU « CENTRE VERT », UN EXEMPLE DE BONNE
+  GESTION ............................................................................................................................ 26
+    3.1 Le « centre vert » et son projet de réhabilitation .......................................................... 26
+          3.1.1 Un « centre vert » au cœur de l’espace public Dainvillois ............................................. 26
+          3.1.2 Un projet de réhabilitation porteur d’ambitions ............................................................. 28
+    3.2 La conduite du projet de réhabilitation du « centre vert » ............................................ 30
+          3.2.1 L’appui d’Atelier Nervures en tant que maître d’œuvre................................................. 30
+
+
+
+
+                                                                    1
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+          3.2.2 L’association des habitants ............................................................................................. 31
+          3.2.3 Un suivi régulier par le comité de pilotage et en « bureau élargi » ................................ 31
+          3.2.4 La phase de passation des marchés de travaux ............................................................... 32
+    3.3 La soutenabilité financière du projet de réhabilitation de « centre vert » ..................... 32
+          3.3.1 Un projet conduit, en partie, sous délégation de maîtrise d’ouvrage de la
+                communauté urbaine d’Arras.......................................................................................... 32
+          3.3.2 Un plan de financement finalisé et sincère ..................................................................... 33
+          3.3.3 La cohérence du projet avec les autres politiques publiques locales .............................. 34
+ANNEXES ............................................................................................................................... 36
+
+
+
+
+                                                                    2
+                                                                       COMMUNE DE DAINVILLE
+
+
+
+
+                                         SYNTHÈSE
+
+
+       Dainville, qui compte environ 5 000 habitants, est membre de la communauté urbaine
+d’Arras. Elle présente les caractéristiques d’une commune résidentielle insérée dans un bassin
+d’emploi dynamique et bénéficie d’indicateurs de revenus et de pauvreté globalement plus
+favorables que ceux observés aux échelles départementale et régionale.
+       Sa gestion comptable et financière est de bonne qualité et les principaux risques sont
+maîtrisés. Il en résulte des comptes fiables qui offrent une image fidèle de son activité.
+Quelques points d’amélioration subsistent néanmoins. La commune doit ainsi veiller à faire une
+application rigoureuse des règles de la comptabilité d’engagement et du circuit de la dépense.
+Elle gagnerait également à renforcer le suivi de son patrimoine sur la base d’un inventaire
+physique de ses biens conforme aux normes comptables.
+        Sa situation financière est saine et équilibrée. Les efforts de pilotage engagés lui ont
+permis d’absorber plusieurs chocs exogènes, en particulier l’inflation et la hausse du coût du
+travail dans un contexte où la quasi-totalité des services publics proposés sont exploités
+en régie. Depuis 2020, le niveau d’autofinancement, qui s’établit en moyenne à 16 %, demeure
+confortable et permet de financer une part des investissements à partir des ressources issues du
+fonctionnement. Cette situation résulte du dynamisme des recettes, en particulier fiscales,
+conjugué à une évolution globalement maîtrisée des charges, malgré l’extension des activités
+de service au public.
+         Le financement des investissements repose sur un équilibre globalement maîtrisé.
+Bien que la commune soit ponctuellement amenée à recourir à l’emprunt ou à mobiliser
+son fonds de roulement pour couvrir un besoin de financement, ces opérations n’ont pas altéré
+ses fondamentaux, en particulier sa capacité de désendettement. Pour les années à venir,
+elle devra néanmoins veiller à consolider son niveau d’autofinancement et à optimiser les
+financements externes pour limiter le recours aux cessions d’actifs, qui constituent un mode de
+financement non pérenne. La mobilisation du fonds de roulement peut constituer un autre levier,
+sous réserve de poursuivre, en parallèle, une trajectoire d’accumulation d’excédents.
+La situation actuelle ne doit pas conduire à relâcher la maîtrise des dépenses de fonctionnement,
+les marges de progression des recettes apparaissant limitées au regard du niveau déjà élevé de
+l’effort fiscal.
+        Le projet de requalification du « centre vert » présente plusieurs facteurs favorables à
+sa réussite. Élaboré à la suite d’un diagnostic préalable, il s’inscrit dans une démarche associant
+les habitants et recherchant une cohérence avec les différentes politiques publiques locales.
+Les phases d’études ont permis d’ajuster le projet au fil de son élaboration. Sur le plan financier,
+les coûts et les recettes prévisionnelles font l’objet d’un suivi régulier et apparaissent établis de
+manière sincère, tandis que le financement du projet semble soutenable. Dans ces conditions,
+le projet de « centre vert » apparaît comme un exemple de bonne gestion.
+
+
+
+
+                                                 3
+     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                     RECOMMANDATIONS
+                            (classées dans l’ordre de citation dans le rapport)
+
+                                  Rappels au droit (régularité)
+
+                                                          Mise en    Mise en
+                                                                                  Non mise en
+               Degré de mise en œuvre                      œuvre      œuvre                     Page
+                                                                                    œuvre
+                                                          complète   partielle
+Rappel au droit n° 1 : tenir une comptabilité
+d’engagement, en application de l’article L. 1612-38
+du code général des collectivités territoriales et des                  X                       10
+articles 11 et 30 du décret du 7 novembre 2012 relatif
+à la gestion budgétaire et comptable publique.
+Rappel au droit n° 2 : établir un inventaire physique
+des biens, conformément aux prescriptions du
+Recueil des normes comptables pour les entités                          X                       11
+publiques locales et de l’instruction budgétaire et
+comptable M. 57.
+Rappel au droit n° 3 : mettre en place une
+comptabilité spécifique pour retracer les flux
+financiers entrants et sortants réalisés au nom et pour
+le compte de la communauté urbaine d’Arras,                             X                       33
+conformément à l’article 5 de la convention de
+délégation de maîtrise d’ouvrage entre la commune
+et son intercommunalité.
+
+
+
+
+                                                      4
+                                                                                 COMMUNE DE DAINVILLE
+
+
+
+
+                                          INTRODUCTION
+
+
+         Le contrôle des comptes et de la gestion de la commune de Dainville, au titre des
+exercices 2020 et suivants, a été ouvert par courrier du président de la chambre
+du 5 novembre 2025, adressé à Mme Françoise Rossignol, maire. En application de
+l’article L. 243-1 du code des juridictions financières, l’entretien de fin de contrôle s’est tenu
+le 4 mars 2026 avec cette dernière.
+       Lors de sa séance du 23 mars 2026, la chambre a arrêté des observations provisoires.
+Le 12 mai 2026, elles ont été notifiées à la maire de la commune, et un extrait de celles-ci a été
+adressé à un tiers. Après avoir examiné les réponses reçues, la chambre, dans sa séance du
+19 août 2026, a arrêté les observations définitives suivantes.
+                                                      ***
+        Dainville, située dans le Pas-de-Calais, appartient à l’aire d’attraction d’Arras et à sa
+communauté urbaine. Selon les données du recensement de la population de l’Institut national
+de la statistique et des études économiques les plus récentes1, elle compte 5 718 habitants.
+L’évolution démographique apparaît globalement modérée, la population ayant progressé de
+0,4 % par an entre 2016 et 2022. Cette évolution résulte principalement d’un solde migratoire
+positif, qui compense un solde naturel légèrement négatif, traduisant un renouvellement de la
+population par l’installation de nouveaux ménages.
+        Le revenu disponible médian par unité de consommation s’établit à 24 790 € en 2021.
+La commune compte 2 445 ménages fiscaux, dont environ 62 % sont imposés. Ces niveaux de
+revenus apparaissent supérieurs à ceux observés en moyenne dans le département du
+Pas-de-Calais, caractérisé par des revenus médians plus faibles que la moyenne nationale2.
+Le taux de pauvreté communal est estimé à environ 9 %, soit un niveau sensiblement inférieur
+à celui du Pas-de-Calais, qui s’établit autour de 18 %. Le taux de chômage s’établit autour de
+6 % de la population active, niveau inférieur à celui observé dans le département du
+Pas-de-Calais, qui avoisine 10 %.
+         Parmi les habitants âgés de 15 ans ou plus, 11 % appartiennent à la catégorie des cadres
+et professions intellectuelles supérieures, 14 % aux professions intermédiaires, 13 % aux
+employés et 8 % aux ouvriers. Le potentiel fiscal3 moyen par habitant s’élève à 964 €.
+Il est supérieur à celui des communes de la même strate4 du Pas-de-Calais (798 €) et des
+Hauts-de-France (937 €).
+        Les caractéristiques sociodémographiques de Dainville mettent donc en évidence une
+commune résidentielle insérée dans un bassin d’emploi dynamique, bénéficiant d’indicateurs
+de revenus et de pauvreté relativement plus favorables que ceux observés dans le département
+et la région.
+
+
+
+
+1
+    Source : Insee, Dossier complet, 2026.
+2
+    Source : Insee, Fichier localisé sociale et fiscal, 2026.
+3
+    Le potentiel fiscal est obtenu en appliquant les taux moyens nationaux des taxes locales aux bases fiscales de
+    la commune. Il est donc une estimation du niveau de ressources fiscales potentiel de la collectivité.
+4
+    La strate retenue est celle des communes de 5 000 à 7 499 habitants.
+
+
+
+
+                                                        5
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1 UNE GESTION BUDGÉTAIRE ET COMPTABLE DE QUALITÉ
+
+
+1.1 Des rapports sur les orientations budgétaires presque complets
+
+        Le conseil municipal débat annuellement des orientations budgétaires de la commune,
+dans le respect du délai de 10 semaines5 précédant l’examen du budget primitif, conformément
+aux articles L. 1612-26 et L. 2312-1 du code général des collectivités territoriales (CGCT).
+        Les rapports sur les orientations budgétaires contiennent globalement l’ensemble des
+informations prévues à l’article R. 1612-49 du code précité. À titre d’illustration, le millésime
+2025 fait état, après une présentation du contexte national et de l’évolution des finances locales,
+de la situation financière rétrospective de la commune. Des éléments prospectifs en matière de
+cycle courant d’exploitation et d’investissement, notamment un plan pluriannuel
+d’investissement en recettes et en dépenses, complètent les orientations budgétaires.
+Ces derniers pourraient toutefois comprendre, en outre, une vision prospective des principaux
+ratios de gestion, par exemple l’excédent de fonctionnement et l’autofinancement brut et net, et
+les hypothèses financières sous-jacentes.
+
+
+
+1.2 Une publication effective des informations budgétaires et financières
+
+         L’information à destination des élus et des citoyens est de bonne qualité et complète.
+        La commune publie les rapports sur les orientations budgétaires dans le respect des
+articles L. 2312-1 et L. 2313-1 du CGCT.
+        Jusqu’en 2025, elle en faisait de même des notes brèves et synthétiques du budget
+principal et du compte administratif, en application du dernier alinéa de l’article L. 2313-1 du
+code susmentionné6. Celles-ci, produites chaque année, sont de qualité et contiennent de
+nombreuses informations susceptibles d’éclairer les élus et les citoyens. Par exemple,
+elles offrent une vue d’ensemble des équilibres financiers et détaillent les principaux projets
+d’investissement, en recettes et en dépenses. Il est également fait mention de la formation de
+l’autofinancement de la commune.
+        Conformément aux articles L. 2121-15 et L. 2121-25 du même code, elle publie la liste
+des délibérations, celles-ci et un compte rendu de chaque réunion du conseil municipal.
+
+
+
+
+5
+    Préalablement de deux mois, ce délai a été porté à dix semaines en application de l’article 1er de l’ordonnance
+    n° 2925-526 du 12 juin 2025 relative à la généralisation du compte financier unique.
+6
+    À compter du 1er janvier 2025, la note brève et synthétique est annexée au budget primitif et au compte
+    financier unique, conformément à l’article L. 1612-35 du CGCT.
+
+
+
+
+                                                         6
+                                                                       COMMUNE DE DAINVILLE
+
+
+
+
+1.3 Une organisation budgétaire et comptable claire
+
+
+1.3.1 Une chaîne budgétaire et comptable sans risque significatif
+
+       La préparation du budget est assurée par la maire et ses services, avant les débats et le
+vote par le conseil municipal.
+        Après la clôture de la journée complémentaire, une balance budgétaire intégrant les
+réalisations de l’année écoulée est transmise aux différents services métiers pour analyse de la
+consommation de crédits avant formulation des demandes pour le budget primitif.
+        Début février, une note interne précisant le calendrier et les modalités de préparation du
+budget est adressée à chaque responsable de service et à l’élu de référence. Elle précise la tenue
+de réunions d’échange réunissant la maire, l’adjoint aux finances, la directrice générale des
+services, la responsable des finances, ainsi que les adjoints, conseillers délégués et techniciens
+concernés. Celles-ci permettent de faire le point sur les évolutions, les faits marquants et les
+besoins nouveaux, afin d’évaluer les crédits nécessaires. Une fiche de demande de crédits
+d’investissement est jointe à la note et doit être renseignée puis présentée à cette occasion.
+À l’issue des échanges, le service finances saisit, dans le logiciel comptable, l’ensemble des
+demandes définitives de la section de fonctionnement en dépenses (rémunération, charges
+générales, fournitures, etc.) et recettes (fiscalité, dotations, etc.).
+       Intervient ensuite un « bureau élargi », instance ad hoc regroupant les membres de la
+majorité municipale, lors duquel est présenté le résultat des réunions de travail. Les élus
+procèdent, par la suite, au fléchage des investissements à retenir, en tenant compte de la capacité
+financière de la commune.
+      La chaîne comptable est centralisée, eu égard à la taille réduite des services
+administratifs, selon les processus suivants.
+ Du côté des dépenses, un bon de commande est validé et édité dans le logiciel Ciril. Une fois
+  l’achat ou la prestation réalisée, les factures parviennent au service comptabilité par
+  l’intermédiaire de Chorus PRO. Les responsables de service doivent alors valider le service
+  fait avant le mandatement de la dépense.
+ Du côté des recettes, après réception de la notification de la subvention, de la remise du
+  bulletin de versement au Trésor public pour les régies, et de la notification de la fiscalité, les
+  recettes sont « engagées » dans Ciril. Le service comptabilité émet alors le titre
+  correspondant.
+        In fine, la préparation budgétaire et l’organisation de la chaîne comptable ne présentent
+pas de risque inhérent significatif, sans préjudice du respect effectif de la procédure comptable
+(cf. partie 1.4.1).
+
+
+
+
+                                                 7
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1.3.2 Des délégations de signature et pouvoirs régulières
+
+        En application de l’article L. 2122-22 du CGCT, le conseil municipal peut déléguer au
+maire un certain nombre de ses compétences. Par délibération du 27 mai 2020, il lui a délégué
+la presque-totalité de celles prévues à l’article précité.
+      Sur la forme et sur le fond, cette délégation n’appelle aucune remarque. Au surplus,
+comme prévu à l’article L. 2122-23 du code susmentionné, il est systématiquement rendu
+compte, en début de chaque réunion de l’organe délibérant, de son utilisation.
+        En application de l’article L. 2122-18 du CGCT, « le maire est seul chargé de
+l’administration, mais il peut, sous sa surveillance et sa responsabilité, déléguer par arrêté une
+partie de ses fonctions à un ou plusieurs de ses adjoints et à des membres du conseil municipal ».
+       Ainsi, plusieurs conseillers disposent d’une délégation de fonction dans leurs domaines
+respectifs et d’engagement des dépenses à hauteur de 214 000 € hors taxes ; l’un d’entre eux
+étant également délégué à la présidence de la commission d’appels d’offres. Deux autres
+conseillers disposent d’une délégation de pouvoir et de signature de même nature avec
+un plafond d’engagement fixé à 10 000 € hors taxes. Pour leur part, cinq autres membres du
+conseil bénéficient d’une délégation de fonction dans leur domaine de compétence sans
+possibilité d’engagement comptable.
+        Aux termes de l’article L. 2122-19 du même code, « le maire peut donner, sous sa
+surveillance et sa responsabilité, par arrêté, délégation de signature au directeur général des
+services et au directeur général adjoint des services de mairie, au directeur général et au
+directeur des services techniques, aux responsables de services communaux ».
+        La directrice générale des services dispose d’une délégation de signature des documents
+administratifs et comptables relatifs à l’engagement des dépenses jusqu’à 25 000 €.
+D’autres agents bénéficient d’une délégation de même nature plafonnée à 10 000 €,
+à l’exception de l’un d’entre eux dont le plafond est fixé à 500 €.
+        L’ensemble de ces délégations n’appelle pas de remarque. Elles sont toutes signées de
+la maire et du bénéficiaire, consignées au registre des actes et transmises au représentant de
+l’État. De plus, sur les exercices les plus récents (2023 et 2024), aucun mésusage n’a été
+constaté, ni aucun dépassement du seuil d’engagement des dépenses.
+
+
+1.3.3 Un règlement budgétaire et financier conforme aux attendus
+
+       Depuis le 1er janvier 2024, la commune a adopté l’instruction budgétaire et comptable
+M. 57 en lieu et place de la M. 14. L’article L. 1612-30 du CGCT précise qu’elle doit établir
+son règlement budgétaire et financier avant cette adoption, ce qui a été fait par délibération du
+11 décembre 2023.
+        L’article susvisé prévoit que ce document détaille les modalités de gestion des
+autorisations de programme, des autorisations d’engagement et des crédits de paiement,
+notamment les règles relatives à la caducité et à l’annulation des autorisations. Les modalités
+d’information de l’organe délibérant sur les engagements pluriannuels au cours de l’exercice
+doivent y être définies. Il peut, enfin, être indiqué les modalités de report des crédits de paiement
+et, d’une façon générale, le cadre de l’ensemble de la gestion budgétaire et financière.
+
+
+
+
+                                                 8
+                                                                                    COMMUNE DE DAINVILLE
+
+
+
+
+        En l’espèce, le règlement contient tous les éléments prévus. Il reprend les principes
+budgétaires (annualité, unité, universalité et équilibre) et comptables (régularité, permanence
+des méthodes, image fidèle et prudence), le cycle budgétaire et le vote du budget, et détaille
+la gestion des autorisations de programme et des crédits de paiement. La chambre relève,
+en outre, un effort de personnalisation au regard des enjeux propres à la commune, notamment
+en ce qui concerne la gestion et le contrôle des régies.
+
+
+
+1.4 Une tenue de la comptabilité d’engagement à conforter
+
+       Par application de l’article L. 1612-38 du CGCT, la commune tient une comptabilité
+d’engagement de ses dépenses et de ses recettes. Elle dispose, pour ce faire, d’un logiciel
+financier comprenant un module relatif à l’engagement juridique et comptable des dépenses et
+des recettes. Celui-ci contient les informations nécessaires à leur suivi : numéro de tiers et
+de marché, date de l’engagement juridique et comptable, numéro et libellé de l’engagement,
+etc. De plus, la commune produit, à chaque fin d’exercice, un état des restes à réaliser dont les
+montants sont conformes au budget primitif de l’année suivante et au compte de l’exercice clos.
+
+
+1.4.1 Une procédure d’engagement des dépenses à respecter systématiquement
+
+        Sur la base d’une extraction exhaustive des engagements juridiques et comptables
+enregistrés entre le 1er janvier 2025 et le 17 novembre 2025, la chambre a mis en évidence des
+écarts récurrents au principe d’antériorité de l’engagement sur la liquidation et le mandatement.
+         D’une part, 203 dépenses engagées et mandatées, représentant 11 % des mandats émis
+sur la période, ne comportent aucun numéro d’engagement. La commune indique que cette
+situation résulte des modalités de paramétrage et de fonctionnement du logiciel comptable7.
+Cet élément technique ne doit, cependant, pas obérer sa capacité à garantir la traçabilité et
+la fiabilité du processus d’engagement.
+        D’autre part, 354 dépenses, soit 21 % des mandats examinés, ont fait l’objet d’un
+engagement à une date postérieure ou concomitante à celle d’émission de la facture. Parmi elles,
+198 dépenses, représentant 12 % du total, ont été engagées postérieurement à la réception de
+la facture. Ces constats traduisent un non-respect du principe d’antériorité de l’engagement
+juridique et comptable. La commune a apporté plusieurs éléments explicatifs, notamment
+les conséquences de la journée comptable complémentaire ou le caractère urgent de certaines
+dépenses. Elle reconnaît, néanmoins, qu’une part non négligeable des engagements postérieurs
+au mandatement résulte d’omissions imputables aux services gestionnaires.
+
+
+
+
+7
+    Si, dans la majorité des cas, une facture correspond à un engagement et à un mandatement unique, certaines factures
+    sont rattachées à plusieurs bons de commande. Le système engendre alors autant de lignes de liquidation que
+    d’engagements, sans permettre l’association d’un numéro d’engagement unique à la dépense concernée.
+
+
+
+
+                                                          9
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La chambre rappelle à la commune la nécessité de respecter strictement le circuit de la
+dépense, impliquant un engagement juridique, puis un engagement comptable, préalables à
+toute émission ou réception de facture et, a fortiori, antérieurs à tout mandatement. Le respect
+de cette séquence conditionne la sincérité des inscriptions budgétaires, la fiabilité de la chaîne
+comptable et la sécurisation juridique des opérations de dépense.
+        En réponse aux observations provisoires de la chambre, la maire indique, sans pièces
+justificatives à l’appui, avoir engagé plusieurs mesures correctrices. Celles-ci portent sur
+le rappel des règles applicables à la procédure d’engagement juridique et comptable,
+le renforcement du contrôle exercé par le service financier avant le mandatement, ainsi que
+l’organisation de réunions de sensibilisation à destination des services gestionnaires.
+Elle précise également avoir sollicité l’éditeur de son logiciel comptable afin d’en améliorer le
+paramétrage.
+
+
+ Rappel au droit n° 1 : tenir une comptabilité d’engagement, en application de l’article
+ L. 1612-38 du code général des collectivités territoriales et des articles 11 et 30 du décret
+ du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
+
+
+1.4.2 Des restes à réaliser comptablement justes
+
+        Le règlement budgétaire et financier détaille la procédure de computation des restes à
+réaliser en dépenses et en recettes. Sur la base de l’état 2024 correspondant, la chambre s’est
+assurée de leur correct enregistrement. Eu égard à leur volume, elle a procédé par échantillonnage.
+       La commune a fourni l’ensemble des pièces justificatives et des états de paiement et
+d’encaissement des exercices précédents permettant de s’assurer de leur fiabilité. Ainsi, leur
+procédure d’enregistrement n’appelle pas de remarque et la chambre relève le caractère
+comptablement juste des restes à réaliser contrôlés.
+
+
+1.4.3 Une procédure de rattachement efficace
+
+       La commune a formalisé une procédure interne de rattachement des charges et des
+produits à l’exercice. À la clôture de chaque trimestre, une extraction exhaustive de l’historique
+des engagements est réalisée à partir de l’outil de gestion financière. Cette opération permet
+d’identifier l’ensemble des engagements en cours, et plus particulièrement ceux demeurant non
+soldés à la date d’extraction.
+        Les engagements non soldés font ensuite l’objet d’une ventilation par service
+gestionnaire. La liste correspondante est transmise à l’agent référent de chaque service
+concerné, auquel il est accordé trois semaines pour procéder à l’examen individualisé de chaque
+engagement et renseigner, dans le tableau transmis, la mention appropriée. L’engagement peut
+être conservé lorsqu’il correspond à une dépense justifiée et que le service fait est avéré ou
+en cours de validation ; il peut être supprimé lorsqu’il est devenu sans objet, notamment en cas
+d’abandon du projet, d’erreur initiale ou de non-exécution de la prestation ; il peut enfin être
+ajusté lorsque le montant initial doit être modifié afin de tenir compte d’un devis actualisé,
+d’une modification de commande ou de tout autre élément financier nécessitant correction.
+
+
+
+
+                                                10
+                                                                            COMMUNE DE DAINVILLE
+
+
+
+
+        À l’issue du délai imparti aux services, les tableaux complétés sont centralisés par
+le service financier, qui en assure la consolidation et procède, sur cette base, à l’actualisation
+des engagements de l’exercice en cours (année N) dans le logiciel de gestion comptable.
+        En fin d’exercice, le service de comptabilité met en œuvre une écriture traduisant
+l’existence d’une obligation née au cours de l’année N, bien que son paiement effectif
+intervienne en année N+ 1. Cette opération se matérialise, d’une part, par l’émission d’un
+mandat imputé sur l’exercice N, constatant la charge au titre de l’exercice auquel elle se
+rapporte et, d’autre part, par l’enregistrement corrélatif, sur l’exercice N+ 1, d’une écriture
+d’annulation de mandat, destinée à neutraliser l’impact budgétaire lors du décaissement effectif.
+       La procédure de rattachement, dont l’architecture organisationnelle et les modalités
+formelles n’appellent pas d’observation particulière, est respectée dans la pratique courante de
+la commune.
+
+
+
+1.5 Un patrimoine plutôt bien suivi
+
+
+1.5.1 Un inventaire physique des biens à établir
+
+       La commune ne dispose pas d’un inventaire physique de ses biens sur lequel son
+inventaire comptable viendrait s’appuyer. Or le Recueil des normes comptables pour les entités
+publiques locales8, qui a valeur réglementaire, et l’instruction budgétaire et comptable M. 57
+imposent la tenue d’un inventaire physique répertoriant l’ensemble des biens immobilisés.
+     La chambre rappelle cette obligation, afin de renforcer la fiabilité du suivi des
+immobilisations de la commune.
+
+
+    Rappel au droit n° 2 : établir un inventaire physique des biens, conformément aux
+    prescriptions du Recueil des normes comptables pour les entités publiques locales et de
+    l’instruction budgétaire et comptable M. 57.
+
+        En réponse aux observations provisoires de la chambre, la maire a transmis un document
+qualifié d’inventaire physique du patrimoine de Dainville. La chambre observe qu’il est très
+incomplet et ne recouvre que 0,4 % de l’actif brut de la commune. La maire s’engage à
+poursuivre les efforts entrepris pour garantir son exhaustivité et la concordance avec
+les données comptables.
+
+
+
+
+8
+     Conseil de normalisation des comptes publics, Recueil des normes comptables pour les entités publiques
+     locales, janvier 2024, norme n° 6, p. 86 et s.
+
+
+
+
+                                                     11
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1.5.2 Un inventaire comptable et un état de l’actif présentant un écart limité
+
+       La commune dispose d’un inventaire comptable de ses immobilisations. Celui-ci fait
+mention du numéro d’inventaire, du libellé de désignation du bien, du type d’immobilisation,
+de la valeur et de la date d’acquisition, de la durée et de la date de début d’amortissement,
+du montant des amortissements de l’exercice et des précédents et, in fine, de la valeur nette
+comptable.
+        Au 31 décembre 2025, la valeur nette comptable du patrimoine du budget principal
+s’établit à 37,2 M€ (i.e. valeur brute de 39,7 M€ avant cessions, amortissements antérieurs
+cumulés de 2,3 M€ et dotations aux amortissements de l’exercice de 0,2 M€). L’état de l’actif,
+tenu par le comptable public, valorise, pour sa part, le patrimoine à hauteur de 34,9 M€,
+correspondant à une valeur brute de 37,5 M€ et à des amortissements cumulés de 2,3 M€.
+L’écart constaté entre les deux documents s’élève ainsi à 2,3 M€, soit 6,2 % de l’actif valorisé
+par la collectivité.
+        Cet écart est d’ampleur limitée au regard du volume global, ce qui témoigne d’un niveau
+satisfaisant d’articulation entre la comptabilité patrimoniale de l’ordonnateur et celle du
+comptable, contribuant à la fiabilité de l’information financière et à la qualité du suivi des
+immobilisations.
+
+
+1.5.3 Un transfert des immobilisations achevées globalement maîtrisé
+
+        Les constructions non terminées en fin d’exercice sont enregistrées aux comptes du
+chapitre 23 « immobilisations en cours ». À l’achèvement des travaux, la commune doit
+procéder à leur intégration dans son patrimoine en transférant les opérations sur un compte
+définitif d’immobilisations (comptes du chapitre 21).
+        Sur la période, la part des immobilisations en cours est maîtrisée, bien qu’elle augmente
+légèrement sous l’effet des investissements engagés à partir de 2022. Ce solde traduit un correct
+transfert des immobilisations en cours une fois celles-ci livrées ou mises en service.
+        Un toilettage est néanmoins possible pour parfaire le suivi du patrimoine, puisque
+certaines immobilisations inscrites au chapitre 23 semblent relativement anciennes et doivent
+être transférées au chapitre 21, comme l’illustre le tableau n° 5 de l’annexe n° 1.
+
+
+1.5.4 Des dotations aux amortissements qui n’appellent pas de remarque
+
+      Par délibération du 25 septembre 2023, la commune a fixé les durées d’amortissement
+conformes aux articles L. 2321-1 et R. 2321-1 du CGCT et à l’instruction budgétaire et
+comptable M. 57.
+       Le principe du calcul des dotations aux amortissements au prorata temporis est mis
+en œuvre au sein de la commune, les fiches d’immobilisation prévoyant explicitement une date
+de mise en circulation ou de livraison. Les montants des dotations n’appellent pas de remarque.
+
+
+
+
+                                               12
+                                                                       COMMUNE DE DAINVILLE
+
+
+
+
+1.6 Un contrôle efficace de l’ensemble des régies
+
+
+1.6.1 Des régies d’avances et de recettes nombreuses et régulières
+
+        Après un travail de refonte en 2022, la commune dispose de sept régies d’avances et six
+régies de recettes (cf. tableau n° 7 en annexe n° 1).
+       Le nombre de régies, au regard de la taille de la collectivité, apparaît justifié par la
+nécessité d’une gestion simple et rapide des dépenses et des recettes.
+       S’agissant des régies d’avances, la commune a créé des régies pour le fonctionnement
+des centres de loisirs (petites vacances, mercredis et temps d’accueil périscolaires), ainsi que
+des régies spécifiques pour les centres de juillet et d’août, chacune assortie d’une sous-régie
+« ados ». Ces dernières répondent à des contraintes opérationnelles liées aux déplacements et
+aux séjours, en permettant aux responsables concernés d’engager directement des dépenses
+courantes (alimentation, petit matériel) dans des conditions sécurisées et adaptées à
+l’organisation des activités.
+       Des régies ont également été instituées pour les classes de neige, afin de faire face à
+d’éventuelles dépenses urgentes sur place, pour le jumelage avec l’Angleterre, impliquant la
+désignation d’un régisseur accompagnateur, pour les manifestations diverses et menues
+dépenses relevant du fonctionnement courant, ainsi que pour le relais petite enfance, au sein du
+budget annexe correspondant, afin de faciliter le règlement des dépenses liées aux animations.
+        Concernant les régies de recettes, la commune en a maintenu six, dont les actes
+constitutifs précisent la nature des recettes pouvant être encaissées. Cette organisation vise à
+adapter les modalités d’encaissement aux spécificités des services concernés et à assurer une
+gestion distincte et sécurisée des flux financiers. La régie périscolaire permet l’encaissement
+des recettes liées à la cantine et aux garderies, tandis que la régie « loisirs » concerne celles
+des centres de loisirs. La commune a fait le choix de distinguer ces deux régies, afin de tenir
+compte de modalités de paiement différentes et de simplifier les démarches des usagers, la régie
+« loisirs » acceptant notamment des chèques vacances.
+        Une régie spécifique a également été instituée pour la médiathèque et la ludothèque, pour
+permettre l’encaissement direct des abonnements et des ventes d’ouvrages sur le lieu d’accueil
+du public. La régie « location de salle » concerne les recettes liées à la mise à disposition des
+salles communales et implique un suivi particulier, notamment en matière de cautions.
+        Enfin, des régies existent pour certaines activités ou événements plus ponctuels : la régie
+« animations aînés », utilisée lors de repas ou de sorties exceptionnelles, la régie « tennis »,
+active sur une partie de l’année pour l’utilisation des équipements sportifs, et la régie « dons et
+quêtes à mariages », destinée à l’encaissement des dons recueillis à cette occasion.
+         L’ensemble des arrêtés institutifs et modificatifs ont été transmis et n’appellent pas de
+remarque sur la forme et sur le fond. En particulier, l’objet de la régie, la nature des recettes et
+des dépenses, et le montant d’avance, le cas échéant, sont définis. De même, les régisseurs
+titulaires et suppléants, les sous-régisseurs et les mandataires simples sont dûment désignés et
+remplacés en cas de mouvement dans les effectifs municipaux. Le montant de l’encaisse et de
+l’avance est également indiqué.
+
+
+
+
+                                                13
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1.6.2 Un contrôle des régies dûment effectué
+
+       Aux termes de l’article R. 1617-17 du CGCT, « les régisseurs de recettes, d’avances
+ainsi que de recettes et d’avances ainsi que les régisseurs intérimaires et les mandataires sont
+soumis aux contrôles du comptable public assignataire et de l’ordonnateur ou de leurs délégués
+auprès desquels ils sont placés ».
+       Depuis 2020, le comptable public a procédé à plusieurs contrôles des régies de
+la commune. Ces vérifications n’ont pas mis en évidence d’anomalie substantielle.
+Seulement quelques points de vigilance ont été relevés, tels que le dépassement très ponctuel
+du plafond d’encaisse autorisé, situation également signalée par la commune au cours du
+contrôle.
+       Pour sa part, la collectivité a mis en place un suivi mensuel de l’ensemble de ses régies.
+Les contrôles internes portent, entre autres, sur la vérification du carnet à souches, des bulletins
+de versement, des chèques encaissés ainsi que des pièces justificatives associées aux opérations.
+À la demande de la chambre, la collectivité a transmis les justificatifs des contrôles réalisés sur
+plusieurs régies, notamment celles relatives aux « manifestations diverses et menues
+dépenses », aux « classes de neige », au « périscolaire » et aux « animations des aînés ».
+Les éléments produits attestent de la réalité des vérifications opérées par la commune et
+n’appellent pas d’observation particulière.
+        Dans ces conditions, la commune assure un contrôle régulier et rapproché de l’ensemble
+des régies. Les vérifications réalisées, tant par le comptable public que par les services
+communaux, n’ont pas permis de mettre en évidence d’anomalie significative. Le contrôle
+interne de la commune est efficace et permet une maîtrise des risques associés à un nombre
+élevé de régies, dont une partie fonctionne ponctuellement.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       La gestion comptable et financière de la commune est de qualité. Les principaux risques
+sont maîtrisés. Il en résulte des comptes fiables qui offrent une image fidèle de son activité et
+autorisent la chambre à réaliser une analyse financière du cycle courant d’exploitation et
+du bilan sans procéder à des retraitements significatifs.
+       Quelques marges d’amélioration demeurent néanmoins. La commune doit veiller au
+respect du principe d’antériorité de l’engagement juridique et comptable sur les phases de
+liquidation et de mandatement pour l’ensemble de ses dépenses, ce qui implique une application
+rigoureuse des règles de la comptabilité d’engagement et du circuit de la dépense.
+       Par ailleurs, si le suivi comptable et financier de son patrimoine apparaît satisfaisant,
+la commune doit pour autant tenir un inventaire physique conforme aux dispositions du Recueil
+des normes comptables pour les entités publiques locales et de l’instruction budgétaire et
+comptable M. 57.
+
+
+
+
+                                                14
+                                                                      COMMUNE DE DAINVILLE
+
+
+
+
+2 UNE SITUATION FINANCIÈRE ÉQUILIBRÉE ET SAINE
+
+       Dainville dispose d’un budget principal et d’un budget annexe « relais petite enfance »
+pour un montant consolidé moyen (hors flux réciproques) de 8 M€, dont 4,9 M€ en section de
+fonctionnement et 3,1 M€ en section d’investissement. Le budget principal représente la
+quasi-totalité des dépenses (98,9 %, soit 7,9 M€ en moyenne). L’analyse financière de la
+chambre porte donc uniquement sur ce dernier.
+
+
+
+2.1 Des outils de pilotage financier de qualité
+
+       Face à un risque de dégradation des équilibres financiers à la fin des années 2010,
+la commune a fait réaliser un audit financier rétrospectif et prospectif afin de connaître les
+facteurs qui sous-tendaient sa situation financière et de permettre au conseil municipal de
+disposer d’une image claire et objective de celle-ci.
+        L’analyse 2019-2022 a mis en évidence une capacité d’autofinancement globalement
+stable, malgré un accroissement des dépenses de gestion d’abord imputable à la progression des
+charges de personnel, en particulier celles liées aux agents non-titulaires et aux dispositifs
+d’insertion. Cette dynamique des charges a, toutefois, été compensée par une évolution
+favorable des produits de gestion, notamment des dotations et de la fiscalité locale, ce qui a
+permis de préserver un niveau d’autofinancement satisfaisant, à hauteur de 38 % des dépenses
+d’équipement. Celui-ci et les indicateurs de solvabilité, comme la capacité de désendettement
+ou la variation du fonds de roulement net global, apparaissaient maîtrisés.
+         Dans une approche prospective 2022-2026, l’étude alertait, néanmoins, sur le caractère
+difficilement soutenable de la politique d’investissement envisagée. Toutes choses égales
+par ailleurs, elle pointait le risque d’une dégradation continue de la capacité d’autofinancement
+qui pouvait être négative à compter de 2025. Quatre scénarios étaient modélisés. La poursuite
+des investissements sans ajustement dégradait rapidement la situation et conduirait à un recours
+accru à l’endettement. À l’inverse, une limitation des dépenses d’équipement permettait de
+préserver les équilibres financiers, au prix toutefois d’un ralentissement des projets. Un scénario
+reposant sur une hausse modérée de la fiscalité constituait un compromis entre niveau
+d’investissement et soutenabilité financière, sous réserve d’un pilotage rigoureux. La réalisation
+complète du programme d’investissement demeurait envisageable, à condition de réaliser des
+efforts sensibles et durables en matière de dépenses et de recettes de fonctionnement.
+       L’audit, d’une réelle qualité méthodologique, a été pleinement approprié par les services
+qui ont engagé, à la lumière de ses conclusions, un ajustement du programme pluriannuel
+d’investissement de la commune et une réflexion structurée sur l’optimisation des dépenses de
+fonctionnement et la mobilisation de recettes supplémentaires, en s’appuyant principalement sur
+son potentiel fiscal, supérieur aux communes de la même strate du département et de la région.
+        La commune dispose d’outils internes de prospective financière, encore perfectibles mais
+opérationnels, fondés sur l’analyse des tendances passées et l’intégration des effets d’inflation.
+De même, l’incidence des projets d’investissement sur les dépenses de fonctionnement est
+intégrée dans les projections, tout comme le sont les éventuelles fluctuations de la fiscalité
+reversée, notamment du fonds de péréquation de ressources intercommunales et communales.
+
+
+
+
+                                                15
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Au regard des éléments examinés, les instruments de pilotage financier de la commune
+apparaissent structurés et mobilisés de manière cohérente. L’articulation entre audit externe,
+programmation pluriannuelle et outils internes de prospective contribue à sécuriser la trajectoire
+financière et à objectiver les choix d’investissement. La chambre encourage la commune à
+poursuivre le développement de ses outils d’analyse.
+
+
+
+2.2 Un cycle courant de fonctionnement générateur d’autofinancement
+
+                               Principaux ratios financiers du budget principal 2020-2025
+
+                   En M€                     2020           2021      2022      2023      2024      2025
+Produits de gestion                             4,65           4,81      4,98      5,10      5,47      5,43
+ dont impôts locaux nets des restitutions       1,95           1,95      2,06      2,17      2,36      2,38
+ dont fiscalité reversée                        1,42           1,42      1,42      1,42      1,40      1,36
+ dont dotation globale de fonctionnement        0,45           0,44      0,43      0,44      0,45      0,44
+ dont participations                            0,18           0,19      0,21      0,23      0,29      0,34
+ dont autres dotations et participations        0,09           0,14      0,17      0,17      0,18      0,18
+Charges de gestion                              3,74           3,92      4,15      4,48      4,52      4,53
+ dont charges à caractère général               0,94           1,06      1,15      1,31      1,31      1,24
+ dont charges nettes de personnel               2,57           2,64      2,78      2,95      2,97      3,04
+ dont autres charge de gestion                  0,15           0,15      0,16      0,16      0,16      0,16
+ dont subventions de fonctionnement             0,08           0,07      0,07      0,07      0,09      0,09
+Résultat de gestion                             0,91           0,89      0,82      0,62      0,95      0,90
+Résultat financier                            - 0,07         - 0,06    - 0,05    - 0,06    - 0,06    - 0,04
+CAF brute                                       0,85           0,84      0,79      0,56      0,90      0,84
+Annuité en capital de la dette                  0,29           0,22      0,23      0,25      0,28      0,26
+CAF nette                                       0,55           0,62      0,56      0,31      0,62      0,58
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+       Entre 2020 et 2025, les charges progressent à un rythme élevé de 21 %, contre 17 %
+pour les produits. Toutefois, en valeur absolue, leur hausse est comparable (+ 0,79 M€ et
++ 0,77 M€).
+
+
+2.2.1 Des recettes en augmentation, portées par le dynamisme de la fiscalité
+
+         Sur la période, les produits de gestion cumulés sont composés à 42 % d’impôts locaux
+(en moyenne, 2,1 M€), à 28 % de fiscalité reversée (1,4 M€), à 17 % de ressources
+institutionnelles (0,8 M€) et à 9 % de ressources d’exploitation (0,5 M€), le reliquat étant
+constitué d’autres ressources fiscales propres.
+
+
+
+
+                                                       16
+                                                                                  COMMUNE DE DAINVILLE
+
+
+
+
+                           Graphique n° 1 : Évolution des produits de gestion (2020-2025)
+
+                                                                       5,0 M€       5,1 M€      5,5 M€       5,4 M€
+                                               4,7 M€      4,8 M€
+                                                                                                 0,9 M€      1,0 M€
+     Ressources institutionnelles                                                   0,8 M€
+                                                           0,8 M€       0,8 M€
+                                               0,7 M€                                            0,6 M€      0,5 M€
+     Autres produits                                                    0,4 M€      0,5 M€
+                                               0,3 M€      0,3 M€
+     Ressources d'exploitation                                                                   1,4 M€      1,4 M€
+                                                           1,4 M€       1,4 M€      1,4 M€
+     Fiscalité reversée                        1,4 M€
+
+     Autres ressources fiscales propres
+     Impôts locaux                                                                  2,2 M€       2,4 M€      2,4 M€
+                                               1,9 M€      1,9 M€       2,1 M€
+     Produits de gestion
+
+                                                2020          2021       2022        2023         2024        2025
+
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+          2.2.1.1 Des ressources fiscales dynamiques
+       Le produit fiscal, c’est-à-dire les impôts locaux et la fiscalité reversée, représente 74 %
+de ressources de la commune et croît de 10 % depuis 2020 (+ 0,4 M€).
+        Entre 2020 et 2025, le produit de la fiscalité locale directe9 connaît une hausse
+dynamique de 20 % (+ 0,4 M€) sous le double effet des revalorisations des bases taxables
+votées en loi de finances initiale et d’une hausse des taux locaux. En effet, la commune a
+augmenté de 0,5 %, puis de 2 %, les taux des taxes foncières et de la taxe d’habitation sur les
+résidences secondaires10, tenant ainsi compte des recommandations de l’audit de ses finances
+susmentionné. Depuis 2024, les taux des taxes foncières sur les propriétés bâties et non-bâties
+s’établissent respectivement à 43,31 % et 61,38 %, celui de la taxe d’habitation sur les
+résidences secondaires étant de 12,75 %.
+        Au surplus, la réforme de la fiscalité locale a été neutre pour la collectivité par
+le transfert de la part départementale de la taxe foncière sur les propriétés bâties et l’application
+d’un coefficient correcteur d’équilibrage. Ainsi, les compensations au titre des exonérations de
+taxes foncières sont passées de 81 032 € en 2020 à 134 670 € en 2021 et ont continué de croître
+jusqu’en 2025 pour atteindre 161 811 €.
+        La fiscalité reversée en provenance de la communauté urbaine d’Arras représente 26 %
+des produits de gestion de la commune (en moyenne, 1,3 M€). Elle est composée des
+attributions de compensation (1,1 M€) et de la dotation de solidarité communautaire (0,3 M€).
+Si cette dernière est stable sur la période, les attributions de compensation connaissent un léger
+repli de 4 % (- 49 409 €), à l’issue de la réunion de la Commission locale d’évaluation des
+charges transférées du 31 août 2023, et de l’achèvement du transfert de la compétence « parcs et
+aires de stationnement » à l’intercommunalité.
+
+
+
+9
+     Il s’agit de la taxe d’habitation sur les résidences principales jusqu’en 2021, de la taxe d’habitation sur les
+     résidences secondaires et des taxes foncières sur les propriétés bâties et non-bâties.
+10
+     Augmentation de 0,5 % des taux des taxes foncières en 2020, de 0,5 % du taux de taxe foncière sur les
+     propriétés bâties en 2021, de 2 % des taux des taxes foncières et de la taxe d’habitation sur les résidences
+     secondaires en 2024.
+
+
+
+
+                                                         17
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       La fiscalité reversée issue du fonds de péréquation des ressources intercommunales et
+communales est plus marginale (en moyenne, 64 347 €, soit 1,3 % du total des ressources) et
+en baisse de 17 % (- 11 085 €) depuis 2020.
+       Le reste des impôts locaux est presque exclusivement composé des droits de publicité
+foncière et d’enregistrement (en moyenne, 0,2 M€, soit 5 % des produits de gestion).
+Leur produit est stable, en l’absence de modification de taux communaux.
+       In fine, la neutralité de la réforme de la fiscalité locale, couplée à la croissance du produit
+des taxes foncières, sous l’effet d’une hausse des taux et des revalorisations des bases taxables,
+expliquent le dynamisme du produit fiscal de la commune. Le levier fiscal semble désormais
+moins mobilisable en raison des hausses de taux réalisées récemment.
+
+       2.2.1.2 Les ressources institutionnelles en hausse
+       Deuxième source de revenu, les dotations et les participations connaissent une
+augmentation soutenue de 30 % (+ 0,2 M€) depuis 2020. Les dynamiques sont, toutefois,
+contrastées au sein de cet ensemble.
+        La dotation globale de fonctionnement (0,4 M€) est stable. Elle est composée d’une part
+forfaitaire (0,3 M€), en baisse de 9 % (- 30 324 €), et d’une part péréquatrice et de solidarité
+rurale (0,1 M€), en hausse de 19 % (+ 23 960 €), expliquant la stabilité de l’enveloppe globale.
+        Le produit tiré des participations (0,2 M€) est, pour sa part, davantage dynamique
+puisqu’il croît de 85 % (+ 0,2 M€). Celles-ci proviennent de l’État (19 % du total),
+des communes (10 %) et des autres organismes comme la Caisse d’allocations familiales.
+Elles financent, en partie, les actions au titre de « l’espace France Services », des contrats
+d’insertion, ou encore, de l’accueil de jour sans hébergement, notamment les temps
+périscolaires et les centres de loisirs.
+
+       2.2.1.3 Les ressources d’exploitation relativement modestes mais en réelle croissance
+      Les ressources d’exploitation, représentant 9 % des produits de gestion en moyenne
+(0,5 M€), sont particulièrement dynamiques entre 2020 et 2025 (+ 73 %, soit + 0,2 M€).
+       Elles sont principalement composées de prestations de services (0,3 M€) dans le cadre
+de l’accueil de jour sans hébergement, des activités périscolaires, des activités culturelles et
+sportives et diverses sorties, comme les classes de neige, proposées par la collectivité.
+Sous l’effet d’un travail de refonte des tarifs et du développement des activités proposées par
+la commune, le produit tiré des prestations de services augmente de 93 % (+ 0,2 M€).
+        Viennent ensuite les revenus locatifs et les redevances (61 362 €), les remboursements
+de frais du budget annexe « relais petite enfance » (42 469 €), les redevances d’occupation du
+domaine public (26 011 €).
+        Les revenus locatifs et les redevances regroupent la location de la salle municipale et
+d’un immeuble, propriété de la commune, à une société immobilière. Par acte notarié
+du 13 décembre 2024, Dainville a cédé le bien à cette société, ce qui explique la baisse de ses
+revenus locatifs (- 69 %, soit - 45 313 €). Cette cession n’appelle aucune remarque de la
+chambre, le prix étant supérieur à celui de l’avis des « Domaines », le conseil municipal ayant
+régulièrement été informé de cette opération, et le signataire de l’acte notarié ayant disposé
+d’une délégation expresse de la maire.
+
+
+
+
+                                                 18
+                                                                               COMMUNE DE DAINVILLE
+
+
+
+
+       Les redevances d’occupation du domaine public concernent, pour leur part, les
+concessions du cimetière communal et l’exploitation du domaine par la société Orange dans le
+cadre des antennes de réseau téléphonique.
+
+
+2.2.2 Des charges de gestion croissantes sous l’effet des dépenses de personnel,
+      facteur de rigidité pour la commune
+
+        De 2020 à 2025, les charges de gestion sont composées en moyenne à 67 % de dépenses
+de personnel (2,8 M€), à 28 % de charges à caractère général (1,2 M€), à 4 % d’autres charges
+de gestion (0,2 M€) et à 2 % de subventions de fonctionnement (0,1 M€).
+       Croissant de 21 % (+ 0,8 M€) sur la période, ces dépenses semblent se stabiliser depuis
+2024 sous l’effet de la revue de charges effectuée par la commune.
+
+                        Graphique n° 2 : Évolution des charges de gestion (2020-2025)
+
+                                                                           4,5 M€   4,5 M€   4,5 M€
+                                                            4,2 M€
+                                     3,7 M€     3,9 M€
+   Autres charges de gestion
+   Subventions de fonctionnement
+                                                                           2,9 M€   3,0 M€   3,0 M€
+                                                2,6 M€       2,8 M€
+   Charges de personnel              2,6 M€
+   Charges à caractère général
+   Charges de gestion
+                                     0,9 M€     1,1 M€       1,1 M€        1,3 M€   1,3 M€   1,2 M€
+
+                                      2020       2021        2022          2023     2024     2025
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+        Par comparaison avec les communes de la même strate du Pas-de-Calais et des
+Hauts-de-France, les dépenses annuelles de fonctionnement par habitant de Dainville (730 €)
+sont inférieures aux moyennes départementale (987 €) et régionale (1 008 €).
+
+        2.2.2.1 Les dépenses de personnel maîtrisées mais élevées
+        Premier poste de dépense, les charges de personnel connaissent une croissance soutenue
+(+ 15 %, soit + 0,4 M€), bien qu’inférieure à celle des charges de gestion. Cette tendance résulte
+principalement de la rémunération du personnel non-titulaire hors atténuation de charges
+(+ 173 %, soit + 0,2 M€), et dans une moindre mesure, de celle des agents titulaires (+ 1 %, soit
++ 17 904 €). Elle est également la conséquence directe du choix de la commune d’internaliser
+la quasi-totalité des services publics qu’elle propose.
+       La rémunération principale des agents titulaires baisse légèrement (- 3 %, soit
+- 41 426 €), quand les indemnités, dont les indemnités horaires pour travaux supplémentaires,
+connaissent une hausse marquée (+ 20 %, soit + 52 529 €) liée à des extensions du régime
+indemnitaire tenant compte des fonctions, des sujétions, de l’expertise et de l’engagement
+professionnel (Rifseep).
+
+
+
+
+                                                     19
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Concernant le personnel non-titulaire, sa rémunération et ses indemnités augmentent
+significativement (+ 133 %, soit + 0,16 M€) sous l’effet, notamment, du recrutement d’un
+directeur des services techniques et d’agents contractuels, ainsi que de la croissance du temps
+de travail pour assurer les activités proposées par la commune.
+       En 2025, cette tendance s’atténue sensiblement, les charges totales de personnel
+augmentant de seulement 2 % (+ 0,1 M€). Les rémunérations, hors atténuations de charges,
+sont quant à elles stables.
+        Au total, le recrutement d’agents contractuels et l’augmentation du temps de travail
+(effet volume positif), ainsi que l’extension du Rifseep (effet prix positif) ont été sources de
+croissance des charges de personnel. Ils expliquent 50 % de la hausse des dépenses réelles de
+fonctionnement.
+       Par comparaison avec les communes de la même strate, les dépenses annuelles de
+personnel par habitant (481 €) sont pour autant inférieures à celles des communes du
+département (586 €) et de la région (579 €).
+
+       2.2.2.2 Des charges à caractère général en forte augmentation
+      Ces charges évoluent, pour leur part, à un rythme supérieur à celui de l’ensemble des
+dépenses de fonctionnement (+ 40 %, soit + 0,4 M€).
+         Les achats de toute nature (+ 36 %, soit + 0,19 M€), les dépenses d’entretien et de
+réparation (+ 52 %, soit + 63 155 €), les autres services extérieurs (+ 50 %, soit + 54 195 €),
+les dépenses de publicité, publications et relations publiques (+ 103 %, soit + 58 764 €) et
+les frais de transports collectifs (+ 191 %, soit + 22 880 €) sont les principaux pourvoyeurs de
+la hausse des charges à caractère général, en raison de leur poids ou de leur augmentation.
+À l’inverse, les charges de location et de copropriété (- 13 %, soit - 4 669 €), les frais d’assurance
+et bancaires (- 11 %, - 4 046 €), et les dépenses d’honoraires, d’études et de recherches
+connaissent un léger repli concourant à réduire l’ampleur de la croissance de charges à caractère
+général.
+       En 2025, la croissance des charges à caractère général s’atténue, comme l’illustre le
+tableau n° 13 en annexe n° 2 (1,3 M€ en 2024, 1,2 M€ en 2025).
+        La principale cause identifiée de cette dynamique est l’inflation, dans un contexte où la
+collectivité a choisi d’internaliser la majorité des services publics proposés. D’autres éléments,
+comme le développement des activités de la commune, en régie directe, peuvent également
+expliquer l’augmentation des charges à caractère général. Par exemple, les frais de transport
+scolaire de Dainville ont augmenté durant la période.
+      In fine, la croissance de ce poste de dépense représente 48 % de la hausse globale des
+dépenses réelles de fonctionnement de Dainville.
+
+       2.2.2.3 Les autres charges de gestion et les subventions de fonctionnement versées
+       Les autres charges de gestion (+ 7 %, soit + 10 149 €) et les subventions de
+fonctionnement versées à des tiers (+ 7 %, soit + 5 245 €) sont relativement stables depuis 2020
+et pèsent peu dans le total des dépenses.
+
+
+
+
+                                                 20
+                                                                               COMMUNE DE DAINVILLE
+
+
+
+
+       En particulier, les indemnités des élus (0,15 M€), la subvention versée au centre
+communal d’action sociale (22 600 €) et les subventions aux personnes morales de droit privé
+(51 733 €) sont maîtrisées.
+
+
+2.2.3 Un autofinancement confortable à entretenir
+
+       Depuis 2020, l’excédent brut de fonctionnement (résultat de gestion) se stabilise à
+0,8 M€, sous l’effet d’une augmentation équivalente des produits (+ 0,79 M€) et des charges
+(+ 0,77 M€) de gestion. La capacité d’autofinancement brute suit la même tendance et se fixe
+à 0,8 M€, eu égard à un résultat financier négatif stable à - 54 812 € en moyenne.
+Le taux d’autofinancement est, par conséquent, confortable, à 16 % des produits de gestion.
+        Toutefois, l’exercice 2023 a été marqué par une baisse sensible de la capacité
+d’autofinancement qui s’élevait à 0,6 M€, soit un taux de 11 % des recettes de fonctionnement.
+Cette situation s’expliquait par une hausse relativement soutenue des dépenses, notamment des
+charges de personnel et de celles à caractère général, concomitante à une moindre augmentation
+des recettes de fonctionnement, notamment des impôts locaux, comme l’illustre la chute de
+l’excédent brut d’exploitation cet exercice (- 0,2 M€).
+       L’autofinancement net suit la même évolution et enregistre une baisse marquée en 2023,
+les annuités en capital de la dette étant relativement stables d’un exercice à l’autre (0,3 M€).
+       En 2024 et 2025, la situation est rétablie avec un taux d’autofinancement de 16 % et
+15 %. En tendance, la situation financière de la commune est saine, et permet d’honorer les
+échéances bancaires et de dégager des marges pour autofinancer les investissements.
+L’exercice 2023 illustre, toutefois, la nécessité de veiller à un pilotage constant des dépenses
+de fonctionnement, afin de conserver un autofinancement suffisant.
+
+                     Graphique n° 3 : Évolution de l’autofinancement (2020-2025)
+        0,9 M€        0,9 M€                                 0,9 M€          0,9 M€
+                                   0,8 M€
+
+                                                                                           CAF brute
+                                                 0,6 M€
+
+
+
+      0,8 M€        0,8 M€                                   0,9 M€        0,8 M€
+                                 0,8 M€                                                    CAF nette
+                                               0,6 M€
+
+
+           0,6 M€       0,6 M€        0,6 M€       0,3 M€        0,6 M€        0,6 M€      Résultat de
+                                                                                           gestion
+         2020         2021          2022          2023         2024          2025
+
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+       La comparaison de l’autofinancement brut annuel par habitant avec les moyennes
+observées au sein des communes du Pas-de-Calais et de la région Hauts-de-France met
+en évidence un niveau légèrement inférieur à Dainville. Cette collectivité présente en effet une
+capacité brute moyenne de 132 € par habitant, contre respectivement 169 € et 177 € pour
+les communes de référence à l’échelle départementale et régionale.
+
+
+
+
+                                                        21
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2.3 Un financement des investissements relativement équilibré à préserver
+
+                                   Le financement des investissements 2020-2025, en M€
+
+                  En M€                         2020      2021      2022     2023      2024     2025 Cumulé
+CAF brute                                          0,85      0,84     0,79      0,56     0,90     0,84   4,78
+Annuité en capital de la dette                     0,29      0,22     0,23      0,25     0,28     0,26   1,54
+CAF nette                                          0,55      0,62     0,56      0,31     0,62     0,58   3,24
+Recettes d'investissement hors emprunt             0,67      0,95     0,84      0,41     1,96     0,55   5,37
+Financement propre disponible                      1,22      1,57     1,39      0,72     2,57     1,13   8,61
+Dépenses d'équipement                              1,36      1,80     0,89      1,41     2,02     1,21   8,69
+Subventions d'équipement hors AC                      -      0,01        -      0,02        -        -   0,04
+Autres                                                -    - 0,06     0,06      0,01        -        -   0,01
+Besoin ou capacité de financement                - 0,14    - 0,31     0,57    - 0,73     0,55   - 0,08 - 0,12
+Nouveaux emprunts de l'année                          -      0,30     0,30      0,23               0,2   1,03
+Mobilisation du fonds de roulement               - 0,14    - 0,01     0,87    - 0,50    0,55       0,1   0,90
+Encours de dette du budget principal au 31/12      1,80      1,88     1,95      1,92    1,64      1,56      -
+Capacité de désendettement BP en années             2,1       2,2      2,5       3,4     1,8       1,9      -
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+       Depuis 2020, la commune a réalisé 8,7 M€ d’investissement et a versé 37 185 € de
+subventions d’investissement à des tiers, notamment pour des projets comme la rénovation
+énergétique de l’école Brisse et de la salle polyvalente, la préparation du projet de réhabilitation
+du « centre vert », la réfection des vestiaires et des terrains de football, l’implantation d’un
+« pumptrack », etc. Ces dépenses d’investissement apparaissent relativement stables.
+       Par étalonnage, les dépenses annuelles d’investissement par habitant de la commune
+(255 € par habitant en moyenne) sont équivalentes à celles des communes du département
+(267 €) et de la région (275 €).
+
+
+2.3.1 Un autofinancement permettant de financer 38 % de l’investissement
+
+        Le financement propre disponible cumulé est composé à 38 % (3,2 M€) par la capacité
+d’autofinancement nette dégagée par le cycle courant de fonctionnement, et à 62 % (5,4 M€)
+par des recettes d’investissement, hors emprunt. Parmi ces dernières, les subventions
+d’investissement reçues (2,7 M€) représentent 32 % du financement propre des dépenses
+d’équipement. Le produit des cessions (1,4 M€) et le fonds de compensation pour la taxe sur
+la valeur ajoutée (1,2 M€), comptent pour 16 % et 14 % du financement hors emprunt.
+       Le financement propre des investissements repose ainsi sur de l’autofinancement pour
+plus d’un tiers et sur des ressources externes pour deux tiers. La cession d’immobilisations et
+la mobilisation du fonds de compensation pour la taxe sur la valeur ajoutée ont été
+indispensables au financement des projets d’équipement de la commune.
+
+
+
+
+                                                          22
+                                                                                      COMMUNE DE DAINVILLE
+
+
+
+
+                      Graphique n° 4 : Financement des investissements (2020-2025)
+                                                                                               Autofinancement
+
+
+                                                                           2,0 M€
+                   1,8 M€                                                                      Subventions reçues
+
+
+                    0,3 M€                          1,4 M€
+     1,4 M€                                                       1,1 M€
+                                  0,3 M€                                            1,2 M€     FCTVA
+                    0,1 M€
+                                                                  0,1 M€
+                    0,2 M€
+                                  0,2 M€                                            0,2 M€
+     0,2 M€                                                                                    Produit des cessions
+                                           0,9 M€
+     0,2 M€                                                                         0,3 M€
+                                                    0,2 M€
+                    0,6 M€                                        0,7 M€            0,2 M€
+     0,3 M€                       0,6 M€            0,1 M€                                     Nouveaux emprunts
+                                                    0,3 M€
+     0,6 M€         0,6 M€        0,6 M€                          0,6 M€            0,6 M€
+                                                    0,3 M€                                     Dépenses
+                                                                                               d'investissement à
+      2020          2021           2022              2023         2024              2025       financer
+
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+
+2.3.2 Un financement propre parfois insuffisant, sans réelle conséquence pour les
+      équilibres financiers de la commune
+
+        Entre 2020 et 2025, le financement propre disponible cumulé s’élève à 8,6 M€,
+soit 99 % du montant des investissements. Ainsi, la commune était en capacité de financer ses
+investissements sans recourir à l’emprunt ou de mobiliser son fonds de roulement. Le besoin
+de financement cumulé11 n’est, en effet, que de 0,11 M€.
+       Néanmoins, seuls les exercices 2022 (0,51 M€) et 2024 (0,55 M€) enregistrent une
+capacité de financement, résultant d’une cession d’immeubles (1 M€). Le reste de la période
+connaît systématiquement un besoin de financement : 0,14 M€ en 2020, 0,24 M€ en 2021,
+0,71 M€ en 2023, et 75 398 € en 2025. Celui-ci peut parfois être significatif, comme en 2023,
+en raison d’une capacité d’autofinancement en retrait et de recettes d’investissement
+hors emprunt moins élevées qu’habituellement.
+        Pour couvrir une partie du besoin de financement, la commune a recouru à l’emprunt
+(en cumulé, 1 M€) sans toutefois dégrader sa capacité de désendettement12, qui est de
+2,3 années et tend à se réduire depuis 2023. L’encours de la dette de la commune (en moyenne,
+1,8 M€) est en repli sur la période (- 13 %, soit - 0,2 M€), et la capacité d’autofinancement brute
+est stable. Pour financer le reliquat des dépenses d’investissement, la collectivité a mobilisé
+son fonds de roulement, les exercices concernés, bien qu’au total, la variation de celui-ci soit
+positive (+ 0,9 M€).
+
+
+
+
+11
+     Le besoin de financement est la différence entre le financement propre disponible de 8,61 M€ et les dépenses
+     d’investissement de 8,72 M€, soit 0,11 M€.
+12
+     La capacité de désendettement est le ratio de l’encours de dette et de la capacité d’autofinancement brute.
+
+
+
+
+                                                             23
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2.3.3 Un fonds de roulement mobilisable
+
+        Entre 2020 et 2025, le fonds de roulement (1,1 M€ en moyenne) augmente
+significativement (+ 200 %, soit + 1,1 M€) sous l’effet d’une croissance plus soutenue des
+ressources stables (+ 15 %, soit + 4,9 M€) que des emplois immobilisés (+ 12 %,
+soit + 3,8 M€). Cette situation résulte de la croissance supérieure des réserves et des dotations
+(+ 12 %, soit + 4 M€) et des subventions non transférables (+ 28 %, soit + 1,9 M€) par rapport
+à celle des immobilisations corporelles (+ 7 %, soit + 2,2 M€) et en cours (+ 173 %,
+soit + 1,6 €).
+        En l’absence d’incidence du besoin en fonds de roulement (en moyenne, - 0,1 M€13),
+la trésorerie suit la même évolution que le fonds de roulement net global. Celle-ci a, en effet,
+sensiblement augmenté depuis 2020 (+ 130 %, soit + 1 M€) et représente, fin 2025, 141 jours
+de charges courantes, soit un niveau confortable.
+        L’accumulation d’excédents lors des exercices précédents grâce à une maîtrise du cycle
+courant de fonctionnement et les subventions d’investissement reçues dans le cadre des projets
+d’investissement susmentionnés permettent à la commune de disposer d’un fonds de roulement
+confortable et en hausse. Dans le cadre du projet de réhabilitation du « centre vert »,
+elle envisage d’utiliser une partie du fonds de roulement, sur plusieurs exercices, pour financer
+les dépenses d’équipement à hauteur de 1,5 M€.
+        Au total, en dépit d’un autofinancement et de recettes d’investissement hors emprunt
+parfois insuffisants au regard des dépenses d’équipement, la collectivité a su utiliser le recours
+à l’emprunt ou à son fonds de roulement, sans dégrader ses fondamentaux financiers. Pour les
+prochaines années, elle devra veiller à renforcer son taux d’autofinancement ou maximiser
+les subventions reçues afin d’éviter un financement des investissements par des cessions
+d’actifs. Le recours au fonds de roulement constitue également une voie de financement sous
+condition de ne pas le dégrader trop fortement ou de poursuivre, en parallèle, son augmentation
+par l’accumulation d’excédents.
+
+
+
+
+13
+     Le besoin en fonds de roulement est négatif car Dainville dispose de davantage de dettes (en moyenne,
+     0,14 M€) qu’elle n’a de créances (en moyenne, 78 961 €) auprès de ses fournisseurs, sans pour autant dégrader
+     le délai global de paiement qui est de 26,3 jours en janvier 2026 et de 28 jours en moyenne sur la période.
+
+
+
+
+                                                        24
+                                                                     COMMUNE DE DAINVILLE
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       La situation financière de la commune est saine et équilibrée. Les efforts de pilotage
+engagés, fondés sur la mise en place d’outils de gestion adaptés et sur la réalisation d’un audit
+externe dont les conclusions ont été prises en compte, lui ont permis de faire face à plusieurs
+chocs exogènes, notamment l’inflation et la hausse du coût du travail, dans un contexte où
+la quasi-totalité des services publics sont gérés en régie directe.
+       Depuis 2020, le taux d’autofinancement, qui s’établit en moyenne à 16 %, demeure à
+un niveau confortable et permet à la commune de financer une part de ses investissements par
+des ressources issues de son cycle de gestion courant. Cette situation résulte à la fois du
+dynamisme des recettes, en particulier du produit de la fiscalité locale, et d’une évolution
+contenue des charges, malgré l’extension des activités assurées en régie directe.
+        Le financement des investissements repose sur un équilibre globalement maîtrisé,
+mobilisant, outre l’autofinancement, des ressources complémentaires telles que les subventions
+ou les produits issus de cessions d’actifs. Si la commune est ponctuellement amenée à recourir
+à l’emprunt ou à mobiliser son fonds de roulement pour couvrir le solde du besoin de
+financement, ces opérations n’ont pas, à ce stade, altéré ses principaux équilibres financiers,
+notamment sa capacité de désendettement.
+       Pour les prochaines années, elle devra veiller à renforcer son niveau d’autofinancement
+ou à optimiser la mobilisation de financements externes, notamment sous forme de subventions,
+afin de limiter le recours au financement des investissements par des cessions d’actifs.
+La mobilisation du fonds de roulement peut constituer un levier de financement, sous réserve
+de ne pas en altérer excessivement le niveau et de continuer, en parallèle, de dégager des
+excédents.
+       La situation financière actuelle, qui résulte d’efforts de pilotage, ne doit pas conduire à
+relâcher la maîtrise des dépenses de fonctionnement. Les marges de progression des recettes
+apparaissent en effet limitées, comme l’illustre le niveau déjà élevé de l’effort fiscal.
+
+
+
+
+                                               25
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3 LA RÉHABILITATION DU « CENTRE VERT », UN EXEMPLE
+  DE BONNE GESTION
+
+
+3.1 Le « centre vert » et son projet de réhabilitation
+
+       Le projet de réhabilitation du « centre vert », espace de plus de 22 hectares au cœur de
+Dainville, comprend plusieurs phases pour un coût total estimé à 11 M€. La première étape,
+représentant 4 M€ d’investissement, a débuté en début d’année
+        2026 et devrait s’achever à la fin 2027, voire au début de 2028. Elle est centrée sur la
+requalification du plan d’eau et des espaces alentours.
+
+
+3.1.1 Un « centre vert » au cœur de l’espace public Dainvillois
+
+                             Photo n° 1 : Vue aérienne du « centre vert »
+
+
+
+
+Source : commune de Dainville.
+
+
+        Le « centre vert » s’étend de l’avenue Mermoz jusqu’au chemin du Warluquet et inclut,
+notamment, la contre-allée des Iris et l’allée du 8 mai. Ce secteur est réservé aux activités de
+loisirs et de sport. Fréquenté par les habitants de Dainville et des communes voisines, il se
+caractérise par la juxtaposition de plusieurs espaces aux usages et ambiances paysagères
+différenciés.
+
+
+
+
+                                                 26
+                                                                                    COMMUNE DE DAINVILLE
+
+
+
+
+         Au plan urbain, il a pour objectif d’articuler les différents quartiers dainvillois.
+Il est ainsi supposé assurer une continuité entre l’ancien cœur de village situé au sud-est et
+les secteurs d’habitat développés à partir des années 1950 et 1960, ainsi que le quartier du
+Champ Bel Air, au nord-ouest. L’ensemble est irrigué par plusieurs cheminements piétons et
+cyclables. Le cimetière communal, d’une superficie d’environ 1,15 hectare, situé le long de
+l’avenue Lavoisier, occupe une emprise significative au sein du site.
+       Le plan d’eau artificiel et sa cascade, aménagés à la fin des années 1990 et alimentés
+par un système de pompage souterrain, constituent sa partie amont. L’état actuel de cet
+aménagement apparaît toutefois fortement dégradé et caractérisé par la présence de fuites
+importantes, ce qui conduit à identifier sa réhabilitation comme étant prioritaire.
+        Le site accueille un ensemble d’équipements publics comme, par exemple, un complexe
+sportif de football composé d’un terrain d’honneur avec tribunes, de vestiaires et d’un club
+house, ainsi que de deux terrains d’entraînement. Les bâtiments associés ont fait l’objet d’une
+réhabilitation récente, entre 2023 et 2024. Le périmètre comprend également une salle
+associative dite « Mille clubs », un pôle « enfance-jeunesse »14, et une salle polyvalente de
+presque 2 000 m², construite dans les années 1980. Cet équipement est utilisé par les
+associations sportives locales (basketball, tennis, danse, gymnastique) et pour l’accueil de
+diverses manifestations communales. L’état du bâtiment, caractérisé notamment par une
+charpente présentant des contraintes techniques importantes, conduit toutefois à envisager une
+réflexion sur son évolution à moyen terme.
+        Plusieurs équipements sportifs et de loisirs complètent cet ensemble, parmi lesquels un
+« skate park » réalisé en 2019, un « city stade » aménagé en 2007, deux courts de tennis rénovés
+en 2018, un « pumptrack » construit en 2023, et une piste d’athlétisme rénovée en 2025.
+Un boulodrome et plusieurs aires de jeux pour enfants, dont certaines ont fait l’objet d’une
+remise à niveau récente, sont implantés dans cet espace vert.
+       Au nord de ces équipements, une zone « 1AUL »15, inscrite au plan local d’urbanisme
+intercommunal, constitue un espace d’urbanisation future à vocation spécifique « équipements
+publics ou d’intérêt collectif ou de développement touristique ». Le long du chemin du
+Warluquet se situe une zone « AC »16 correspondant à un espace agricole et un corridor
+écologique à maintenir et valoriser.
+
+
+
+
+14
+     Ce pôle regroupe un relais petite enfance, un espace d’animation pour les adolescents et une ludothèque.
+15
+     La zone « 1AUl » est destinée à accueillir des équipements d'intérêt public ou collectif, (équipements sportifs,
+     de transports, de loisirs, médicaux, socio-éducatifs, culturels, etc.) et des équipements à vocation touristique,
+     de services. Les constructions y sont autorisées, soit lors de la réalisation d'une opération d'aménagement
+     d'ensemble, soit au fur et à mesure de la réalisation des équipements internes à la zone prévus par le règlement.
+16
+     Les zones agricoles regroupent les secteurs de la commune devant être protégés en raison du potentiel
+     biologique ou agronomique de bâtiments équipés, ou économique de terres agricoles.
+
+
+
+
+                                                          27
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.1.2 Un projet de réhabilitation porteur d’ambitions
+
+       3.1.2.1 Les difficultés préalables du « centre vert »
+        Afin d’engager le projet de réhabilitation du site dans des conditions satisfaisantes,
+la commune a fait procéder à un diagnostic visant à identifier les principaux atouts et
+les fragilités de cet espace. Cette analyse met en évidence que le « centre vert » constitue un
+espace paysager de taille au cœur du tissu urbain. Elle souligne que, malgré un certain niveau
+de vétusté de plusieurs aménagements, le site conserve une attractivité importante auprès de
+la population.
+        L’analyse pointe, cependant, plusieurs fragilités affectant l’organisation et la
+valorisation du site. Celui-ci se compose, en effet, de trois entités distinctes – un parc
+d’agrément, un complexe sportif et une zone agricole – dont les usages et les fonctions sont
+insuffisamment articulés, d’où un manque d’unité et de cohérence. L’espace demeure
+relativement cloisonné et marqué par des aménagements devenus, pour partie, obsolètes,
+susceptibles de renvoyer une image vieillissante du site et, plus largement, de la commune.
+        Plusieurs éléments illustrent ces limites, parmi lesquels la présence d’un plan d’eau isolé
+et insuffisamment intégré aux dynamiques actuelles d’aménagement, un espace sportif peu
+valorisé et relativement déconnecté du reste du site, ainsi qu’une faible prise en compte des
+enjeux environnementaux. La configuration actuelle des aménagements, leur état et
+les modalités d’entretien mises en œuvre contribuent à une biodiversité limitée au sein de
+cet espace pourtant central dans l’organisation urbaine et paysagère de la commune.
+
+       3.1.2.2 Des ambitions à la croisée des enjeux environnementaux et résidentiels
+        À la lumière du diagnostic établi, la commune a défini les orientations générales du
+projet de réhabilitation, opération structurante à l’échelle communale. Les objectifs assignés
+croisent plusieurs finalités : une valorisation environnementale, une meilleure intégration dans
+l’organisation urbaine et un renforcement de l’attractivité pour les habitants.
+        Dans ce cadre, elle a identifié plusieurs enjeux pour l’évolution du site. Il s’agit de
+conforter la fonction de liaison entre les différents quartiers de la commune, tout en consolidant
+le rôle de lieu de rassemblement pour la population. Elle entend aussi développer une gestion
+écologique et différenciée de cet ensemble paysager. Les ambitions retenues portent,
+par ailleurs, sur l’amélioration de l’accessibilité et des continuités urbaines, ainsi que sur le
+renforcement des cheminements des mobilités douces. La réflexion engagée intègre la
+requalification de l’entrée du site par l’allée du 8 mai, afin d’en améliorer la lisibilité et d’en
+renforcer la dimension paysagère. Enfin, elle envisage d’adapter l’organisation du
+stationnement aux usages existants et aux évolutions attendues, de consolider les liaisons
+piétonnes et cyclables, et de favoriser l’accueil d’événements culturels, sous réserve de la prise
+en compte des contraintes techniques et d’accessibilité associées à ce type de manifestations.
+       Les ambitions définies apparaissent cohérentes au regard des atouts et fragilités mis en
+évidence lors du diagnostic préalable.
+
+
+
+
+                                                28
+                                                                       COMMUNE DE DAINVILLE
+
+
+
+
+3.1.3 Un projet en plusieurs phases
+
+        La commune a fait élaborer un « schéma directeur » destiné à encadrer l’aménagement
+du site sur la décennie à venir. Ce document a vocation à constituer un cadre d’orientation pour
+guider les interventions futures et accompagner l’évolution progressive de certains
+équipements.
+
+
+                                  Projet de réhabilitation de l’ensemble du site
+
+
+
+
+Source : commune de Dainville.
+
+
+        Le projet d’aménagement global comprend la requalification de 15 espaces distincts au
+sein du « centre vert », dont un premier ensemble serait constitué de trois séquences
+paysagères : les « jardins linéaires », les « jardins suspendus » et le « jardin événementiel ».
+Il envisage, notamment, la création d’un mail composé d’un triple alignement d’arbres de haut
+jet, destiné à renforcer la continuité entre les différentes parties du site et à affirmer son unité
+paysagère. Ce dispositif serait complété par des « jardins suspendus », organisés autour de
+larges banquettes végétalisées et d’un espace scénique de petite dimension, ainsi que par un
+« jardin événementiel », conçu comme une vaste pelouse volontairement préservée
+d’aménagements permanents afin de permettre une grande modularité d’usage.
+
+
+
+
+                                                29
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Le projet prévoit également la requalification du « jardin bleu », élément central du futur
+aménagement. Celui-ci serait transformé en un plan d’eau paysager de grande dimension,
+destiné à offrir aux habitants un espace de détente et de promenade au contact de l’eau et d’une
+végétation diversifiée. L’aménagement envisagé comprendrait, notamment, l’installation
+d’îlots végétalisés flottants et la création de berges en pentes douces favorisant les continuités
+écologiques entre milieux aquatiques et terrestres. Il s’articulerait en plusieurs séquences
+paysagères complémentaires, désignées comme « jardin de la flânerie », « jardin polyvalent »,
+« jardins des jeux » et « jardins de loisirs sportifs », aux fonctions différenciées.
+       Enfin, le projet envisage la création, dans la partie nord du site, d’un « espace
+nourricier » destiné à promouvoir des pratiques agricoles plus durables, comme des activités de
+maraîchage, de vergers, d’agroforesterie ou encore d’élevage à petite échelle.
+         La première phase du projet concerne la requalification du « jardin bleu » et des espaces
+qui lui sont associés, comprenant notamment la mare existante et ses abords, ainsi que
+l’aménagement du « jardin linéaire », conçu comme une « coulée verte » structurant la traversée
+du site. Les travaux, qui ont débuté début 2026, devraient s’achever fin 2027 voire 2028.
+       Le coût prévisionnel de cette première tranche était initialement estimé à près de 4 M€,
+sachant que le coût d’ensemble du projet est évalué à 11 M€ (cf. annexe n° 3).
+
+
+3.2 La conduite du projet de réhabilitation du « centre vert »
+
+
+3.2.1 L’appui d’Atelier Nervures en tant que maître d’œuvre
+
+        Afin d’assurer la conduite opérationnelle du projet de réhabilitation, la commune a été
+accompagnée par la société Atelier Nervures, dans le cadre d’un accord-cadre conclu
+le 15 juillet 2021. Les prestations confiées à ce titulaire, réparties entre une tranche ferme et
+plusieurs tranches optionnelles, étaient définies dès l’origine par le cahier des clauses
+techniques particulières, de telle sorte que les candidats étaient en mesure de soumissionner sur
+l’ensemble du périmètre contractuel ainsi constitué.
+        La prestation confiée à Atelier Nervures porte, en premier lieu, sur l’élaboration d’un
+schéma directeur pour l’ensemble du site. À ce titre, il lui appartenait de préciser les principales
+fonctionnalités du site, notamment en matière d’aménagements paysagers et de modalités de
+gestion des espaces verts, ainsi que d’identifier les perspectives d’évolution des équipements
+sportifs, l’organisation des espaces de stationnement et les conditions d’accessibilité et de
+circulation (automobiles, cycles ou piétons). Ce document devait également proposer une
+programmation et un phasage des aménagements dans le temps, en tenant compte des priorités
+identifiées par la commune, ainsi que de sa capacité à porter financièrement et
+opérationnellement les différentes étapes du projet.
+        En second lieu, Atelier Nervures s’est vu confier la réalisation des études techniques
+préalables, la conception du projet et le suivi des travaux de réfection du plan d’eau et de
+ses abords. L’intervention intègre le traitement de la traversée de l’avenue Lavoisier et de la
+contre-allée des Iris, conformément aux orientations du schéma directeur. Le maître d’œuvre
+avait également la charge de mener les études techniques préalables sur la réfection du
+stationnement et de l’accès à la zone sportive.
+
+
+
+
+                                                30
+                                                                       COMMUNE DE DAINVILLE
+
+
+
+
+3.2.2 L’association des habitants
+
+        Afin de favoriser l’appropriation du projet par la population, la commune a engagé,
+au printemps 2022, une démarche de concertation à la suite de la présentation d’une première
+version de l’esquisse en comité de pilotage.
+       Une première réunion participative s’est tenue le 5 avril 2022 en présence d’un groupe
+d’habitants. À la suite de cette rencontre, trois groupes de travail ont été constitués autour des
+thèmes suivants : les aspects techniques du parc, la biodiversité et les usages du site.
+Cette démarche s’est poursuivie pendant plusieurs mois et a notamment pris la forme de
+« balades diagnostic », de relevés réalisés sur site par des habitants, dont des élèves des écoles
+de la commune, ainsi que d’un questionnaire ayant recueilli plus de 400 réponses, soit près
+de 10 % de la population municipale. Ces contributions ont permis l’élaboration d’un
+diagnostic participatif, présenté en octobre 2023 lors d’une réunion publique.
+         Ce document, dont la qualité peut être soulignée, identifie les principaux atouts et
+fragilités du site, ainsi que des points de vigilance, des éléments jugés incontournables et
+plusieurs propositions d’évolution. Il complète utilement le diagnostic initial réalisé par le
+maître d’œuvre, en y intégrant une approche fondée sur les usages et les attentes des habitants.
+Les enseignements tirés ont conduit à faire évoluer la première version de l’esquisse.
+À titre d’illustration, la volonté exprimée par les participants de maintenir un lien direct avec
+l’eau a conduit à intégrer, en complément de berges en pentes douces, l’aménagement d’un petit
+ruisseau destiné notamment à conserver la présence sonore de l’eau au sein du site.
+       À la suite de cette démarche, la commune a poursuivi son effort d’information de la
+population en organisant, entre avril et juin 2025, une exposition en mairie présentant les
+principales caractéristiques et les étapes du projet. Les modalités de financement de l’opération
+y étaient notamment détaillées, incluant le montant prévisionnel de l’emprunt et la part de
+financement sur fonds propres. Par ailleurs, une réunion publique préalable au lancement des
+travaux s’est tenue en janvier 2026.
+       Cette démarche apparaît à double titre vertueuse. Elle a, d’une part, favorisé
+l’appropriation du projet par les habitants et, d’autre part, contribué à assurer une transparence
+accrue quant aux caractéristiques et aux modalités de financement de l’opération.
+
+
+3.2.3 Un suivi régulier par le comité de pilotage et en « bureau élargi »
+
+        Le suivi du projet a ainsi reposé sur un double dispositif : un comité de pilotage chargé
+du suivi opérationnel et des arbitrages liés à la conduite du projet, et une instance d’information
+et d’échanges associant les élus, le « bureau élargi ».
+        La composition du premier a évolué au fur et à mesure de l’avancement des travaux.
+Ce comité regroupe des représentants de la commune, du maître d’œuvre, ainsi que de la
+communauté urbaine d’Arras. Il s’est réuni aux principales étapes du projet, notamment lors de
+l’examen de la faisabilité et de la première esquisse, de la présentation d’une version révisée
+intégrant les résultats de la concertation, de l’identification de pistes d’optimisation financière,
+ainsi qu’aux stades de l’avant-projet et de l’étude de projet.
+        Parallèlement, l’ensemble des grandes étapes du projet a été systématiquement présenté
+lors des réunions du « bureau élargi », instance de gouvernance ad hoc.
+
+
+
+                                                31
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.2.4 La phase de passation des marchés de travaux
+
+       Pour assurer la préparation et la réalisation des travaux, la commune a eu recours à
+plusieurs marchés publics.
+        En premier lieu, la commune a eu recours à plusieurs marchés de services dont le
+montant était inférieur aux seuils imposant des obligations de publicité et de mise en
+concurrence17. Toutefois, dans le respect des principes fondamentaux de la commande
+publique18 et dans un souci de bonne gestion des deniers publics, elle a procédé à une mise en
+concurrence simplifiée selon la méthode dite des « trois devis » pour la prestation de géomètre
+et pour la mission de coordination en matière de sécurité et de protection de la santé.
+       S’agissant de la prestation de géomètre, trois entreprises ont été sollicitées, mais
+seulement deux ont transmis une proposition. Le marché a été attribué à l’opérateur ayant
+présenté l’offre économiquement la plus avantageuse. Pour la mission de coordination
+en matière de sécurité et de protection de la santé, trois devis ont été reçus et l’attribution a
+également été effectuée au profit de l’offre la mieux disante.
+         En second lieu, la commune a alloti l’opération de travaux en six lots distincts,
+conformément à l’article L. 2113-10 du code de la commande publique. Dans le respect de
+l’article R. 2113-1 du même code, les opérateurs peuvent soumissionner à tous les lots sans
+maximum. Les seuils de la procédure formalisée pour les marchés de travaux n’étant pas
+atteints, la passation s’est faite en procédure adaptée. Les lots n° 1, n° 3, n° 4 et n° 5 ont été
+attribués sans difficulté. En revanche, les lots n° 2 et n° 6 ont d’abord été déclarés infructueux,
+puis attribués dans un deuxième temps.
+        Les vérifications de la chambre ont porté sur la procédure de passation des lots n° 1,
+n° 2 et n° 4, en raison de la présence d’un même soumissionnaire pour ces trois lots.
+Les éléments transmis par la commune n’appellent pas d’observation particulière : le rapport
+d’analyse des offres apparaît cohérent avec les dispositions du règlement de consultation et avec
+les propositions remises par les candidats. Les prestataires retenus correspondent, au regard des
+critères définis, aux offres économiquement les plus avantageuses.
+
+
+3.3 La soutenabilité financière du projet de réhabilitation de « centre vert »
+
+3.3.1 Un projet conduit, en partie, sous délégation de maîtrise d’ouvrage de la
+      communauté urbaine d’Arras
+
+       Le projet de requalification du « centre vert » recoupe des compétences communales et
+intercommunales, notamment les mobilités douces, la gestion des milieux aquatiques et la
+prévention des inondations, et les espaces naturels. Dans un souci d’articulation de l’exercice
+des compétences, et conformément à l’article L. 2422-12 du CGCT, la commune assure la
+maîtrise d’ouvrage de la réhabilitation du « centre vert » en tant que maître d’ouvrage unique
+de l’opération. Elle agit au nom et pour le compte de la communauté urbaine d’Arras.
+
+
+17
+     Article R. 2122-8 du code de la commande publique.
+18
+     Les principes fondamentaux de la commande publique sont : la liberté d’accès, l’égalité de traitement des
+     candidats et la transparence des procédures.
+
+
+
+
+                                                      32
+                                                                               COMMUNE DE DAINVILLE
+
+
+
+
+       Par convention du 3 avril 2025, les deux entités ont convenu de cette délégation de
+maîtrise d’ouvrage. Celle-ci prévoit le transfert temporaire des attributions attachées à la qualité
+de maître d’ouvrage de l’opération définies à l’article L. 2421-1 du code de la commande
+publique, notamment la recherche de financements externes et la passation et l’exécution des
+marchés publics.
+        Ses articles 4 et 5 stipulent que « la communauté urbaine d’Arras s’engage à financer
+la part des travaux lui incombant (…) » pour un montant estimatif total de 1,5 M€, dont 1,2 M€
+au titre des mobilités douces et 0,3 M€ au titre de la gestion des espaces naturels, des milieux
+aquatiques et de la prévention des inondations. Il revient à la commune d’assurer le règlement
+de l’ensemble des acomptes et du décompte définitif relatifs à la réalisation des travaux.
+L’intercommunalité rembourse ensuite les sommes correspondantes sur présentation des pièces
+justificatives prévues par la convention.
+        La convention prévoit également que la commune tienne « une comptabilité spécifique
+permettant de retracer les dépenses engagées et les recettes perçues au nom et pour le compte
+de la communauté urbaine d’Arras ».
+        La chambre appelle la commune à se conformer à cette obligation, afin d’assurer un
+suivi précis et continu des flux financiers liés à cette délégation de maîtrise d’ouvrage19.
+       En réponse aux observations provisoires de la chambre, la maire indique que la
+commune a mis en place, à compter du budget primitif 2026, une comptabilité spécifique à
+l’opération de réhabilitation du « centre vert ». Elle précise qu’une régularisation des écritures
+de l’exercice 2025 interviendra en septembre 2026 et que ce mode de comptabilisation sera
+maintenu jusqu’au terme de l’opération afin d’assurer la traçabilité des flux financiers.
+
+
+ Rappel au droit n° 3 : mettre en place une comptabilité spécifique pour retracer les flux
+ financiers entrants et sortants réalisés au nom et pour le compte de la communauté
+ urbaine d’Arras, conformément à l’article 5 de la convention de délégation de maîtrise
+ d’ouvrage entre la commune et son intercommunalité.
+
+       Pour le reste, la convention de délégation de maîtrise d’ouvrage n’appelle pas
+d’observation. Tant dans sa forme que dans son contenu, elle apparaît conforme aux règles
+applicables et ne présente pas de risques juridiques ou financiers significatifs. La mise en place
+d’une telle délégation apparaît, au demeurant, cohérente au regard de l’articulation des
+compétences exercées par la commune et son intercommunalité.
+
+
+3.3.2 Un plan de financement finalisé et sincère
+
+        Sur la base des études d’avant-projet définitif et des études de projet réalisées par le
+maître d’œuvre, qui comportaient une estimation détaillée du coût prévisionnel des travaux par
+lot et corps d’état à partir d’un avant-métré, la commune a élaboré un plan de financement de
+l’opération.
+
+
+19
+     Une première information de cette nature figure au budget primitif 2026, qui prévoit des dépenses et des
+     recettes d’investissement de 0,56 M€ aux comptes 458 « opération pour le compte de tiers », au titre de la
+     restauration écologique de l’étang et des modes doux dans le cadre du transfert de maîtrise d’ouvrage.
+
+
+
+
+                                                       33
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Ce plan, régulièrement actualisé, évalue le coût total de la phase n° 1 à 4,2 M€, dont
+2,7 M€ à la charge de la commune et 1,5 M€ supportés par la communauté urbaine d’Arras.
+Les différents postes de travaux sont ventilés entre elles selon leurs compétences respectives.
+À titre d’illustration, les travaux de terrassement sont estimés à 0,22 M€, dont 92 450 € pris en
+charge par l’intercommunalité au titre de la création du plan d’eau et des aménagements liés à
+la gestion des milieux aquatiques et à la prévention des inondations, le solde étant supporté par
+la commune.
+        Outre une estimation prévisionnelle du coût de l’opération, connue, détaillée et
+régulièrement actualisée, la commune a établi un état prévisionnel des recettes attendues pour
+le financement du projet. La communauté urbaine d’Arras apporte une contribution financière
+de 1,5 M€ au titre de la délégation de maîtrise d’ouvrage. Ce financement est complété par une
+subvention du « Fonds vert », d’un montant de 0,17 M€. Le solde repose sur la mobilisation
+de1,5 M€ de fonds propres par la commune et sur la souscription de deux emprunts pour un
+total de 0,6 M€ auprès de la Banque des Territoires (0,2 M€ en 2025 et 0,4 M€ en 2026).
+        Le plan de financement de la requalification du « centre vert » apparaît à la fois finalisé
+et sincère, seules les recettes ayant fait l’objet d’une notification formelle ayant été retenues.
+Les montants prévus ne semblent pas de nature à fragiliser substantiellement et durablement
+les équilibres financiers de la commune, sous réserve de la poursuite du pilotage financier
+rigoureux qu’elle met en œuvre depuis plusieurs exercices.
+
+
+3.3.3 La cohérence du projet avec les autres politiques publiques locales
+
+       Le projet de requalification du « centre vert », dans sa première phase ou sa mise
+en œuvre plus globale, mobilise plusieurs champs d’intervention et relève de compétences
+partagées. Sa réalisation implique d’articuler les politiques portées par plusieurs personnes
+publiques, au premier rang desquelles la commune et l’intercommunalité. Au-delà de la
+délégation de maîtrise d’ouvrage entre Dainville et la communauté urbaine, plusieurs éléments
+témoignent de l’attention portée à la cohérence extra-communale de l’opération.
+        À l’échelle du territoire arrageois, cette coordination s’inscrit ainsi dans le cadre d’un
+comité de pilotage dit « secteur ouest », mis en place par la communauté urbaine d’Arras.
+Cette instance réunit l’ensemble des acteurs publics et les partenaires concernés par
+l’aménagement, parmi lesquels la communauté urbaine, le département, les communes d’Arras
+et de Dainville, les aménageurs « Territoires 62 » et la société publique locale de l’Artois,
+la direction départementale des finances publiques, l’office public de l’habitat Pas-de-Calais
+Habitat, etc. Cette instance, qui a pour vocation de partager l’état d’avancement des opérations
+menées dans ce territoire, constitue un espace d’échange pour aborder des enjeux transversaux
+susceptibles d’affecter les usagers et les habitants, les problématiques rencontrées présentant
+des caractéristiques largement communes à Arras et Dainville. Le projet de réhabilitation du
+« centre vert » a ainsi été présenté lors de la réunion du 26 juin 2024. Elle a été suivie d’une
+réunion du comité technique, le 14 octobre 2024, selon une composition associant les mêmes
+partenaires institutionnels.
+
+
+
+
+                                                34
+                                                                       COMMUNE DE DAINVILLE
+
+
+
+
+        L’articulation du projet avec les politiques locales se traduit également par une évolution
+du plan local d’urbanisme intercommunal. À ce titre, le zonage de plusieurs parcelles situées
+au nord du parc a été modifié : initialement classées en zone naturelle pour les activités sportives
+et de loisirs, elles ont été requalifiées en parcelles relevant des « corridors de la Trame verte et
+bleue », en cohérence avec les orientations du schéma directeur, qui prévoit l’aménagement,
+dans cette partie du site, d’un « jardin nourricier », espace préservé intégrant des pratiques
+d’agriculture raisonnée. D’autres exemples illustrent cette attention portée à la cohérence des
+politiques, comme le raccordement des pistes cyclables entre Dainville et Arras.
+        Il ressort de ces éléments que la commune a veillé à assurer la cohérence du projet de
+requalification du « centre vert » avec les différentes politiques publiques locales, qu’elles
+relèvent ou non de sa compétence, ce qui concourt à sa réussite.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       Le projet de requalification du « centre vert » présente plusieurs facteurs favorables à
+sa réussite. Il a été élaboré à l’issue d’un diagnostic préalable, et s’inscrit dans une démarche
+associant les habitants et cohérente entre les différentes politiques publiques locales.
+Les phases d’études, de l’esquisse aux études de projet, ont permis à la commune de procéder
+aux ajustements nécessaires au fur et à mesure de l’avancement de l’opération. Sur le plan
+financier, les coûts et les recettes prévisionnelles font l’objet d’une estimation régulière et
+sincère, tandis que le financement du projet apparaît soutenable.
+       La conduite du projet de « centre vert » est un exemple de bonne gestion.
+
+                                                 *
+
+                                               * *
+
+
+
+
+                                                35
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                           ANNEXES
+
+
+Annexe n° 1. Fiabilité des comptes....................................................................................................... 37
+Annexe n° 2. Situation financière ......................................................................................................... 39
+Annexe n° 3. Réhabilitation du « centre vert » ..................................................................................... 43
+
+
+
+
+                                                                     36
+                                                                                   COMMUNE DE DAINVILLE
+
+
+
+
+                                 Annexe n° 1. Fiabilité des comptes
+
+                                    Échantillon des restes à réaliser contrôlés pour 2024
+
+Comptes                                        Libellé                                      Restes à réaliser en €
+  2031     AMO Ferme St Jean                                                                                 33 000
+  2051     Achat logiciel « Ciril »                                                                        1 072,50
+ 21312     PPMS École Brissé                                                                               4 934,24
+ 21312     PPMS École Perrault                                                                             3 035,41
+ 21312     PPMS École Montesquieu                                                                          3 573,44
+ 21312     PPMS École Daudet                                                                               4 934,24
+ 21316     Pose de caveau 1 et 2 places                                                                      20 000
+  2188     Enceintes pour école de musique                                                                 1 120,01
+  2188     Instruments de musique                                                                             1 199
+  2188     Parcours motricité semaine de la petite enfance                                                   819,82
+  024      Vente terrain                                                                                     39 214
+ 13251     CUA Vestiaires douches                                                                            58 450
+ 13251     CUA Vestiaires douches fonds de concours                                                          98 571
+  1321     DETR Vestiaires douches                                                                      106 734,37
+  1328     Ligue de football vestiaires foot                                                                 45 500
+Source : chambre régionale des comptes, à partir de l’état des restes à réaliser 2024.
+
+
+                          Intégrations des immobilisations en cours aux comptes du chapitre 21
+
+                      En M €                              2020       2021     2022       2023     2024      2025
+Immobilisations corporelles en cours - Solde                0,94       2,07     2,19       2,46     3,83      2,57
+Immobilisations corporelles en cours - Flux                 0,64       1,13     0,12       0,27     1,65      0,79
+Immobilisations corporelles - Solde                        32,44      33,08    33,76      34,69    34,07     34,65
+Solde des immobilisations en cours/dépenses
+                                                              0,69     1,15       2,46     1,74      1,90      2,13
+d'équipement de l'année
+Solde des immobilisations en cours/solde des
+                                                         2,9 %       6,3 %    6,5 %      7,1 %    11,2 %    7,4 %
+immobilisations corporelles
+Source : chambre régionale des comptes, à partir des comptes de gestion
+
+
+                              Exemples d’immobilisations transférables au chapitre 21 en €
+
+         Nature               Désignation du bien                      Date                        V.N.C.
+                          VRD espaces verts - école
+          2312                                                       14/12/2018                              16 160
+                          Montesquieu
+                          Travaux de restauration -
+          2312                                                       17/07/2017                              82 441
+                          école Montesquieu
+          2313            Menuiseries extérieures                    31/07/2018                              32 668
+          2315            Travaux rue d'en bas                       28/11/2014                             136 680
+Source : chambre régionale des comptes, à partir des comptes de gestion
+
+
+
+
+                                                         37
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                        Dotations aux amortissements (2020-2025)
+
+         Amortissements en €                2020            2021         2022       2023       2024        2025
+Dotation aux amortissements des
+                                            161 405         177 186      201 273    230 430    276 355     244 076
+immobilisations (charge)
+Amortissement des immobilisations
+                                            161 405         177 186      201 273    230 430    276 355     244 076
+(compte de bilan)
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+                                         Ensemble des régies de la commune en €
+
+                     Nom de la régie                              Montant maximum de l'avance
+                                    Régies d'avances (budget principal)
+Accueil collectif des mineurs (ACM) petites vacances,
+                                                                                                                2 000
+mercredis et temps périscolaires
+ACM juillet et sous régie ados                                                                                  5 760
+ACM août et sous régie ados                                                                                     5 760
+Classes de neige                                                                                                6 000
+Jumelage                                                                                                        3 000
+Manifestations diverses et menues dépenses                                                                      4 600
+                                     Régies d'avances (budget annexe)
+Relais petite enfance                                                                                           1 000
+                                     Régies recettes (budget principal)
+Régie périscolaire                                                                                                 -
+Régie culture/Loisirs                                                                                              -
+Régie médiathèque et ludothèque                                                                                    -
+Location salles                                                                                                    -
+Animations aînés                                                                                                   -
+Régie tennis                                                                                                       -
+Source : chambre régionale des comptes, à partir des éléments transmis par la commune.
+
+
+                      L’apurement des comptes d’attente et d’imputation provisoire (2020-2024)
+
+   Opérations à
+    classer ou à          2020              2021                   2022              2023                2024
+ régulariser en €
+Recettes à classer
+                               93 969            70 143                    2 646              214                  0
+ou à régulariser
+Produits de gestion         4 654 198         4 806 886               4 975 298       5 101 905           5 473 880
+Recettes à classer
+ou régulariser en %
+                          2,0 %             1,5 %                  0,1 %             0,0 %            0,0 %
+des produits de
+gestion
+Dépenses à classer
+                                   29               1 894                       0              0                   0
+ou à régulariser
+Charges de gestion          3 741 744         3 916 039               4 153 926       4 480 503           4 524 071
+Source : chambre régionale des comptes, à partir des comptes de gestion
+
+
+
+
+                                                       38
+                                                                                    COMMUNE DE DAINVILLE
+
+
+
+
+                                   Annexe n° 2. Situation financière
+
+                                          Évolution des ressources fiscales (2020-2025)
+
+             En €                  2020        2021        2022          2023       2024      2025      Variation
+Ressources fiscales propres       2 137 973 2 211 488 2 276 510 2 335 703 2 530 777 2 565 431            20 %
+  dont impôts directs locaux      1 972 550 1 959 495 2 071 920 2 189 462 2 333 913 2 367 212            20 %
+  dont impôts et taxes liés aux
+                                    30 714      25 151         24 893     29 551     28 641    28 627     -7%
+  services
+  dont publicité foncière et
+                                   157 618     239 198     191 736       132 080    141 358   157 117     0%
+  droits d'enregistrement
+  dont restitution et
+  reversements sur impôts          - 24 033    - 13 677    - 16 884      - 17 327   - 9 517   - 7 525    - 69 %
+  locaux
+Fiscalité reversée                1 417 948 1 418 565 1 420 830 1 415 060 1 401 808 1 356 972             -4%
+Fiscalité reversée entre
+                                  1 348 865 1 348 865 1 348 865 1 348 865 1 337 925 1 299 457             -4%
+collectivités locales
+  dont attribution de
+                                  1 073 649 1 073 649 1 073 649 1 073 649 1 024 241 1 024 241             -5%
+  compensation
+  dont dotation de solidarité
+                                   275 216     275 216     275 216       275 216    313 684   275 216     0%
+  communautaire
+Fiscalité reversée par
+                                    69 083      69 700         71 965     66 195     63 883    57 515    - 17 %
+l'intermédiaire d'un fonds
+  dont fonds de péréquation
+                                    66 637      67 737         70 002     64 232     61 920    55 552    - 17 %
+  et de solidarité
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+                                     Évolution des ressources institutionnelles (2020-2025)
+
+              En €                   2020        2021          2022       2023      2024      2025      Variation
+Ressources institutionnelles         735 540     782 191       815 325    845 861   936 884   967 937    32 %
+Dotation Globale de
+                                     450 796     438 601       428 625    437 393   450 884   444 162     -1%
+Fonctionnement
+ dont dotation forfaitaire           325 098     315 562       305 689    305 507   304 780   294 774     -9%
+ dont dotation de solidarité
+                                     125 698     123 039       122 936    131 886   146 104   149 388     19 %
+ rurale
+FCTVA                                  9 275       7 129         9 937      6 270     6 818     8 054    - 13 %
+Participations                       182 307     193 211       211 726    228 898   294 828   337 134     85 %
+ dont État                            12 549      19 267        62 729     54 546    63 325    57 935    362 %
+ dont département                      3 398       6 029         7 350      9 218     6 406     2 044    - 40 %
+ dont commune                         19 262      22 810        23 485     24 019    23 185    34 730     80 %
+ dont autres                         147 099     145 105       118 161    141 114   201 912   242 345     65 %
+Autres attributions et
+                                      93 162     143 250       165 037    173 300   184 191   178 424     92 %
+participations
+ dont péréquation et
+ compensation autre que               81 032     134 670       140 824    150 300   156 822   161 811    100 %
+ DCRTP
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+
+
+                                                          39
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                         Évolution des ressources d’exploitation (2020-2025)
+
+           En €                 2020         2021        2022       2023        2024       2025        Variation
+Ressources
+                                311 382      330 683     445 726    505 281     604 411    537 391      73 %
+d'exploitation
+Ventes diverses, produits
+des services et du
+                                231 527      259 376     367 849    402 819     457 921    447 676       93 %
+domaine et
+remboursements de frais
+  dont domaine et
+                                 17 380       19 864      17 894     18 091      27 851     54 985      216 %
+  récoltes
+  dont travaux, études et
+                                174 450      218 627     299 668    328 655     385 109    346 675       99 %
+  prestations de services
+  dont mise à disposition
+                                 39 696       20 884      48 518     56 069      43 632     46 016       16 %
+  de personnel facturée
+Autres produits de
+                                 79 855       71 308      77 877    102 461     146 490     89 716       12 %
+gestion courante
+  dont revenus locatifs et
+                                 65 254       63 294      58 531     84 743      76 406     19 941      - 69 %
+  redevances
+  dont subventions et
+                                 14 601        8 014      19 346     17 718      70 083     69 775      378 %
+  autres produits
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+                                          Évolution des charges de personnel (2020-2025)
+
+          En €                2020         2021         2022        2023        2024        2025       Variation
+Rémunérations du
+                             1 670 439    1 647 409    1 675 164   1 692 555   1 688 343   1 705 298      2%
+personnel titulaire
+ dont rémunération
+                             1 379 895    1 363 406    1 384 765   1 378 689   1 338 468   1 345 416     -2%
+ principale
+ dont indemnités              290 545       284 004     290 399     313 865     349 875     334 719      28 %
+Rémunérations du
+                              118 670       133 044     190 484     276 834     323 452     316 671      167 %
+personnel non titulaire
+Autres rémunérations           15 798        58 366      58 935      64 073      59 994      43 983      178 %
+Rémunérations du
+personnel hors               1 804 907    1 838 820    1 924 583   2 033 462   2 071 789   2 065 951     14 %
+atténuations de charges
+Rémunérations du
+                             1 716 595    1 752 879    1 873 791   1 955 544   1 933 219   1 948 635     14 %
+personnel
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+
+
+                                                          40
+                                                                                         COMMUNE DE DAINVILLE
+
+
+
+
+                                     Évolution des charges à caractère général (2020-2025)
+
+            En €              2020           2021         2022            2023          2024         2025         Variation
+Achats autres que les
+                              512 129        604 195      583 589         718 112       698 785      652 655        27 %
+terrains à aménager
+Locations et charges de
+                               34 872         30 028       31 372          38 256        30 202       30 601       - 12 %
+copropriétés
+Entretien et réparations      121 243        132 082      152 887         165 532       184 398      193 919        60 %
+Assurances et frais
+                               36 515         22 664       25 162          24 430        32 469       35 512        -3%
+bancaires
+Autres services extérieurs    107 619        110 159      143 369         130 821       161 814      144 448        34 %
+Remboursements de frais        20 406         26 124       26 002          34 922        16 289       16 704       - 18 %
+Honoraires, études et
+                                3 683           814        10 108           8 017         3 146        5 274        43 %
+recherches
+Publicité, publications et
+                               57 158         61 481      113 925         112 829       115 922      112 087        96 %
+relations publiques
+Transports collectifs et de
+biens (y c. transports         11 991         19 026       26 907          37 830        34 871       28 408       137 %
+scolaires)
+Déplacements et missions         136            440             454           722           633          988       625 %
+Frais postaux et
+                               17 553         19 492       21 870          17 820        15 671       16 520        -6%
+télécommunications
+Impôts et taxes (sauf sur
+                               15 072         32 104       14 163          16 652        17 601        4 785       - 68 %
+personnel)
+Charges à caractère
+                              938 378   1 058 609      1 149 808         1 305 944     1 311 801    1 241 899      32 %
+général
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+                  Évolution des autres charges de gestion et des subventions de fonctionnement versées
+                                              (2020-2025)
+
+            En €                 2020          2021         2022            2023         2024         2025    Variation
+Autres charges de gestion        148 088       149 378      155 822         158 808      158 237      157 400   6%
+ dont aides à la personne          1 151         1 275        1 325           1 486        1 326        1 277 11 %
+ dont indemnités (y c.
+                                 145 454       147 218      151 573         156 095      153 993      154 885        6%
+ cotisation) des élus
+ dont pertes sur créances
+                                     1 321          355           328            876        2 751           164    - 88 %
+ irrécouvrables)
+Subventions de
+                                  80 690        65 380          69 280       70 578       85 935       88 541       10 %
+fonctionnement
+ dont subv. aux
+ établissements et services       22 000        22 000          22 000       22 000       25 000       25 000       14 %
+ publics administratifs
+ dont subv. aux personnes
+                                  58 690        43 380          47 280       48 578       60 935       63 541        8%
+ de droit privé
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+
+
+                                                           41
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                     Bilan fonctionnel (2020-2025)
+
+     Au 31 décembre en M€                2020           2021        2022         2023          2024        2025
+Dotations, réserves et affectations         32,33         33,23        34,12       34,84          35,31       36,29
+Différences sur réalisations                - 9,87        - 9,79       - 9,77      - 9,91         - 9,61    - 10,50
+Résultat                                      0,69          0,66         0,59        0,33           0,62       0,59
+Fonds affectés à l'équipement                 6,69          7,33         7,91        8,19           8,92       8,56
+ dont subventions non
+                                             6,69          7,33         7,91            8,19       8,92       8,55
+ transférables
+Ressources propres élargies                 29,84         31,43        32,85           33,45      35,25      34,94
+Dettes financières                           1,80          1,88         1,95            1,92       1,64       1,56
+Ressources stables                          31,64         33,31        34,80           35,37      36,88      36,50
+Immobilisations propres nettes              30,13         30,62        31,19           31,98      31,54      32,32
+ dont autres immobilisations
+                                             0,09          0,07         0,11            0,14       0,11       0,09
+ incorporelles
+ dont immobilisations
+                                            30,04         30,54        31,08           31,81      31,43      32,23
+ corporelles
+Immobilisations en cours                     0,94          2,07         2,19            2,46       3,86       2,57
+Immobilisations nettes
+concédées, affectées, affermées              0,04          0,04         0,04            0,04       0,04       0,04
+ou mises à disposition
+Emplois immobilisés                         31,11         32,79        33,41           34,47      35,43      34,93
+Fonds de roulement net global                0,53          0,52         1,39            0,90       1,45       1,58
+Besoin en fonds de roulement
+                                            - 0,21        - 0,09       - 0,11      - 0,10         - 0,04     - 0,12
+global
+Trésorerie nette                             0,74          0,61         1,49            1,00       1,49       1,69
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+                                      Formation du besoin en fonds de roulement (2020-2025)
+
+                         En €                               2020     2021       2022       2023     2024    2025
+Redevables et comptes rattachés                              51 654 63 683 71 631 70 043 151 132 104 893
+  dont redevables                                            51 654 63 683 55 032 70 043 81 220 62 555
+  dont créances douteuses                                          -        -        -         - 9 122        3 065
+- Encours fournisseurs                                      174 366 149 854 147 313 147 258 200 410 192 252
+Besoin en fonds de roulement de gestion                   - 122 712 - 86 170 - 75 682 - 77 215 - 49 278 - 87 359
+- Dettes et créances fiscales                                     32 3 039           -         -        0         0
+- Autres dettes et créances sur État et collectivités        - 1 661 - 35 879 - 27 539 - 2 343 - 21 329 - 2 741
+- Autres dettes et créances                                  92 582 36 917 58 083 27 012 10 819 36 806
+  dont dépenses à classer ou régulariser                          29 1 894           -         -        0         0
+  dont recettes à classer ou régulariser                     93 969 70 143       2 646       214        0     4 763
+  dont autres comptes débiteurs                                7 253 4 285       3 376       671 11 929 15 452
+  dont compte de rattachement                                - 3 582 - 35 640 49 890 19 579 43 520 41 695
+Besoin en fonds de roulement global                       - 213 665 - 90 247 - 106 226 - 101 885 - 38 768 - 121 424
+Source : chambre régionale des comptes, à partir des comptes de gestion.
+
+
+
+
+                                                          42
+                                                                                  COMMUNE DE DAINVILLE
+
+
+
+
+                         Annexe n° 3. Réhabilitation du « centre vert »
+
+                            Ensemble des marchés publics pour la phase n° 1 de la renaturation
+                                du « centre vert » hors maîtrise d’œuvre
+
+ Année           Type                        Intitulé                 Nb offres       Montant en € TTC
+ 2021 Consultation 3 devis Relevé géomètre                               2                              22 560
+ 2024 Gré à gré            Porter à connaissance                                                         2 160
+                           Mission Coordination en matière de
+                           Sécurité et de Protection de la Santé
+ 2025 Consultation 3 devis                                               3                              11 502
+                           - Niveau II pour l'aménagement du
+                           « centre vert » à Dainville
+                                                                                           Lot 1 : 1 324 258,94
+                                Aménagement du « centre vert » sur                            Lot 3 : 36 147,84
+ 2025 Mapa travaux                                                       14
+                                la commune de Dainville (6 lots)                            Lot 4 : 312 864,04
+                                                                                              Lot 5 : 68 199,16
+                                Aménagement du « centre vert » sur
+                                                                                           Lot 2 : 1 586 573,04
+ 2025 Mapa travaux              la commune de Dainville (2 lots          3
+                                                                                            Lot 6 : 468 424.05
+                                suite infructueux)
+Source : chambre régionale des comptes, à partir des données de la commune de Dainville.
+
+
+                        Coût estimatif de la phase n° 1 du projet de réhabilitation du « centre vert »
+
+                                                   Objet                              Montant en €
+                               Travaux préliminaires                                                   150 000
+                               Le jardin linéaire Sud                                                  197 000
+                               Le jardin linéaire triple alignement                                    255 000
+                               Terrassements                                                            52 000
+                               Cheminements                                                            450 000
+                               Le cœur bleu (plan d'eau)                                             1 460 000
+                               Le jardin de la pénombre                                                180 000
+                               Les gradins paysagers                                                   150 000
+Zone sud de l'avenue Lavoisier
+                               Le promontoire                                                          150 000
+                               Mobilier                                                                 75 000
+                               Accompagnement végétal                                                  175 000
+                               Total HT                                                              3 294 000
+                               Total TTC                                                             3 952 800
+Source : chambre régionale des comptes, à partir des données de la commune de Dainville.
+
+
+
+
+                                                        43
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                Coût total du projet de réhabilitation dans son ensemble
+
+                                           Objet                                 Montant en €
+                        Travaux préliminaires                                                      200 000
+                        Le jardin linéaire                                                         955 000
+                        L'avenue Lavoisier et ses esplanades                                     1 110 000
+                        Les jardins stationnés                                                     380 000
+                        Le jardin du recueil                                                       325 000
+                        Terrassements                                                               70 000
+                        Cheminements                                                             1 010 000
+      Zone Nord         Le jardin de jeux                                                          770 000
+                        Mobilier                                                                   100 000
+                        Accompagnement végétal                                                     565 000
+                        Terrassements                                                               80 000
+                        Cheminements                                                               695 000
+                        Le cœur bleu                                                             1 460 000
+                        Le jardin de la pénombre                                                   180 000
+       Zone Sud         Le jardin d'eau                                                            420 000
+                        Les gradins paysagers                                                      150 000
+                        Le promontoire                                                             150 000
+                        Mobilier                                                                   150 000
+                        Accompagnement végétal                                                     410 000
+                        Total HT                                                                 9 180 000
+                        Total TTC                                                               11 016 000
+Source : chambre régionale des comptes, à partir des données de la commune de Dainville.
+
+
+
+
+                                                     44
+                              RÉPONSE AU RAPPORT
+                       D’OBSERVATIONS DÉFINITIVES
+
+
+                                    COMMUNE DE DAINVILLE
+
+                                                                      (Pas-de-Calais)
+                                                              Exercices 2020 et suivants
+
+
+
+
+1 réponse reçue :
+- Mme Françoise ROSSIGNOL, maire de la commune de Dainville.
+
+
+
+
+Article L. 243-5 du code des juridictions financières :
+« Les destinataires du rapport d’observations disposent d’un délai d’un mois pour adresser au greffe
+de la chambre régionale des comptes une réponse écrite. Dès lors qu’elles ont été adressées dans le
+délai précité, ces réponses sont jointes au rapport. Elles engagent la seule responsabilité de leurs
+auteurs ».
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                Chambre régionale des comptes Hauts-de-France
+                  14, rue du Marché au Filé – 62012 Arras cedex
+
+                    Adresse mél. : hautsdefrance@ccomptes.fr
+
+                   https://www.ccomptes.fr/fr/crc-hauts-de-france
+
+
+
+                                        2
+

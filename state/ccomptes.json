@@ -292,5 +292,33 @@
   "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261119-note-structurelle-Soutiens-Etat-en-faveur-du-sport.pdf",
   "file": "2026-11-21_ccomptes_note-thematique-les-soutiens-de-l-etat-en-faveur-du-sport.txt",
   "chars": 122370
+ },
+ "/fr/publications/departement-de-la-meuse-5": {
+  "title": "Département de la Meuse",
+  "first_seen": "2026-11-22",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-10/GER202650.pdf",
+  "file": "2026-11-22_ccomptes_departement-de-la-meuse.txt",
+  "chars": 178001
+ },
+ "/fr/publications/les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage": {
+  "title": "Les Jeux olympiques et paralympiques de Paris 2024 : bilan financier et héritage",
+  "first_seen": "2026-11-22",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261119-Bilan-JOP-Paris-2024_0.pdf",
+  "file": "2026-11-22_ccomptes_les-jeux-olympiques-et-paralympiques-de-paris-2024-bilan-financier-et-heritage.txt",
+  "chars": 490303
+ },
+ "/fr/publications/commune-de-dainville-pas-de-calais": {
+  "title": "Commune de Dainville (Pas-de-Calais)",
+  "first_seen": "2026-11-22",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/HFR2026-053.pdf",
+  "file": "2026-11-22_ccomptes_commune-de-dainville-pas-de-calais.txt",
+  "chars": 139793
+ },
+ "/fr/publications/association-pour-lenfance-rurale-nord": {
+  "title": "Association Pour l'Enfance Rurale (Nord)",
+  "first_seen": "2026-11-22",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/HFR2026-052.pdf",
+  "file": "2026-11-22_ccomptes_association-pour-l-enfance-rurale-nord.txt",
+  "chars": 77112
  }
 }
