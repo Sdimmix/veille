@@ -1,0 +1,1463 @@
+TITRE: Le projet de transport en site propre de la métropole Toulon Provence Méditerranée (Var)
+PAGE: https://www.ccomptes.fr/fr/publications/le-projet-de-transport-en-site-propre-de-la-metropole-toulon-provence-mediterranee-var
+PDF: https://www.ccomptes.fr/sites/default/files/2026-10/PAR2026-0810.pdf
+
+  RAPPORT D’OBSERVATIONS DÉFINITIVES ET
+                            SA REPONSE
+
+
+
+
+     LE PROJET DE TRANSPORT EN
+        COMMUN EN SITE PROPRE
+              DE LA MÉTROPOLE
+TOULON PROVENCE MÉDITERRANÉE
+
+                                                               (Département du Var)
+
+                                                                          Exercices 2019 et suivants
+
+
+
+
+                        Chambre régionale des comptes Provence-Alpes-Côte d’Azur
+   17, traverse de Pomègues - 13295 Marseille Cedex 08 - www.ccomptes.fr/fr/crc-provence-alpes-cote-dazur
+                     LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                     TOULON PROVENCE MÉDITERRANÉE
+
+
+
+                                            TABLE DES MATIÈRES
+
+
+SYNTHÈSE...................................................................................................................... 4
+RECOMMANDATION .................................................................................................. 5
+INTRODUCTION ........................................................................................................... 6
+     1 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE SUR LE
+       TERRITOIRE DE LA METROPOLE DE TOULON : UN HISTORIQUE
+       ANCIEN QUI A CONNU UNE LONGUE PERIODE DE SUSPENSION
+       ET DES CHANGEMENTS SUBSTANTIELS ....................................................... 7
+        1.1 La situation atypique de la métropole toulonnaise au regard du transport
+            en commun en site propre .................................................................................. 8
+        1.2 Un projet ancien ............................................................................................... 10
+        1.3 Un projet initial jamais réalisé, induisant des fragilités juridiques .................. 11
+        1.4 Un projet initial substantiellement modifié, impliquant d’obtenir une
+            nouvelle déclaration d’utilité publique ............................................................. 12
+     2 LE NOUVEAU PROJET DE BHNS ..................................................................... 13
+        2.1 Des études techniques postérieures à la prise de décision qui viennent
+            conforter le choix politique de la métropole .................................................... 13
+        2.2 Présentation du nouveau projet ........................................................................ 15
+            2.2.1 Le tracé .................................................................................................... 15
+            2.2.2 Phasage .................................................................................................... 16
+        2.3 Un avis favorable mais mitigé sur la nouvelle déclaration d’utilité
+            publique ............................................................................................................ 17
+     3 UN COUT CONSOLIDE QUI EN FERA UN TCSP
+       PARTICULIEREMENT ONEREUX .................................................................... 20
+        3.1 Une fiabilité largement perfectible du suivi financier du projet ...................... 20
+        3.2 Des coûts du BHNS qui ont beaucoup fluctué et augmenté au cours du
+            temps ................................................................................................................ 21
+        3.3 Un plan de financement fragile ........................................................................ 22
+     4 LE VERSEMENT MOBILITE MAJORE : UN FINANCEMENT DEVOYE
+       DE SA FINALITE ................................................................................................. 23
+        4.1 Principe du versement mobilité (VM) .............................................................. 24
+        4.2 Les différentes possibilités de taux du versement mobilité.............................. 24
+        4.3 Deux notions clés à clarifier : le « commencement effectif des travaux »
+            et la nature du versement mobilité additionnel ................................................ 25
+        4.4 Conséquences d’un versement mobilité perçu en l’absence de réalisation
+            d’un TCSP ........................................................................................................ 27
+            4.4.1 Estimation des montants perçus au titre du versement mobilité ............. 27
+            4.4.2 Conséquences .......................................................................................... 28
+ANNEXES ...................................................................................................................... 30
+
+
+
+
+                                                                     2
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+    Annexe n° 1. Réserves de la commission d’enquête.............................................. 31
+    Annexe n° 2. Modalités du versement mobilité ..................................................... 33
+    Annexe n° 3. Évolution du taux de versement mobilité par communes ................ 34
+
+
+
+
+                                                     3
+               LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                               TOULON PROVENCE MÉDITERRANÉE
+
+
+
+                                      SYNTHÈSE
+
+         Le projet de transport en commun en site propre (TCSP) sur le territoire de la
+métropole de Toulon-Provence-Méditerranée (TPM) a connu de multiples vicissitudes depuis
+le début de son lancement, en 1998. Après un premier projet initial de tramway, concrétisé par
+une déclaration d’utilité publique en 2000, il n’a pas été réalisé, puis a été abandonné au profit
+de la finalisation de la traversée routière souterraine de la ville.
+        Le projet a ultérieurement été réorienté vers un nouveau mode de transport, à savoir le
+bus à haut niveau de service (BHNS), ce qui constitue, sur le plan juridique, un projet nouveau,
+différent du précédent.
+        Sans remettre en question le choix du BHNS effectué par la métropole, les avis
+techniques rendus en faveur de ce mode de déplacement peinent à démontrer sa capacité à
+répondre à une hausse de la fréquentation et à favoriser un large développement des mobilités
+douces.
+         L’ancienneté du projet a conduit la métropole, en tant qu’autorité organisatrice des
+mobilités, à engager des dépenses dès 2002. La fiabilité des montants engagés dans ce cadre
+fait l’objet de fortes réserves, tant de la part de la métropole elle-même que de la chambre.
+Toutes choses égales par ailleurs, les dépenses engagées jusqu’en 2024 par la
+métropole Toulon-Provence-Méditerranée pour se doter d’un transport en commun en site
+propre, à ce jour toujours pas en service, s’élèvent à 226,6 M€.
+        Sur le plan financier, la chambre émet par ailleurs des réserves sur la régularité d’une
+recette perçue par la métropole depuis de nombreuses années. En effet, le versement mobilité
+additionnel, censé financer un TCSP dans un cadre bien défini, ne répond pas aux conditions
+requises, le montant des recettes comptabilisées à ce titre depuis le 1er janvier 2009 étant évalué
+à 374,9 M€.
+       Au final, même s’il a le mérite de répondre à un besoin réel, le projet de BHNS souffre
+de son ancienneté, ainsi que des revirements techniques successifs qui obèrent sa capacité à
+absorber une augmentation de la fréquentation et à être un outil de transformation urbaine dans
+un contexte de changement climatique avéré.
+
+
+
+
+                                                4
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                            RECOMMANDATION
+
+Recommandation unique : Fiabiliser les données comptables et financières des travaux du
+BHNS de façon exhaustive afin de permettre le suivi et le contrôle de l’exécution de ce projet.
+
+
+
+
+                                              5
+                 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                 TOULON PROVENCE MÉDITERRANÉE
+
+
+
+                                       INTRODUCTION
+
+        La chambre régionale des comptes Provence-Alpes-Côte d’Azur a inscrit à son
+programme le contrôle des comptes et de la gestion du projet de transport en commun en site
+propre (TCSP) de la métropole de Toulon-Provence-Méditerranée (TPM) pour les exercices
+2019 et suivants.
+         Cette inscription fait suite à la campagne 2024 de participation citoyenne lancée par les
+juridictions financières « permettant à chacun de proposer des thèmes de contrôle ou d’enquête
+répondant aux enjeux et préoccupations actuelles de notre société1 ». Le format retenu pour ce
+contrôle est celui de l’audit flash, qui se caractérise notamment par un périmètre bien circonscrit
+et un format synthétique.
+        Le contrôle a été ouvert par courriers du 10 avril 2025 adressés à M. Jean-Pierre Giran,
+ordonnateur depuis le 4 mai 2023, ainsi qu’à M. Hubert Falco, précédent ordonnateur. Ils en
+ont respectivement accusé réception le 16 avril 2025 et le 5 mai 2025.
+        Lors de sa séance du 10 décembre 2025, la chambre a arrêté ses observations
+provisoires, qui ont été notifiées le 2 février 2026, en intégralité, à MM. Falco et Giran, en leurs
+qualités respectives d’ancien ordonnateur et d’ordonnateur de la métropole TPM et par extraits
+aux tiers intéressés par ce rapport.
+        Dans sa réponse aux observations provisoires, la métropole a contesté la compétence de
+la chambre à examiner des faits antérieurs à la période de contrôle, et a expressément demandé
+la suppression « de tous les commentaires et toutes les considérations portant sur des faits ou
+situations antérieurs à 2019 ». La chambre rappelle que ce contrôle s’est réalisé conformément
+aux normes professionnelles en vigueur, qui permettent à l’équipe de contrôle d’être attentive
+aux « faits qui dépassent la nature ou le champ du contrôle des comptes et de la gestion, mais
+qui peuvent être significatifs au regard des autres travaux de la Cour ou des chambres
+régionales ou territoriales des comptes2». Par ailleurs, ces mêmes normes professionnelles
+prévoient que « à l’occasion d’un nouveau contrôle, la Cour et les chambres régionales et
+territoriales des comptes assurent, dans le cadre de l’instruction, un suivi systématique des
+observations et recommandations formulées lors du contrôle précédent3 ». La compréhension
+et l’évaluation du projet de transport en commun en site propre ne pouvait, à l’évidence,
+occulter la période antérieure à 2019.
+        Après avoir examiné les réponses dont elle a été destinataire, la chambre a arrêté, le
+8 avril 2026, les observations définitives ci-après.
+
+
+
+
+1
+  Présentation de la plateforme citoyenne, sur le site de la Cour des comptes.
+2
+  Normes professionnelles, III, 39
+3
+  Normes professionnelles, III, 89
+
+
+
+
+                                                         6
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE
+  SUR LE TERRITOIRE DE LA METROPOLE DE TOULON :
+  UN HISTORIQUE ANCIEN QUI A CONNU UNE LONGUE
+  PERIODE DE SUSPENSION ET DES CHANGEMENTS
+  SUBSTANTIELS
+
+       Les transports en commun en site propre (TCSP) sont définis comme étant « un système
+de transport public de voyageurs, utilisant une voie ou un espace affecté à sa seule exploitation,
+bénéficiant généralement d’une priorité aux feux et fonctionnant avec des matériels allant des
+autobus aux métros, en passant par les tramways4 ».
+
+                                         Qu’est-ce qu’un TCSP ?
+
+
+
+
+Source : Ministères de la transition écologique, de l’aménagement du territoire, des transports, de la ville et du
+logement, 27 juillet 2017.
+
+
+
+
+4
+ Définition donnée dans l’appel à projets TCSP de 2020 (auquel TPM a répondu), reprenant et complétant une
+définition donnée par le CEREMA.
+
+
+
+
+                                                        7
+                 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                 TOULON PROVENCE MÉDITERRANÉE
+
+
+
+       Le projet de transport en commun en site propre (TCSP5) sur le territoire de l’actuelle
+métropole Toulon-Provence-Méditerranée a connu, résumé à grands traits, trois grandes phases.
+Une première phase de lancement, sous la forme d’un projet de tramway, initiée dès 1998 par
+le syndicat intercommunal de transports ; une phase de suspension, puis une relance du projet,
+mais sous forme d’un projet de bus à haut niveau de service (BHNS)6 à compter de 2016.
+        En réponse aux observations provisoires de la chambre, la métropole Toulon-Provence
+Méditerranée indique qu’ « entre 2002 et 2014, la réalisation concomitante des travaux de la
+traversée souterraine de la ville de Toulon a conduit les élus de TPM à différer les travaux
+lourds du TCSP en centre-ville pendant la durée du chantier ».
+
+
+
+1.1 La situation atypique de la métropole toulonnaise au regard du
+    transport en commun en site propre
+
+       Toulon Provence Méditerranée se distingue des 22 autres métropoles7 françaises dans
+le domaine des transports urbains par deux exceptions.
+         Tout d’abord, c’est la seule qui, à ce jour, ne dispose pas encore de transport en commun
+en site propre (TCSP). Toutes les autres s’en sont dotés, parfois depuis longtemps (1985 pour
+Nantes).
+        Ensuite, c’est, avec l’Eurométropole de Metz8, la seule métropole qui a opté pour un
+bus à haut niveau de service (BHNS), une solution que d’autres métropoles ont également
+retenue (Strasbourg, Marseille…), mais en complément d’un TCSP principal intégralement en
+site propre et sous forme de tramway ou de métro.
+
+
+
+
+5
+  Les transports en commun en site propre désignent les systèmes de transport collectif utilisant majoritairement
+des emprises affectées à leur exploitation et fonctionnant avec des matériels roulants allant du bus au
+métro (Source : Ministère de l’écologie et des transports, appel à projets TCSP).
+6
+  Un bus à haut niveau de service correspond à un bus bénéficiant de site propre sur une majorité de son parcours,
+de priorité aux feux, de larges plages horaires de service (définition CEREMA). Sa taille fait de lui un « hybride »
+entre un bus classique et un tramway.
+7
+  Aix-Marseille, Bordeaux, Brest, Clermont-Ferrand, Dijon, Grenoble, Lille, Lyon, Metz, Montpellier, Nancy,
+Nantes, Nice, Orléans, Paris, Rennes, Rouen, Saint-Étienne, Strasbourg, Toulon, Toulouse, Tours.
+8
+  Metz a opté pour le BHNS en 2009, avec une DUP obtenue en mai 2010 et une inauguration des deux lignes du
+BHNS réalisée le 5 octobre 2013. Le BHNS messin dispose de 18 km de site propre, pour une population de
+236 612 habitants, contre 450 549 pour TPM.
+
+
+
+
+                                                         8
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                    Carte n° 1 : Transports en commun en site propre (TCSP) en France
+                                       situation au 31 décembre 2017
+
+
+
+
+Source : CEREMA, enquête annuelle transports Collectifs Urbains, 2022
+
+
+       Le territoire de TPM a fait l’objet d’une enquête mobilité certifiée CEREMA (EMC2)
+en 2022, de laquelle ressortent les caractéristiques majeures suivantes :
+                 Un taux de déplacement interne à l’aire de TPM élevé (92 % des déplacements
+                  ont leur point de départ et d’arrivée sur le ressort géographique de la métropole) ;
+                 Une part modale de la voiture élevée (41 % en conducteur, 11 % en passager) et
+                  une part modale des transports en commun urbains très faible pour une
+                  métropole (6 %) ;
+                 Une part élevée d’autosolisme9 (1,36 passager par véhicule tous motifs
+                  confondus sur le territoire de l’étude, mais 1,04 pour le motif domicile-travail) ;
+                 Une distance de déplacements moyenne (hors tournées professionnelles et
+                  promenades) de 4,4 km, soit dans la zone de pertinence du vélo.
+
+
+
+
+9
+    Pratique caractérisée par un usage individuel de la voiture, sans autre passager que le conducteur.
+
+
+
+
+                                                           9
+               LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                               TOULON PROVENCE MÉDITERRANÉE
+
+
+
+1.2 Un projet ancien
+
+         Après plusieurs années de réflexion et d’études, le projet d’un transport en commun en
+site propre est réellement lancé le 27 avril 1999 par une délibération du syndicat intercommunal
+des transports en commun de l’agglomération toulonnaise (SITCAT), qui demande le
+lancement de la procédure d’enquête préalable à la déclaration d’utilité publique (DUP) pour la
+réalisation d’un tramway.
+
+                                    Qu’est-ce qu’une DUP ?
+La DUP est une procédure administrative qui permet de réaliser une opération d'aménagement
+sur des terrains privés en les expropriant, précisément pour cause d'utilité publique. Son cadre
+juridique est défini par les articles L. 121-1 à L. 122-7 et R. 121-1 à R. 122-7 du code de
+l’expropriation pour cause d’utilité publique.
+Concrètement, la DUP se prononce à l'issue d'une enquête d'utilité publique, initiée par le préfet
+et visant à recueillir l'avis de toutes les personnes intéressées. Ces avis sont examinés par une
+commission ou par un commissaire enquêteur qui formule des conclusions, favorables ou
+défavorables, sur le projet, ainsi que, éventuellement, des réserves.
+Cette enquête doit durer au moins 1 mois et peut s'appuyer sur une étude d'impact. Depuis 2015,
+l’autorité environnementale doit être saisie « à un stade précoce et avant la réunion conjointe
+des personnes publiques associées ».
+Après la fin de l'enquête, les pouvoirs publics peuvent prononcer la déclaration d'utilité
+publique. Si les conclusions de l'enquête sont favorables, la déclaration peut faire l'objet d'un
+simple arrêté préfectoral. La déclaration d’utilité publique ne peut excéder 5 ans, mais peut être
+prorogée une seule fois pour une durée au plus égale à la durée initialement fixée.
+
+        Ce projet a bénéficié d’une première DUP le 21 décembre 2000 pour « les acquisitions
+des immeubles et les travaux nécessaires à la construction de la première ligne de tramway de
+l’agglomération toulonnaise ». Cette première DUP visait donc explicitement le mode de TCSP
+retenu (en l’occurrence un tramway), le tracé retenu (Le Pradet - Saint-Mandrier-sur-Mer) et
+les aménagements connexes (parkings, pôles d’échanges avec les bus, dépôt-atelier,
+modifications et créations de voiries).
+        Une deuxième DUP modificative a été prise le 2 février 2005 afin de prendre en compte
+des modifications du tracé de la ligne de tramway. Enfin, une dernière DUP en date du
+15 décembre 2005 a été délivrée pour proroger la DUP initiale du 21 décembre 2000,
+« considérant que les acquisitions n’[ont] pu être réalisées dans le délai initialement imparti ».
+Au terme de cette prolongation, la déclaration d’utilité publique, d’une durée de validité de
+5 ans, courait donc jusqu’au 21 décembre 2010.
+        Aussi au-delà de cette date la sécurité juridique des acquisitions foncières par
+expropriations réalisées sous l’empire des DUP de 2000 et 2005 s’avère fragile. En effet, « si
+les immeubles expropriés n'ont pas reçu, dans le délai de cinq ans à compter de l'ordonnance
+d'expropriation, la destination prévue ou ont cessé de recevoir cette destination, les anciens
+propriétaires ou leurs ayants droit à titre universel peuvent en demander la rétrocession
+pendant un délai de trente ans à compter de l'ordonnance d'expropriation, à moins que ne soit
+requise une nouvelle déclaration d'utilité publique ». (Article L. 421-1 du code de l’expropriation).
+
+
+
+
+                                                 10
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+La métropole s’est d’ailleurs engagée dans un travail de mise à jour et de régularisation de ces
+expropriations passées, notamment avec des rétrocessions des acquisitions devenues inutiles.
+
+
+
+1.3 Un projet initial jamais réalisé, induisant des fragilités juridiques
+
+        La première DUP de 2000 a été prorogée en 2005 car « les acquisitions [n’ont] pu être
+réalisées dans le délai initialement imparti, acquisitions préalables au lancement des travaux ».
+         Alors que la communauté d’agglomération venait de conclure un marché de maîtrise
+d’œuvre le 26 mars 2003 et solliciter une prolongation de la DUP du tramway le 5 avril 2004,
+la décision de suspendre le projet initial de tramway n’a fait, dans un premier temps, l’objet
+d’aucune délibération du conseil communautaire. En réponse aux observations provisoires, la
+métropole indique la tenue de « plusieurs bureaux communautaires et un conseil métropolitain
+où la pertinence du tramway a fait l'objet d'échanges entre les élus entre 2005 et 2008 » et
+précise que « le bureau communautaire du 19 septembre 2011 prend d'ailleurs une délibération
+pour promouvoir le BHNS comme mode de TCSP pour le territoire et ce changement fait
+également l'objet d'un débat au conseil communautaire du 10 février 2012 ». Pour autant, elle
+ne fournit aucune pièce à l’appui de ces échanges. Il aura fallu attendre la délibération du
+16 décembre 2016 pour acter officiellement un projet de transport en commun en site propre
+sous la forme d’un bus à haut niveau de service « en lieu et place d’un précédent projet ».
+         La formalisation tardive, en 2016, d’un changement de projet et une nouvelle
+déclaration d’utilité publique correspondant à ce nouveau projet, délivrée fin 2025, posent des
+interrogations sur le plan juridique, au regard des effets que ces délibérations et ces DUP
+antérieures ont continué à produire entretemps, comme la majoration du versement mobilité
+(cf. partie 4 du présent rapport) ou la constitution du support juridique des acquisitions foncières
+réalisées par la voie de l’expropriation.
+         Le principal argument mis en avant pour abandonner le projet initial de tramway réside
+dans la priorité donnée à la circulation routière et à l’achèvement des travaux du second tunnel
+(sens Marseille-Nice), réceptionné en février 2014 et terminant la traversée souterraine de
+Toulon, dont les travaux, pour le tube Nord, ont commencé en 1993. Selon l’ancien ordonnateur
+de TPM, la réalisation du tramway aurait conduit à « la fermeture totale pendant au moins 3 ans
+de l’axe principal du tracé, soit pour Toulon, l’ensemble des Grands Boulevards dont le
+Boulevard de Strasbourg »10, à « sinistrer le territoire tout entier, la ville, le commerce et
+l’économie locale ». Il avance enfin le coût d’un milliard d’euros, non documenté et supérieur
+à l’estimation initiale du projet.
+        Cette estimation financière ne repose sur aucune donnée vérifiable. Par ailleurs, le
+montant provisionnel des travaux du tramway, figurant dans l’acte d’engagement du marché de
+maîtrise d’œuvre notifié en mars 2003 et repris dans le rapport de la commission d’enquête
+publique de 2025, s’élevait à 240 M€.
+
+
+
+
+10
+     https://www.hubertfalco.fr/projet/la-position-dhubert-falco-sur-le-tramway/.
+
+
+
+
+                                                         11
+                 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                 TOULON PROVENCE MÉDITERRANÉE
+
+
+
+1.4 Un projet initial substantiellement modifié, impliquant d’obtenir une
+    nouvelle déclaration d’utilité publique
+
+        La métropole TPM soutient qu’il n’y aurait jamais eu de rupture entre le projet initial
+de 2000 et l’actuel, du fait que tous deux sont des projets de transport en commun en site propre
+(TCSP), et que cette continuité d’un projet de TCSP emporte continuité des supports juridiques
+sur lesquels se fonde ledit projet.
+        Elle estime qu’il s’agit « d’une évolution du projet et non une réelle modification »,
+quand bien même elle présente sa délibération n° 16/12/194 du 16 décembre 2016 comme
+« l’acte juridique formalisant de manière explicite l’abandon du projet de tramway ».
+        En réponse aux observations provisoires, la métropole persiste dans son analyse selon
+laquelle, dans les décisions du tribunal administratif de Toulon du 9 novembre 2012, « la
+question se posait donc uniquement par rapport au cadre juridique restreint de la DUP » et
+que « ces deux décisions présentent un caractère contingent et sont circonscrites à des
+situations bien particulières. Elles ne sont pas incompatibles avec la position défendue par
+TPM reposant sur une continuité du projet initial réorienté vers un mode pneu ».
+        La chambre ne partage pas cette interprétation, qui a par ailleurs été invalidée à plusieurs
+reprises par le juge administratif. En effet, saisi en 2011 sur la légalité de travaux engagés pour
+réaliser un bus à haut niveau de service (BHNS), le tribunal administratif de Toulon a jugé11
+que « contrairement à ce que soutient la communauté d’agglomération12, compte tenu des
+spécificités de chacun de ces modes de transport, tant en ce qui concerne leurs conditions
+d’exploitation que les infrastructures et le matériel roulant qu’ils requièrent, les modifications
+consécutives à la réalisation d’une ligne de bus à haut niveau de service affectent de façon
+substantielle les caractéristiques essentielles de l’opération, telle que celle-ci a été déclarée
+d’utilité publique par l’arrêté du 21 décembre 2000 modifié par l’arrêté du 2 février 2005 et
+méconnaît la portée desdites déclarations d’utilité publique ».
+       Le tribunal administratif de Toulon a également jugé qu’une telle modification
+substantielle du projet initial emportait, aux termes de l’article L. 300-2 du code de l’urbanisme,
+de procéder à une nouvelle concertation.
+        Dans un autre contentieux avec la société Orange13, la cour administrative d’appel de
+Marseille a jugé que « en l’absence de tout acte de la métropole Toulon Provence Méditerranée
+traduisant depuis le début de l’année 2018 une intention de poursuivre la mise en œuvre d’un
+projet de transport en commun en site propre, quelle que soit sa nature, (…) ce projet doit être
+regardé comme étant, à ce jour, abandonné par cette collectivité. » Par cette décision, la
+cour administrative d’appel écarte l’argument de la continuité et de la simple évolution du projet
+défendu par TPM14.
+      Ainsi, dès novembre 2012, la métropole TPM ne pouvait ignorer que le changement de
+mode de transport l’obligerait à réaliser une nouvelle concertation et à obtenir une nouvelle
+
+
+
+11
+   Tribunal administratif de Toulon, décisions n° 1102481 et n° 1102482 du 9 novembre 2012.
+12
+   Le statut juridique de la métropole TPM à l’époque.
+13
+   Cour administrative d’appel de Marseille, décision n° 18MAA00533 du 15 mars 2021.
+14
+   TPM s’est pourvu en cassation devant la Conseil d’État, lequel a, dans sa décision n° 452600 du 22 avril 2022,
+considéré qu’aucun des moyens soulevés par TPM n’était de nature à permettre l’admission de ce pourvoi.
+
+
+
+
+                                                      12
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+déclaration d’utilité publique, le passage du tramway au bus à haut niveau de service ayant été
+reconnu comme une modification substantielle des caractéristiques essentielles du projet initial.
+        La délibération communautaire n° 16/12/194 du 16 décembre 2016 précitée le
+reconnaît expressément, qui dispose que « ce nouveau projet se réalisera en lieu et place d’un
+précédent projet », ce qui marque de facto l’arrêt du projet précédent et le début du nouveau
+projet.
+        Or, le projet de BHNS, même s’il reprend certains objectifs du projet initial des
+années 2000, doit être regardé non comme une simple modification ni même comme une
+évolution, mais bien comme un projet nouveau et différent du projet initial de TCSP fondé sur
+la construction d’un tramway.
+         Par suite, l’analyse de la chambre, confortée par deux décisions du
+tribunal administratif, emporte qu’aucuns travaux pour la réalisation du BHNS ne pouvaient
+dès lors être réalisés sur le fondement des déclarations d’utilité public de 2000 et 2005, et qu’il
+fallait ainsi se fonder sur une nouvelle DUP, finalement obtenue le 9 octobre 2025.
+
+
+
+
+2 LE NOUVEAU PROJET DE BHNS
+
+
+2.1 Des études techniques postérieures à la prise de décision qui viennent
+    conforter le choix politique de la métropole
+
+         Plusieurs enquêtes comparatives sur les avantages des différents modes de déplacement
+ont été réalisées afin d’éclairer le choix de la métropole toulonnaise. Dans la phase initiale du
+projet, ces études donnent un avantage pour le tramway, notamment en termes capacitaires.
+Seul le tramway apparaît alors en mesure d’absorber le flux de voyageurs constaté en 2006 et,
+a fortiori, en cas d’accroissement de ce flux.
+
+
+
+
+                                                13
+                 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                 TOULON PROVENCE MÉDITERRANÉE
+
+
+
+                      Schéma n° 1 : Capacités des différents modes de transports
+
+
+
+
+Source : Ville et transport n° 397, 29 mars 2006
+
+
+        Saisi par la communauté d’agglomération TPM, le centre d’études sur les réseaux, les
+transports, l’urbanisme et les constructions publiques (CERTU15) rendait en août 2009 une
+conclusion sans ambiguïté au terme d’une analyse détaillée et motivée : « après analyse des
+différents éléments en leur possession, le CERTU et le CETE Méditerranée confirment la
+pertinence du choix initial du tramway, qu'il soit sur fer, ou sur pneus (Translohr) avec une
+mise en service la plus rapide possible. Cette conclusion se base notamment sur le besoin d'un
+système capacitaire pour répondre à la demande estimée sur la première ligne de TCSP et sur
+
+
+15
+   Devenu centre d'études et d'expertise sur les risques, l'environnement, la mobilité et l'aménagement (CEREMA)
+le 1er janvier 2014 par fusion avec d'autres composantes du réseau scientifique et technique de l’État.
+
+
+
+
+                                                      14
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+une analyse économique sommaire sur 30 ans. Dans une deuxième partie, le CERTU et le CETE
+répondent toutefois à une demande politique de phasage du projet : mise en œuvre d'un BHNS
+de 2014 jusqu'à la mise en service du tramway vers 2020. Cette demande ne semble pas se
+justifier, ni techniquement, ni économiquement ».
+         Pour autant, le dernier comparatif des modes de transports, livré le 7 décembre 2023,
+fait ressortir un net avantage du BHNS par rapport au tramway. Ce document, intitulé
+« éléments de langage » n’est pas une analyse technique réalisée par un tiers indépendant,
+contrairement à l’étude du CEREMA de 2009, mais un argumentaire de communication fourni
+par l’assistance à maîtrise d’ouvrage choisie pour la réalisation du projet de BHNS.
+        Sans remettre en cause le choix du BHNS par TPM, la chambre relève que les études
+destinées à éclairer le choix de la métropole sont postérieures à la prise de décision et s’alignent
+sur celle-ci, au détriment d’une limite capacitaire qui pourrait être atteinte très rapidement en
+cas de report modal massif.
+        En réponse aux observations provisoires, la métropole TPM critique le bienfondé de
+l’étude du CEREMA de 2009, mais reconnaît que « le choix du BHNS est un choix politique,
+dont la justification prend sa source dans l'impact du chantier sur la vie du centre-ville et de
+ses commerces, la géologie de la ville, la technologie utilisée et le coût ».
+
+
+
+2.2 Présentation du nouveau projet
+
+
+2.2.1 Le tracé
+
+        Dans sa version actuelle, le tracé du BHNS prévoit de relier La Seyne-sur-Mer à
+la Garde sur un parcours de 28 km desservant 65 stations. Des interconnexions sont par ailleurs
+prévues avec 5 gares et haltes ferroviaires, 5 pôles d’échanges multimodaux (connexion avec
+le réseau Mistral et des aménagements cyclables), 6 parkings-relais et 2 sites de covoiturage.
+        À ce stade, aucune extension n’est prévue en direction de Hyères-les-Palmiers à l’Est
+et de Six-Fours à l’Ouest.
+
+
+
+
+                                                15
+                    LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                    TOULON PROVENCE MÉDITERRANÉE
+
+
+
+                                Schéma n° 2 : Tracé du BHNS au 1er juin 2025
+
+
+
+
+Source : TPM
+
+
+        Le projet prévoit à ce jour un parcours se développant à 70 % en site propre, et donc
+partagé avec les véhicules automobiles à hauteur de 30 %. Il existe bien au demeurant des
+BHNS avec davantage de voies partagées. Ainsi, le CEREMA, à partir d’une base de données16
+BHNS sur le territoire national, indique que la part de site propre des BHNS est, en moyenne,
+de 46 %, mais la comparaison n’est pertinente que dès lors que les BHNS sont le transport en
+commun en site propre principal, et non secondaire. Quoiqu’il en soit, les appels à projets TCSP
+de l’État17 listent, parmi les projets éligibles, les BHNS « en site propre intégral ou
+quasi-intégral ».
+        S’agissant du matériel roulant, TPM prévoit, à terme, de recourir à 150 bus 100 %
+électrique, ce qui suppose l’utilisation de matériels roulants thermiques dans un premier temps.
+
+
+2.2.2 Phasage
+
+        Il est actuellement prévu 5 phases du chantier, avec une livraison complète estimée
+à 2038 : une première phase 2025-2029, correspondant au tracé Technopole de la mer
+(Ollioules) à Bir-Hakeim ; une deuxième phase 2028-2032 entre le dépôt Brunet Sainte-Musse
+et les fourches La Pauline ; une troisième phase 2032-2034 sur trois sections
+(Bon Rencontre-Berthe, Saint-Jean et Coupiane) ; une quatrième phase 2035-2037 vers
+La Seyne-sur-Mer ; une cinquième phase vers La Garde en 2038.
+
+
+
+16
+     Panorama BHNS, CEREMA, octobre 2025.
+17
+     Appel à projets relatif aux transports collectifs en site propre et pôles d’échanges multimodaux, 2020.
+
+
+
+
+                                                          16
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        En réponse à une réserve émise par la commission d’enquête demandant à TPM de
+« proposer un délai de mise en service du BHNS plus court que 13 ans afin de répondre à
+l’attente forte de la population en matière de transports en commun et aux enjeux climatiques »,
+la métropole indique18 que la durée de l’opération peut être réduite à 12 ans en réalisant
+simultanément les deux dernières phases du projet (la branche du port de La Seyne-sur-Mer et
+celle de La Garde-centre), soit un achèvement complet du BHNS en 2037.
+
+
+
+2.3 Un avis favorable mais mitigé sur la nouvelle déclaration d’utilité
+    publique
+
+        La commission d’enquête a rendu le 25 juillet 2025 des conclusions motivées ainsi que
+son avis relatif à la déclaration d’utilité publique du BHNS toulonnais.
+        Si cet avis est favorable, il est accompagné de considérations, de réserves et de
+recommandations alertant sur la qualité du projet : « en préambule, la commission se doit
+d’exposer les difficultés et le dilemme auxquelles elle se trouve confrontée dans sa prise de
+décision : si elle considère qu’il y a effectivement un intérêt général dans la mise en œuvre d’un
+nouveau moyen de transport en commun au regard des besoins de mobilité métropolitains, elle
+émet des doutes sur la viabilité du projet en termes stratégique, de validation du concept et du
+choix du mode. Si on ne peut nier l’utilité publique du projet, à défaut de l’absence d’une autre
+alternative après de longues années d’attente de la population, les effets de celui-ci ne semblent
+pas à la hauteur des défis attendus. En effet, la capacité d’emport du BHNS et l’ampleur de la
+restructuration du réseau de bus paraissent limitées, avec une faible capacité d’évolution dans
+le temps, au regard des besoins futurs liés au dynamisme économique et démographique de
+MTPM ».
+       Cet avis favorable valide à la fois le principe et même la nécessité d’un transport en
+commun en site propre mais s’interroge explicitement sur la pertinence du projet, présenté
+comme insuffisamment ambitieux et daté, et en interrogeant ce qui en fait le cœur, à savoir le
+mode de transport retenu (BHNS), son plafond capacitaire et son manque d’ambition au regard
+du changement climatique.
+         La métropole indique que « l'objet de la déclaration d'utilité publique porte sur le
+BHNS et non sur la restructuration du réseau global de bus et n'avait donc pas à être détaillé
+dans la DUP ». Pourtant, l’enquête publique, à l’image de l’avis rendu à son issue, abordaient
+bien la refonte du réseau de transports urbains dans sa globalité.
+        Cet avis est assorti de quatre recommandations, dont trois au moins sont substantielles :
+prévoir d’étendre le tracé (le linéaire du tracé étant dimensionnant pour le choix du mode de
+transport, un linéaire de 40 km n’aurait peut-être pas conduit à retenir le BHNS) ; restructurer
+le réseau global de bus (ce qui est indiqué dans les projets de TPM, mais sans aucune visibilité
+sur les principes et le calendrier) ; proposer une analyse technique du réseau actuellement
+absente, afin de présenter les mesures permettant de limiter les impacts de l’infrastructure aux
+fortes chaleurs.
+
+
+
+18
+     Délibération communautaire n° 25/09/229 du 24 septembre 2025.
+
+
+
+
+                                                      17
+                  LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                  TOULON PROVENCE MÉDITERRANÉE
+
+
+
+        Cet avis est également assorti de réserves (cf. annexe n° 1). La première est
+substantielle car elle demande à la métropole « d’étudier l’augmentation du tracé du BHNS en
+site propre pour tendre à 100 % (…) afin de garantir une vitesse commerciale constante,
+renforcer de manière ambitieuse l’attractivité vers ce report modal, et répondre aux enjeux de
+mobilité de la métropole ».
+        Ce faible taux de site propre, en cœur de ville et au vu de la congestion automobile
+actuelle, remet en cause les hypothèses de vitesse commerciale du BHNS et de sa fréquence,
+comme le relève la DREAL PACA dans son avis du 26 novembre 2024 : « le tracé du BHNS
+présente une mise en site propre sur seulement 70 % du linéaire. Ainsi, sur 30 % du tracé, le
+BHNS circulera sur la voie routière, ce qui risque d’avoir un impact non-négligeable sur la
+vitesse commerciale du bus. Il est donc nécessaire d’optimiser la capacité disponible des
+plateformes pour la dédier au site propre, quitte à diminuer la capacité résiduelle de la
+circulation générale ou le stationnement ».
+        Sur ce sujet, les réponses du maître d’ouvrage précisent : « avec 70 % en site propre,
+le projet porté par la Métropole s’inscrit dans la moyenne française (des BHNS) comprise entre
+60 et 70 % (ce nombre peut varier suivant les sources) » et « à notre connaissance, parmi les
+BHNS mis en service dans les principales métropoles françaises, aucune ligne n’est
+intégralement en site propre. Les projets BHNS où le pourcentage de voie dédiée est le plus
+important se caractérisent par des tracés relativement courts : 94% de site propre et longueur
+de 7,2 km pour le BHNS du Mans, 90% et 17,8 km pour les 2 lignes Mettis de Metz, 91 % et
+7 km pour l’ebusway de Nantes19 ».
+         Dans sa délibération du 24 septembre 2025 visant à lever cette réserve, TPM insiste sur
+le fait que « l’offre d’un BHNS à 70 % en site propre permet de concilier l’ensemble des enjeux
+en présence et d’atteindre un niveau de service adapté » et « estime ne pas pouvoir satisfaire
+immédiatement et intégralement la réserve n°1 » tout en disant s’engager « à rechercher à
+optimiser l’insertion en site propre dans les phases d’étude ultérieures afin d’augmenter ce
+taux s’il apparaît que des gains de vitesse commerciale pourraient être obtenus ».
+        Ces réponses ne laissent pas entrevoir d’augmentation de la part de site propre dédié,
+alors même que l’établissement public admet que « en cas de fermeture du tunnel, ce qui se
+présente au moins une fois par mois pour des raisons de sécurité, le territoire est totalement
+paralysé, de Solliès-Pont à Bandol et la circulation routière se reporte en surface du
+centre-ville de Toulon ».
+        D’autres réserves évoquent également des propositions de modifications importantes,
+qu’il s’agisse du tracé, du stationnement ou de la végétalisation. La dernière réserve paraît,
+quant à elle, impossible à tenir avec une demande de mise en service complète dans un délai
+plus court que 13 ans, alors que les délais actuels sont déjà resserrés.
+         Or, la métropole toulonnaise se trouve exposée à trois facteurs de saturation rapide de
+la ligne.
+
+
+
+
+19
+   Mémoire en réponse du maître d’ouvrage au procès-verbal des observations reçues lors de l’enquête publique,
+17 juillet 2025, pp. 17 et 19. Il est à noter par ailleurs que les taux de sites propres cités sont très élevés (plus de
+90 %), que ces taux sont connus (Panorama des BHNS du CEREMA précité) et que d’autres BHNS avec un
+linéaire important ont des taux de site propre élevé (Aixpress : 84 % ; Douai : 90 % ; Fort-de-France : 100 %,
+Le Mans : 94 % ; Nîmes L1 : 90 % ; Paris : Lignes 393 et T Zen 2 : 100 %, Rouen TEOR1 : 90 %).
+
+
+
+
+                                                          18
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+         Tout d’abord, l’ouverture d’une ligne de TCSP fait croitre la fréquentation du réseau
+entier (+ 16 % à Orléans, + 37 % à Montpellier, + 13 % à Caen en 1 an), et sur la seule ligne
+TCSP, la fréquentation a bondi dans ces mêmes agglomérations, respectivement, de 43 %, 47 %
+et 45 % en 1 an également20. En réponse aux observations provisoires, la métropole conteste
+cette analyse. Pourtant, suite à l’avis rendu par la DREAL le 26 novembre 2024 sur le même
+sujet, elle souscrivait à cette analyse et répondait que l’augmentation de la part modale des
+transports en commun « postule que la hausse de la part modale transports en commun induite
+par le BHNS engendrera un effet boost sur l’ensemble du réseau Mistral et donc une hausse
+rapide de celle-ci ».
+        Ensuite, la croissance démographique mesurée par l’Insee sur le territoire métropolitain
+est supérieure aux projections retenues dans le plan de déplacement urbain métropolitain, qui a
+servi de référence pour le projet de BHNS.
+
+
+Graphique n° 1 : Nombre d’habitants – comparaisons des tendances projetées (INSEE+PDU) et des
+                                tendances observées (INSEE)
+
+
+
+
+Source : plan de déplacement urbain 2015-2025 TPM et Insee
+
+
+        Au-delà de ces deux paramètres (effet rebond du TCSP et croissance démographique),
+le report modal « sociétal » (abandon de la voiture) ne peut être modélisé sur le long terme,
+mais il peut être rapide et massif, par exemple en cas de renchérissement du carburant.
+        Enfin, plutôt qu’un risque, il s’agit d’une occasion manquée : le projet de BHNS se fait
+sur un périmètre limité, avec sanctuarisation des voies dédiées aux véhicules automobiles.
+Or, dans la totalité des projets comparables, le TCSP est une occasion de déprise de
+l’automobile et de végétalisation de la ville. La mission régionale d’autorité environnementale
+(MRAe) note dans son avis à ce sujet que : « alors que le projet est l’occasion de requalifier
+les espaces urbains et d’améliorer la place et le confort des modes doux et des piétons, le
+
+
+20
+     Avis technique sur le choix du système TCSP de l’agglomération toulonnaise, CEREMA, août 2009.
+
+
+
+
+                                                      19
+              LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                              TOULON PROVENCE MÉDITERRANÉE
+
+
+
+dossier ne s’empare pas pleinement de cette thématique. La MRAe recommande de développer
+et de détailler les enjeux paysagers à une échelle appropriée et d’approfondir la définition du
+projet paysager dans toutes ses composantes ».
+       En réponse aux observations provisoires, TPM indique que « la commission d'enquête,
+pourtant assez exigeante, ne formule aucune réserve ou recommandation sur l'aménagement
+urbain, la place des modes doux et de l'automobile ». Pourtant, dans son avis motivé, ladite
+commission note « qu’il ne ressort pas de l’étude d’impact que le projet BHNS induise une
+amélioration écologique ambitieuse et certaines données sont en augmentation telles que les
+émissions de certaines particules, les îlots de chaleur identifiés, les nuisances sonores sur une
+partie du parcours » et relève une « prise en compte insuffisante des besoins en matière de
+modes doux : pistes cyclables et une absence de continuité le long du tracé. »
+       Par délibération communautaire du 24 septembre 2025, la métropole a présenté sa
+réponse aux recommandations et réserves formulées dans l’avis de la commission d’enquête
+publique.
+         Le préfet du département du Var a pris un arrêté le 9 octobre 2025 déclarant d’utilité
+publique les travaux et les acquisitions nécessaires à la réalisation du BHNS, en considérant
+que les réserves étaient levées et que les justifications apportées aux réserves non levées ou
+partiellement levées et la prise en compte des recommandations émises par la commission
+d’enquête ne faisaient pas obstacle à cette déclaration.
+
+
+
+
+3 UN COUT CONSOLIDE QUI EN FERA UN TCSP
+  PARTICULIEREMENT ONEREUX
+
+
+3.1 Une fiabilité largement perfectible du suivi financier du projet
+
+          Les dépenses liées au projet de TCSP, si elles relèvent principalement du budget annexe
+des transports, concernent également le budget principal de la métropole toulonnaise. La
+parfaite traçabilité et l’exhaustivité des coûts réels des différents projets de TCSP sont de ce
+fait très difficiles à atteindre et à déterminer.
+         La métropole émet elle-même « une réserve générale sur le caractère exhaustif de ces
+coûts [du TCSP] dans la mesure où il n’est pas possible d’analyser individuellement tous les
+mandats depuis 2002. Par ailleurs en 25 ans, les modalités d’imputation des dépenses dans le
+logiciel ont nécessairement évolué. Par exemple, de 2002 à 2009 le budget n’était pas géré par
+opération mais par imputation spécifique « tramway ». À compter de 2010, la plupart des
+opérations relatives au TCSP ont été créées dans le logiciel financier avec un libellé « TCSP ».
+Les dépenses de fonctionnement évoquées (frais d’étude, ingénierie, expertises, contentieux,
+frais avocats, …) sont majoritairement globalisées et ne mentionnent pas dans leur libellé si
+cela concerne spécifiquement le TCSP. Les dépenses indirectes ne sont pas identifiées
+(exemples : frais de gestion administrative, de communication, charges mutualisées de moyens
+généraux, informatique, …). Enfin, les montants du projet sont présentés en euros courants et
+ne sont donc pas corrigés de l’inflation.
+
+
+
+
+                                               20
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        La chambre prend acte de ses réserves émises par la métropole mais déplore qu’un
+projet de cette ampleur, quels qu’aient pu être ses soubresauts et sa durée, n’ait pas fait l’objet
+d’un suivi comptable, budgétaire et financier rigoureux et exhaustif. L’identification précise
+des dépenses, sans globalisation, par codes d’opération au sein d’une comptabilité
+d’engagement par autorisations de programme et crédits de paiement auraient permis à la
+métropole de présenter des montants fiabilisés.
+        Ce montant correspond à une estimation fournie par les services de la métropole lors de
+l’instruction à la suite d’une question circonscrite explicitement à « l’ensemble des coûts
+exhaustifs afférents au projet de TCSP depuis 1998. » En réponse aux observations provisoires,
+la métropole réfute ses propres chiffres, indiquant de façon déclarative que, parmi ces
+226,6 M€, « certains investissements sont aujourd'hui utilisés, exploités par le réseau Mistral,
+indépendamment du projet BHNS ».
+      Dans la délibération du 16 décembre 2016, la métropole évaluait le montant des
+dépenses déjà réalisées au titre du projet de TCSP à 187,5 M€.
+        Aucun des éléments fournis lors de la contradiction n’est de nature à invalider
+l’observation de la chambre relative à une fiabilité largement perfectible du suivi financier du
+projet et sont plutôt de nature à renforcer cette appréciation.
+
+
+ Recommandation unique : Fiabiliser les données comptables et financières des travaux
+ du BHNS de façon exhaustive afin de permettre le suivi et le contrôle de l’exécution de
+ ce projet.
+
+
+
+3.2 Des coûts du BHNS qui ont beaucoup fluctué et augmenté au cours du
+    temps
+
+        Le coût du TCSP toulonnais a beaucoup fluctué entre les premiers chiffrages et les
+données les plus récentes. Le projet initial prévoyait un montant provisionnel de 240 M€ en
+200321.
+        Au moment de la relance du projet sous forme de BHNS, en décembre 2016, le coût
+d’investissement global est de 441,8 M€ défini par la métropole comme « correspondant au
+montant des dépenses déjà réalisées (187,5 M€), auquel s’additionnent les besoins de financement
+résiduels [sic] du projet, évalués à environ 254,3 M€, soit un coût total de 441,8 M€ ».
+        En décembre 2021, dans le dossier de concertation relatif à la DUP puis dans la
+délibération postérieure du 16 novembre 2022, le coût du projet est revu à la baisse et est évalué
+à 405 M€ TTC, mais sans mention des 219,7 M€ consommés depuis 2002 (estimation des
+services de TPM au 31 décembre 2021).
+      Dans une présentation récente de juin 2025, le coût de l’opération, chiffré à 395 M€, se
+décompose de la façon suivante, toujours sans mention des montants dépensés antérieurement :
+
+
+
+21
+     Montant figurant sur l’acte d’engagement pour les travaux avec le groupement SYSTRA.
+
+
+
+
+                                                      21
+               LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                               TOULON PROVENCE MÉDITERRANÉE
+
+
+
+                                 Tableau n° 1 : Coût du BHNS
+
+
+
+
+Source : MTPM, juin 2025
+
+
+        Pour autant, la métropole ne retient qu’un montant de 341 M€, au motif qu’il faille
+retirer 50 % du coût d'investissement de deux parkings-relais qui sont dédiés pour moitié
+seulement au BHNS. Ces atermoiements sur le périmètre de ce qui relève ou non du BHNS
+sont sans incidence pour les finances de la métropole, dans la mesure où les 395 M€ prévus
+pour la réalisation de ce projet, parking-relais compris, devront être pris en charge par les
+budgets de la métropole, budget annexe transports ou budget principal.
+        Aucune des estimations du coût total du projet mentionnées depuis la délibération du
+conseil métropolitain de décembre 2016 n’intègre toutefois les montants déjà engagés, chiffrés
+à 187,5 M€ dans cette délibération et réévalués à 226,6 M€ par les services de TPM fin 2024.
+       Ainsi, le montant total du projet de TCSP, constitué des coûts passés (estimés par la
+métropole) et des coûts à venir prévisionnels du BHNS, s’élève à 621,6 M€ à fin 2024
+(226,6 M€ de dépenses engagées et 395 M€ de dépenses prévisionnelles).
+
+
+
+3.3 Un plan de financement fragile
+
+        En juin 2025, sur les 395 M€ restant à financer, le plan de financement se répartissait
+de la manière suivante : État pour 40 M€, Région pour 10 M€ ; le reste, soit 345 M€, à la charge
+de la métropole.
+        Il est à noter que la subvention de l’État était conditionnée au démarrage des travaux
+avant la fin de l’année 2025, lui-même subordonné à l’obtention de la déclaration d’utilité
+publique. La DUP a été obtenue le 9 octobre 2025, la métropole a ainsi pu bénéficier de cette
+subvention en réalisant les premiers travaux à la fin de l’année 2025.
+        Par ailleurs, la métropole avait sollicité une subvention du département du Var à hauteur
+de 20 M€, qui n’a finalement pas été obtenue. Or, dans l’étude d’impact financière de l’assistant
+à maîtrise d’ouvrage du 27 juillet 2023, la soutenabilité du financement était conditionnée par
+la baisse du coût du BHNS de 405 à 341 M€ et l’obtention de 70 M€ de subventions publiques.
+En effet, il était mentionné dans l’étude d’impact : « Le conventionnement de 70 M€ de
+subventions publiques de l’État, la Région et le Département allouées au budget annexe reste
+nécessaire et se devra d’être respectée afin de rendre le projet faisable sans un endettement
+trop important pour la métropole ». Avec des subventions moindres, la soutenabilité du plan
+de financement n’est pas garantie.
+
+
+
+
+                                               22
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Quoi qu’il en soit, cette étude prévoit de réduire de 120 M€ à 100 M€ le budget
+d’investissement du budget principal de la métropole. Ainsi, le financement du BHNS obérera
+la capacité d’investissement de la métropole et augmentera très sensiblement sa dette, avec un
+recours supplémentaire à l’emprunt de 443 M€ sur toute la durée du projet, soit environ 30 M€
+par an.
+         Avec l’hypothèse retenue par la métropole actualisée à juin 2023, le BHNS
+« consommera » 47 % des investissements du budget annexe des transports entre 2025 et 2038.
+Par ailleurs, la faisabilité financière du BHNS induit de baisser les investissements du budget
+principal de la métropole, de l’ordre de 20 M€ par an, alors que les grands projets
+d’investissement sont nombreux.
+        En réponse aux observations provisoires de la chambre, la métropole indique qu’elle
+« est consciente des tensions financières qui sont à l'œuvre. Le projet de TCSP étant prioritaire,
+le recours à des arbitrages sur les autres projets sera nécessaire pour ne pas rompre les
+équilibres financiers ».
+
+
+
+
+4 LE VERSEMENT MOBILITE MAJORE : UN FINANCEMENT
+  DEVOYE DE SA FINALITE
+
+       Sur la question du versement mobilité, et en réponse aux observations provisoires de la
+chambre, la métropole contestait le fait que celle-ci puisse réexaminer certains actes de gestion
+déjà abordés dans un précédent contrôle et analysait comme un « revirement » ses nouvelles
+observations.
+        Or, d’une part, les normes professionnelles prévoient bien que « à l’occasion d’un
+nouveau contrôle, la Cour et les chambres régionales et territoriales des comptes assurent,
+dans le cadre de l’instruction, un suivi systématique des observations et recommandations
+formulées lors du contrôle précédent22 ». D’autre part, le « revirement » ou « la position
+totalement inverse » est une analyse de la métropole qui résiste mal aux observations du
+précédent rapport, dont l’objet, de surcroît, n’était pas spécifiquement le projet de TCSP et son
+financement. Ce rapport disposait qu’« une attention doit, toutefois, être portée sur le budget
+annexe des transports qui sans les subventions versées par le budget principal serait déficitaire.
+Paradoxalement ce budget annexe perçoit un « versement transport » majoré, à la charge des
+entreprises, qui se justifie en principe par le financement d’importants investissements pour la
+création de transports en commun en site propre. Pourtant, le projet de construction du
+tramway, puis le projet de bus à haut niveau de service (BHNS), n’ont pas encore abouti » et
+« le versement mobilité majoré est conditionné à la réalisation d’un transport en commun en
+site propre (TCSP) dans un délai de cinq ans23 ».
+
+
+
+
+22
+  Normes professionnelles, II, 89
+23
+   Rapport de la CRC PACA sur le contrôle des comptes et de la gestion de la Métropole
+Toulon Provence Méditerranée, 16 décembre 2020.
+
+
+
+
+                                               23
+                  LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                  TOULON PROVENCE MÉDITERRANÉE
+
+
+
+4.1 Principe du versement mobilité (VM)
+
+         Depuis 1977, les communes ont la possibilité d’instaurer une taxe pour financer les
+transports en commun urbains. Depuis, 2002 cette taxe et son taux sont décidées par l’autorité
+organisatrice des mobilités (AOM, ici la métropole Toulon-Provence-Méditerranée24 sur son
+ressort territorial) et s’intitule « versement mobilité » (anciennement versement transports).
+         Ce versement est perçu par l’union de recouvrement des cotisations de sécurité sociale
+et d'allocations familiales (URSSAF) et reversé à Toulon-Provence-Méditerranée, déduction
+faite des frais de gestion mais également du remboursement aux « employeurs qui justifient
+avoir assuré le logement permanent sur les lieux de travail ou effectué intégralement et à titre
+gratuit le transport collectif de tous leurs salariés, ou de certains d'entre eux au prorata des
+effectifs transportés ou logés par rapport à l'effectif total » (article L. 2333-70 du CGCT)25.
+        Ce versement a pour finalité de financer les investissements de transports en commun,
+par l’application d’une taxe sur les salaires des entreprises de 11 salariés et plus, présentes dans
+le ressort territorial de l’AOM26.
+
+
+
+4.2 Les différentes possibilités de taux du versement mobilité
+
+         Les différents taux possibles du versement mobilité sont prévus par l’article L. 2333-67
+du CGCT. En résumé, le taux plafond de versement mobilité est de 1 % des salaires27 versés
+par les entreprises pour les établissements publics comptant plus de 100 000 habitants. Mais,
+au-delà de ce taux de versement mobilité de droit commun pour financer un réseau de transports
+en commun « classique », comme le réseau Mistral actuel, il est possible de le porter à 1,75 %
+si l’autorité organisatrice de la mobilité a décidé de réaliser une infrastructure de transport
+collectif en mode routier ou guidé.
+        Toutefois, le maintien de cette majoration est conditionné à la réalisation effective des
+travaux et est limitée dans le temps. Si les travaux correspondants n'ont pas été commencés
+dans un délai maximum de cinq ans à compter de la date de majoration du taux du versement
+destiné au financement des mobilités, le taux applicable à compter de la sixième année est
+ramené à 1 % au plus. Toutefois, ce délai court à compter du 1er janvier 2004 pour les
+
+
+24
+   Historiquement, c’est le Syndicat Intercommunal des Transports en Commun de l’Agglomération Toulonnaise
+(SITCAT) qui en bénéficiait, puis entre 2002 et 2017, cette taxe a été perçue par la communauté d’agglomération
+Toulon-Provence-Méditerranée, devenue métropole à compter du 1er janvier 2018.
+25
+   C’est notamment le cas des militaires en activité dont l’administration assure le logement permanent sur les
+lieux de travail ou le transport collectif à titre gratuit.
+26
+   Articles L. 2333-64 du code général des collectivités territoriales : « En dehors de la région d'Ile-de-France, les
+personnes physiques ou morales, publiques ou privées (…) peuvent être assujetties à un versement destiné au
+financement des services de mobilité lorsqu'elles emploient au moins onze salariés (…) dans le ressort d'une
+métropole (…) ».
+27
+   Article L. 2333-65 du code général des collectivités territoriales : « L'assiette du versement destiné au
+financement des services de mobilité est constituée des revenus d'activité tels qu'ils sont pris en compte pour la
+détermination de l'assiette des cotisations d'assurance maladie mises à la charge des employeurs et affectées au
+financement des régimes de base de l'assurance maladie. Le versement est recouvré dans les mêmes conditions et
+sous les mêmes garanties que lesdites cotisations ».
+
+
+
+
+                                                         24
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+collectivités locales dont les délibérations fixant un taux supérieur à 1 % ont été prises
+antérieurement à cette date, ce qui est le cas de la métropole de Toulon.
+        En effet, la communauté d’agglomération Toulon-Provence-Méditerranée avait fixé un
+taux de 1,75% à compter du 1er janvier 200228, afin de réaliser un transport en site propre ; ce
+taux n’a jamais été ramené au plafond de 1 % depuis, malgré l’absence de réalisation de
+transport en commun en site propre. D’autres majorations possibles du versement mobilité
+existent, pouvant porter ce taux à 2 % maximum, mais elles ne sont pas mises en œuvre par
+TPM (cf annexe n° 2).
+
+
+
+4.3 Deux notions clés à clarifier : le « commencement effectif des travaux »
+    et la nature du versement mobilité additionnel
+
+        Le commencement effectif des travaux conditionne la possibilité de maintenir un
+versement mobilité additionnel. Il n’existe pas de définition légale de la notion de
+commencement des travaux. Toutefois, la jurisprudence29 a permis de distinguer les actes
+administratifs (délibérations, notifications des marchés, déclarations d’ouverture du chantier,
+etc…) du commencement effectif des travaux, lequel doit se matérialiser par des réalisations
+concrètes : délimitation du chantier, livraison du matériel, terrassement, etc.
+        La DUP de prorogation du 15 décembre 2005 étant motivée par le fait que « les
+acquisitions n’[ont] pu être réalisées dans le délai initialement imparti », alors que lesdites
+acquisitions constituent une condition préalable à la réalisation de travaux de création d’un
+TCSP, indique une absence de commencement de travaux effectifs.
+         La prorogation de la DUP n’emportant pas prorogation du taux de versement mobilité
+et en l’absence de commencement effectif des travaux du tramway, le taux aurait dû être ramené
+au droit commun de 1 % dès le 1er janvier 2009, soit 5 ans à compter du 1er janvier 2004.
+        Quoiqu’il en soit, après la décision du tribunal administratif de 2012 indiquant que le
+passage du tramway au BHNS affecte de façon substantielle les caractéristiques essentielles de
+l’opération prévue par les DUP de 2000 et 2005 et nécessitait une nouvelle concertation ainsi
+qu’une nouvelle déclaration d’utilité publique portant sur une nouvelle opération, la métropole
+n’avait plus de support juridique valable pour maintenir ce versement majoré.
+        En se plaçant sous l’angle de la preuve objective, s’il y a commencement effectif des
+travaux, ils finissent à un moment donné par être réalisé, même partiellement. Au cas d’espèce,
+la position de la métropole consistant à avancer qu’il y a eu un début de construction de TCSP,
+alors qu’aucun linéaire n’a été réalisé plus de 25 ans après la décision initiale de TPM de se
+doter d’un TCSP, que ce projet a été jugé comme dépourvu de base légale en 2012
+
+
+
+
+28
+   Des périodes de transition pour l’application de ce taux ont été votées pour les communes ayant intégré la
+métropole plus récemment : pour les communes de Hyères, Carqueiranne et Six-Fours-les-Plages un taux à 0 %
+s’appliquait initialement en 2002, pour atteindre 1,75% en 2005. La commune de La Crau disposait d’un taux à
+0 % en 2009 puis de 1,75 % à compter de 2012. Depuis cette date, l’ensemble des communes de la métropole est
+soumis au taux de 1,75 %.
+29
+   Cass. civ. 3, 18-02-2004, n° 02-18.414.
+
+
+
+
+                                                     25
+                        LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                        TOULON PROVENCE MÉDITERRANÉE
+
+
+
+      (Tribunal administratif de Toulon du 5 octobre 2012, n° 1102481), puis jugé comme abandonné
+      (Conseil d’État 17 mars 2022, n° 452600), paraît difficilement soutenable.
+               S’agissant du nouveau projet de TCSP, initié par délibération communautaire en 2016,
+      il n’a pas non plus connu de commencement effectif des travaux avant novembre 2025, ceux-ci
+      étant conditionnés par la nouvelle DUP, obtenue le 9 octobre 2025. L’établissement public
+      annonce lui-même le démarrage des travaux pour fin 2025, ce qui apparait comme la
+      confirmation que les travaux n’avaient pas encore débuté avant cette date.
+              La métropole explique ce délai de 9 ans entre la nouvelle délibération actant
+      officiellement le nouveau projet de BHNS fin 2016 et l’engagement des premiers travaux
+      fin 2025, par l’insécurité juridique quant à l’autorité environnementale compétente permettant
+      de valider la concertation préalable à la déclaration d’utilité publique et la période de la crise
+      sanitaire. Si ces deux arguments sont en partie recevables, ils n’expliquent pas à eux-seuls les
+      délais excessifs constatés, qui relèvent également du pilotage du projet par la métropole.
+              Les travaux relatifs à un transport en commun en site propre sont par ailleurs liés à la
+      nature du versement mobilité additionnel. La rédaction de l’article L. 2333-67 du CGCT
+      conditionne en effet le versement additionnel à hauteur de 1,75 % à la réalisation effective d’un
+      transport en commun en site propre. En l’absence de travaux, ce taux doit être ramené à 1 %.
+      En l’espèce, le versement mobilité fonctionne donc comme une taxe affectée à la réalisation
+      d’infrastructures de transports, mais sans fongibilité de la part additionnelle dans le transport
+      urbain classique en l’absence de TCSP.
+             S’agissant de la collecte de la recette par l’URSSAF, le versement mobilité fait l’objet
+      de deux codes type personnel (CTP) différents sur la déclaration sociale nominative des
+      employeurs : le versement mobilité (CTP 9000) et le versement mobilité additionnel
+      (CTP 901). Si cela n’équivaut pas à dire qu’un TCSP déployé ne peut pas bénéficier de plus de
+      0,75 point du versement mobilité, cela interdit en revanche de consacrer ce versement
+      additionnel au financement d’un réseau de transport en commun urbain classique. Il ressort de
+      ces analyses un certain nombre de zones de risque juridique sur la perception du versement
+      mobilité majoré qui peuvent être illustrées par la frise chronologique suivante :
+
+
+            Tableau n° 2 : Zones de risques juridiques dans la perception par TPM du versement mobilité
+                                                       majoré
+
+                 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20 20
+    Années       02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24   2025
+Risque juridique                                                                      Significa
+lié au VM majoré       Négligeable              Élevé            Significatif  Élevé     tif
+                                                                                  Nouvelle intention    Absence
+                  Intention de TMP de se doter                                                                     Premiers
+                                                                                   de se doter d'un        de
+    Motif         d'un TCSP et dispositions du   Absence de réalisation du TCSP                                    travaux
+                                                                                  TCSP sous la forme   réalisation
+                           L. 2333-67                                                                              du TCSP
+                                                                                     d'un BHNS          du TCSP
+
+      Source : CRC PACA
+
+
+
+
+                                                               26
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+4.4 Conséquences d’un versement mobilité perçu en l’absence de
+    réalisation d’un TCSP
+
+
+4.4.1 Estimation des montants perçus au titre du versement mobilité
+
+        Depuis l’instauration d’un taux de versement mobilité à 1,75 %, les versements
+mobilité se décomposent selon les données du tableau suivant30 .
+
+
+         Tableau n° 3 : Perception et décomposition du versement mobilité par TPM depuis 2002
+
+                                                                                                  Risque juridique
+                                                                            Dont versement
+     Année     Versement mobilité total    Dont versement mobilité socle                           (analyse CRC
+                                                                           mobilité additionnel
+                                                                                                      PACA)
+ 2024              68 489 000,00 €                39 136 571,43 €            29 352 428,57 €
+ 2023              64 894 693,70 €                37 082 682,11 €            27 812 011,59 €
+ 2022              61 533 988,03 €                35 162 278,87 €            26 371 709,16 €
+ 2021              56 950 748,87 €                32 543 285,07 €            24 407 463,80 €
+ 2020              53 644 228,77 €                30 653 845,01 €            22 990 383,76 €
+ 2019              57 131 046,84 €                32 646 312,48 €            24 484 734,36 €
+ 2018              57 539 413,83 €                32 879 665,05 €            24 659 748,78 €
+ 2017              55 745 607,75 €                31 854 633,00 €            23 890 974,75 €
+ 2016              52 518 761,40 €                30 010 720,80 €            22 508 040,60 €
+ 2015              53 007 580,43 €                30 290 045,96 €            22 717 534,47 €
+ 2014              53 195 000,00 €                30 397 142,86 €            22 797 857,14 €
+ 2013              52 577 000,00 €                30 044 000,00 €            22 533 000,00 €
+ 2012              51 553 000,00 €                29 458 857,14 €            22 094 142,86 €
+ 2011              46 613 000,00 €                26 636 000,00 €            19 977 000,00 €
+ 2010              45 643 000,00 €                26 081 714,29 €            19 561 285,71 €
+ 2009              43 738 000,00 €                24 993 142,86 €            18 744 857,14 €
+ 2008              41 154 000,00 €                23 516 571,43 €            17 637 428,57 €
+ 2007              41 597 000,00 €                23 769 714,29 €            17 827 285,71 €
+ 2006              39 628 000,00 €                22 644 571,43 €            16 983 428,57 €
+ 2005              39 628 000,00 €                22 644 571,43 €            16 983 428,57 €
+ 2004              35 243 000,00 €                20 138 857,14 €            15 104 142,86 €
+ 2003              32 282 000,00 €                18 446 857,14 €            13 835 142,86 €
+ 2002              29 202 000,00 €                16 686 857,14 €            12 515 142,86 €
+ Total            1 133 508 069,62 €             647 718 896,93 €           485 789 172,69 €
+
+Source : CRC PACA d’après les données TPM
+
+
+
+30
+   Toutes les communes de la métropole ne sont pas passées au taux de 1,75 % de VM en même temps, mais selon
+la temporalité précisée en annexe 3. Depuis 2012, toutes les communes membres sont néanmoins soumises à ce
+taux.
+
+
+
+
+                                                     27
+                 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                 TOULON PROVENCE MÉDITERRANÉE
+
+
+
+        Si la partie « socle » de 1 % n’appelle pas d’observation particulière, le versement
+additionnel, qui s’élève à près de 485,7 M€ entre 2002 et 2024, est en revanche problématique
+en l’absence de toute réalisation de TCSP, l’analyse de la chambre l’amenant à considérer
+qu’une partie de ce versement additionnel est irrégulière.
+         Si l’on considère, conformément aux dispositions de l’article L. 2333-67 du code des
+transports qui dispose que le « délai maximum de cinq ans à compter de la date de majoration
+du taux du versement destiné au financement des mobilités, le taux applicable à compter de la
+sixième année est ramené à 1 % au plus (…) court à compter du 1er janvier 2004 pour les
+collectivités locales dont les délibérations fixant un taux supérieur à 1 % ont été prises
+antérieurement à cette date », alors la fragilité juridique court depuis le 1er janvier 2009, le
+montant perçu dans un cadre non conforme s’établissant alors à 374,9 M€ à la date du
+31 décembre 2024. Les dispositions de l’article L. 2333-67 du CGCT ne prévoyant pas qu’une
+simple relance d’intention de se doter d’un TCSP suffise à réinstaurer ou maintenir un
+versement mobilité majoré, depuis le 1er janvier 2009 et jusqu’à ce jour, le risque juridique lié
+à la perception de cette recette par TPM est, au mieux significatif, au pire élevé.
+        De surcroît, les décisions précitées, qu’il s’agisse de celles du tribunal administratif de
+Toulon en 2012, de la cour administrative d’appel en 2021 ou du Conseil d’État en 2022,
+auraient dû alerter l’établissement public sur ces fragilités juridiques.
+         En réponse aux observations provisoires, la métropole TPM se contredit dans la mesure
+où elle maintient que le projet de TCSP est continu depuis le début des années 2000, mais
+qu’elle pouvait à nouveau percevoir de façon régulière le versement mobilité majoré à compter
+de sa délibération du 16 décembre 2016 relançant le projet sous forme de BHNS. Pourtant,
+l’article L. 2333-67 du CGCT prévoit bien que « si les travaux correspondants n'ont pas été
+commencés dans un délai maximum de cinq ans à compter de la date de majoration du taux du
+versement destiné au financement des mobilités, le taux applicable à compter de la sixième
+année est ramené à 1 % au plus. » La métropole semble postuler qu’une délibération « relance »
+pour 5 années la validité du versement mobilité majoré, alors que le législateur a considéré
+qu’une « infrastructure de transport collectif en mode routier ou guidé », selon le même article
+du CGCT, ne pouvait connaître qu’un seul point de départ unique.
+
+
+4.4.2 Conséquences
+
+         Selon l’analyse de la chambre et sur la base des observations précédentes, les
+employeurs assujettis au paiement du versement mobilité additionnel ont ainsi financé un
+réseau de transport urbains classique, sans transport en commun en site propre, qui est pourtant
+la finalité du versement mobilité majoré.
+       La métropole s’appuie sur une décision du Conseil Constitutionnel rendue le
+16 janvier 199131 qui considère que « le taux du versement destiné au financement des
+transports en commun (…) constitue une imposition et non un prélèvement social » pour en
+déduire que « les entreprises assujetties ne pourraient exiger la réalisation d'un projet de
+transport collectif ».
+
+
+31
+   Décision n° 90-287 DC du 16 janvier 1991 de non-conformité partielle de la loi portant dispositions relatives à
+la santé publique et aux assurances sociales.
+
+
+
+
+                                                       28
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       La chambre considère que la nature juridique du versement mobilité est sans effet sur la
+nécessité d’organiser des services réguliers de transport public de personnes pour le versement
+mobilité et une infrastructure de transport collectif en mode routier ou guidé pour le versement
+mobilité majoré.
+        Une autre conséquence majeure est la remise en question de la sincérité et de l’équilibre
+du budget annexe des transports, financé par le versement mobilité. En effet, le versement
+mobilité additionnel finance le budget annexe des transports depuis 2002. Par parallélisme des
+causes, ce financement est juridiquement fragile, au moins depuis le 1er janvier 2009.
+        Les résultats du budget annexe transports sont en outre en déficit constant sur toute la
+période sous revue. Sans la recette du versement mobilité additionnel, pour la seule période
+2019 à 2024, le déficit cumulé du BA transports serait, en ordre de grandeur, de l’ordre de
+208 M€.
+
+
+ Tableau n° 4 : Résultats du BA Transports et estimation de l’incidence sur celui-ci de l’absence de
+                   versement mobilité additionnel sur les exercices 2022 à 2024
+
+
+                                                                                           Résultat de
+                                         Produits issus du VM      Part additionnelle   l'exercice sans la
+   Année      Résultat de l'exercice
+                                          (comptes 734 - 739)           du VM           part additionnelle
+                                                                                             du VM
+
+   2024              0,00 €                 68 381 352,59 €         39 075 058,62 €     - 39 075 058,62 €
+   2023            1 510,00 €               64 823 177,73 €         37 041 815,85 €     - 37 040 305,85 €
+   2022              0,00 €                 61 474 435,40 €         35 128 248,80 €     - 35 128 248,80 €
+
+Source : CRC paca, d’après comptes financiers du budgets annexes des transports
+
+
+        Par ailleurs, le produit de cette recette, fragile sur le plan juridique, a de facto une
+influence sur le prix des transports proposé aux usagers. Sans cette recette du versement
+mobilité majorée, TPM n’aurait pu équilibrer son budget annexe des transports que par une
+augmentation de sa subvention prise sur le budget principal pour équilibrer son budget annexe
+des transports (pourtant censé être équilibré en dépenses et en recettes, s’agissant d’un service
+industriel et commercial) ou par une augmentation des recettes tarifaires du réseau Mistral, ou
+par une combinaison de ces deux ressources.
+       Depuis 2009, cette partie additionnelle du versement mobilité par TPM pourrait
+également être considérée comme la perception d’une taxe qu’elle savait ne pas être due.
+
+
+
+
+                                                    29
+                  LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                  TOULON PROVENCE MÉDITERRANÉE
+
+
+
+                                               ANNEXES
+
+Annexe n° 1. Réserves de la commission d’enquête....................................................... 31
+Annexe n° 2. Modalités du versement mobilité .............................................................. 33
+Annexe n° 3. Évolution du taux de versement mobilité par communes ......................... 34
+
+
+
+
+                                                         30
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+              Annexe n° 1.Réserves de la commission d’enquête
+
+
+
+
+                                     31
+                 LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                                 TOULON PROVENCE MÉDITERRANÉE
+
+
+
+
+Source : conclusions de l’enquête publique unique du projet Bus à haut niveau de service - Métropole Toulon
+Provence Méditerranée - 2025 - Toutes les enquêtes publiques clôturées - Enquêtes publiques - Publications - Les
+services de l’État dans le Var
+
+
+
+
+                                                      32
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                       Annexe n° 2.Modalités du versement mobilité
+
+
+
+
+Source : CEREMA « Quelle place du versement mobilité dans le financement des mobilités ?2024 »
+
+
+
+
+                                                   33
+              LE PROJET DE TRANSPORT EN COMMUN EN SITE PROPRE DE LA MÉTROPOLE
+                                              TOULON PROVENCE MÉDITERRANÉE
+
+
+
+       Annexe n° 3.Évolution du taux de versement mobilité par communes
+
+
+
+       Communes de la métropole Toulon Provence             Taux de versement mobilité et
+                    Méditerranée                                 date d'application
+
+Toulon, La Seyne, La Garde, La Valette, Le Pradet, Saint
+                                                           1,75% depuis 2002
+Mandrier, Le Revest, Ollioules
+
+                                                           2002 = 0%
+                                                           2003 = 1%
+Hyères, Carqueiranne, Six-Fours-Les-Plages
+                                                           2004 = 1,45%
+                                                           2005 = 1,75 %
+
+                                                           2009 = 0%
+                                                           2010 = 1%
+La Crau
+                                                           2011 = 1,45%
+                                                           2012 = 1,75 %
+Source : Données TPM
+
+
+
+
+                                             34
+Chambre régionale des comptes de Provence-Alpes-Côte d’Azur
+                   17 traverse de Pomègues
+                  13295 Marseille Cedex 08
+               paca-courrier@crtc.ccomptes.fr
+      www.ccomptes.fr/fr/crc-provence-alpes-cote-dazur
+

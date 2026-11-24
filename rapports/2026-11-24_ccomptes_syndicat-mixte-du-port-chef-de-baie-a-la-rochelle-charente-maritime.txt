@@ -1,0 +1,2514 @@
+TITRE: Syndicat mixte du Port Chef de Baie à La Rochelle (Charente-Maritime)
+PAGE: https://www.ccomptes.fr/fr/publications/syndicat-mixte-du-port-chef-de-baie-la-rochelle-charente-maritime
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/NAR2026.42.pdf
+
+ RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+SYNDICAT MIXTE DU PORT CHEF
+      DE BAIE À LA ROCHELLE
+
+   (Département de la Charente-Maritime)
+
+                                               Exercices 2020 et suivants
+
+         Le présent document a été délibéré par la chambre le 22 juin 2026.
+
+
+
+
+     3, place des Grands Hommes – CS 30059 – 33064 BORDEAUX CEDEX
+                                                                            RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                            TABLE DES MATIÈRES
+
+
+SYNTHÈSE...................................................................................................................... 3
+RECOMMANDATIONS ................................................................................................ 6
+ÉLÉMENTS DE PROCÉDURE .................................................................................... 7
+INTRODUCTION ........................................................................................................... 8
+     1 LA GESTION DU SYNDICAT MIXTE PORT CHEF DE BAIE À
+       LA ROCHELLE ..................................................................................................... 10
+        1.1 La création du syndicat mixte Port Chef de Baie à La Rochelle ...................... 10
+        1.2 Les statuts et la gouvernance du syndicat mixte .............................................. 11
+            1.2.1 Le comité syndical .................................................................................. 11
+            1.2.2 Le président et le vice-président du syndicat .......................................... 13
+            1.2.3 Les autres instances de gouvernance ....................................................... 13
+        1.3 La gestion des ressources humaines du syndicat mixte ................................... 14
+            1.3.1 L’évolution des salaires ........................................................................... 15
+            1.3.2 Le régime indemnitaire et les primes versées ......................................... 16
+                1.3.2.1 Les primes du personnel de droit privé .................................................................. 16
+                1.3.2.2 Le régime indemnitaire du personnel de droit public ............................................. 17
+             1.3.3 La direction ............................................................................................. 17
+             1.3.4 Le temps de travail et les congés ............................................................. 18
+             1.3.5 Le compte épargne-temps ....................................................................... 19
+             1.3.6 L’absence de lignes directrices de gestion .............................................. 19
+        1.4 La commande publique .................................................................................... 20
+     2 L’ACTIVITÉ DU SYNDICAT MIXTE PORT CHEF DE BAIE À
+       LA ROCHELLE ..................................................................................................... 22
+        2.1 La gestion de la halle à marée .......................................................................... 22
+            2.1.1 L’association d’acheteurs, un acteur très présent sur les criées de la
+                  façade Atlantique..................................................................................... 23
+            2.1.2 Une entrave de fait à l’entrée de nouveaux acheteurs ............................. 25
+            2.1.3 Une convention largement obsolète ........................................................ 26
+        2.2 La plateforme multiservices halioportuaire du port de pêche Chef de
+            Baie à La Rochelle ........................................................................................... 28
+            2.2.1 Des activités diversifiées ......................................................................... 28
+            2.2.2 Des relations contestables avec la société coopérative d’intérêt
+                  collectif Filière Pêche La Rochelle ......................................................... 29
+                2.2.2.1 Des relations financières irrégulières entre la SCIC et le syndicat mixte ............... 31
+                2.2.2.2 Une situation de conflit d’intérêts qui a perduré jusqu’en juin 2025 ...................... 33
+     3 LA SITUATION FINANCIÈRE DU SYNDICAT ............................................... 34
+        3.1 Le cadre budgétaire .......................................................................................... 34
+        3.2 Les régies .......................................................................................................... 34
+        3.3 Le calendrier et l’information budgétaire ......................................................... 36
+
+
+                                                                     1
+                                                SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+             3.3.1 Rappel des dispositions en vigueur ......................................................... 36
+             3.3.2 La mise en œuvre des obligations de transparence budgétaires .............. 38
+                3.3.2.1 Des documents budgétaires incomplets .................................................................. 38
+                3.3.2.2 Des obligations en matière d’information budgétaire non remplies ....................... 38
+        3.4 Une situation financière fragile ........................................................................ 39
+            3.4.1 Les ressources du syndicat mixte ............................................................ 39
+            3.4.2 Des recettes d’exploitation croissantes ................................................... 40
+            3.4.3 Des subventions d’exploitation récurrentes et irrégulières des
+                  membres .................................................................................................. 41
+            3.4.4 Les charges du syndicat........................................................................... 43
+            3.4.5 Un financement des investissements très majoritairement assuré
+                  par les membres du syndicat ................................................................... 44
+ANNEXES ...................................................................................................................... 49
+        Annexe n° 1. : Schéma des flux physiques et monétaires ..................................... 50
+
+
+
+
+                                                                    2
+                                                      RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                       SYNTHÈSE
+
+        Le syndicat mixte Port Chef de Baie à La Rochelle gère l’activité de pêche de la
+plateforme portuaire rochelaise depuis 2019. Implanté avec de lourds investissements, il n’a
+jamais atteint le tonnage qu’il devait traiter. Alors qu’il a été conçu pour commercialiser
+12 000 tonnes par an, son volume d’activité au cours des dernières années est six fois inférieur.
+Ce surinvestissement initial continue de mobiliser trop de fonds publics. Le syndicat doit
+engager une réflexion sur les conditions de son retour à l’équilibre. Il doit également rapidement
+se doter d’un règlement intérieur régissant son fonctionnement. Enfin, il lui faut amender dans
+les plus brefs délais ses relations avec une société coopérative dont il est actionnaire et revoir
+ses liens contractuels avec l’association des acheteurs des produits de la pêche.
+
+        Des installations surdimensionnées qui pénalisent l’exploitation et nécessitent des
+frais de maintenance réguliers
+
+        Le syndicat mixte Port Chef de Baie à La Rochelle a été créé par le département de la
+Charente-Maritime et la communauté d’agglomération de La Rochelle pour gérer et exploiter
+le port de pêche installé depuis 1994 sur le site portuaire de La Palice. Il assure en particulier le
+service public de la gestion des enchères sous criée.
+       Le site portuaire et l’ensemble des services qu’il propose avaient été dimensionnés pour
+un volume de pêche très supérieur à celui actuellement traité par l’outil industriel (prévision de
+12 000 tonnes traitées aux enchères en 1995, mais moins de 2 000 tonnes en 2024). Dès sa mise
+en service, seules deux des cinq chaines de tri installées ont été utilisées, et deux ont été
+démontées depuis. En conséquence, les coûts d’entretien et de fonctionnement sont inutilement
+majorés.
+        Le cycle d’exploitation de l’établissement est structurellement déficitaire. Il a été
+compensé chaque année de la période sous contrôle par des subventions d’équilibre versées par
+les membres du syndicat. Or, ce soutien à une activité industrielle et commerciale est prohibé,
+dans la mesure où il est financé par le contribuable et non par l’usager.
+       Des investissements élevés et nécessaires à son maintien en activité ont été réalisés entre
+2022 et 2025. Ils représentent 15 M€, financés pour l’essentiel à parité entre le département de
+la Charente-Maritime et la communauté d’agglomération de La Rochelle. Les travaux n’ont pas
+contribué à réduire le surdimensionnement du centre de tri ; mais ils ont toutefois permis de
+créer quelques espaces (22 sas d’entrée pour les ateliers, soit 640 m²) et 14 emplacements de
+chambre froide individualisés qui vont générer globalement 50 000 € de revenus.
+
+
+
+
+                                                 3
+                                    SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+                                Figure 1 : investissements réalisés entre 2022 et 2025
+
+
+
+
+                 Source : syndicat mixte Port Chef de Baie à-La Rochelle
+
+
+        Le port de pêche de La Rochelle dispose pourtant d’atouts importants, notamment un
+accès et accueil possibles aux bateaux de pêche sept jours sur sept, indépendamment des marées
+et une offre de services très complète avec les 90 entreprises qui y opèrent. Mais comme les
+autres ports de la façade atlantique, il doit faire face à une baisse sensible de son activité due à
+la raréfaction des ressources halieutiques, ainsi qu’aux conséquences du plan de sortie de flotte
+lié au Brexit ou plus récemment à « l’arrêté cétacés » qui interdit la pêche dans le golfe de
+Gascogne pendant un mois chaque hiver.
+
+       Une stratégie et un positionnement à redéfinir sans tarder
+
+        Face à ces difficultés structurelles, la chambre invite le syndicat à engager sans délai
+une réflexion stratégique à court et moyen terme, arrêtant les voies d’un retour à l’équilibre de
+son exploitation. Cette nécessaire projection pourra bénéficier de l’étude initiée par le
+département de la Charente-Maritime sur l’avenir des ports du département. Le moment est
+d’autant plus propice que le cycle d’investissement sur le port se termine, qu’une nouvelle
+direction administrative est mise en place et que l’exécutif a été renouvelé après les élections
+municipales de mars 2026.
+        Le contrôle de la chambre a mis en évidence des marges de progrès significatives dans
+la gestion courante du syndicat, dont l’administration présente plusieurs failles. Le syndicat
+mixte relève des prescriptions du code général des collectivités territoriales. À ce titre, il doit
+notamment adopter au plus vite un règlement intérieur, une présentation conforme de ses
+comptes, rendre publiques ses décisions, son budget et ses orientations générales. De même, la
+gestion du personnel doit faire l’objet de lignes directrices de gestion adoptées par le comité
+syndical et présentée à la communauté de travail.
+        La chambre a également relevé une confusion préjudiciable dans la gestion entre le
+syndicat et une entreprise privée dont il est actionnaire, la société coopérative d’intérêt collectif
+Filière Pêche La Rochelle, qui opère sur le port. Il convient de mettre fin dans les plus brefs
+délais à la participation irrégulière du syndicat à cette société.
+
+
+
+
+                                                     4
+                                                     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Enfin, la gestion des acheteurs sur la halle à marée repose sur une convention avec un
+groupement d’acheteurs, obsolète, d’une part, et dont la régularité est sujette à caution, d’autre
+part, dans la mesure où elle pourrait entraver l’entrée de nouveaux acheteurs au sein du
+groupement. La chambre demande au syndicat mixte de remédier dès 2026 à cette situation
+anormale. Elle l’invite également à mettre en place une régie d’avances et de recettes en lien
+avec cette association qui permettra un contrôle complet des fonds publics maniés.
+
+
+
+
+                                                5
+                                  SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+                            RECOMMANDATIONS
+
+Recommandation n° 1. (rappel du droit) : établir en 2026 un règlement intérieur, comme prévu
+par l’article 5.2 des statuts du syndicat. [Non mis en œuvre]
+
+Recommandation n° 2. (rappel du droit) : rendre compte en comité syndical des décisions
+prises en matière de rémunération des agents, conformément à l’article 6.2 des statuts. [Non
+mise en œuvre].
+
+Recommandation n° 3. (rappel du droit) : établir en 2026 des lignes directrices de gestion.
+[Non mise en œuvre]
+
+Recommandation n° 4. : mettre en place en 2026 une régie d’avances et une régie de recettes
+à l’association Centre Atlantique des acheteurs des produits de la pêche. [Non mise en œuvre]
+
+Recommandation n° 5. : se retirer dès 2026 de l’actionnariat de la SCIC Filière Pêche
+La Rochelle et mettre fin à son financement direct ou indirect qui est irrégulier, afin d’éviter la
+confusion manifeste des intérêts du syndicat et de la société. [Non mise en œuvre]
+
+Recommandation n° 6. (rappel du droit) : produire les documents budgétaires conformément
+aux articles L. 2312 et suivants du CGCT. [Non mis en œuvre],
+
+Recommandation n° 7. (rappel du droit) : organiser un débat d’orientation budgétaire dans les
+délais légaux et rendre publics les éléments du débat. [Non mis en œuvre]
+
+Recommandation n° 8. (rappel du droit) : mettre fin aux appels de subventions d’équilibre
+irrégulières versées par les membres du syndicat. [Non mis en œuvre]
+
+Recommandation n° 9. : élaborer en 2026 un schéma stratégique pour le port de pêche,
+incluant un programme des investissements et des mesures de rétablissement du compte
+d’exploitation en identifiant des sources d’économies et de financement nouvelles. [Mise en
+œuvre partielle]
+
+
+
+
+                                                6
+                                                        RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                        ÉLÉMENTS DE PROCÉDURE
+
+         Le contrôle des comptes et de la gestion du syndicat mixte Port Chef de Baie à
+La Rochelle a été inscrit au programme 2025 de la chambre régionale des comptes
+Nouvelle-Aquitaine pour la période courant à partir du 1er janvier 2020, conformément à
+l’article L. 211-4 du code des juridictions financières.
+       Le courrier d’ouverture du contrôle, prévu aux articles L. 211-3, L. 211-4 et R. 243-1
+du même code, a été adressé le 5 septembre 2025 à M. Christophe Bertaud, président du
+syndicat mixte et ordonnateur en fonctions, qui en a accusé réception le 8 septembre 2025.
+M. Jean-Louis Léonard, président du 1er janvier au 26 mars 2020, a pour sa part été informé de
+l’ouverture du contrôle le 15 septembre 2025 et en a accusé réception le 19 septembre 2025.
+       L’entretien d’ouverture de contrôle s’est tenu le 23 septembre 2025 avec M. Bertaud.
+L’entretien de fin de contrôle prévu par l’article L. 243-1 du code des juridictions financières
+s’est déroulé le 13 novembre 2025. L’entretien de clôture avec M. Léonard, ancien
+ordonnateur, a eu lieu le même jour.
+       Le syndicat mixte gestionnaire du port de pêche n’avait encore jamais fait l’objet de
+contrôle de la chambre. Le présent rapport porte sur la gestion administrative du syndicat mixte
+(finances, gestion des ressources humaines, marchés publics), ainsi que sur la performance de
+gestion de son offre de services, notamment de la halle à marée.
+       La chambre a délibéré sur le rapport d’observations provisoires lors de sa séance du
+9 décembre 2025. Ces dernières ont été adressées à M. Bertaud le 13 avril 2026. Il en a accusé
+réception le jour même. Sa réponse a été enregistrée le 18 mai 2026 par le greffe de la chambre.
+       Des extraits ont également été communiqués à divers tiers mis en cause qui en ont
+accusé réception et pour certains répondu dans les conditions précisées dans le tableau ci-après :
+
+               Tableau n° 1 : modalités de la contradiction avec les tiers mis en cause
+
+                                                 Date de réception de    Date d’enregistrement de
+   Tiers mis en cause
+                                                  l’extrait du ROP              la réponse
+   Monsieur le président de l’ACAAPP                 13 avril 2026             13 mai 2026
+   Monsieur le président de la SCIC Filière
+                                                      13 avril 2026            11 mai 2026
+   Pêche La Rochelle
+   Monsieur le Président de la communauté
+                                                      13 avril 2026            18 mai 2026
+   d’agglomération de la Rochelle
+   Source : chambre régionale des comptes
+
+
+        Par courrier en date du 5 mai 2026, le cabinet conseil de l’ACAAPP a souhaité
+consulter des pièces du dossier fondant les observations. Celles-ci ont été transmises le
+7 mai 2026. L’ACAAP a également demandé à être entendu par la chambre régionale des
+comptes en application de l’article L. 243-3 du code des juridictions financières.
+        À la suite de l’audition tenue le 22 juin 2026, la chambre a arrêté ses observations
+définitives le même jour en formation plénière.
+
+
+
+
+                                                  7
+                                      SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+                                     INTRODUCTION
+
+        Créé le 1er janvier 2019 par la communauté d’agglomération de La Rochelle et le
+département de la Charente-Maritime, le syndicat mixte Port Chef de Baie à La Rochelle assure
+la gestion du port de pêche de La Rochelle et de la halle à marée. Compte tenu de la nature de
+son activité, de son mode de financement principal et de son organisation, l’activité du syndicat
+mixte constitue un service public industriel et commercial. En 2025, il employait 25 agents et
+gérait un budget de fonctionnement de 3,5 M€.
+       Situé au centre de la façade atlantique française, le port Chef de Baie à La Rochelle offre
+un accès permanent sur les principales zones de pêche du golfe de Gascogne grâce notamment
+à son bassin en eau profonde, protégé par la présence des îles de l’archipel charentais.
+       Ce syndicat mixte organise une plateforme multiservices des produits de la mer,
+proposant l’ensemble des services indispensables aux entreprises du secteur de la pêche, du
+mareyage et de la conchyliculture sur un site de 360 000 m² dont il assure l’exploitation :
+maintenance et entretien des infrastructures portuaires, accueil des navires en escales (239 en
+2024) et gestion d’un parc locatif diversifié (terrains, chais, ateliers, locaux administratifs) de
+plus de 30 000 m² qui accueillait 87 entreprises en 2024.
+        Son cœur de métier reste la gestion de la criée et de la halle à marée, avec près de
+75 acheteurs inscrits pour 150 navires ayant vendu à la criée en 2024. Avec 12,3 M€ de chiffre
+d’affaires et 1 780 tonnes de produits vendus, issus majoritairement de bateaux de moins de
+12 mètres pratiquant la pêche à la journée, la criée de La Rochelle représente près de 10 % de
+l’activité de la façade atlantique tant en valeur qu’en volume débarqué. En comparaison, la halle
+à marée du port de La Cotinière réalise un chiffre d’affaires de 25 M€ et celui des Sables
+d’Olonne, halle à marée la plus importante de la façade atlantique, de 35 M€, ces deux ports
+accueillants des bateaux plus longs pratiquant la pêche au large.
+         Historiquement implanté au centre-ville de La Rochelle, à l’Encan, le port de pêche a
+été déplacé à La Palice en 1994. Les nouvelles installations, prévues à l’origine du projet pour
+traiter près de 12 000 tonnes par an à la criée, se sont très vite trouvées surdimensionnées à la
+suite des crises successives de la filière pêche. À la fin des années 1990, moins de 4 000 tonnes
+étaient débarquées à Port de Baie, et seulement deux des cinq chaines de tri étaient en service.
+En 2024, la halle à marée a traité moins de 1 800 tonnes de produits de la pêche.
+        L’association La Rochelle Ports Center, qui regroupe les trois ports de La Rochelle, a
+fait réaliser en 2024 une étude sur le poids économique de l’activité portuaire sur
+l’agglomération (étude dite de pesée). Elle estime les retombées économiques directes du port
+de pêche à 138 entreprises en activité, cumulant 667 emplois et 162 M€ de chiffre d’affaires
+(respectivement 287 entreprises, 3 182 emplois et 778 M€ de chiffre d’affaires pour l’ensemble
+des trois ports).
+        Dans un contexte de raréfaction des ressources pêchables et de restrictions des capacités
+de pêche (arrêté « cétacé »1 qui interdit la pêche pendant un mois dans le golfe de Gascogne et
+le plan de sortie de flotte à la suite du Brexit, notamment), le port de La Rochelle est davantage
+
+
+1
+    Arrêté du 23 octobre 2023 établissant des mesures spatio-temporelles visant la réduction des captures
+    accidentelles de petits cétacés dans le golfe de Gascogne pour les années 2024, 2025 et 2026.
+
+
+
+
+                                                     8
+                                                  RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+touché par la baisse des apports. De ce fait, l’équilibre financier du cycle d’exploitation du
+syndicat mixte ne peut pas être atteint.
+      La diversification des activités avec le port de service est source de revenus
+supplémentaires pour le syndicat mixte, mais très insuffisants pour assurer, même avec le
+concours de fonds européens, les investissements nécessaires.
+
+
+
+
+                                              9
+                                  SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+1 LA GESTION DU SYNDICAT MIXTE PORT CHEF DE BAIE À
+  LA ROCHELLE
+
+       Le port de La Rochelle est constitué de trois entités portuaires distinctes :
+  - le Grand port maritime de La Rochelle : d’abord port autonome par décret n° 2004-1378
+    du 20 décembre 2004, il a aujourd’hui le statut de grand port maritime (GPM) par décret
+    n° 2008-1036 du 9 octobre 2008. Il est géré par l’État ;
+  - le port de plaisance de La Rochelle, constitué depuis 1972 en régie du port de plaisance,
+    établissement public à caractère industriel et commercial (EPIC) créé et géré par la
+    commune de La Rochelle ;
+  - le port de pêche de Chef de Baie à La Rochelle, dont la gestion est assurée depuis 2019 par
+    le syndicat mixte Port Chef de Baie à la Rochelle.
+
+
+1.1 La création du syndicat mixte Port Chef de Baie à La Rochelle
+
+       Le port de pêche de La Rochelle, installé depuis 1994 sur le site de Chef de Baie à
+La Palice, a été transféré par l’État au département de la Charente-Maritime par arrêté
+préfectoral du 14 novembre 2006. La chambre de commerce et d’industrie (CCI) de
+La Rochelle en avait assuré seule l’exploitation jusqu’au 31 décembre 2001, date à laquelle le
+premier syndicat mixte du port de pêche de La Rochelle a été créé. Ce syndicat était constitué
+de la CCI et de la communauté d’agglomération de La Rochelle.
+        En application de la loi NOTRé et plus précisément de son article 22 qui disposait que
+« la propriété, l’aménagement, l’entretien et la gestion des ports relevant du département
+[pouvaient] être transférés au plus tard au 1er janvier 2017 […/...] aux autres collectivités
+territoriales à leurs groupements dans le ressort géographique desquels sont situées ces
+infrastructures… », les collectivités ont été amenées à se prononcer avant le 31 mars 2016.
+         Par délibération du 17 décembre 2015, le département de la Charente-Maritime a
+sollicité le maintien de sa compétence sur les 36 ports départementaux.
+        La communauté d’agglomération de La Rochelle, après avoir dans un premier temps
+renoncé à se porter candidate (délibération du 3 mars 2016), a ultérieurement demandé
+(délibération du 31 mars 2016) un transfert partiel de compétence du port maritime
+départemental de Chef de Baie s’agissant de la partie du port de pêche exploitée par le syndicat
+mixte du port de pêche de La Rochelle (terre-pleins et criée, hors quais et bassins).
+        Or, l’article 22 précité de la loi NOTRé prévoit que « si plusieurs demandes sont
+présentées pour le même port, le représentant de l’État dans la région propose, par priorité, la
+constitution d’un syndicat mixte aux collectivités territoriales et aux groupements intéressés
+par le transfert ou l’attribution ».
+        En octobre 2018, la communauté d’agglomération de La Rochelle et le département de
+la Charente-Maritime ont donc décidé de créer un nouveau syndicat mixte reprenant la gestion
+directe du port de pêche. Le mois suivant, le comité syndical du syndicat mixte constitué de la
+CCI et de la communauté d’agglomération de La Rochelle a décidé sa dissolution et a approuvé
+la reprise de son activité par le nouveau syndicat, sans la CCI de La Rochelle.
+
+
+
+
+                                               10
+                                                     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Le syndicat mixte port Chef de Baie à La Rochelle (ci-après désigné sous le sigle
+SMPCB ou le terme « syndicat mixte ») a ainsi été créé par arrêté du préfet de la
+Charente-Maritime n° 17-2018 du 7 décembre 2018, pour un début d’activité le
+1er janvier 2019.
+
+
+1.2 Les statuts et la gouvernance du syndicat mixte
+
+        L’organisation et la gouvernance du SMPCB sont définies par ses statuts approuvés et
+arrêtés par le préfet de la Charente-Maritime le 7 décembre 2018. Les statuts n’ont fait l’objet
+d’aucune modification depuis.
+      L’objet du syndicat est « d’assurer la compétence portuaire sur le Port Chef de Baie à
+La Rochelle ». À ce titre il assure les activités suivantes :
+  - la mise en place d’une stratégie portuaire commune et cohérente ;
+  - la gestion, l’aménagement, l’entretien et l’exploitation du port ;
+  - l’organisation et la mise en œuvre de tous les moyens permettant d’assurer, dans les
+    conditions prévues par la loi, le développement et, le cas échéant, l’extension des services
+    portuaires, les actions d’acquisitions foncières et d’opérations immobilières concourant au
+    développement de l’activité portuaire ;
+  - la réalisation d’études et la mise en œuvre de prestations de services en lien avec l’activité
+    portuaire.
+        L’article 1er des statuts rappelle que le syndicat mixte fait application de la
+réglementation spécifique prévue aux articles 5721-1 et suivants du code général des
+collectivités locales (CGCT). En l’absence de classement démographique du syndicat, ce sont
+les règles des communes de 3 500 et 10 000 habitants qui s’appliquent pour la gestion
+budgétaire et financière du syndicat (article L. 5722-1 du CGCT).
+       Le syndicat mixte doit être administré selon le principe de spécialité qui lui interdit de
+s’éloigner de son objet social.
+
+1.2.1 Le comité syndical
+
+       Aux termes de l’article 5 des statuts, le SMPCB est administré par un comité syndical
+composé de trois conseillers départementaux et de trois conseillers communautaires. Trois
+suppléants sont également désignés pour chaque membre. La durée de leur mandat suit celle de
+l’assemblée qui les a désignés, cependant aucune mention ne s’oppose au remplacement d’un
+membre avant ce terme. Les statuts posent également le principe d’absence de rémunération
+pour ces fonctions.
+       Le comité syndical règle, par ses délibérations, les affaires qui relèvent de la compétence
+du syndicat. Il exerce ainsi les attributions suivantes :
+  - élection du président ;
+  - définition et mise en œuvre de la stratégie de développement du port ;
+  - vote du budget ;
+
+
+
+
+                                               11
+                                           SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+     - constitution et fixation des taux ou tarifs des taxes ou redevances ;
+     - approbation du compte administratif ;
+     - modifications des conditions initiales de composition de fonctionnement et de durée du
+       syndicat mixte ;
+     - détermination du mode de gestion et d’exploitation du port ;
+     - adoption d’un règlement intérieur proposé par le président fixant les modalités pratiques
+       d’application des règles fixées aux présents statuts ;
+     - adoption de règles concernant des points non abordées dans les présents statuts.
+     - prise des dispositions à caractère budgétaire à la suite d’une mise en demeure intervenue
+       en application de l’article L. 1612-15 du CGCT.
+       En dehors de ces points, le comité syndical peut déléguer une partie de ses attributions
+au président dans les conditions prévues à l’article L. 5211-10 du CGCT2.
+        Ses réunions ont lieu au moins une fois par semestre, sur convocation du président qui
+fixe l’ordre du jour. Toutefois, une majorité simple des membres du comité syndical peut
+provoquer une convocation et chaque membre a la faculté de faire rajouter une question à
+l’ordre du jour, par une demande écrite au président, au plus tard huit jours avant la date de
+réunion du comité. Les séances ne sont pas publiques et le personnel ne peut y assister.
+Toutefois, des personnes qualifiées, dont le directeur du syndicat, peuvent être conviées, sans
+voix délibérative. Les délégués sont convoqués au moins 15 jours avant la tenue de la réunion.
+La convocation est accompagnée de l’ordre du jour.
+      Sur la période sous revue, le conseil syndical s’est davantage réuni que le nombre
+minimal prévu par les statuts.
+
+              Tableau n° 2 : réunions du comité syndical sur la période 2020 – octobre 2025
+
+                                               2020      2021       2022      2023     2024     2025
+                     Nombre de réunions          6         5          4         4        4        3
+                  Sources : syndicat mixte Chef Port de Baie à La Rochelle
+
+
+       Le quorum est atteint lorsque la majorité des membres du comité syndical est présente
+ou représentée, ce qui a toujours été le cas.
+        Les délibérations du comité syndical sont adoptées à la majorité absolue des suffrages
+exprimés. Chaque délégué dispose d’une voix et éventuellement d’un pouvoir. En cas d’égalité,
+le président a voix prépondérante. Le vote s’effectue à main levée, mais sur demande d’un
+membre, il peut avoir lieu à bulletin secret. Cette faculté n’a jamais été utilisée durant la période
+sous contrôle. À l’exception du vote du budget en 2024, toutes les délibérations ont été prises
+à l’unanimité.
+      Le conseil syndical doit en principe, en vertu de l’article 5.2 de ses statuts, élaborer un
+règlement intérieur qui définit les règles de son fonctionnement et des autres instances. Ce
+règlement n’a pourtant pas été mis en place. Le président du syndicat mixte s’est engagé à
+
+
+2
+    L’article L. 5211-10 du CGCT liste les attributions du comité syndical qui ne peuvent être déléguées au président.
+
+
+
+
+                                                          12
+                                                                 RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+procéder à la rédaction d’un règlement intérieur au cours de l’année 2026. La chambre en prend
+acte.
+        Ce règlement pourrait avantageusement organiser les règles de publicité des
+délibérations prises par le syndicat qui ne font, à ce jour, l’objet d’aucune information publique,
+ni de mise à disposition sur son site internet. Cette information est, en effet, obligatoire en
+matière budgétaire (cf. supra au point 3.3.1). Par ailleurs, en application de l’article L. 5721-6
+du CGCT, applicable au syndicat mixte, toute personne physique ou morale a « le droit de
+demander communication des délibérations et des procès-verbaux de l’organe délibérant des
+syndicats mixtes, des budgets et des comptes ainsi que des arrêtés du président de ces
+établissements publics. / Chacun peut les publier sous sa responsabilité3».
+
+1.2.2 Le président et le vice-président du syndicat
+
+        Selon l’article 6 des statuts, le président est élu par le comité syndical, à bulletin secret
+et à la majorité absolue des suffrages exprimés, pour une durée de deux ans. Depuis l’origine,
+le président est issu de la communauté d’agglomération de La Rochelle.
+       Le président est le représentant légal du syndicat. Il prépare et exécute les décisions du
+comité syndical. Il prend toutes les mesures nécessaires au bon fonctionnement du syndicat,
+organise librement le personnel et désigne l’équipe de direction. Il peut déléguer sa signature,
+sous sa responsabilité, à certains personnels.
+        Il rend compte de toutes ses décisions au comité syndical. Cette disposition statutaire ne
+semble pas mise en œuvre, les comptes rendus ne listant pas les décisions du président,
+notamment en matière de ressources humaines où son pouvoir de décisions unilatérales est
+assez étendu.
+         Le vice-président est élu dans les mêmes conditions que le président aux termes de
+l’article 7 des statuts, il ne peut cependant pas être élu de la même collectivité que le président.
+       Il peut recevoir délégation pour certaines attributions, dans le respect des pouvoirs
+consentis au président, mais sa principale attribution est de remplacer celui-ci en cas
+d’empêchement.
+
+1.2.3 Les autres instances de gouvernance
+
+        Le syndicat mixte est doté d’un conseil au développement qui réunit des représentants
+des usagers du port en vertu de l’article 9 des statuts. Il a pour mission de donner un avis sur
+les orientations stratégiques du syndicat mixte et sur les modalités de leur mise en œuvre.
+        Le nombre de membres, sa composition et son fonctionnement doivent être définis dans
+le règlement intérieur du syndicat mixte, dont il ne dispose pas aujourd’hui.
+        Le conseil au développement a principalement été réuni pour aborder les projets de
+réhabilitation des infrastructures.
+
+
+3
+    La communication des documents peut être obtenue aussi bien du président que des services déconcentrés de
+    l’État, elle intervient dans les conditions prévues par l’article L. 311-9 du code des relations entre le public et
+    l’administration.
+
+
+
+                                                           13
+                                     SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+          Tableau n° 3 : réunions du conseil au développement sur la période 2020 à 2025
+
+                                        2020        2021   2022   2023   2024      2025
+           Nombre de réunions            2           0      2      1       0         0
+       Sources : syndicat mixte Port Chef de Baie
+
+
+        Le syndicat mixte est tenu de réunir un conseil consultatif d’exploitation composé de
+toutes les parties prenantes du port (acheteurs et vendeurs aux ventes aux enchères, autorité
+portuaire, entreprises du site, etc.). L’article D. 932-15 du code rural et de la pêche maritime
+dispose en effet que « pour l’étude des questions intéressant directement l’exploitation d’une
+halle à marée [.../...] l’organisme gestionnaire de la halle à marée est assisté par un conseil
+consultatif local d’exploitation ».
+        Le conseil consultatif se réunit au moins une fois par an. Il est obligatoirement consulté
+lors de l’élaboration et de la modification du règlement d’exploitation et peut être consulté sur
+toutes questions relatives au fonctionnement et à l’exploitation de la halle à marée.
+       Durant la période sous contrôle, il s’est réuni au moins une fois par an pour que lui
+soient présentés les projets de rénovation des infrastructures et que soit discuté le règlement
+d’exploitation de la halle à marée.
+        Le règlement d’exploitation actuellement en vigueur, établi en 2023, a fait l’objet de
+plusieurs reports pour son adoption, compte tenu notamment de discussions difficiles avec une
+association d’acheteurs. Le règlement d’exploitation adopté précise l’ensemble des conditions
+d’utilisation de la halle à marée de La Rochelle ainsi que les droits et devoirs s’appliquant à
+chaque utilisateur dans le respect de l’ensemble des textes en vigueur et notamment de l’article
+D. 932-12 et 13 du code précité qui rappelle toutes les mentions obligatoires du règlement.
+        Le règlement d’exploitation s’impose à tous les utilisateurs du port. Il explicite
+notamment le règlement intérieur du conseil consultatif, le règlement de police du port,
+l’ensemble des conditions à remplir pour avoir accès à la halle à marée (acheteurs et vendeurs),
+les obligations du gestionnaire, l’accès aux services du port, l’organisation des ventes et le
+règlement des transactions (y compris la perception des taxes et redevances), les modalités
+d’intervention des organisations de producteur et de l’association d’acheteurs. Enfin, le
+règlement d’exploitation édite annuellement les tarifs en vigueur votés par le comité syndical.
+
+
+ Recommandation n° 1. (rappel du droit) : établir en 2026 un règlement intérieur,
+ comme prévu par l’article 5.2 des statuts du syndicat. [Non mis en œuvre]
+
+
+1.3 La gestion des ressources humaines du syndicat mixte
+
+       La gestion au quotidien des ressources humaines du syndicat est assurée par un agent,
+responsable administratif et financier de la structure. Il s’appuie pour la veille juridique et la
+mise en œuvre sur le service ressources humaines du grand port maritime (GPM), par
+convention, quand bien même toutes les spécificités statutaires des agents ne sont pas
+transposables, compte tenu de la différence de statut des deux établissements. La chambre note
+que dans la convention de prestation de conseil en matière d’assistance RH et de paye conclu
+
+
+
+
+                                                     14
+                                                           RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+avec le GPM, le syndicat mixte est dénommé « Port de pêche de La Rochelle », appellation
+remplacée par « Port Chef de Baie à La Rochelle » par arrêté préfectoral du 7 décembre 2018,
+ce qu’il conviendra de corriger lors de la prochaine modification.
+         Durant la période sous contrôle, les effectifs du syndicat mixte ont été stables, autour de
+26 agents. Jusqu’en juillet 2025, tous les agents sont sous statut privé et relèvent du code du
+travail. Le renouvellement des effectifs est important : plus de la moitié des agents présents en
+2025 ne l’étaient pas à la création du syndicat. Selon le syndicat, « ce renouvellement résulte
+principalement des départs en retraite, et des dispositifs de préretraite pénibilité, mis en œuvre
+pour des agents en fin de carrière ».
+        L’essentiel de la communauté de travail est affecté à l’exploitation du port de service et
+de la halle à marée, six agents et un apprenti assurent les fonctions supports (direction, finances
+et comptabilité, qualité-hygiène-sécurité-environnement, ressources humaines et marchés
+publics).
+
+1.3.1 L’évolution des salaires
+
+        Dans un service public industriel et commercial, à l’exception du directeur et du
+responsable de la comptabilité, s’il a la qualité de comptable public, tous les agents sont des
+agents de droit privé. Ils relèvent du code du travail et se voient appliquer les règles d’une
+convention collective spécifique. Dans le cas des ports de pêche s’applique la convention
+collective nationale unifiée ports et manutention (CCNUPM) signée en avril 2011 en
+remplacement d’une précédente convention, dite « convention verte », qui régissait les relations
+sociales sur les ports. Le port de pêche a été géré pendant de nombreuses années par la CCI de
+La Rochelle. Aussi, quelques agents transférés au syndicat mixte lors de sa création en 2001
+ont conservé leur statut d’agents de droit privé relevant de la convention collective des CCI.
+       La convention définit un « salaire de base minimum hiérarchique » et établit une grille
+de rémunération tenant compte du niveau du poste occupé (les salariés sont classés à un niveau
+et à un échelon) et de l’ancienneté. Ce salaire de base fait l’objet d’augmentations
+conventionnelles au niveau national et le salaire des agents est revalorisé à l’occasion des
+négociations annuelles obligatoires (NAO) avec les représentants du personnel au niveau local.
+
+           Tableau n° 4 : évolution du salaire de base négociée au niveau national (en %)
+
+         2020         2021          2022         2023          2024    Évolution 2020-2024
+
+         + 1,25       + 0,9          +3          + 6,25        + 4,3        + 16,6 %
+
+       Source : convention collective unifiée pêche et manutention
+
+
+        Malgré la stabilité des effectifs durant la période, la masse salariale a connu une hausse
+de 20,2 % pour s’établir à 1,72 M€, soit 48 % des charges courantes d’exploitation du syndicat.
+Entre 2020 et 2024, les évolutions salariales expliquées par les NAO s’élèvent à 16,6 %, soit
+près de 4 points de moins que l’évolution constatée de la masse salariale. Cet écart est dû en
+partie aux évolutions dans la grille des rémunérations (changement de niveau et d’échelon), aux
+primes versées qui ne relèvent pas toutes de la convention collective et aux primes de départs
+en retraite, nombreux durant la période. L’ordonnateur a également mentionné le poids de la
+
+
+
+
+                                                    15
+                                   SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+création de nouvelles charges obligatoires comme le versement mobilité ou la participation de
+l’employeur aux charges de formation ainsi que l’augmentation des taux de cotisations sociales.
+
+1.3.2 Le régime indemnitaire et les primes versées
+
+       Le régime des primes versées aux agents de droit privé du syndicat mixte procède de la
+mise en œuvre des conventions collectives qui ont cours (CCI et CCNUPM), ainsi que
+d’accords locaux, négociés chaque année.
+
+       1.3.2.1 Les primes du personnel de droit privé
+
+       La CCNUPM prévoit qu’un supplément de rémunération peut être attribué par des
+accords locaux sous forme de gratification globale d’activité ou de 13ème mois.
+        Dans ce cadre, le syndicat accorde ainsi chaque année, en décembre, une prime dont le
+montant est égal à 8,33 % du salaire brut annuel. En 2024, le total des sommes versées au titre
+de cette gratification s’est élevé à 71 239 € bruts.
+    Les agents perçoivent également d’autres primes en fin d’année, non prévues par la
+CCNUPM mais décidées par le président du SMPCB.
+        Des primes exceptionnelles sont par exemple versées à certains agents depuis 2020 dans
+le cadre des négociations annuelles locales. Les primes exceptionnelles sont décidées par le
+président du syndicat « à l’issue de l’examen des demandes de promotions formulées par le
+représentant du personnel ainsi que des demandes individuelles adressées par certains salariés
+et en tenant compte de l’avis de la direction [.../...] au regard de l’implication des agents », aux
+dires du syndicat. C’est une décision unilatérale du président, sur proposition du directeur
+général.
+       Entre 2020 et 2024, près de 25 agents dont trois cadres ont été bénéficiaires d’une prime
+exceptionnelle, pour un montant global de 35 000 € (17 450 € pour l’agent ayant touché la
+prime la plus importante, quand dix agents ont perçu moins de 500 euros).
+         Le principe de cette prime existe dans la convention collective nationale des CCI
+(primes statutaires), mais pas dans la CCNUPM ni dans la « convention verte » dont s’inspire
+la CCNUPM et qui en reprend les avantages acquis (article 14 de la convention collective). Or,
+l’article 5 de la convention CCNUPM sur la gratification annuelle précise dans son dernier
+alinéa que cette prime n’est pas cumulable avec d’autres primes de même objet. Le même article
+précise que cette « gratification est versée au prorata du temps de présence du salarié ». Le
+« temps de présence » fondant le versement de la gratification et « l’implication » fondant le
+versement de la prime exceptionnelle paraissent poursuivre le même objet. Le versement d’une
+prime exceptionnelle est irrégulier, la chambre invite le syndicat à y mettre fin.
+       Sur ce point, le syndicat mixte a exprimé son désaccord avec l’analyse de la chambre,
+considérant que la lecture du texte était erronée, sans apporter d’éléments ou de pièces
+probantes pour étayer son point de vue.
+
+
+       Prenant la suite de la prime de pouvoir d’achat (PPA) instaurée en 2019, la loi
+n° 2022-1158 du 16 août 2022 portant mesures d’urgence pour la protection du pouvoir d’achat
+
+
+
+
+                                                16
+                                                     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+a mis en place la prime de partage de la valeur (PPV). La principale différence avec la
+précédente tient au fait que celle-ci concerne tous les personnels. La PPA ne pouvait être versée
+aux salariés dont le salaire mensuel brut était supérieur à 2 600 € et elle était soumise à
+cotisations sociales. En 2023 et 2024, une prime de partage de la valeur a été accordée aux
+cadres et aux non cadres par décision unilatérale du président « au prorata du temps de travail
+effectif de chaque salarié en remerciement de leur contribution et implication sur le
+développement du port ». En 2024, 20 027 € ont été versés au titre du partage de la valeur, la
+prime étant variable selon l’emploi de l’agent et sa catégorie. À l’instar de la prime
+exceptionnelle, le fondement sur lequel est mise en place la prime de pouvoir d’achat ne permet
+pas de la cumuler avec la gratification annuelle.
+       Enfin, issue de décisions prises en 1975 par la chambre de commerce de La Rochelle,
+une « prime de vacances » est versée en juin de chaque année à hauteur de 600 €. Elle a été
+maintenue et reconduite au titre des avantages acquis avant la signature de la CCNUPM.
+       L’article 6-2 des statuts du syndicat dispose que le président « prend toute mesure
+nécessaire au bon fonctionnement du syndicat et organise librement le personnel », l’article
+précise également que « le président doit rendre compte au comité syndical ». En l’espèce, les
+comptes rendus du comité syndical ne font pas état des décisions prises dans le cadre des NAO
+ou des décisions unilatérales prises par le président.
+        La chambre invite le président du syndicat à rendre compte aux élus des décisions prises
+en matière de rémunération. L’ordonnateur a indiqué qu’il veillerait à l’avenir à renforcer
+l’information du comité syndical sur ses décisions.
+
+
+ Recommandation n° 2. (rappel du droit) : rendre compte en comité syndical des
+ décisions prises en matière de rémunération des agents, conformément à l’article 6.2 des
+ statuts. [Non mise en œuvre].
+
+       1.3.2.2 Le régime indemnitaire du personnel de droit public
+
+        Le régime indemnitaire tenant compte des fonctions, des sujétions, de l’expertise et de
+l’engagement professionnel (RIFSEEP) a été mis en place par délibération du 26 juin 2025 pour
+la directrice du syndicat, seule agent publique. Ce régime, régi par l’article L. 714-5 du CGFP,
+est composé de deux parts : une indemnité de fonctions, de sujétions et d’expertise (IFSE) liée
+au poste de l’agent, ainsi qu’un complément indemnitaire annuel (CIA) lié à l’engagement
+professionnel et à la manière de servir.
+        La première délibération du conseil syndical sur le RIFSEEP en mars 2025 avait été
+rejetée par le contrôle de légalité car le syndicat mixte avait décidé de ne pas instaurer de CIA.
+La seconde délibération prévoit un CIA de 100 € et un IFSE d’un montant maximum de
+46 920 €, montant qui respecte les plafonds maximums applicables aux agents de la fonction
+publique de l’État.
+
+1.3.3 La direction
+
+       Suivant une jurisprudence ancienne, mais constante (CE, 26 janvier 1923, Robert
+Lafregeyre – CE, 8 mars 1957, Sieur Jalenque de Labeau, n° 15219 – T. Confl., 4 juillet 1991,
+
+
+
+                                               17
+                                          SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+n° 02670), les emplois de directeur et d’agent comptable d’un service public à caractère
+industriel et commercial sont occupés par des agents publics. Au SMPCB, le comptable est un
+agent public.
+           Le poste de directeur peut être occupé dans le cadre d’un contrat de droit public :
+     - soit par un agent titulaire placé en détachement ou mis à disposition ;
+     - soit par un agent contractuel de droit public, recruté par la procédure du recrutement direct
+       (article 47 de la loi n° 84-53 de 1984).
+         Pour satisfaire à cette obligation, le conseil syndical a décidé de créer un emploi de
+titulaire de la fonction publique de catégorie A, le 16 janvier 2019, à temps complet pour le
+poste de directeur du syndicat et de lancer une procédure de recrutement.
+        Cette délibération a été annulée le 17 avril 2019 : « Les membres après avoir pris
+connaissance de l’organigramme du port et des compétences existantes ont décidé de ne pas
+procéder au recrutement prévu ». Le conseil syndical a décidé, le même jour, la création d’un
+poste d’ingénieur chargé d’assurer la coordination des travaux de réhabilitation. Le mois
+suivant, le directeur de l’ancien syndicat mixte, ancien salarié de la CCI de La Rochelle, a été
+renommé directeur du SMPCB alors qu’il est sous statut de droit privé. Selon les présidents
+successifs, ce dernier aurait bénéficié d’une dérogation particulière, mais aucune pièce n’a pu
+être fournie à la chambre, ni par le syndicat, ni par la préfecture, ni par l’intéressé, étayant cette
+affirmation.
+           Cette situation irrégulière a perduré jusqu’à son départ à la retraite en juin 2025.
+        Le recrutement de la nouvelle directrice a donné lieu à la création en comité syndical du
+poste de directeur du syndicat mixte « Port Chef de Baie à La Rochelle », poste de contractuel
+sous statut public. Ce recrutement direct a donné lieu à la conclusion d’un contrat de trois ans4.
+
+1.3.4 Le temps de travail et les congés
+
+        La durée annuelle de travail des agents soumis aux dispositions de la CCNUPM est fixée
+à 1 584 heures, journée de solidarité incluse, correspondant à 35 heures par semaine. Les
+modalités d’application sont différentes selon le type d’emploi et la catégorie de l’agent. Des
+dispositions spécifiques sont prises pour les cadres, par exemple. Cette convention reprend en
+partie la convention précédente (dite « convention verte »), précisant dans son article 14 les
+conditions de reprise des avantages acquis précédemment.
+        Conformément à l’article L. 3141-3 du code du travail, la convention collective indique
+que les salariés bénéficient d’un congé payé annuel de 2,08 jours ouvrables par mois de travail
+effectif, la durée totale ne pouvant excéder 25 jours. À cela s’ajoutent deux jours de
+fractionnement et des congés supplémentaires liés à l’ancienneté (de un jour supplémentaire
+après quatre ans d’ancienneté à quatre jours supplémentaires après 16 ans d’ancienneté).
+       Les agents administratifs, ouvriers et agents de maîtrise effectuent 38 heures par
+semaine selon le protocole local d’accord sur organisation des temps de travail du
+28 décembre 2023, attribuant 18 jours de réduction du temps de travail. Plusieurs cycles de
+
+
+4
+    En vertu de décret n° 88-145 du 15 février 1988, ce type de contrat, dans un syndicat mixte, peut être renouvelé
+    par périodes d’une même durée maximale de trois ans.
+
+
+
+
+                                                         18
+                                                      RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+travail sont définis, dont les horaires varient en fonction de leur affectation : exploitation, vente
+ou maintenance.
+       Pour les cadres, le temps de travail est fixé à 35 heures hebdomadaires. Compte tenu
+des contraintes et sujétions particulières de l’emploi de cadre, six jours supplémentaires de
+congés annuels sont accordés au titre de la CCNUPM (article 3.3 de l’annexe « cadre »).
+       Par avenant du 16 juin 2021 au protocole d’accord-cadre, le président du syndicat a
+accordé aux cadres un supplément annuel de congés de 11 jours qui se cumulent aux congés
+conventionnels. Le syndicat mixte a précisé que cette disposition locale remplace les six jours
+de congés prévus par la CCNUPM, ce que la note précitée ne précise pas. Enfin, il semble qu’un
+dispositif de « RTT Direction » soit également mis en place (10 jours de congés annuels
+supplémentaires au titre de la réduction du temps de travail). Le syndicat mixte a justifié ces
+jours de RTT en invoquant la reprise d’avantages liés à « convention verte » qui n’aurait alors
+concerné que l’ancien directeur.
+       Ainsi, un cadre dirigeant du syndicat mixte qui aurait plus de 16 ans d’ancienneté
+disposerait à La Rochelle de 25 jours de congés (soit 4+11+10) de plus que ceux autorisés par
+le code du travail compte tenu de sa durée hebdomadaire de travail (35 heures).
+       Si des aménagements conventionnels sont possibles et réguliers, il apparait en l’espèce
+que les accords locaux conduisent ici à un volume de jours de congés supplémentaires
+manifestement non justifié.
+        La directrice nouvellement recrutée sur la base d’un contrat de droit public ne relève pas
+de la CCNUPM. La chambre relève que son contrat de travail ne mentionne pas de temps de
+travail hebdomadaire, ni les droits à congés subséquents. La chambre invite le syndicat à
+corriger cette anomalie. L’ordonnateur s’est engagé à procéder, dans les meilleurs délais, à la
+mise en conformité formelle de ce document, notamment en ce qui concerne la définition du
+temps de travail et les droits à congés afférents, conformément aux dispositions applicables aux
+agents contractuels de droit public.
+
+1.3.5 Le compte épargne-temps
+
+        Le compte épargne-temps (CET) n’est ouvert que pour les cadres. Il est issu de
+l’ancienne convention dite « verte » de la CCI, il ne concernait que deux agents et peut être
+considéré comme en voie d’extinction. Pour les salariés de droit privé, il est valorisé en euros
+et non en jours.
+       Dans le cas du seul agent sous statut public, le CET est un droit et son ouverture se fait
+à la demande de l’agent. La chambre rappelle qu’une délibération du syndicat est obligatoire
+pour toutes utilisations particulières, comme la monétisation ou la prise en compte de la retraite
+additionnelle de la fonction publique.
+
+1.3.6 L’absence de lignes directrices de gestion
+
+        Le décret n° 2019-1265 du 29 novembre 2019 pris en application de la loi de
+transformation de la Fonction publique du 6 août 2019 impose l’adoption de lignes directrices
+de gestion, dont le contenu doit être élaboré par l’autorité territoriale en fonction de sa propre
+
+
+
+
+                                                 19
+                                     SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+appréciation de la gestion des ressources humaines et du dialogue social qu’elle conduit avec
+les agents et/ou les représentants du personnel de sa collectivité.
+       Conformément aux dispositions de l’article L. 413-1 du code général de la fonction
+publique, elles visent à déterminer une stratégie pluriannuelle de pilotage des ressources
+humaines, notamment en matière de gestion prévisionnelle des emplois et des compétences,
+ainsi que les orientations générales en matière de promotion et de valorisation des parcours
+professionnels.
+        Ce document stratégique élaboré pour six ans permet de formaliser la politique en
+matière de ressources humaines, il doit rendre explicites et transparentes les règles de gestion
+applicables à tous les agents du syndicat mixte. Le syndicat ne dispose pas de lignes directrices
+de gestion. La chambre l’invite à y remédier sans délai.
+
+
+ Recommandation n° 3. (rappel du droit) : établir en 2026 des lignes directrices de
+ gestion. [Non mise en œuvre]
+
+       En réponse, le syndicat s’est engagé à initier au cours de l’année 2026 la formalisation
+de ce document stratégique. La chambre en prend acte.
+
+
+1.4 La commande publique
+
+       Le SMPCB est un pouvoir adjudicateur, il est soumis au code de la commande publique.
+Les marchés de travaux de réhabilitation de la halle à marée et du plan d’eau ont fait l’objet
+d’une assistance à maîtrise d’ouvrage. Le contrôle formel des pièces n’a pas mis en évidence
+d’anomalie.
+       En revanche, la chambre relève une absence de mise en concurrence pour des achats de
+services. Le syndicat mixte a eu systématiquement recours à une entreprise de transport sans
+aucune publicité ni mise en concurrence. Celle-ci a ainsi perçu près de 700 000 € depuis 2020.
+
+                             Tableau n° 5 : montants perçus par l’entreprise
+                                                                                     2025
+        2020             2021             2022           2023           2024
+                                                                                 1er semestre
+       60 818           86 290          109 806         187 560        152 281     97 041
+
+    Source : grands livres
+
+
+        La chambre rappelle au SMPCB que conformément à l’article R. 2122-8 du code de la
+commande publique (CCP), tout achat de fournitures ou de services supérieur à 40 000 € doit
+faire l’objet de publicité et de mise en concurrence préalable dans le cadre d’un marché à
+procédure adaptée (article L. 2131-1 du CCP) en dessous des seuils communautaires.
+        La chambre invite vivement le syndicat mixte à recenser ses besoins récurrents et à
+régulariser instamment ses procédures d’achat, notamment au regard des règles de publicité et
+de mise en concurrence, ce qu’il s’est engagé à faire en réponse aux observations de la chambre.
+Il ajoute que le respect des dispositions du code de la commande publique se fera « selon des
+
+
+
+
+                                                   20
+                                                    RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+modalités compatibles avec les contraintes de fonctionnement du syndicat ». La chambre
+rappelle que les dispositions du code précité s’imposent au syndicat mixte et qu’elles ne sont
+pas adaptables.
+
+
+_______ CONCLUSION INTERMÉDIAIRE SUR LA GESTION DU SYNDICAT _______
+
+       La gestion et l’exploitation du port de pêche de La Rochelle est assurée par le syndicat
+mixte du port Chef de Baie à La Rochelle depuis 2019, dont les membres sont la communauté
+d’agglomération de La Rochelle et le département de la Charente-Maritime. Ce dernier a pris
+la suite du syndicat mixte du port de pêche constitué par la CCI de La Rochelle et la
+communauté d’agglomération de La Rochelle, l’exploitation de l’outil industriel étant
+jusque-là concédée à la chambre de commerce et d’industrie (CCI).
+        La chambre observe que le port ne respecte pas l’ensemble des obligations liées à son
+mode de gestion totalement public. C’est par exemple le cas pour le fonctionnement du comité
+syndical, qui ne dispose pas d’un règlement intérieur fixant les règles de son fonctionnement,
+l’organisation du syndicat, les droits et obligations des agents, l’utilisation des locaux, les
+règles d’hygiène, de santé et de sécurité au travail.
+         L’absence de documents publics, connus et partagés par la communauté de travail,
+constitue en particulier un obstacle à la pleine transparence de la gestion des ressources
+humaines. L’exploitation du port relève d’un service public industriel et commercial. Les
+conventions collectives qui s’appliquent aux agents de droit privé, soit presque la totalité des
+effectifs, ne font pas l’objet d’un document récapitulant les droits de chacun, ni de lignes
+directrices de gestion validées par l’assemblée délibérante afin d’assurer leur bonne
+application.
+       La chambre invite le syndicat à se conformer aux règles de la gestion publique,
+rappelées dans ses statuts.
+       __________________________________________________________________
+
+
+
+
+                                              21
+                                          SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+ 2 L’ACTIVITÉ DU SYNDICAT MIXTE PORT CHEF DE BAIE À
+   LA ROCHELLE
+
+
+ 2.1 La gestion de la halle à marée
+
+         En qualité d’autorité portuaire et de gestionnaire du port de pêche, le syndicat mixte est
+ responsable de la première mise en vente des produits frais, réfrigérés, congelés ou surgelés, de
+ la pêche maritime et de l’aquaculture. Il assure toutes les missions inhérentes à la halle à marée
+ définies par le code rural et de la pêche : le traitement des marchandises (réception, tri, pesée et
+ mise en lot des marchandises), les opérations de vente en criée, délivre les agréments des
+ acheteurs et perçoit les taxes et redevances appliquées aux produits et aux opérations de vente
+ en criée. Il assure la responsabilité de la police du port
+        Pour l’exercice de ses compétences, il propose un ensemble de services : mise à
+ disposition des quais de débarquement (épis de déchargement et de stationnement, cale en
+ pente, pontons flottants), de baies de déchargement des transporteurs routiers, d’engins de
+ débarquement et de manutention, des moyens de pesée agréés, du personnel qualifié.
+
+                           Tableau 1 : flux vendus en criée répartis par typologie de vente
+
+                                                                                             Ordre d’achat par
+                      Enchères                       Gré à gré               Invendus         organisation de
+                                                                                               producteurs5
+                                Chiffre                         Chiffre                                   Chiffre
+Année       Volume (kg)
+                               d’affaires
+                                              Volume (kg)
+                                                               d’affaires
+                                                                            Volume (kg)   Volume (kg)
+                                                                                                         d’affaires
+2019          1 908 508        9 262 448 €      101 335        286 219 €       1 156         2 247          1 141 €
+2020          1 891 433        8 833 717 €       52 938        267 358 €         717         6 312          4 469 €
+2021          1 967 222       11 026 162 €       41 738        143 549 €       1 476         2 227          1 691 €
+2022          2 184 213       12 143 772 €       63 393        156 817 €       1 062         3 217          5 243 €
+2023          2 013 862       12 102 739 €       28 174        155 217 €       1 920           431            364 €
+2024          1 698 514       11 644 351 €       80 182        392 912 €       1 338           314            191 €
+
+Source : syndicat mixte Chef Port de Baie à La Rochelle
+
+
+         Comme rappelé dans le règlement d’exploitation du port de pêche (et comme partout en
+ France), les vendeurs en criée bénéficient d’une garantie de paiement de la part du premier
+ acheteur. Cette garantie est assise sur une caution bancaire apportée par l’acheteur et qui doit
+ couvrir le montant prévisible de ses achats. Cette caution, déposée dans chaque criée où
+ intervient l’acheteur, se compose soit d’une caution bancaire soit d’un dépôt sur un compte
+ ouvert à leur nom par la criée ou par l’autorité qui se sera vu déléguer cette mission.
+
+
+
+
+ 5
+     Le volume sous achat OP correspond au volume de produits qui faute d’acheteurs ou en cas de cours trop bas
+     peuvent faire l’objet d’achats réglementés par les organisations de producteurs (OP), seuls organismes agréés
+     pour procéder à ces achats.
+
+
+
+
+                                                          22
+                                                              RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Dès lors que la garantie est constituée, le gestionnaire de criée – ici le syndicat mixte –
+agrée le vendeur qui peut alors participer aux enchères.
+       À la criée du Port Chef de Baie, à la suite d’une convention signée avec le gestionnaire
+du port le 11 juillet 2002, c’est une association d’acheteurs, l’association centre atlantique des
+acheteurs des produits de la pêche (ACAAPP) qui gère les cautions et garantit les paiements de
+ses adhérents. L’article 8 de la convention précise que « le syndicat mixte agrée les acheteurs,
+mais ne peut les laisser acheter sous la criée tant que l’ACAAPP n’aura pas informé le syndicat
+mixte de l’agréement financier d’achat pour ces nouveaux acheteurs ».
+       Dans la pratique, puisque le syndicat mixte ne souhaite pas assurer la gestion des
+garanties financières des acheteurs, l’ACAAPP représente tous les acheteurs de la criée.
+
+                  Tableau 2 : activité de l’ACAAPP à la criée du port Chef de Baie
+
+                    Flux déclarés
+                                                  Flux vendus en criée            Flux traités par l'ACAAPP
+               sur le port de services
+                               Chiffre                           Chiffre                              Chiffre
+    Année     Volume                            Volume                             Volume
+                              d'affaires                        d'affaires                           d'affaires
+    2019       1 101 632       4 135 047 €      2 013 246        9 549 808 €         1 908 588       9 262 448 €
+    2020       1 557 907       4 506 303 €      1 951 399        9 105 545 €         1 891 299       8 833 717 €
+    2021       1 584 698       5 071 209 €      2 012 663       11 171 402 €         1 966 867      11 026 162 €
+    2022       1 932 685       7 034 070 €      2 251 884       12 305 833 €         2 184 237      12 143 772 €
+    2023       1 458 774       5 585 822 €      2 134 387       12 258 321 €         2 131 998      12 257 956 €
+    2024         358 164       1 819 938 €      1 780 348       12 037 454 €         1 726 325      11 856 345 €
+
+Source : syndicat mixte Chef Port de Baie à La Rochelle & ACAAPP
+
+
+2.1.1 L’association d’acheteurs, un acteur très présent sur les criées de la façade
+Atlantique
+
+        L’association centre atlantique des acheteurs des produits de la pêche (ACAAPP) est
+une association qui regroupe des acheteurs des produits de la pêche : 78 mareyeurs6,
+179 poissonniers7, 8 grossistes, 53 grandes et moyennes surfaces et 16 conservateurs et usiniers.
+Ses statuts les plus récents datent du 27 juin 2008 et la présentent comme le mandataire de ses
+membres, pour gérer en leur nom l’ensemble des flux financiers8 liés aux achats des produits
+de la mer, les représenter et défendre leurs intérêts. L’ACAAPP est, par construction, un outil
+de mutualisation des risques qui vise à garantir la sécurisation des paiements.
+      L’ACAAPP exerce son activité sous les halles à marée de Charente-Maritime, de
+Vendée et de Loire-Atlantique, entre Royan et La Turballe.
+
+
+6
+  Le mareyeur est un grossiste des produits de la pêche.
+7
+  Le poissonnier fait le commerce de détails des poissons et fruits de mer.
+8
+  Comme l’ACAAPP l’indique sur son site internet : Assurer la gestion des transactions financières sous criées/
+  Garantir et initier le paiement, à bonne date, des producteurs/ Maîtriser le risque « Acheteur » et gérer les
+  couvertures financières de ces derniers/ Assurer, auprès de tous ses adhérents, le recouvrement des paiements
+  initiés par elle-même/ Recouvrer et reverser les frais et taxes liés aux ventes pratiquées sous les criées/ Gérer
+  l’ensemble des flux de trésorerie, les finances de l’Association et des entreprises satellites.
+
+
+
+                                                       23
+                                  SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+                Tableau 3 : volumes traités par l’ACAAPP sur la côte atlantique
+
+
+
+
+             Source : ACAAPP
+
+
+        En 2025, l’association a procédé pour le compte de ses adhérents à l’achat de plus de
+20 450 tonnes de produits de la pêche, pour un volume d’achat de 145,5 M€ (y compris les
+taxes), dont 12,6 M€ à La Rochelle, soit 8,6 % de l’activité de l’association.
+      En Nouvelle-Aquitaine, elle est présente dans les criées de Royan, La Cotinière et de
+La Rochelle. L’association a conventionné :
+   -   avec le syndicat mixte Port de Pêche puis Port Chef de Baie à La Rochelle, le
+       11 juillet 2002 ;
+   -   avec le syndicat mixte portuaire estuaire Royan Océan La Palmyre, organisme
+       gestionnaire de la halle à marée de Royan, la dernière convention a été signée le
+       19 juin 2025 ;
+   -   avec le département de la Charente-Maritime, gestionnaire en régie du port de
+       La Cotinière, la dernière mise à jour de la convention date du 6 décembre 2024.
+       Sur la façade ouest, l’ACAAPP a également conventionné avec :
+   - la CCI de la Vendée qui gère deux criées (Les Sables d’Olonne et Noirmoutier-en-l’Ile)
+     et qui a subdélégué la gestion du port de Saint-Gilles-Croix-de-Vie ;
+   - la SAEML Loire Atlantique Pêche et Plaisance, qui gère les criées du Croisic et de la
+     Turballe.
+       Par son organisation, l’ACAAPP permet à ses membres de bénéficier des garanties
+financières obligatoires, dans l’ensemble des criées où elle est présente, sans avoir à multiplier
+les demandes. Elle assure par ailleurs un « service » supplémentaire important pour les
+vendeurs en leur garantissant un délai de paiement très court.
+        En pratique, l’ACAAPP assure une réelle sécurité aux vendeurs et un service essentiel
+aux acheteurs, mais également au syndicat mixte Port Chef de Baie à La Rochelle en assurant
+les transactions financières d’achat/vente. L’ACAAPP rappelle « qu’en 24 ans d’existence, [...]
+elle n’a subi aucun impayé, a assuré la cohésion de ses adhérents et a garanti le paiement de
+tous ses adhérents acheteurs aux pêcheurs et aux halles à marée qui n’ont subi aucun impayé ».
+
+
+
+
+                                               24
+                                                                  RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Les missions qui lui sont confiées par convention lui confèrent une position dominante
+dans le processus qui est parfois contestée par l’autorité portuaire, gestionnaire de la halle à
+marée.
+
+2.1.2 Une entrave de fait à l’entrée de nouveaux acheteurs
+
+        L’octroi d’agrément est la compétence exclusive du syndicat mixte, autorité portuaire.
+L’agrément permet au professionnel d’accéder aux ventes aux enchères. Si le gestionnaire du
+port ne souhaite pas assurer ces formalités et les a déléguées (par exemple à l’ACAAPP), un
+acheteur potentiel ne peut intervenir sous la criée tant que sa demande de cautionnement n’a
+pas été validée par l’ACAAPP (article 8 de la convention ACAAPP/SM), qui est par la suite,
+la seule à pouvoir juger des dépassements de la couverture financière des acheteurs et à pouvoir
+retirer les agréments financiers des acheteurs qui ne sont plus en règle, entrainant une
+interdiction d’achat.
+        Au regard de son expérience, l’ACAAPP est chargée conventionnellement de s’assurer
+de la fiabilité de la couverture financière des candidats. Ces dispositions sont régulières mais
+l’application protectionniste qui en est faite par l’association pose problème.
+        Selon le syndicat mixte, l’ACAAPP a refusé à de nombreuses occasions d’accorder la
+caution financière à de nouveaux acheteurs, les empêchant ainsi d’intervenir en criée. Pour
+autant, la convention n’a pas été remise en cause et aucune action n’a été engagée autre que
+quelques courriers pour lui rappeler ses obligations conventionnelles. En réponse, l’ACAAPP
+indique qu’il ne s’agit pas de refus, mais que les candidats n’ont pas satisfaits aux obligations
+de garanties financières.
+        L’attitude de l’ACAAPP renvoie à une pratique anticoncurrentielle, consistant à
+« protéger » ses adhérents en leur assurant d’être les seuls à intervenir sur la criée. La qualité
+de membre est elle-même sélective, l’association a instauré des droits d’entrée de 1 000 €.
+L’ACAAPP pratique également un traitement différencié pour les acheteurs étrangers. Alors
+que ses membres français, en s’acquittant d’un seul droit d’entrée, peuvent intervenir sur toutes
+les criées ou l’ACAAPP est présente, les acheteurs étrangers devront à chaque fois déposer un
+dépôt de garantie et s’acquitter d’un droit de 1 000 € par criée. Cette disposition a été mise en
+place par mesure de précaution vu la complexité des réglementations étrangères en cas de défaut
+de paiement. Enfin, l’ACAAPP ne valide pas les dossiers au regard des conditions
+administratives et légales, qui sont objectives, mais après approbation par son conseil
+d’administration, composé de concurrents potentiels du candidat.
+       Dans ce contexte, une plainte a été déposée contre le syndicat mixte Port Chef de Baie
+à La Rochelle, autorité portuaire, par l’organisation des premiers acheteurs du Morbihan et de
+Bretagne (OPAM-B9), association concurrente de l’ACAAPP. L’assignation relève que
+l’OPAM-B a sollicité sans succès par un premier courrier du 11 mars 2021 la régularisation
+d’une convention financière, lui permettant d’intervenir sur la criée de La Rochelle. Par un
+dernier courrier du 4 août 2023, l’OPAM-B a réitéré sa demande et obtenu en retour une
+réponse, par un courrier du 4 octobre 2023 du syndicat mixte, l’informant que « ses services
+
+9
+    L’OPAM-B est une association analogue à l’ACAAPP. Elle administre et gère les cautionnements, assure les
+    paiements en criées et est l’interlocutrice entre les ports et ses membres. Elle intervient déjà dans 14 criées
+    bretonnes avec lesquelles elle a conventionné. Elle n’assure pas les transactions des halles à marée, à la différence
+    de l’ACAAPP.
+
+
+
+                                                            25
+                                 SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+allaient examiner les conditions de mise en place d’un nouveau dispositif d’agrément des
+acheteurs en criée ». Lors de la séance du conseil syndical du 29 septembre 2023, les élus du
+syndicat mixte ont décidé de « lancer une réflexion pour modifier les procédures actuelles
+d’agrément et ouvrir les criées à de nouvelles structures financières ». En parallèle, le
+département a souhaité rencontrer les responsables de l’ACAAPP pour « envisager la mise à
+jour des modalités de fonctionnement pour l’agrément en criée des structures financières ».
+       Pour autant, les échanges n’ont pas permis de débloquer cette situation, ce qui a conduit
+l’OPAM-B à assigner le syndicat mixte devant le tribunal judiciaire de La Rochelle. Une plainte
+de même nature avait été déposée par l’OPAM-B contre le gestionnaire du port de
+Saint-Gilles-Croix-de-Vie. L’association a été déboutée par la cour d’appel de Poitiers par
+ordonnance du 24 octobre 2023.
+        La DREETS, pour sa part, a engagé en 2023 une enquête pour pratiques
+anticoncurrentielles et délit d’entrave sur l’ensemble des halles à marée de la côte atlantique.
+L’enquête a conduit à une transmission à l’autorité de la concurrence qui pourrait statuer dans
+les prochains mois.
+
+2.1.3 Une convention largement obsolète
+
+       La convention validée par le conseil syndical le 11 juillet 2002 a été signée en
+octobre 2002. Depuis sa signature, l’ancien syndicat signataire a été dissous et remplacé par le
+syndicat mixte Port Chef de Baie à La Rochelle et l’association elle-même a changé de nom.
+La convention n’a cependant fait l’objet que d’un seul avenant sur la période, concernant des
+données financières.
+       La convention entre le syndicat mixte et l’ACAAPP délègue à cette dernière la gestion
+de tous les flux financiers des opérations de criée :
+  - elle détient et gère les cautions de ses membres et assure le suivi du montant des achats ;
+  - elle permet au syndicat de compter sur la mise en œuvre d’une garantie à première
+    demande qu’elle porte (article 2 et 5 de la convention) et qui peut être actionnée sans
+    formalisme, en cas de défaillance de paiement d’un adhérent de l’ACAAPP, et ce sous huit
+    jours ;
+  - elle règle, dans des délais très courts les montants des opérations, (article 3 de la
+    convention), à J+2 au pêcheur vendeur ou à huit jours (ouvrables) maximum, selon des
+    calendriers et des conditions financières préétablis.
+        La seule modification de la convention, intervenue par un avenant du 2 janvier 2007,
+prévoit qu’en contrepartie de son travail, l’ACAAPP se voit appliquer par le syndicat mixte une
+réduction de la taxe d’usage appliquée aux ventes, de l’ordre de 0,1 %. Cette réfaction, qui
+aurait été une perte de revenus pour le syndicat mixte, est devenue plus tard une taxe de 0,1 %,
+appliquée aux acheteurs puis reversée mensuellement à l’ACAAPP. Cette disposition, comme
+l’esprit général de la convention, est reprise dans les nouvelles conventions signées par
+l’ACAAPP avec le port de La Cotinière ou celui de Royan.
+       La chambre invite le syndicat à revoir sans délais sa convention avec l’ACAAPP. En
+réponse, le syndicat et l’ACAAPP ont indiqué avoir déjà programmé des échanges pour établir
+une nouvelle convention.
+
+
+
+
+                                              26
+                                                      RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        L’ACAAPP a reçu le droit de percevoir le montant des ventes, les taxes et redevances
+diverses, liées à l’activité de la criée et les reverse aux autorités compétentes suivant un
+calendrier mensuel. Les articles 4-2, 6 et 7 de la convention prévoient deux subrogations : d’une
+part, dans les actions de ses adhérents pour lesquels elle règlera en leur nom les différentes taxes
+et redevances portuaires et, d’autre part, dans les droits, actions et garanties du syndicat mixte.
+      Dans la pratique, l’ordonnancement des flux de matières et des flux financiers peut être
+résumé comme suit (voir annexe 1 pour le schéma des flux) :
+  - 1- à l’arrivée des marchandises, les agents du syndicat mixte constituent des lots par
+    espèce, qualité, volume, bateau, ainsi que d’autres indications réglementaires (zone de
+    pêche, notamment). Le lot est stocké dans l’entrepôt frigorifique du port, visible par les
+    acheteurs. Il est vendu aux enchères le lendemain matin. Le syndicat établit alors par
+    acheteur un relevé des achats (ajout du prix), qui récapitule l’ensemble des taxes du
+    syndicat (criée/exploitation, tri, etc.), la redevance d’équipement des ports de pêche
+    (REPP) et les autres taxes ou redevances. Ce relevé des achats est transmis à l’ACAAPP
+    par voie dématérialisée ;
+    L’ACAAPP procède alors à la transaction : prélèvement sur le compte des acheteurs des
+    sommes dues au pêcheur, au syndicat et aux douanes, puis procède au paiement du vendeur
+    et prépare le paiement du syndicat mixte (qui sera enregistré en perception sans titre) et
+    des douanes (qui sera versée sur un compte d’attente du syndicat mixte) ;
+  - 2- en fin de mois, l’ACAAPP envoie au syndicat mixte un récapitulatif des achats gérés
+    dans le mois, par port, dont celui de La Rochelle ;
+  - 3- sur la base du -2-, le syndicat établit un récapitulatif des transactions opérées par
+    l’ACAAPP, y compris la REPP ;
+  - 4- le syndicat adresse alors une facture à l’ACAAPP de ce qui leur est dû (hors REPP) et
+    justifie la perception sans titre ;
+  - 5- le syndicat mixte établit la répartition de la REPP collectée chez les acheteurs, par port.
+    Cette pièce justifie le versement de la REPP par l’ACAAPP et permet aux douanes de
+    répartir la redevance par port ;
+  - 6- le total du mois (prestation du syndicat + REPP) est crédité sur un compte d’attente
+    (47000) puis débité et réparti par compte de tiers.
+      Cette prestation implique une manipulation de fonds publics conséquente, de l’ordre
+d’1 M€ pour la REPP et de 1,3 M€ pour les redevances diverses d’exploitation en 2024.
+       Concrètement, le syndicat liquide les sommes dues aux parties prenantes de la
+transaction en criée, mais l’ACAAPP collecte et répartit l’ensemble des sommes dues et ce sans
+contrôle effectif du syndicat.
+        Pour sécuriser ces opérations, les conventions les plus récentes signées entre l’ACAAPP
+et d’autres ports (La Cotinière ou Royan par exemple), mentionnent dans leur article 2.2 un
+dispositif assimilable à un mandat de gestion, donné par l’autorité portuaire à l’ACAAPP. Cette
+stipulation apparait néanmoins fragile juridiquement. Les opérations de la halle à marée ne font
+pas partie des cas limitativement énumérés par le législateur qui autoriseraient un mandat de
+gestion (articles L. 1611-7, L. 1611-7-1 et articles D. 1611-16 et suivants).
+        La chambre considère que les opérations assurées par l’ACAAPP relèvent pour
+l’essentiel de la responsabilité du syndicat mixte qui doit assurer le service public de gestion de
+la halle à marée : cautionnement et garantie nécessaires à l’agrément et transactions financières
+
+
+
+                                                27
+                                           SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+des achats/ventes en criée. Dans les faits, l’ACAAPP assure une prestation pour le syndicat. La
+convention qui lie le syndicat et l’ACAAPP s’apparente à un contrat de prestations assurée par
+l’ACAAPP, prestation qui relève du code de la commande publique pour son attribution.
+       Les dispositions de l’article R. 1617-1 du CGCT et suivants précisent les conditions de
+mise en place des régies d’avances et de recettes (cf. infra, au point 3.2). La mise en place par
+le syndicat d’une régie d’avances et d’une régie de recettes relatives aux flux financiers avec
+l’ACAAPP serait une organisation adaptée, qui garantirait un contrôle effectif du comptable
+public sur ce maniement de fonds publics et sécuriserait l’ensemble des opérations liées aux
+ventes aux enchères.
+
+ Recommandation n° 4. : mettre en place en 2026 une régie d’avances et une régie de
+ recettes à l’association Centre Atlantique des acheteurs des produits de la pêche. [Non
+ mise en œuvre]
+
+        En réponse sur ce point, l’ACAAPP et le syndicat ont indiqué que des discussions
+étaient engagées à l’initiative du conseil départemental pour la mise en place d’un dispositif
+sécurisé qui pourrait s’appliquer à tous les ports de pêche du département.
+
+
+2.2 La plateforme multiservices halioportuaire du port de pêche Chef de
+    Baie à La Rochelle
+
+2.2.1 Des activités diversifiées
+
+        Le port de Chef de Baie tient sa spécificité10 de sa configuration en plateforme
+multiservices des produits de la mer. Seul port de la Charente-Maritime à disposer d’une gare
+routière sur laquelle figurent de grandes entreprises de transport, il offre ainsi sur un même site
+l’ensemble des services nécessaires aux professionnels du secteur pour mener leur activité
+quotidienne.
+        Le port de Chef de Baie accueille tout au long de l’année des navires de toutes les flottes
+européennes menant leur campagne de pêche à proximité de ses quais et souhaitant réaliser
+leurs opérations de bases avancées. Avec ses 100 000 m² de bassin, le port offre un espace de
+stationnement aux navires professionnels qui disposent d’infrastructures remises à neuf en 2024
+dans le cadre du programme d’investissement 2020-2025.
+       Au total, le port de Chef de Baie a vu stationner 217 navires en 2024 de manière
+ponctuelle, saisonnière ou à l’année sur ses quais. Les navires présentant un tirant d’eau trop
+important pour entrer dans le bassin de Chef de Baie sont accueillis pendant toute leur saison
+au Grand Port Maritime de La Rochelle avec qui des conventions ont été passées.
+        Avec son bassin accessible 24h/24h et 7j/7j, il permet l’accueil de ces navires et met à
+leur disposition les outils et les infrastructures nécessaires aux opérations de débarquement
+(transpalette peseur, chariot élévateur, distribution de fluides, etc.). Il bénéficie également de la
+
+
+
+10
+     Extrait du rapport d’activité 2024.
+
+
+
+
+                                                     28
+                                                      RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+proximité de nombreuses entreprises de réparation, d’avitaillement et de dépannage pour
+accroître son offre de services.
+        En 2024, l’activité du port de services a cependant enregistré une nouvelle baisse
+significative, tant en volume débarqué qu’en chiffre d’affaires généré. Ces résultats sont les
+conséquences directes du mois d’arrêt dans le cadre du plan « cétacés »11.
+       Le port de Chef de Baie a également une offre locative très importante, source de
+revenus conséquents pour le syndicat mixte.
+        Il met en particulier à disposition des professionnels une aire de stationnement maritime
+équipée de trois épis de stationnement et de cinq pontons flottants et un parc locatif bâti et non
+bâti de 35 000 m². Avec des terrains nus pour l’entreposage de matériel, des chais d’armement
+pour les équipements des pêcheurs, des ateliers professionnels pour les mareyeurs et
+poissonniers et des locaux administratifs, les différentes filières économiques trouvent les outils
+nécessaires au développement de leurs activités. 87 entreprises y ont élu domicile.
+       Les contrats établis pour les plus anciens prennent la forme d’une autorisation
+d’occupation temporaire à l’exception des entreprises de la halle à marée qui bénéficient dès
+1994 des loyers conventionnés (il s’agit alors d’une concession du port, pour que les mareyeurs
+acceptent de délocaliser leur activité sur le port Chef de Baie).
+           Le port enregistrait en 2025 un taux d’occupation de son parc locatif de 100 %.
+
+2.2.2 Des relations contestables avec la société coopérative d’intérêt collectif Filière
+      Pêche La Rochelle
+
+         Inscrite le 3 novembre 2011 au greffe du tribunal de commerce et implantée sur le port
+de pêche, la société coopérative d’intérêt collectif (SCIC) Filière Pêche La Rochelle a été créée
+à l’initiative d’acteurs de la pêche (acheteurs, vendeurs, institutionnels), publics et privés, et
+notamment le syndicat mixte du port de pêche qui détient à l’origine 10/70ème des parts, comme
+la CCI de la Charente-Maritime (alors concessionnaire de la gestion du port de pêche) et la
+communauté d’agglomération de La Rochelle.
+        Dès la création de l’entreprise, le président de la SCIC est le président du syndicat mixte,
+le directeur général du syndicat mixte est administrateur de la SCIC puis son directeur. Au
+31 décembre 2024, d’après les comptes sociaux déposés, la SCIC réalise un chiffre d’affaires
+de 670 K€ et 26,7 K€ de bénéfice net comptable, issu notamment de son activité de
+transformation et négoce de poisson (filetage notamment), et de fourniture de ses produits
+transformés, via des marchés publics, à des services de restauration collective de la place
+(cantines scolaires et EHPAD publics de La Rochelle notamment).
+        En préambule de ses statuts, les initiateurs du projet qui deviennent sociétaires précisent
+leurs intentions : « Suite au constat de différences significatives sur les cours du poisson entre
+le port de La Rochelle et les ports voisins, certains pêcheurs avaient alors pris la décision de
+ne plus vendre à La Rochelle. Le port de pêche de La Rochelle, qui ne pouvait subir une
+nouvelle vague de départ, avait alors mis en œuvre une modification des heures de ventes et
+une amélioration du système de prévision des apports. Ces solutions nécessaires sont apparues
+insuffisantes pour stopper l’hémorragie de départ des pêcheurs. Ainsi, le Syndicat Mixte du
+
+
+11
+     Arrêté du 23 octobre 2023 précité.
+
+
+
+                                                 29
+                                   SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+Port de Pêche de La Rochelle et le groupement de producteurs FROM SUD OUEST ont impulsé
+une nouvelle action en créant un service d’achat pour le compte de tiers, et en hébergeant un
+atelier de découpe et de conditionnement. Depuis sa création, ce service a prouvé son utilité
+sur le maintien des cours du poisson au Port de pêche de La Rochelle. La volonté des associés
+de la SCIC-SA Filière Pêche La Rochelle est de pérenniser et développer ces services dans le
+but de soutenir les cours en criée de La Rochelle afin qu’ils atteignent un niveau comparable
+aux autres ports, sans pour autant affaiblir le mareyage traditionnel qui connaît lui aussi une
+période de restructuration intense ».
+        L’article 19 quinquies de la loi n° 47-1775 du 10 septembre 1947 modifiée portant statut
+de la coopération dispose que « les sociétés coopératives d’intérêt collectif [sont] des sociétés
+anonymes ou des sociétés à responsabilité limitée à capital variable régies, sous réserve des
+dispositions de la présente loi, par le code de commerce. Elles ont pour objet la production ou
+la fourniture de biens et de services d’intérêt collectif, qui présentent un caractère d’utilité
+sociale ».
+        L’article 4 des statuts définit l’objet de la SCIC, en précisant que « la finalité d’intérêt
+collectif de la SCIC-SA Filière Pêche La Rochelle définie en préambule se réalisera, de manière
+non limitative, à travers l’objet suivant : la réalisation de prestations de services, tels que le
+filetage, la transformation et le conditionnement pour le réseau des premiers acheteurs de la
+criée de La Rochelle et de Royan, le négoce de produits de la mer, ainsi que l’achat pour tiers
+comprenant en particulier les achats en criée à La Rochelle et Royan, sur place ou à distance,
+dont la finalité d’intérêt collectif est la valorisation et le développement de la filière pêche
+locale, et plus généralement, toutes activités annexes, connexes ou complémentaires s’y
+rattachant directement ou indirectement, ainsi que toutes opérations civiles, commerciales,
+industrielles, mobilières, immobilières, de crédit, utiles directement ou indirectement à la
+réalisation de l’objet social dont la prise de participations ou d’intérêts dans toutes
+entreprises ».
+        Depuis 2011, l’actionnariat de la SCIC a évolué et la CCI, la communauté
+d’agglomération de La Rochelle et le syndicat mixte détiennent chacun 20,08 % des parts en
+2025, soit 60,24 %. Orle transfert des biens de la CCI à l’occasion de la fin de la concession en
+2019 aurait dû être suivi du transfert des parts au département, ce qui n’a pas été encore fait.
+Mais il ressort de l’article 19 septies de la loi suscitée que les collectivités territoriales, leurs
+groupements et établissements publics territoriaux peuvent détenir ensemble jusqu’à 50 % du
+capital de ces sociétés. En réponse, le syndicat précise que la SCIC est régie par les modalités
+du sociétariat (1 sociétaire = 1 voix), et que la majorité capitalistique n’emporte pas forcement
+le contrôle de la société.
+       Compte tenu d’une part de l’activité de la société, décrite dans son objet social et qui
+correspond effectivement à son activité réelle, et d’autre part les statuts du syndicat mixte, la
+chambre considère qu’il ne peut en être actionnaire.
+        L’activité de la société relève du secteur concurrentiel (filetage, transformation et
+conditionnement de produits de la mer). Cette activité est connexe et dérivée de celle du port.
+Mais elle n’a pas de raison d’être liée aussi fortement au syndicat mixte et plus généralement à
+des institutions publiques qui détiennent 60 % de ses parts. Son activité de production agro-
+alimentaire relèverait plutôt d’une société classique, voire d’une société coopérative de
+production (SCOP). Par ailleurs, l’utilité sociale qui justifie le statut particulier de SCIC, lequel
+autorise l’actionnariat public, n’est en l’espèce pas démontré.
+
+
+
+
+                                                 30
+                                                      RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Or, le soutien des cours par des interventions sur la criée ne peut relever d’une société
+majoritairement contrôlée par des institutions publiques qui n’a pas le statut d’organisation de
+producteur, sauf à contrevenir au règlement (UE) n° 1379/2013 du 11 décembre 2013 portant
+organisation commune des marchés dans le secteur de la pêche, modifiant les règlements (CE)
+n° 1184/2006 et (CE) n° 1224/2009 du Conseil et abrogeant le règlement (CE) n° 104/2000 du
+Conseil, qui autorise le soutien au cours du marché par les seules organisations de producteurs,
+dûment habilitées.
+       La SCIC est un acheteur de la criée. En tant qu’adhérente à l’ACAAPP, ses interventions
+en 2024 la place comme le dixième opérateur en termes de montant des achats, lesquels sont
+effectués à un prix moyen très bas (61 tonnes, pour un montant de 258 K€ et un prix moyen de
+4,21 €/kg, soit le 3ème prix le plus bas d’intervention, hors organisation de producteurs).
+        Le fait que le syndicat mixte, autorité portuaire et gestionnaire de la criée, soit
+actionnaire de la SCIC qui intervient sur cette criée contrevient aux règles portant organisation
+commune des marchés dans le secteur des produits de la pêche. Son intervention via la SCIC
+sur les enchères publiques dont elle doit assurer la transparence sans être organisation de
+producteur est irrégulière au regard des dispositions précitées. Le syndicat, en réponse,
+considère quant à lui qu’il intervient dans une logique de développement des débouchés,
+d’amélioration de la valorisation des produits et de fluidification des échanges commerciaux.
+Si la chambre ne conteste pas la logique de développement, elle maintient que le lien fort avec
+le syndicat mixte qui gère la halle à marée pose problèmes. Par ailleurs, le syndicat mixte est
+soumis à un principe de spécialité qui lui impose de réserver son activité à son seul objet social,
+ce qui n’est pas le cas des activités de la SCIC.
+         La chambre invite le syndicat mixte à mettre fin sans attendre à cette irrégularité et à se
+retirer de la SCIC.
+        Le président de la SCIC s’est engagé, en réponse sur ce point, à convoquer une
+assemblée générale au cours de laquelle les associés auront à statuer sur la réduction du capital
+social par voie d’annulation partielle de parts sociales détenues. Le syndicat mixte y consent
+également. La chambre en prend acte.
+
+       2.2.2.1 Des relations financières irrégulières entre la SCIC et le syndicat mixte
+
+       Le lien entre le syndicat mixe et la SCIC est établi dès son origine, au-delà de la prise
+de participation des entités publiques. Au fil des années, elle s’est positionnée comme un
+partenaire privilégié du syndicat mixte, conduisant l’établissement public à lui confier des
+missions qui relèvent de son objet social.
+        Par délibération du 18 décembre 2018 de « participation au développement du port de
+pêche » l’ancien syndicat mixte a approuvé une convention signée avec la SCIC, convention
+renouvelée par tacite reconduction sur la période sous contrôle. Dans son article 2, celle-ci
+précise les services apportés par la SCIC : « La SCIC, au travers de son responsable de site (en
+l’occurrence, le directeur du syndicat mixte, à partir de 2020), participe à la réalisation des
+opérations commerciales engagées par le SMPP : elle contacte régulièrement les fournisseurs
+et producteurs extérieurs agréés en criée pour organiser la mise en vente de leur production
+dans les meilleures conditions possibles, elle apporte son soutien lors de difficultés rencontrées
+au moment des enchères en proposant son expertise du marché national aux agents de vente,
+elle contacte les acheteurs aux côtés des agents de vente pour résoudre les problèmes de
+
+
+
+                                                31
+                                   SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+produits invendus qui pourraient survenir lors des ventes aux enchères, elle peut être amenée
+à réaliser des opérations de premières transformations à la demande des agents de vente pour
+permettre d’écouler les invendus, elle apporte sa référence de prix nationaux à la cellule
+commerciale pour les opérations d'importation ».
+        Cette convention de « participation au développement du port de pêche » est valorisée
+à 2 000 € par mois, soit 24 000 € par an. Les services apportés relèvent notamment de l’appui
+au service commercial, proposant une expertise ad-hoc, fonction qui relève de l’objet du social
+du syndicat mixte. Telle qu’elle est rédigée, la convention est de fait une prestation de service
+qui concourt à une mission importante du syndicat. Compte tenu des contreparties mentionnées,
+il ne peut s’agir d’une convention (autorisée pour une SCIC), mais d’une prestation de service,
+laquelle devrait être fiscalisée et soumise à TVA.
+        La chambre s’étonne que le syndicat mixte conventionne avec une société commerciale
+dirigée par le directeur général du syndicat, présidée alors par le président du syndicat, pour
+assurer une mission qui est dévolue statutairement à ce dernier.
+        Les prestations énumérées dans la convention sont explicites et relèvent notamment de
+fait des missions de l’attachée commerciale du syndicat mixte. Le contrat de travail de l’agent
+responsable de développement commercial du syndicat mixte, élaboré et validé par le directeur
+du syndicat mixte qui est aussi le directeur de la SCIC, stipule dans son article 6 que le titulaire
+est également responsable de la prospection commerciale de la SCIC SA filière pêche
+La Rochelle. Cette dernière elle gère notamment la prospection et la contractualisation des
+ventes de produits transformés et en particulier les marchés publics dont est titulaire la SCIC.
+        Cette mission, financée par le syndicat mixte, au service d’une entreprise commerciale
+qui intervient sur le marché concurrentiel, est irrégulière car elle ne relève pas des statuts du
+syndicat mixte qui est régi par un principe de spécialité, elle ne donne par ailleurs lieu à aucun
+remboursement de la SCIC.
+       Il en est de même avec un agent du syndicat mixte chargé d’opérations comptables et
+des opérations de fin d’exercice pour la SCIC, mis à disposition sans convention par simple
+avenant à la délibération de création de la SCIC. Cette mise à disposition, irrégulière, ne fait
+pas davantage l’objet de compensation financière par la SCIC.
+       La chambre relève également la mise à disposition à titre exclusif d’un véhicule du
+syndicat mixte pour l’activité commerciale de la SCIC. Cette mise à disposition des moyens du
+syndicat mixte pour la SCIC ne fait pas non plus l’objet de convention de prêt, avec contrepartie
+financière. Depuis le contrôle, la SCIC a informé la chambre qu’elle avait acquis son propre
+véhicule.
+        De même, les adresses internet de la SCIC comportent un suffixe identique à celui du
+syndicat mixte du port de pêche (…@larochelle.port-peche.fr), laissant penser à l’assimilation
+de la structure au syndicat mixte.
+        La société commerciale bénéficie enfin des facilités d’achats courants du syndicat
+mixte. Ces achats sont ensuite remboursés par la SCIC au syndicat. Cette facilité accordée à la
+SCIC permet à cette dernière de profiter de la masse des achats assurée par le syndicat. Elle
+constitue une source d’économie pour la société commerciale. Elle ne fait l’objet d’aucun
+formalisme et est opérée au profit exclusif d’une société opérant sur la plateforme portuaire.
+
+
+
+
+                                                32
+                                                     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Compte tenu des éléments relevés, la chambre considère que l’ensemble des libéralités,
+contributions financières ou en nature du syndicat au bénéfice d’une société commerciale ne
+sont pas régulières en ce qu’elles ne relèvent pas des missions et de l’objet du syndicat mixte.
+      Invité par la chambre à y mettre fin dans les plus brefs délais, le syndicat mixte s’ est
+engagé à le faire en réponse. La juridiction en prend acte.
+
+       2.2.2.2 Une situation de conflit d’intérêts qui a perduré jusqu’en juin 2025
+
+       Dès l’origine, le président de la SCIC et son président directeur général sont
+respectivement président et directeur général du syndicat mixte. Cette situation a perduré
+jusqu’à la désignation d’un nouveau président du syndicat mixte, en mars 2020, l’ancien
+président du syndicat a conservé son mandat de président de la SCIC, le directeur général du
+syndicat jusqu’en juin 2025 était encore directeur de la SCIC.
+        Aux termes de l’article L. 121-5 du code général de la Fonction publique (CGFP),
+constitue un conflit d’intérêts « toute situation d’interférence entre un intérêt public et des
+intérêts publics ou privés qui est de nature à influencer ou paraître influencer l’exercice
+indépendant, impartial et objectif des fonctions de l’agent public ».
+        Le contrôle de la chambre a mis en évidence la confusion née d’une proximité excessive
+entre le syndicat mixte, qui est un établissement public de coopération locale, et la société
+commerciale (cf. 2.2.2.1 supra).
+        Le syndicat mixte a tenu à préciser sur ce point que les personnes en cause exerçaient
+leur fonction dans la SCIC à titre personnel. La chambre réfute cet argument : l’exercice à titre
+personnel des fonctions de directeur ou de président de la SCIC ne change rien au statut de
+directeur ou de président du syndicat pour ces mêmes personnes, dans la mesure où cela
+constitue un conflit d’intérêts.
+       Par ailleurs, et jusqu’en juin 2025, le fait que les directions du syndicat mixte et de la
+SCIC soient assurées par la même personne a nécessairement pesé sur l’implication du syndicat
+mixte dans la SCIC, sans réelle régulation des présidents de la SCIC et du syndicat mixte.
+        La chambre relève que les financements irréguliers, directs ou indirects, de la SCIC par
+le syndicat mixte n’ont pas fait l’objet du contrôle et du discernement qui doivent réguler les
+relations entre un établissement public (en difficulté financière) et une structure privée sous son
+contrôle, du fait de la confusion des fonctions de direction.
+       Quand bien même la situation de conflit d’intérêts a aujourd’hui cessé du fait du départ
+du directeur du syndicat mixte, la chambre invite le syndicat mixte à mettre fin à la confusion
+qui subsiste entre les missions du syndicat et les activités de la SCIC qui n’ont pas à être
+financées par l’établissement public.
+
+ Recommandation n° 5. : se retirer dès 2026 de l’actionnariat de la SCIC Filière Pêche
+ La Rochelle et mettre fin à son financement direct ou indirect qui est irrégulier, afin
+ d’éviter la confusion manifeste des intérêts du syndicat et de la société. [Non mise en
+ œuvre]
+
+
+
+
+                                                33
+                                        SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+3 LA SITUATION FINANCIÈRE DU SYNDICAT
+
+3.1 Le cadre budgétaire
+
+       L’architecture budgétaire du syndicat mixte est constituée d’un budget principal (BP) et
+d’un budget annexe (BA), consacré à la fête du port, tous deux appliquent la nomenclature
+comptable M4 relative aux services publics industriels et commerciaux (SPIC).
+       Le budget principal retrace l’ensemble des opérations du port de pêche, en recettes
+comme en dépenses, en investissement et en exploitation, pour le fonctionnement de la halle à
+marée comme de l’exploitation du port de services ou des locations proposées par le syndicat
+mixte.
+        Le budget annexe fête du port a été créé pour l’évènement organisé par la ville de
+La Rochelle. La ville s’appuie sur le syndicat mixte pour réaliser le suivi budgétaire et assurer
+les encaissements. Une convention relative à la gestion financière de la fête du port de pêche
+est établie chaque année. Le budget annexe ne comporte qu’une section d’exploitation, dont le
+total est en moyenne de moins de 100 K€ ; il enregistre des dépenses essentiellement
+constituées de charges à caractère général (achat, locations de matériel, prestations de services)
+et des recettes issues de la vente de repas. L’équilibre du budget est assuré par le versement
+d’une subvention de la ville et de l’agglomération de La Rochelle.
+        Ces subventions représentent en moyenne ces quatre dernières années 73 % des produits
+de gestion du budget annexe. Selon la chambre, ce budget ne peut pas être considéré comme un
+SPIC, son objet n’est pas similaire à une activité d’entreprise privée et ses ressources ne
+proviennent pas majoritairement des usagers.
+
+
+3.2 Les régies
+
+       Le syndicat a mis en place deux régies. Une régie de recettes créée le 29 janvier 2019 et
+une régie d’avances, créée le 23 janvier 2019.
+       La régie de recettes permet « d’encaisser toutes les recettes liées à l’objet du Syndicat
+Mixte ». Il s’agit principalement des ventes de glace réfrigérante de la criée et, plus à la marge,
+quelques ventes de badges12. Le montant de l’encaisse maximum est de 8 000 € et celui du fond
+de caisse, de 300 €. Elle est ouverte à tous les modes de recouvrement : en numéraire, par
+chèques, cartes et virement bancaires.
+       Les fonds sont déposés sur un compte de dépôt ouvert auprès de la DDFiP13 de la
+Charente-Maritime. L’encaisse est reversée au comptable public lorsqu’elle atteint son
+maximum, ou au moins une fois par mois, accompagnée de tous les justificatifs des opérations,
+les reçus, tickets de caisse ou factures qui ont été délivrés aux acheteurs. Les écritures de
+recouvrement sont ensuite retracées dans la comptabilité du syndicat.
+
+
+12
+     L’accès aux pontons est réglementé et autorisé aux porteurs de badges d’accès.
+13
+      Obligation réglementaire pour les régies d’avances et de recettes – Article 14 du décret n° 2019-798 du
+     26 juillet 2019 relatif aux régies de recettes et d’avances des organismes publics.
+
+
+
+
+                                                      34
+                                                     RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Le premier régisseur, nommé par arrêté du 11 février 2019, était le directeur général du
+syndicat, assujetti à un cautionnement de 460 € et percevant une indemnité de maniement de
+fonds de 120 €. Après son départ en 2025, il a été remplacé par l’ancienne régisseuse
+suppléante, nommée par arrêté du 17 juillet 2025 et dont l’indemnité a été revalorisée à 130 €
+et le cautionnement maintenu au même niveau.
+        L’article R. 1617-3 du CGCT dispose que « le régisseur, qui est une personne physique,
+est nommé par une décision de l’ordonnateur de l’organisme auprès duquel la régie est
+instituée, sur avis conforme du comptable public assignataire. Les fonctions de régisseur ne
+peuvent pas être assurées par un agent ayant la qualité d’ordonnateur ou disposant d’une
+délégation à cet effet ». Or, jusqu’en juin 2025, le régisseur du syndicat était le directeur du
+syndicat mixte, et ce au mépris de la règle ci-dessus rappelée.
+        Sur la période, la régie a été contrôlée deux fois par le comptable public. Le
+21 septembre 2020 et le 27 septembre 2023, conformément aux dispositions de l’article
+R. 1617-17 du CGCT. Les procès-verbaux n’ont pas relevé d’anomalies majeures : tous les
+documents sont classés, enregistrés et transmis régulièrement. Les opérations peuvent être
+suivies clairement et sont conformes à l’objet de la régie.
+       La régie d’avances a pour sa part été créée le 23 janvier 2019 pour permettre le paiement
+des dépenses suivantes :
+  - les dépenses de matériels et/ou petites fournitures nécessaires au fonctionnement ;
+  - les remboursements de frais sur justificatifs.
+       L’avance maximum est de 4 000 € et les demandes de reconstitution doivent être
+espacées d’au moins un mois. Les paiements se font par chèques, par carte bancaire ou en
+numéraire. Dans le dernier cas, l’arrêté ne précise par le montant du fonds de caisse.
+        Comme pour la régie de recettes, le premier régisseur de la régie d’avances, nommé par
+arrêté du 11 février 2019, était le directeur général du syndicat, assujetti à un cautionnement de
+460 € et percevant une indemnité mensuelle de maniement de fonds de 120 €. À son départ en
+2025, il a été remplacé par l’ancienne régisseuse suppléante, nommée par arrêté du
+17 juillet 2025. Son indemnité a été revalorisée à 130 €.
+      Sur la période, la régie a également été contrôlée deux fois par le comptable public, avec
+le même constat positif que pour la régie de recettes.
+         Chaque année, le syndicat prend un arrêté modificatif pour chaque régie, permettant leur
+utilisation pour des opérations en lien avec la fête du port de pêche du 1er juin au 15 juillet, en
+2022 et 2023, et du 1er mai au 15 juillet en 2024. La nature des opérations est complétée par la
+mention « ainsi qu’à l’organisation de la fête du Port de Pêche, par la vente de tickets aux
+particuliers » (recettes) et « également à l’organisation de la fête du Port de Pêche » (avances).
+Cette procédure est régulière et le comptable a simplement demandé en 2022 des modificatifs
+ou compléments des arrêtés concernant les modes de perception des fonds.
+        À l’occasion de la fête du port de pêche, les encaisses sont modifiées en conséquence
+ainsi que les fonds de caisse. La régie d’avances va, pendant cette période, gérer plusieurs fonds
+de caisse, correspondants aux différents stands mis en place pendant la fête. Les autres
+dispositions restent inchangées :
+
+
+
+
+                                                35
+                                            SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+                Tableau n° 6 : tableau des modificatifs des régies pour la fête du port de pêche
+
+                                                             Encaisses
+                                                                                               Régisseurs
+                                                 Anciennes                Nouvelles
+             Régie d’avances                      4 000 €                7 500 €                    Inchangé
+             Régie de recettes                    8 000 €               85 000 €                    Inchangé
+                                                         Fonds de caisse
+             Régie d’avances                        0€                  4 874 €*
+             Régie de recettes                     300 €                 5 800 €
+            Sources : syndicat mixte Port Chef de Baie à La Rochelle
+          * Montant correspondant à la somme des fonds de caisse en 2023.
+
+
+       Si le recours à des modifications régulières et temporaires des régies existantes convient
+au syndicat, il n’en demeure pas moins qu’il s’agit toujours de deux régies distinctes, demandant
+des écritures de suivi différentes et complexifiant le travail du régisseur et les opérations de
+contrôle du fait de l’élargissement substantiel de l’objet de chaque régie. Compte tenu du
+caractère saisonnier et régulier de la fête du port et considérant que les opérations en lien avec
+l’évènement sont isolées dans un budget annexe, que le syndicat est à même, aujourd’hui,
+d’évaluer le montant prévisible, la nature et la durée des opérations, il serait plus simple de
+créer une régie temporaire dont le fonctionnement répondrait aux deux objectifs suivants : être
+limité dans le temps et être épisodique et répétitif. Il s’agirait alors d’une régie mixte14,
+d’avances et de recettes. À cette occasion un régisseur différent de celui des régies actuelles
+pourrait être nommé, idéalement une personne qui soit investie et concentrée sur la fête du port
+de pêche.
+       La réflexion sur ces évolutions doit intégrer la mise en place d’une régie de recettes et
+de dépenses à l’ACAAPP, pour sécuriser l’ensemble des opérations liées aux ventes aux
+enchères (cf. supra).
+       La chambre invite le syndicat à se rapprocher du service de gestion comptable (SGC)
+de La Rochelle ou du conseiller aux décideurs locaux pour se faire accompagner dans cette
+démarche, ce que le syndicat s’est engagé à faire avec le comptable public qui a déjà engagé la
+procédure.
+
+
+3.3 Le calendrier et l’information budgétaire
+
+3.3.1 Rappel des dispositions en vigueur
+
+       L’instruction budgétaire et comptable M4 précise que les dispositions du CGCT
+prévoyant la tenue d’un débat sur les orientations générales du budget (DOB) s’appliquent aux
+SPIC. Par ailleurs, en vertu de l’article L. 5722-1 du CGCT et sauf arrêté préfectoral qui
+déciderait d’un autre classement démographique du syndicat, « les syndicats mixtes mentionnés
+
+14
+     Une régie mixte est la combinaison de deux autres régies, avances et recettes. Il n’existe pas de texte spécifique
+     pour le fonctionnement de cette régie. Elle reprend les textes établis pour les autres régies et les utilisera selon
+     son sens d’utilisation.
+
+
+
+
+                                                             36
+                                                            RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+à l’article L. 5721-2 sont soumis aux dispositions du livre III de la deuxième partie applicables
+aux communes de 3 500 habitants à moins de 10 000 habitants ».
+        L’article L. 2312-1 du CGCT, applicable au syndicat par renvoi de l’article L. 5722-1
+du même code, rend obligatoire la présentation d’un rapport d’orientations budgétaires (ROB)
+à l’assemblée dans les deux mois qui précèdent l’examen du budget. Ce rapport qui donne lieu
+à un débat d’orientations budgétaires (DOB) doit permettre à l’assemblée délibérante de se
+prononcer sur les orientations générales du budget de l’exercice, les engagements pluriannuels
+envisagés ainsi que sur la structure et la gestion de la dette. Ce débat doit se dérouler dans les
+conditions fixées par le règlement intérieur.
+        Enfin, les collectivités doivent établir une note de présentation brève et synthétique15, à
+l’attention des citoyens, pour leur permettre de comprendre les enjeux budgétaires et qui sera
+annexée au budget primitif et au compte administratif.
+        Après le vote du budget, toutes les obligations de publicité à destination du public ainsi
+que les compléments d’informations financières qui doivent être annexées au budget primitif et
+au compte administratif sont précisément listées à l’article L. 2313-1 du CGCT.
+       Celui-ci dispose en particulier que « les documents budgétaires, [...] sont assortis en
+annexe :
+   1° De données synthétiques sur la situation financière de la commune ;
+   2° De la liste des concours attribués par la commune sous forme de prestations en nature
+ou de subventions. Ce document est joint au seul compte administratif ;
+   3° De la présentation agrégée des résultats afférents au dernier exercice connu du budget
+principal et des budgets annexes de la commune. Ce document est joint au seul compte
+administratif ;
+   4° De la liste des organismes pour lesquels la commune :
+       a) détient une part du capital ; [...]
+       La liste indique le nom, la raison sociale et la nature juridique de l’organisme ainsi que
+la nature et le montant de l’engagement financier de la commune ;
+        Dans ces mêmes communes de 3 500 habitants et plus, les documents visés au 1° font
+l’objet d’une insertion dans une publication locale diffusée dans la commune.
+       Pour l’ensemble des communes, les documents budgétaires sont assortis d’états portant
+sur la situation patrimoniale et financière de la collectivité ainsi que sur ses différents
+engagements ».
+        L’article susvisé demande à l’établissement public à produire « une présentation brève
+et synthétique retraçant les informations financières essentielles est jointe au budget primitif et
+au compte administratif afin de permettre aux citoyens d’en saisir les enjeux ».
+        Invité par la chambre à s’y conformer, le syndicat mixte s’est engagé à remplir cette
+obligation, ce dont la juridiction prend acte.
+
+
+
+
+15
+      Articles L. 2313-1, L. 3313-1 et L. 4313-1 du CGCT modifiés par l’article 107 de la loi n° 2015-991 du
+     7 août 2015.
+
+
+
+                                                      37
+                                              SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+        3.3.2 La mise en œuvre des obligations de transparence budgétaires
+
+                3.3.2.1 Des documents budgétaires incomplets
+
+                Par courriers du 24 janvier 2019, puis 29 mars 2022, du 7 juillet 2022 et du 29 mai 2024
+        le préfet de la Charente-Maritime a rappelé ses obligations au président du syndicat mixte en
+        termes de présentation des documents budgétaires et notamment la présence obligatoire
+        d’annexes permettant d’informer correctement les élus sur la situation budgétaire du syndicat.
+        Il signale également des erreurs dans les reports des décisions modificatives.
+                Malgré ces nombreux rappels de l’autorité préfectorale, la chambre constate que ces
+        obligations ne sont que peu ou pas remplies. La maquette des documents en nomenclature M4
+        n’est utilisée partiellement que pour les budgets primitifs et les décisions modificatrices. Seules
+        les parties I, II et III, présentant les informations générales et les modalités de vote du budget
+        et deux annexes réglementaires sont présentes (A4.1 et A4.2, concernant l’équilibre des
+        opérations financières en dépenses et en recettes). Sont présents également deux autres
+        documents au format libre concernant l’endettement et le personnel, qui, bien que fournissant
+        des informations intéressantes, sont incomplètes en comparaison de ce que requiert la
+        nomenclature comptable M4.
+               S’agissant des comptes administratifs, les documents présentés sont extraits du logiciel
+        de comptabilité utilisé par les services financiers du syndicat qui ne respectent pas les normes
+        applicables. Ils se limitent à l’exécution budgétaire de la partie II – Présentation générale et ne
+        présentent aucune annexe.
+
+                3.3.2.2 Des obligations en matière d’information budgétaire non remplies
+
+                Malgré l’absence notable de débat d’orientations budgétaires, le calendrier budgétaire
+        du syndicat mixte indique que les délais légaux d’adoption des autres étapes d’élaboration des
+        documents budgétaires sont respectés. Le compte administratif qui arrête les comptes de l’année
+        n-1 est voté assez tôt (en mars), ce qui permet d’adopter un budget définitif incluant la reprise
+        des résultats n-1 et offre une vision complète de la situation budgétaire, ce qui est fait en fin de
+        période.
+               Le budget primitif fait l’objet de décisions modificatives régulières (jusqu’à trois en
+        2022 et 2024), ce qui tend à remettre en cause la fiabilité des prévisions.
+
+               Tableau n° 7 : calendrier budgétaire du syndicat mixte Port Chef de Baie à La Rochelle
+
+                Débat
+                                                 Vote du CA et      Reprise du
+Exercices    d’orientation      Vote du BP                                         DM1           DM2           DM3
+                                                  du CG n-1          résultat
+              budgétaire
+ 2020                         20/02/2020        31/03/2020        24/06/2020     24/06/2020   19/11/2020   Pas de DM
+ 2021                         31/03/2021        31/03/2021        09/06/2021     08/09/2021   Pas de DM    Pas de DM
+ 2022                         15/03/2022        15/03/2022        15/03/2022     16/06/2022   27/09/2022   15/12/2022
+ 2023                         01/03/2023        01/03/2023        01/03/2023     28/09/2023   12/12/2023   Pas de DM
+ 2024                         27/03/2024        27/03/2024        27/03/2024     05/06/2024   23/10/2024   18/12/2024
+        Source : syndicat mixte Chef Port de Baie à La Rochelle
+
+
+
+
+                                                             38
+                                                    RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Le syndicat, qui ne dispose pas de règlement intérieur, n’organise pas de débat
+d’orientations budgétaires avant le vote du budget et ne rédige pas de rapport d’orientations
+budgétaires. Même si des éléments de prospective générale sont abordés au cours des conseils
+syndicaux et notamment au moment de l’adoption du budget, il n’existe aucune formalisation
+de ces obligations réglementaires. Or, le rapport d’orientations budgétaires contient des
+éléments qui intéressent le syndicat au premier chef, comme les engagements pluriannuels de
+la structure qui ne sont plus tenus à jour régulièrement depuis la première et seule production
+du plan pluriannuel d’investissement.
+      La note de présentation brève et synthétique, à l’attention des citoyens et qui doit être
+annexée au budget primitif et au compte administratif, n’est pas non plus produite.
+        Enfin, aucun document budgétaire ou note synthétique n’est accessible sur le site
+internet du syndicat mixte.
+
+
+ Recommandation n° 6. (rappel du droit) : produire les documents budgétaires
+ conformément aux articles L. 2312 et suivants du CGCT. [Non mis en œuvre],
+
+
+ Recommandation n° 7. (rappel du droit) : organiser un débat d’orientation budgétaire
+ dans les délais légaux et rendre publics les éléments du débat. [Non mis en œuvre]
+
+       Le syndicat s’est engagé à mettre en œuvre ces rappels du droit.
+
+
+3.4 Une situation financière fragile
+
+        La direction régionale des finances publiques (DRFiP) a produit une analyse financière
+rétrospective 2020-2024, présentée en comité syndical en 2025. Cette étude conclut à une
+situation financière saine, estimant que les principaux agrégats sont positifs. L’analyse
+financière réalisée par la chambre conduit à démontrer, à l’inverse, que la situation financière
+du syndicat est très précaire. En effet, le cycle d’exploitation étant déficitaire, seules les
+subventions d’équilibre des membres, irrégulières, et les subventions exceptionnelles du
+département de la Charente-Maritime permettent d’afficher un résultat positif. De même, la
+prise en charge des investissements du syndicat directement par ses membres fausse l’analyse
+financière du cycle d’investissement de la structure.
+
+3.4.1 Les ressources du syndicat mixte
+
+       Les ressources du syndicat sont énumérées à l’article 10 des statuts, elles comportent :
+  - les contributions des membres, réparties à parts égales entre le département de la
+    Charente-Maritime et la communauté d’agglomération de La Rochelle et déterminées
+    chaque année avant le 15 avril ;
+  - les avances remboursables des membres ;
+  - les contributions volontaires ;
+  - les dotations de l’État, les fonds européens ;
+
+
+
+                                              39
+                                            SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+        - les subventions accordées par les collectivités publiques ;
+        - les recettes ou produits réguliers ou exceptionnels, issus de la gestion des services, des
+          biens et des ouvrages ;
+        - les produits des emprunts, les dons et legs.
+
+     3.4.2 Des recettes d’exploitation croissantes
+
+            Service industriel et commercial, le syndicat mixte tire la partie la plus importante de
+     ses revenus de l’exploitation du port de pêche (78 % en 2024) et en particulier de la vente de
+     ses prestations liées à la halle à marée et à la location des espaces aux opérateurs du port
+     (mareyeurs, marins pêcheurs, mais également SNCM ou associations de sports nautiques).
+           Les ventes de produits, services et marchandises ont progressé de 43 % sur la période
+     2020-2024. L’essentiel de la hausse provient des prestations de services qui ont augmenté de
+     47 % passant de 1,9 M€ à 2,8 M€ entre 2020 et 2024.
+
+                            Tableau n° 8 : recettes d’exploitation du syndicat mixte
+
+ En €                                                                 2020      2021       2022          2023      2024
+ Prestations de service (compte 706) :                            1 921 608 2 171 330 2 428 988 2 771 185 2 820 578
+                         Gestion déchets polystyrène (706 10)            -          -     16 586             -         -
+                           Redevance stationnement (706 12)         29 869    28 184      38 688        41 981    72 566
+                              Redevance exploitation (706 13)      376 260   433 108    564 314     554 476      563 232
+                                  Redevance caisses (706 14)        35 335    44 106      48 576        48 444    46 577
+                    Redevance triage et manutention (706 15)       218 681   267 974    299 734     300 900      288 289
+            Heures de triage et manutention facturées (70616)       26 367    40 060      49 271        55 930    46 791
+            Autres redevances/recettes et prestations (706 17)      56 089    68 703      77 163    107 425      121 976
+                         Prestations engins de levage (706 18)      18 094    13 527      22 225        15 401    13 054
+                              Prestations indust.- Eau (706 19)     47 852    57 334      50 026        62 969    68 683
+                            Prestations indust.- Glace (706 22)    257 126   286 411    291 817     326 518      267 034
+               Location locaux professionnels + chais (706 23)     486 630   572 001    567 209     790 827      838 895
+                          Redevance assainissement (706 24)        162 921   180 712    185 033     203 309      217 028
+                             Redevance climatisation (706 25)      203 124   172 879    204 413     241 665      253 785
+                       Autres prestations de services (706 26)       1 280     4 149      11 953        21 340    21 348
+                                          Purification (706 88)      1 980     2 182       1 980             -     1 320
+ Ventes de produits résiduels et marchandises (707)                 22 690    12 367      25 512         3 130     5 695
+ Produits des activités annexes (708) :                            128 063   178 448    242 531         96 224   152 472
+                                     Locations diverses (7083)     128 063   176 789    186 198         15 017    23 351
+                          Redevance DSP avitaillement (7088)             -          -     54 233        79 200   127 078
+                              Commissions et courtage (7082)             -       676       2 100         2 007     2 043
+                               Remboursement de frais (7087)             -       983            -            -         -
+ Ventes de ventes de produits services et marchandises            2 072 361 2 362 145 2 697 031 2 870 539 2 978 745
+ Redevance équipement des ports de pêche – REPP (706 11)           465 370   530 504    553 471     613 725      608 358
+                Ressources d’exploitation                         2 537 731 2 892 649 3 250 502 3 484 264 3 587 103
+Source : chambre régionale des comptes, à partir des comptes de gestion et des comptes administratifs
+
+
+
+
+                                                           40
+                                                             RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Les trois principales recettes proviennent des locations, de la redevance d’exploitation
+(redevance ad valorem prélevée sur les ventes à la criée) et sur les différentes prestations de
+services assurées par le port pour ses utilisateurs (vente de glace, d’eau, de climatisation,
+prestation de tri, notamment).
+       Le montant des locations de locaux professionnels et de chais a progressé de 72 %
+depuis 2020. Le tarif est revalorisé chaque année au vu de l’indice de référence des loyers du
+second trimestre, ou de l’indice du coût à la construction pour les autorisations d’occupation
+temporaire.
+       La diminution constatée sur les recettes tirées des locations diverses (autorisations
+d’occupation temporaire AOT des chais) en 2023 et 2024 s’explique par la signature en mai
+2022 d’un contrat de délégation de service public de 10 ans pour la gestion de l’avitaillement
+en carburant qui fait suite à deux AOT arrivées à échéance (la redevance du délégataire est
+enregistrée sur le compte 7088).
+        Comme tous les exploitants de ports de pêche, le syndicat mixte perçoit la redevance
+d’équipement des ports de pêche (REPP). Prélevée sur les ventes et les achats en criée et sur
+les passages en quai des bateaux de pêche, elle est versée aux services des douanes qui les
+redistribue aux ports de pêche en fonction de leur activité.
+        Les dispositions concernant la REPP relèvent des articles R. 5321-40 à R. 5321-44 du
+code des transports. Ils prévoient que cette redevance calculée sur la valeur des produits de la
+pêche lors de leur débarquement est à la charge soit du vendeur, soit de l’acheteur, soit de l’un
+et de l’autre, dans les conditions fixées par le tarif de chaque port. Le port de La Rochelle
+applique une REPP de 1,5 % à la fois sur le montant des ventes et des achats. Si la production
+est vendue aux enchères de la criée, la REPP est collectée par une association, l’ACAAPP avec
+laquelle le SMPCB a conventionné et qui gère tous les flux financiers entre les pêcheurs et les
+acheteurs (cf. 2.1.1). Si la marchandise est uniquement déchargée sur le port, la REPP est
+collectée directement par le SMPCB qui dispose d’un agent assermenté par les douanes.
+       Le montant perçu de la REPP a augmenté de 31 %16 par rapport à 2020. En 2024, elle
+représente 17 % de ses produits d’exploitation et s’établit à 608 358 €, en légère diminution par
+rapport à l’année précédente. Cette baisse peut s’expliquer par les 30 jours imposés d’arrêt de
+la pêche17, mais la perte de REPP a été cependant limitée en raison de la hausse du prix moyen
+des produits.
+
+3.4.3 Des subventions d’exploitation récurrentes et irrégulières des membres
+
+       L’article 10 des statuts du syndicat mixte prévoit que la contribution des membres
+fondateurs du syndicat mixte est définie chaque année, chacun participant à hauteur de 50 %.
+En janvier 2020, une convention en a précisé les modalités de versement pour les années 2020
+à 2022. Pour assurer au syndicat mixte une trésorerie suffisante dès le début d’année, la
+convention prévoit le versement d’une « avance sur sa participation de 75 000 € » qui pourra
+être complétée pour atteindre au maximum 80 % de la contribution prévue au budget primitif.
+
+
+
+16
+   La somme qui apparait dans le tableau correspond au montant reversé par les douanes et non au montant collecté
+   sur le port de La Rochelle.
+17
+   arrêté « cétacé » du 23 octobre 2023.
+
+
+
+                                                       41
+                                      SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+Le solde sera réglé au vu de la délibération d’approbation du compte administratif et du compte
+de gestion pour « ajuster la participation (...) au besoin réel de financement du syndicat mixte ».
+        - « en cas de résultat excédentaire de la section de fonctionnement, [le département de
+la Charente-Maritime ou la communauté d’agglomération de La Rochelle] émettra un titre à
+l’encontre du Syndicat Mixte, du montant de la moitié du résultat excédentaire.
+        - en cas de résultat déficitaire de la section de fonctionnement, le Syndicat Mixte émettra
+un titre [à l’encontre du département de la Charente-Maritime ou de la communauté
+d’agglomération de La Rochelle] du montant de la moitié du déficit, dans la limite de la
+participation votée ».
+     Depuis 2023, une convention annuelle définit le montant de la participation des
+membres, les modalités de versements (avance de 80 % et solde) restent identiques
+       Les contributions de la communauté d’agglomération de La Rochelle et du département
+de la Charente-Maritime enregistrées sur le compte 74 comme subventions d’exploitation ont
+presque doublé passant de 200 000 € en 2020 à 394 506 € en 2024.
+
+                   Tableau 4 : subventions d’exploitation versées par les membres
+
+        en €                                  2020         2021         2022     2023      2024
+
+        Subventions d’exploitation          200 000       285 000     323 627   358 400   394 506
+
+      Source : comptes de gestion du syndicat mixte Chef Port de Baie à La Rochelle
+
+
+       Or les SPIC sont soumis à des règles d’équilibre particulières. Conformément aux
+dispositions de l’article L. 2224-2 du CGCT, ils doivent être équilibrés en recettes et en
+dépenses et tout versement de subventions d’équilibre est interdit.
+       Pourtant, chaque année, le syndicat a perçu des « acomptes sur déficit ». En 2024, le
+versement des membres étant supérieur au déficit, le trop-perçu a été enregistré en produits
+constatés d’avance.
+
+    Tableau n° 9 : subventions versées par la communauté d’agglomération de La Rochelle
+
+                                 2020             2021               2022         2023          2024
+ Acompte sur déficit            100 000          100 000            161 813     128 000       128 000
+ 2ème acompte sur déficit                                                        32 000       100 000
+ Solde                                           42 500                          19 200        22 000
+ Trop perçu                                                                                    52 747
+
+
+          Tableau n° 10 : subventions versées par le département de la Charente-Maritime
+
+                                 2020             2021               2022         2023         2024
+ Acompte sur déficit            100 000          100 000            161 813     128 000       128 000
+ 2ème acompte sur déficit                                                        32 000
+ Solde                                           42 500                          19 200       125 675
+ Trop perçu                                                                                    56 422
+      Source : comptes de gestion et grands livres
+
+
+
+
+                                                      42
+                                                               RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Lors du comité syndical du 12 décembre 2023, les représentants du conseil
+départemental ont manifesté leur mécontentement devant la hausse de la subvention
+d’équilibre, expliquant notamment que seul le port de La Rochelle accusait de tels déficits et
+que, compte tenu de la situation financière du département de la Charente-Maritime, le syndicat
+devait en premier lieu chercher des sources propres de financement.
+
+
+ Recommandation n° 8. (rappel du droit) : mettre fin aux appels de subventions
+ d’équilibre irrégulières versées par les membres du syndicat. [Non mis en œuvre]
+
+        Le syndicat mixte et la communauté d’agglomération de La Rochelle ont pris acte de ce
+rappel au droit et précisé qu’un plan stratégique de retour à l’équilibre devait être proposé par
+la nouvelle direction « afin de tendre vers un cadre conforme aux dispositions applicables aux
+services publics industriels et commerciaux ». Le syndicat a ajouté que « cette démarche
+[serait] conduite en tenant compte des contraintes propres à l’activité portuaire et des
+équilibres financiers du syndicat ». La chambre rappelle que les dispositions législatives
+s’imposent et qu’elles ne sont pas ajustables.
+
+3.4.4 Les charges du syndicat
+
+       Depuis 2020, les charges d’exploitation ont augmenté de 31 % et s’élèvent à 3,5 M€ en
+2024, soit au même niveau que les recettes d’exploitation.
+        Les charges de personnel constituent le premier poste de dépenses, elles ont progressé
+en moyenne de 4,7 % malgré la stabilité des effectifs. Comme évoqué supra, cette hausse est
+supérieure aux évolutions salariales induites par les négociations nationales de la convention
+collective.
+
+                            Tableau n° 11 : charges à caractère général du syndicat
+
+ en €                                              2020         2021        2022        2023        2024
+
+ Charges à caractère général                      1 205 415    1 329 451   1 351 905   1 784 320   1 669 000
+
+                                   Dont achats    425 165      440 613     520 551     851 640     668 772
+
+                   Dont entretien réparation      271 708      237 278     265 285     172 114     189 354
+
+                       Dont Services extérieurs   308 913      332 798     357 763     505 889     473 604
+
+ + Charges de personnel                           1 427 022    1 582 328   1 627 293   1 816 400   1 715 502
+
+ + Subventions (M43)                                      0            0           0           0           0
+
+ + Autres charges de gestion                        53 426       56 116     104 931      44 174     128 231
+
+ + Charges d'intérêt                                12 416       22 063      21 262      19 998      25 344
+
+ = Charges courantes                              2 698 280    2 989 958   3 105 391   3 664 892   3 538 076
+
+ Source : comptes de gestion
+
+
+       Compte tenu des obligations sanitaires liées à la conservation de produits de la pêche,
+le syndicat doit garantir une stricte chaine du froid. À ce titre, il a subi de plein fouet la hausse
+
+
+                                                          43
+                                    SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+importante du coût des fluides (électricité et gaz), le poste « Énergie » du syndicat a presque
+doublé depuis 2020 pour s’établir à 488 K€ en 2024, après l’année exceptionnelle de 2023 où
+la facture s’est élevée à près de 630 K€.
+       La progression des autres charges de gestion est liée à l’inscription de 94 247 € de
+créances irrécouvrables en 2024. Lors de sa création, le SMPCB a repris l’ensemble de l’actif
+de l’ancien syndicat mixte et notamment le remboursement d’avances accordées aux pécheurs
+pour participer au maintien de la flotte locale. L’entreprise bénéficiaire d’avances pour deux
+bateaux ayant été placée en liquidation, la somme due a été inscrite en créances irrécouvrables.
+       La chambre attire l’attention du syndicat sur l’irrégularité de l’octroi d’avances
+remboursables qui excède son objet statutaire et qui ne fait l’objet d’aucun conventionnement
+avec la région, collectivité cheffe de file dans le domaine économique. Le SMPCB a indiqué
+n’avoir octroyé aucune avance remboursable depuis sa création et n’a pas l’intention de
+poursuivre ce type d’aide.
+        Durant la période sous contrôle, les ressources d’exploitation n’ont couvert les charges
+qu’en 2022 et 2024. Ce n’est qu’à la faveur des subventions d’équilibre de la communauté
+d’agglomération de La Rochelle et du département de la Charente-Maritime auxquelles
+s’ajoutent les subventions exceptionnelles du département pour compenser les amortissements
+que le syndicat a pu afficher un faible excédent.
+
+     Graphique 1 : évolution des produits et des charges et effet des subventions d’équilibre
+
+
+           3900000
+
+           3700000
+
+           3500000
+
+           3300000
+
+           3100000
+
+           2900000
+
+           2700000
+
+           2500000
+                         2020            2021             2022              2023          2024
+
+                     Charges courantes          Ressources d’exploitation          Total ressources
+
+          Source : comptes de gestion
+
+
+3.4.5 Un financement des investissements très majoritairement assuré par les
+      membres du syndicat
+
+         Sur le plan patrimonial, la création du syndicat a emporté une conséquence importante
+(article 13 des statuts) avec la mise à disposition du syndicat, des biens, équipements et services
+nécessaires à l’exercice de ses compétences, assorti du transfert des droits et obligations qui
+leurs sont attachés, en particulier l’entretien d’un outil industriel important.
+
+
+
+
+                                                     44
+                                                         RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Dans ce contexte, obligation est faite pour le syndicat dès sa création d’établir un
+programme pluriannuel d’investissement (PPI). Le programme a bien été établi. Il couvre la
+période 2020 jusqu’au 1er janvier 2025. Ce PPI qui décrit et phase la mise en œuvre de la
+stratégie de développement du port, devait permettre au syndicat d’évaluer le financement
+nécessaire à ses dépenses d’investissement qui devait être couvert par l’activité portuaire.
+      En 2021, le comité syndical a arrêté un projet stratégique de développement qui prévoit
+15 M€ d’investissement sur six ans. Il s’agit de :
+  -    réhabiliter le bâtiment de la halle à marée pour se conformer aux nouvelles exigences
+       réglementaires tout en améliorant les conditions de travail des entreprises locataires ;
+  -    réaménager le bassin du port tout en sécurisant l’ensemble des ouvrages et
+       infrastructures portuaires ;
+  -    développer de nouveaux services aux usagers destinés à accroître la compétitivité des
+       entreprises implantées sur Chef de Baie.
+
+      Tableau n° 12 : travaux programmés dans le programme pluriannuel d’investissement
+
+
+
+
+       Source : syndicat mixte Port Chef de Baie à La Rochelle PPI 2020-2025
+
+
+        Au vu du montant des travaux prévus (15 M€) et compte tenu du cycle d’exploitation
+déficitaire, le syndicat n’est pas en capacité financière de porter ces investissements.
+       Les statuts prévoient que dans ce cas, ce sont les membres du syndicat qui doivent
+intervenir à raison de 50 % chacun. Si les montants sont supérieurs à 500 K€, chaque membre
+
+
+
+
+                                                   45
+                                      SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+doit s’engager par délibération, sur l’intérêt de l’investissement, le montant et le taux de
+participation.
+      Le département de la Charente-Maritime, par délibération n° 402 du 22 avril 2021, et la
+communauté d’agglomération de La Rochelle, par délibération n° 25 du 4 mars 2021, se sont
+engagés à verser chacun 6 M€ de fonds de concours pour le projet d’investissement.
+        En décembre 2021, une convention tripartite d’une durée de six ans a été signée à cet
+effet. Le financement de ces investissements sera financé à 80 % par les membres du syndicat.
+
+                              Tableau n° 13 : participation des membres
+
+
+
+
+   Source : convention tripartite décembre 2021
+
+
+
+
+Source : avenant à la convention tripartite novembre 2024
+
+
+        En novembre 2024, un avenant a décidé « conformément à l’article L. 5722-10 du
+CGCT de requalifier la participation financière des partenaires en fonds de concours ». Ainsi,
+les fonds versés qui étaient précédemment enregistrés comme des dotations (compte 1021) sont
+désormais comptabilisés comme des subventions (compte 131 - subvention d’équipement). Ce
+changement d’imputation comptable permet de financer les amortissements des
+immobilisations par le biais de reprises de subventions. Cette reprise des subventions
+d’amortissement ne couvre pas totalement la dépense d’ordre du syndicat. La différence est
+compensée par le département de la Charente-Maritime. Cette charge d’amortissement est donc
+totalement compensée par les membres, contrairement à ce qui peut être lu dans les comptes
+rendus de comité syndical.
+        Normalement en vertu du principe de spécialité, les membres d’un syndicat mixte ne
+peuvent lui verser de subventions d’investissement mais le CGCT prévoit une exception pour
+les syndicats mixtes ouverts bénéficiant du transfert de compétence concernant les ports
+autonomes relevant de l’État. Son article L. 5722-10 prévoit : « Un syndicat mixte bénéficiaire
+de transferts de compétence prévus par l’article 30 de la loi n° 2004-809 du 13 août 2004
+relative aux libertés et responsabilités locales peut recevoir de ses membres, pour la réalisation
+d’équipements ressortissant à la compétence transférée, le versement de subventions
+d’équipement après accords concordants exprimés à la majorité simple du comité syndical et
+
+
+
+
+                                                     46
+                                                        RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+des organes délibérants des collectivités territoriales et établissements publics de coopération
+intercommunale concernés ».
+       Le syndicat a fait appel à d’autres financeurs mais leurs contributions restent
+minoritaires. Le plan de financement prévoit 3 M€ du fonds européen pour les affaires
+maritimes, la pêche et l’aquaculture (FEAMPA) et une subvention CEE de 338 k€.
+         Le reste à charge s’élèverait à 225 k€ pour le syndicat.
+       Les investissements des dernières années, inscrits à l’actif du syndicat, imposent un
+niveau d’amortissement conséquent, pesant sur ses charges. Une partie est compensée par
+l’opération comptable de reprise des subventions qui ont permis de financer les investissements
+à hauteur de 80 % (cette reprise est inscrite en recette exceptionnelle). La différence entre le
+niveau d’amortissement et le niveau de reprises de subventions est en fait pris en charge par le
+département. Cette subvention exceptionnelle qui a fait l’objet d’une convention financière en
+juin 2021 conduit à ce que ces investissements structurants sont totalement financés par les
+membres du syndicat.
+        Un avenant, en décembre 2022, à la convention initiale prévoit le versement d’une
+avance en trésorerie en 2022 d’un montant de 1 160 580 € pour pouvoir mener à bien les
+investissements prévus.
+        Pour compléter son financement propre et ses besoins d’investissement, le syndicat a eu
+recours à des emprunts pour un montant de 2,7 M€ depuis 2020. Néanmoins, sa capacité de
+désendettement est maîtrisée (4,5 années), elle s’est fortement améliorée par rapport à 2020, en
+raison de l’augmentation de sa capacité d’autofinancement qui est maintenue positive grâce aux
+subventions d’équilibre des membres et aux subventions exceptionnelles du département.
+
+                         Tableau n° 14 : le financement des investissements
+
+  En €                              2020         2021          2022          2023          2024
+  Encours de dette au 31 déc.      2 352 529    2 753 169     2 380 296     2 160 993     3 530 574
+  Nouveaux emprunts de l’année      900 000      850 000               0      180 000     1 700 000
+  Capacité de désendettement
+                                        10,8            5,9           2,4           3,1           4,5
+  en années (dette / CAF brute)
+
+ Sources : comptes de gestion
+
+
+        Le cycle d’exploitation du port est structurellement déficitaire. Alors qu’un cycle
+d’investissement se termine et à la faveur de l’arrivée d’une nouvelle direction et du
+renouvellement prochain d’une partie de l’exécutif, la chambre recommande au syndicat
+d’établir un projet stratégique à même de rechercher des sources d’économie et de financement
+nouvelles. Le département de la Charente-Maritime a engagé une étude spécifique sur l’avenir
+des ports de pêche du département, ses conclusions pourront utilement éclairer le débat. Ce
+projet stratégique répond également à l’obligation statutaire de « mise en place d’une stratégie
+portuaire commune et cohérente ».
+
+
+
+
+                                                47
+                                 SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+ Recommandation n° 9. : élaborer en 2026 un schéma stratégique pour le port de pêche,
+ incluant un programme des investissements et des mesures de rétablissement du compte
+ d’exploitation en identifiant des sources d’économies et de financement nouvelles. [Mise
+ en œuvre partielle]
+
+       En réponse sur ce point, le syndicat mixte a précisé qu’il engagerait, en lien avec ses
+membres et en cohérence avec les réflexions conduites à l’échelle départementale sur l’avenir
+des ports de pêche, une démarche visant à préciser ses orientations stratégiques, incluant les
+perspectives d’investissement ainsi que les leviers d’optimisation de son modèle économique.
+La chambre prend acte de cet engagement.
+
+
+______ CONCLUSION INTERMÉDIAIRE SUR LA SITUATION FINANCIÈRE ______
+
+       Le cycle d’exploitation du port de pêche s’avère très fragile, avec des recettes
+d’exploitation qui ne couvrent pas structurellement ses charges. Seules les subventions
+d’équilibre de ses membres, pourtant interdites pour un service public industriel et commercial,
+permettent de trouver un équilibre. La situation restera précaire tant que de nouvelles
+ressources ou des sources d’économies ne seront pas trouvées.
+       L’outil industriel, conçu sur la base d’une activité florissante de la filière pêche, est
+aujourd’hui surdimensionné et génère des coûts importants. Les investissements conséquents
+supportés par ses membres ont permis de le pérenniser, mais n’ont pas réduit son
+surdimensionnement actuel qui est source de coûts d’exploitation importants. Ils ont toutefois
+permis de créer quelques espaces (22 sas en entrée des ateliers, soit 640 m²) et
+14 emplacements de chambre froide individualisés pouvant générer globalement 50 000 € de
+revenus.
+       Il conviendrait aujourd’hui qu’une réflexion soit menée sur les voies et moyens de le
+pérenniser, intégrant les adaptations pour produire des recettes à même de couvrir ses coûts
+d’exploitation.
+       Une réflexion en ce sens est aujourd’hui conduite par le département, impliqué dans
+l’avenir de tous les ports de pêche du département. Il conviendrait que le site de La Rochelle
+fasse valoir ses atouts pour qu’il trouve toute sa place et qu’un retour à l’équilibre financier
+assure sa pérennité.
+
+
+
+
+                                              48
+                                                            RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                            ANNEXES
+
+Annexe n° 1. : Schéma des flux physiques et monétaires .............................................. 50
+
+
+
+
+                                                      49
+                                     SYNDICAT MIXTE DU PORT CHEF DE BAIE À LA ROCHELLE
+
+
+
+
+                 Annexe n° 1. : Schéma des flux physiques et monétaires
+
+
+
+
+Source : chambre régionale des comptes
+
+
+
+
+                                               50
+                             RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Chambre régionale des comptes Nouvelle-Aquitaine
+
+           3 place des Grands-Hommes
+                    CS 30059
+
+           33064 BORDEAUX CEDEX
+
+        nouvelleaquitaine@crtc.ccomptes.fr
+     www.ccomptes.fr/fr/crc-nouvelle-aquitaine
+
+
+
+
+                        51
+
