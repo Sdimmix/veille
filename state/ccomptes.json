@@ -383,5 +383,19 @@
   "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/OCR2026-50.pdf",
   "file": "2026-11-25_ccomptes_syndicat-intercommunal-d-alimentation-en-eau-potable-et-d-assainissement-siaepa-.txt",
   "chars": 203522
+ },
+ "/fr/publications/les-abus-et-les-fraudes-aux-aides-lapprentissage": {
+  "title": "Les abus et les fraudes aux aides à l’apprentissage",
+  "first_seen": "2026-11-26",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261125-Abus-et-fraudes-aux-aides-a-l-apprentissage.pdf",
+  "file": "2026-11-26_ccomptes_les-abus-et-les-fraudes-aux-aides-a-l-apprentissage.txt",
+  "chars": 364838
+ },
+ "/fr/publications/commune-de-vierzon-cher-enquete-le-reseau-des-bibliotheques-territoriales": {
+  "title": "Commune de Vierzon (Cher) - Enquête \"Le réseau des bibliothèques territoriales\"",
+  "first_seen": "2026-11-26",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/CVLR%202026-024%20-%20VIERZON_RESEAU_BIBLIOTHEQUES_ROD2.pdf",
+  "file": "2026-11-26_ccomptes_commune-de-vierzon-cher-enquete-le-reseau-des-bibliotheques-territoriales.txt",
+  "chars": 110265
  }
 }
