@@ -1,0 +1,1015 @@
+TITRE: Communauté de communes Champagne Boischauts - Enquête relative à la "mobilisation et aux actions du programme européen LIFE en France" (Indre)
+PAGE: https://www.ccomptes.fr/fr/publications/communaute-de-communes-champagne-boischauts-enquete-relative-la-mobilisation-et-aux
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/CC_CHAMPAGNE_BOISCHAUTS_ROD2_2026.pdf
+
+   RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+   COMMUNAUTÉ DE COMMUNES
+      CHAMPAGNE BOISCHAUTS
+ENQUÊTE RELATIVE À « LA MOBILISATION ET
+  AUX ACTIONS DU PROGRAMME EUROPÉEN
+                       LIFE EN FRANCE »
+
+                                                   (Département de l’Indre)
+
+                                                                        Exercices 2021 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés,
+                     a été délibéré par la chambre le 23 juillet 2026.
+
+
+
+
+           15, rue d'Escures ◼ 45000 ORLÉANS ◼ T +33 2 38 78 96 00 ◼ centrevaldeloire@crtc.ccomptes.fr
+                                                www.ccomptes.fr
+                           COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+ ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                             LIFE EN FRANCE »
+
+
+
+
+                                      TABLE DES MATIÈRES
+
+SYNTHÈSE...................................................................................................................... 4
+INTRODUCTION ........................................................................................................... 6
+     1 L’INSCRIPTION DU PROJET DANS LA STRATÉGIE
+       ENVIRONNEMENTALE GLOBALE DU TERRITOIRE ..................................... 9
+        1.1 La déclinaison du programme européen LIFE en Centre-Val de Loire ............. 9
+        1.2 Une consommation d’énergie couverte pour plus de la moitié par des
+            énergies renouvelables. .................................................................................... 13
+     2 UN PROJET AU COÛT MODIQUE AVEC DES RÉSULTATS
+       OPÉRATIONNELS CONTRASTÉS .................................................................... 16
+        2.1 Des objectifs partiellement atteints .................................................................. 16
+        2.2 Un coût modique .............................................................................................. 18
+        2.3 Une pérennité du projet assurée via la création d’une association et des
+            outils institutionnels ......................................................................................... 19
+ANNEXES ...................................................................................................................... 22
+        Annexe n° 1. Procédure ......................................................................................... 23
+        Annexe n° 2. Table des abréviations ..................................................................... 24
+
+
+
+
+                                                                   3
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                        SYNTHÈSE
+
+
+L’essentiel
+La chambre régionale des comptes Centre-Val de Loire a contrôlé la communauté de
+communes Champagne Boischauts dans le cadre d’une enquête inter-juridictions relative à la
+mobilisation et aux actions du programme européen LIFE en France.
+La communauté de communes Champagne Boischauts a participé au projet
+« LIFE_LETsGO4Climate » coordonné par la région Centre-Val de Loire entre 2021 et 2025,
+visant à accélérer la transition énergétique sur le territoire régional, en favorisant l’appropriation
+de la transition énergétique par les citoyens.
+Dans ce territoire rural, le moins peuplé des seize territoires participant au projet LIFE précité,
+quatre « collectifs citoyens » se sont créés. L’un s’est concentré sur une action unique qui a
+permis des tarifs préférentiels pour un achat groupé de panneaux photovoltaïques tandis que les
+autres se sont regroupés en une association « commun’eco en Champagne Boischauts », afin
+de structurer et pérenniser leurs actions dans le domaine de la sobriété énergétique.
+
+       La chambre régionale des comptes Centre-Val de Loire a mené, en lien avec la
+deuxième chambre de la Cour des comptes et trois autres chambres régionales de comptes, une
+enquête sur la mobilisation et les actions en France du programme européen LIFE, dans le cadre
+du rapport public annuel 2027 de la Cour.
+        Doté de 5,43 milliards d’euros pour la période 2021-2027, ce programme est l’unique
+instrument financier de l’Union européenne spécifiquement dédié à l’environnement et au
+climat.
+       Entre 2021 et 2025, à la suite de l’appel à projet européen LIFE 2019, la région
+Centre-Val de Loire a coordonné la mise en œuvre du projet « LIFE_LETsGO4Climate », doté
+de 4,5 millions d’euros, dont 2,5 millions d’euros de fonds européens.
+        Le projet visait à augmenter la production locale d’énergie renouvelable et à diminuer
+la consommation énergétique collective et individuelle. Il se décomposait en plusieurs phases,
+allant de la formation et la sensibilisation des territoires à l’accompagnement des collectifs
+citoyens porteurs de projets de production d’énergie renouvelable ou de sobriété énergétique,
+constitués à l’issue d’un cycle d’ateliers thématiques.
+      Un premier lot de six territoires était partenaire du projet et a contribué à son élaboration,
+au même titre que plusieurs acteurs institutionnels, privés ou associatifs.
+        La communauté de communes Champagne Boischauts fait partie des dix territoires
+ayant rejoint le projet après son démarrage du projet à compter de mi-2022. L’EPCI a bénéficié
+pour sa mise en œuvre des outils et méthodes développés par les partenaires initiaux ainsi que
+d’une subvention de 8 333 € co-financée par l’Union européenne, destinée principalement à
+couvrir les frais d’organisation des ateliers.
+        La communauté de communes avait pour objectif de compléter ses actions de transition
+écologique et énergétique, traduites notamment au sein de son projet de territoire et du contrat
+de relance et de transition écologique (CRTE) signé avec l’État, la région Centre-Val de Loire,
+le département de l’Indre et la banque des territoires, documents tous deux approuvés en 2021.
+
+
+
+                                                  4
+                          COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+        La participation citoyenne, si elle est inférieure aux cibles fixées par la région, est
+satisfaisante pour ce territoire à faible densité de population. Elle a abouti à la création de quatre
+« collectifs citoyens ». Celui sur les énergies renouvelables s’est concentré sur un projet simple
+d’achat de panneaux photovoltaïques à tarifs préférentiels, finalisé en moins de quatre mois, et
+n’a pas vocation à se pérenniser. Les trois collectifs sobriété se sont réunis en une association,
+« Commun’eco Champagne Boischauts », afin de structurer leur action.
+        Le coût du projet (5 774 €) a représenté soixante-dix pour cents de la subvention
+notifiée. Les dépenses prises en charge dans le cadre du projet se sont limitées aux frais de
+restauration et d’organisation des ateliers. La communauté de communes a évalué par ailleurs,
+les coûts salariaux, non éligibles au subventionnement, à 10 647 euros.
+
+
+
+
+                                                  5
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                 INTRODUCTION
+
+        Une formation commune à la deuxième chambre de la Cour des comptes et aux
+chambres régionales des comptes Centre-Val de Loire, Grand Est, Nouvelle-Aquitaine et Pays
+de la Loire a été créée par l’arrêté n°25- 608 du 21 novembre 2025, modifié par l’arrêté
+n°26-099 du 24 mars 2026. Elle a pour mission de réaliser une enquête sur la mobilisation et
+les actions du programme européen LIFE (l’instrument financier pour l’environnement) en
+France, dans le cadre de la préparation du rapport public annuel de 2027 consacré aux
+« politiques publiques en France et l’Union européenne ».
+       Le contrôle des comptes et de la gestion de la communauté de communes
+Champagne Boischauts à compter de l’exercice 2021 a été inscrit dans ce cadre au
+programme 2026 de la chambre régionale des comptes Centre Val-de-Loire, par l’arrêté
+n° 2025-10 du 21 novembre 2025 et sur le fondement des articles L. 211-2025-00723 et
+L. 211-4 du code des juridictions financières (CJF).
+                                             ***
+        La communauté de communes (CC) du canton de Vatan et de Champagne berrichonne
+a été créée le 25 novembre 2016. Née de la fusion de deux communautés de communes, cet
+établissement public de coopération intercommunale (EPCI) a pris la dénomination de
+communauté de communes Champagne Boischauts par arrêté du 10 juillet 2017.
+       Elle regroupe trente communes rurales, comptant environ 9 700 habitants selon les
+données INSEE. Seules les villes sièges des deux anciennes communautés de communes, Vatan
+et Neuvy-Pailloux, comptent plus de 1 000 habitants.
+       Son territoire s’étend sur une superficie de 711 km². Une heure de route sépare les
+communes les plus éloignées. La densité d’habitants au kilomètre carré est faible (14 contre
+32 dans le département de l’Indre et 66 en région Centre-Val de Loire), caractéristique des
+espaces ruraux du nord de l’Indre.
+        La population présente un vieillissement marqué avec une part croissante des plus de
+60 ans. Au sein de cette population, les actifs ayant un emploi représentent 72,4 %, les chômeurs
+6,6 % et les inactifs 21%.
+
+
+
+
+                                               6
+                          COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+                  Carte n° 1 : Communauté de communes Champagne Boischauts
+
+
+
+
+Source : CRC Centre-Val de Loire
+
+
+         L’économie locale repose sur une part importante d’activité agricole, complétée par un
+tissu de petites et moyennes entreprises industrielles, artisanales et de services. Le territoire
+bénéficie de sa proximité avec le pôle urbain de Châteauroux, qui structure les mobilités sur le
+territoire, notamment dans le cadre des trajets domicile-travail, et l’accès aux services.
+        Les principaux enjeux territoriaux concernent le maintien des services en milieu rural,
+l’attractivité du territoire pour l’arrivée de nouveaux habitants et la diversification économique.
+        Le conseil communautaire composé, pour la mandature 2026-2032, de quarante-huit
+élus représentant chacune des communes membres, est présidé depuis le 16 juillet 2020 par
+M. Van Remoortere, maire de Reboursin, assisté de six vice-présidents. Les modalités de
+fonctionnement des instances (fréquence des réunions, quorum, modalités de vote) sont définies
+par les statuts et le règlement intérieur. La communauté de communes a adopté le 17 juin 2021
+un pacte de gouvernance.
+        La communauté de communes Champagne Boischauts est la seule intercommunalité de
+l’Indre qui n’est pas dotée d’un schéma de cohérence territoriale (SCoT). Les SCoT sont des
+documents de planification stratégique à long terme (environ 20 ans) créés par la loi solidarité
+et renouvellement urbains (SRU) en décembre 2000, et qui peuvent servir de cadre de référence
+pour les différentes politiques sectorielles, dont celles centrées sur les questions
+d’environnement, de l’énergie et du climat.
+       Elle justifie cette situation par l’obtention, par la communauté de communes du pays
+d’Issoudun, de l’accord de l’État pour la réalisation d’un schéma de cohérence territoriale
+
+
+
+
+                                                7
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+(SCoT) limité à son périmètre. Cette collectivité et l’établissement public de coopération
+intercommunale (EPCI) sont adhérents au syndicat mixte du pays d’Issoudun et de Champagne
+berrichonne. Deux plans locaux d’urbanisme intercommunaux (PLUi), issus des anciennes
+communautés de communes, s’appliquent en revanche sur le territoire de l’EPCI.
+       La communauté de communes ne s’est pas engagée dans la réalisation d’un plan climat
+air énergie territorial (PCAET), non obligatoire pour les EPCI regroupant moins de
+20 000 habitants.
+
+                                   SCoT, PLUi et PCAET
+Les schémas de cohérence territoriale (SCoT) sont des documents de planification
+stratégique à long terme (environ 20 ans) créés par la loi solidarité et renouvellement urbains
+(SRU) en décembre 2000, dont le périmètre et le contenu ont été revus par l’ordonnance du
+17 juin 2020 de modernisation des SCoT, afin d’être adaptés aux enjeux contemporains.
+Leur contenu est défini par l’article L. 141-2 du code de l’urbanisme. Le SCOT comprend un
+projet d’aménagement stratégique, un document d’orientations et d’objectifs et des annexes.
+Le SCoT est destiné à servir de cadre de référence pour les différentes politiques sectorielles,
+notamment celles centrées sur les questions d’organisation de l’espace et d’urbanisme,
+d’habitat, de mobilités, d’aménagement commercial, d’environnement, dont celles de la
+biodiversité, de l’énergie et du climat.
+Il permet d’établir un projet de territoire qui anticipe les conséquences du dérèglement
+climatique, et les transitions écologique, énergétique, démographique, numérique...
+Le plan local d’urbanisme communal (PLU) ou intercommunal (PLUi) est un document
+d'urbanisme qui, à l'échelle de la commune ou du groupement de communes, traduit un projet
+global d'aménagement et d'urbanisme et fixe en conséquence les règles d'aménagement et
+d'utilisation des sols. Son contenu est fixé par les articles L. 151-2 et suivants du code de
+l’urbanisme.
+Le plan climat air énergie territorial (PCAET) doit être établi par les EPCI regroupant plus
+de 20 000 habitants conformément à l’article L. 229-26 du code de l’environnement. C’est
+l’outil opérationnel de coordination de la transition énergétique sur le territoire. Son contenu
+est défini par l’article R. 229-51 du même code. Il comprend un diagnostic, une stratégie
+territoriale, un programme d’actions et un dispositif de suivi et d’évaluation.
+
+       La communauté de communes compte un budget principal et deux budgets annexes.
+       La communauté de communes présente, sous réserve de fiabilité des comptes - la
+chambre n’ayant pas contrôlé ce point - des produits de gestion consolidés en progression
+jusqu’en 2023 puis qui se stabilisent, tandis que les charges augmentent plus rapidement,
+entraînant une forte érosion de l’excédent brut de fonctionnement, Le résultat financier reste
+durablement négatif, bien que contenu.
+        En 2025, la situation s’améliore avec un taux d’épargne brute estimé à 9,5 % et une
+capacité d’autofinancement brute en hausse. Toutefois, le caractère provisoire des données
+invite à la prudence, notamment au regard d’un niveau de charges toujours dynamique et d’un
+résultat financier structurellement négatif. La trajectoire reste globalement saine, mais
+dépendante du maintien de l’effort de maîtrise des charges pour sécuriser durablement
+l’autofinancement.
+
+
+
+                                               8
+                              COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+      Le coût du projet « LIFE_LETsGO4Climate », pour lequel la communauté de
+communes aura bénéficié d’une subvention co-financée par l’Union européenne, a représenté
+0,14 % de ses dépenses pour l’année 2023.
+
+
+
+
+1 L’INSCRIPTION DU PROJET DANS LA STRATÉGIE
+  ENVIRONNEMENTALE GLOBALE DU TERRITOIRE
+
+
+1.1 La déclinaison du programme européen LIFE en Centre-Val de Loire
+
+        Le programme LIFE constitue l’unique instrument financier de l’Union européenne
+spécifiquement dédié à l’environnement et au climat. Depuis sa création en 1992, il a
+accompagné la montée en puissance des politiques environnementales européennes, notamment
+en matière de biodiversité, d’adaptation au changement climatique, d’énergie propre et
+d’économie circulaire. Sa gouvernance, caractérisée par une gestion directe assurée par la
+commission européenne et mise en œuvre via l’agence exécutive européenne pour le climat, les
+infrastructures et l’environnement (CINEA), en fait un dispositif original, où la qualité des
+projets et la capacité de structuration des acteurs nationaux jouent un rôle déterminant.
+        Avec un budget de 5,43 milliards d’euros pour la période 2021-2027, il est de taille
+modeste comparé à d’autres programmes en gestion directe comme Horizon Europe dont le
+poids lui est près de vingt fois supérieur.
+        En France, le programme relève d’un pilotage national assuré par le ministère en charge
+de la transition écologique. Selon le rapport de l’inspection générale de l’environnement et du
+développement durable de janvier 2025, les résultats obtenus sont contrastés : si la France
+occupe la troisième place en montants et en nombre de projets financés depuis 2014, elle
+demeure en retrait par rapport aux États membres les plus performants, notamment l’Italie et
+l’Espagne.
+         L’article L. 1111-9 du code général des collectivités territoriales (CGCT) confie un rôle
+de chef de file à la région dans un ensemble de domaines clés, tels que l’aménagement du
+territoire, le climat, l’énergie, la protection de la biodiversité. Dans ce cadre, la région
+Centre-Val de Loire a élaboré son schéma régional d’aménagement, de développement durable
+et d’égalité des territoires (SRADDET), adopté le 19 décembre 2019 par le conseil régional et
+approuvé par le préfet de région le 4 février 20201. Ce document fixe les objectifs de moyen et
+long termes sur le territoire de la région en matière d’équilibre et d’égalité des territoires,
+d’implantation des différentes infrastructures d’intérêt régional, de désenclavement des
+territoires ruraux, d’habitat, de gestion économe de l’espace, d’intermodalité et de
+développement des transports, de maîtrise et de valorisation de l’énergie, de lutte contre le
+
+
+
+1
+ Le SRADDET, modifié en matière de gestion et de prévention des déchets, a été approuvé en novembre 2023
+par la préfète de la région Centre-Val de Loire.
+
+
+
+
+                                                   9
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+changement climatique, de pollution de l’air, de protection et de restauration de la biodiversité,
+de prévention et de gestion des déchets.
+         En 2019, la région Centre-Val de Loire a également souhaité initier une nouvelle
+dynamique de transition sur son territoire, en partenariat avec l’Agence de l'environnement et
+de la maîtrise de l'énergie (ADEME) et l’association « Énergie Partagée », afin de favoriser une
+appropriation collective par les acteurs locaux des questions énergétiques. Le pôle d’équilibre
+territorial et rural (PETR) Gâtinais montargois (45) et la communauté de communes Loches
+Sud Touraine (37) se sont alors portés volontaires pour expérimenter ce processus
+d’appropriation locale de la transition.
+        En 2020, forte de la réussite de cette expérimentation, la région Centre-Val de Loire a
+porté le projet « LIFE Let’s go for Climate local Energy transition strategies going for climate
+change » dans le cadre de l’appel à projet européen LIFE 2019.
+        Ce projet, doté d’un budget total de 4,5 M€ dont 2,5 M€ de fonds européens, a débuté
+en juillet 2021 pour une durée de quatre ans. Il visait à augmenter la production locale d’énergie
+renouvelable et à diminuer la consommation énergétique collective et individuelle, en
+favorisant l’émergence de collectifs citoyens porteurs de projets de production d’énergie
+renouvelable ou de sobriété énergétique.
+
+
+            Schéma n° 1 : Représentation schématique de la démarche déployée par la région
+
+
+
+
+                                                 Ateliers
+        Diagnostic          Formation et         citoyens           Collectifs
+                                                                                      Projet
+        territorial          spectacle                              citoyens
+                                              Conversations
+                                                carbone
+
+
+
+
+Source : CRC Centre-Val de Loire
+
+
+        Pour les territoires, le projet se structure en trois phases :
+         La première, visant à faire monter en compétence les territoires, se décomposait en un
+état des lieux et des actions d’information sur la transition énergétique ou de formation à
+l’intelligence collective.
+        La deuxième phase, tournée vers le grand public, avait pour objectif de dynamiser et
+d’accompagner les projets collectifs d’énergie renouvelable et de sobriété énergétique portés
+par des groupes de citoyens, d’élus et d’entreprises du territoire, d’une part, et de sensibiliser la
+population et les acteurs du territoire à la sobriété énergétique individuelle et collective, d’autre
+part. Elle était structurée en trois étapes :
+        -     une représentation du spectacle « Le cabaret des métamorphoses », dans chaque
+              territoire ;
+
+
+
+
+                                                  10
+                              COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+         -   un cycle de quatre ateliers d’échanges et d’accompagnement au montage des projets
+             citoyens, dont la fin devait être marquée par l’émergence de collectifs, s’impliquant
+             autour des énergies renouvelables et d’actions de sobriété énergétique ;
+         -   des « conversations carbones » , prenant la forme d’ateliers participatifs, encadrés
+             par deux animateurs certifiés ; chaque séance alternait informations techniques,
+             discussions et jeux, au sein d’un petit groupe : un institut intervenait en tant que
+             prestataire pour la formation des facilitateurs.
+
+
+                               Schéma n° 2 : Les conversations carbone
+
+
+
+
+Source :Site internet de la communauté de communes Champagne Boischauts
+
+
+        La troisième et dernière phase consistait en un accompagnement des collectifs citoyens
+en structuration sur le territoire à la suite des ateliers.
+         Le projet « LIFE_LET’sGO4Climate » repose sur un partenariat entre treize entités. La
+région Centre-Val de Loire est le « bénéficiaire coordinateur » du projet. Douze structures
+bénéficiaires sont associées, dont six territoires pilotes constituant le premier lot2. Ces territoires
+participent aux décisions, à la définition des actions et à la création des outils. Ils sont les seuls
+territoires rémunérés pour le temps de coordination et d’animation territoriale.
+         À la suite d’appels à manifestation d’intérêt, six nouveaux territoires, dont la
+communauté de communes Champagne Boischauts, ont participé au projet à compter de 2022
+(lot 2), rejoints par quatre derniers territoires en 2024 (lot 3).
+        En nombre d’habitants, la communauté de communes Champagne Boischauts est le plus
+petit des seize territoires participant au projet.
+
+
+
+2
+  Les partenaires hors territoires sont l’ADEME, Rescoop.eu, Énergie partagée association, Énergie partagée
+coopérative, ENEDIS et GRDF.
+
+
+
+
+                                                    11
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+   Carte n° 2 : Les territoires participant au projet « LIFE_LETsGO4Climate » déclinés par lot
+
+
+
+
+*CA : communauté d’agglomération / CC : communauté de communes / PETR : pôle d’équilibre territorial et
+rural.
+** Les lots 2 et 3 ont fait l’objet d’un appel à manifestation d’intérêt (AMI).
+Source : CRC Centre-Val de Loire d’après le site internet « LIFE_LETsGO4Climate »
+
+
+        Dans sa candidature à l’appel à manifestation d’intérêt, la communauté de communes
+présente en parallèle sa participation au projet « LIFE_LetsGO4Climate » et sa stratégie de
+transition écologique. Pour l’EPCI, ce projet permettait d’élargir la démarche en mobilisant
+davantage les élus, les habitants et les acteurs locaux.
+        Il s’appuie notamment sur son projet de territoire, adopté le 10 juin 2021, et sur le
+contrat de relance et de transition écologique (CRTE), signé le 8 octobre 2021 avec l’État, la
+région Centre-Val de Loire, le département de l’Indre et la banque des territoires, pour
+structurer son action environnementale. Ce contrat fixe treize orientations stratégiques dont une
+dénommée « Énergie et climat », se déclinant notamment en une action visant à favoriser le
+développement des énergies renouvelables.
+       En mai 2022, l’assemblée délibérante a approuvé à l’unanimité l’engagement dans le
+projet « LIFE_LETsGO4Climate ». La délibération n’évoque pas la question du mode de
+gouvernance mais fait le lien avec le CRTE. Les deux projets comprennent en effet une
+dimension de concertation citoyenne.
+
+
+
+
+                                                  12
+                              COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+       Informée en juillet de sa sélection, la communauté de communes a signé en
+novembre 2022 un accord de partenariat concrétisant l’engagement dans le programme régional
+« LIFE_LETsGO4Climate ». Un avenant en date du 6 juin 2025 est venu en prolonger la durée
+jusqu’au 31 décembre 2025.
+        La mise en œuvre du projet a été soutenue par le président de la communauté de
+communes ainsi que par le vice-président en charge de la culture, du social et de la santé,
+particulièrement investi sur le sujet, comme en atteste la liste de participants aux différents
+ateliers.
+        Afin de minimiser l’impact financier la communauté de communes s’est appuyée sur
+ses ressources pré-existantes pour le suivi du projet « LIFE_LetsGO4Climate ».
+        L’animation du projet a ainsi été déléguée au chef de projet en charge de la gestion du
+CRTE, sous la supervision du directeur général des services. Cela favorisait en outre
+l’articulation entre les deux programmes. Le chef de projet était également en charge des
+procédures d’ajustement des plans locaux d’urbanisme intercommunaux pour coordonner les
+projets d’énergie renouvelable dans le territoire et les documents d’urbanisme.
+
+
+
+1.2 Une consommation d’énergie couverte pour plus de la moitié par des
+    énergies renouvelables.
+
+         Dans le cadre du projet « LIFE_LETsGO4Climate », un diagnostic a été réalisé sur les
+territoires partenaires. Ce document avait pour vocation de dresser un état des lieux initial du
+système énergétique territorial. Son élaboration s’est appuyée sur une analyse approfondie des
+documents stratégiques existants, un atelier de co-construction mené lors du séminaire
+d’intégration, ainsi que sur une consultation en ligne de la population, qui a recueilli
+126 contributions3.
+       La chambre note le faible nombre de réponses obtenues, qui représente 1,3 % de la
+population totale du territoire.
+        Le territoire est déjà confronté aux effets du changement climatique, en particulier des
+épisodes de sécheresse de plus en plus marqués. Comme beaucoup de territoires ruraux, il doit
+relever plusieurs défis pour réduire sa consommation d'énergie :
+         -   la mobilité : les transports routiers représentant près de 60 % de la consommation
+             d’énergie. 85,7 % des actifs utilisent la voiture pour les déplacements domicile-
+             travail ;
+         -   la rénovation du bâti : le résidentiel et le tertiaire représentent plus d’un quart de la
+             consommation énergétique du territoire ;
+         -   l’agriculture : troisième secteur de consommation d’énergie sur le territoire
+             (10,4 %), premier poste des émissions de gaz à effet de serre (47 %).
+
+
+
+3
+  Compte tenu d’un effectif inférieur au seuil minimal de 1 000 réponses - nécessaire pour garantir la
+représentativité d’un échantillon -, ces données ne peuvent être considérées comme significatives. Elles devront
+donc faire l’objet d’une analyse approfondie et d’une validation sur le long terme.
+
+
+
+
+                                                      13
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Malgré une dépendance persistante aux énergies fossiles, le territoire couvre déjà plus
+de la moitié de sa consommation (57 %) grâce à des énergies renouvelables locales, le plaçant
+au sixième rang des seize territoires partenaires du projet avec une production de 240 GWh/an.
+        En électricité, la situation est particulièrement favorable : grâce à 42 éoliennes réparties
+sur neuf communes depuis 2013, le territoire produit près de quatre fois ce qu'il consomme
+(397 %). Cette dynamique en faveur de l’éolien n'est toutefois pas sans tensions, le Conseil
+d'État ayant été saisi fin 2024 d'un recours associatif contre un nouveau projet de parc.
+       Par ailleurs, trois projets de méthanisation et plusieurs parcs solaires sont en cours, mais
+leur développement se heurte à des contraintes de raccordement au réseau électrique à l'échelle
+départementale.
+
+
+                 Schéma n° 3 : Consommation et production d’énergie sur le territoire
+
+
+
+
+Source : Diagnostic territorial réalisé dans le cadre du projet
+
+
+         Les résultats de l’enquête menée auprès de la population révèlent une préférence
+marquée des habitants pour les énergies renouvelables intégrées au bâti. Par ailleurs, ceux-ci
+expriment une certaine saturation à l’égard de l’énergie éolienne, déjà largement déployée sur
+le territoire. Enfin, l’acceptabilité locale des projets reste subordonnée à la préservation de la
+biodiversité, des paysages et du cadre de vie.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        La communauté de communes Champagne-Boischauts a participé à compter de mi 2022
+au projet « LIFE_LETsGO4Climate », coordonné par la région Centre-Val de Loire, dans le
+cadre du programme européen LIFE, unique instrument financier de l’Union européenne dédié
+à l’environnement et au climat.
+
+
+
+
+                                                        14
+                          COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+       Cette participation avait pour objectif d’enrichir le projet de territoire adopté en 2021,
+en renforçant la dimension citoyenne de la démarche.
+       Porté par les élus locaux, le projet a été suivi par le chargé de mission en charge du
+contrat de relance et de transition écologique. Cette organisation a permis d’assurer une
+cohérence et une bonne articulation entre les deux programmes.
+
+
+
+
+                                               15
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+2 UN PROJET AU COÛT MODIQUE AVEC DES RÉSULTATS
+  OPÉRATIONNELS CONTRASTÉS
+
+
+2.1 Des objectifs partiellement atteints
+
+       L’annexe 2 à l’accord de partenariat signé en novembre 2022 fixait les obligations
+respectives des parties pour les différentes phases du projet. La communauté de communes a
+respecté ces points en termes de participation aux formations.
+        Le directeur général des services et le chargé de mission ont participé au séminaire
+d'intégration tenu le 23 janvier 2023, ce qui a facilité l'entrée dans le programme selon l’EPCI.
+       Quarante personnes ont bénéficié d’une formation à la transition énergétique organisée
+le 29 mars 2023. Le programme de cette journée, défini par le consortium4 regroupant la région
+Centre-Val de Loire et ses douze partenaires, s’articulait autour de la définition de la transition
+énergétique, d’animations thématiques et d’ateliers animés par « Énergie partagée », GRDF,
+l’ADEME et Enedis.
+        Enfin, trois représentants (un vice-président, le chargé de mission, une habitante) de la
+communauté de communes, pour un objectif de quatre à cinq, ont bénéficié de la formation
+« co-construire pour engager durablement : l'intelligence collective au service des territoires »
+les 14, 15 juin et 4 juillet 2023. Ces journées ont permis, selon l’EPCI, une approche thématique
+des changements possibles, en collectif comme en individuel.
+       La communauté de communes avait également en charge, en lien avec la région,
+l’ADEME et « Énergie partagée » le recrutement d’un panel de cent habitants, représentant au
+mieux le territoire (sexe, âge, lieu de vie, situation professionnelle, etc.) ainsi que la déclinaison
+du volet opérationnel du projet. Ce dernier comprenait un spectacle visant à sensibiliser le
+public par une action artistique, un cycle d’ateliers citoyens et la mise en place de conversations
+carbone.
+       Sur le volet communication, une stratégie coordonnée a été déployée en lien avec les
+communes membres et la région Centre-Val de Loire, complétée par un envoi postal d'un
+courrier d'information à l'ensemble des habitants du territoire afin de garantir une couverture
+équitable, les communes ayant joué un rôle de relais particulièrement efficace.
+
+
+
+
+4
+ Un consortium est un groupement d'acteurs indépendants (entreprises, organisations) qui collaborent pour un
+objectif commun en mutualisant leurs ressources, tout en restant juridiquement autonomes.
+
+
+
+
+                                                    16
+                          COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+                            Tableau n° 1 : Événements organisés sur le territoire
+
+                     Date               Lieu                    Objet / Précisions               Participants
+                                                      Interpellation des spectateurs par le
+  Spectacle    15 septembre 2023        Vatan                                                        40
+                                                      sensible
+                                                      Sensibilisation des participants à la
+  Atelier 1     4 octobre 2023        Ambrault        problématique énergétique à l'échelle          37
+                                                      locale
+                                                      Appropriation par les citoyens des
+  Atelier 2    8 novembre 2023         Liniez         données territoriales et élaboration de        35
+                                                      pistes d'action
+                                                      Échange de pratiques, mise en relation
+  Atelier 3    18 novembre 2023     Saint-Valentin    avec des collectifs existants et retours       14
+                                                      d'expérience entre pairs.
+                                                      Structuration et formalisation d'un
+  Atelier 4    6 décembre 2023     Neuilly-Pailloux   projet collectif et constitution de            25
+                                                      groupes citoyens organisés
+
+Source : CRC Centre-Val de Loire d’après les éléments de la communauté de communes
+
+
+       Un rapport d’évaluation portant sur les ateliers permet de vérifier le profil socio-
+géographique des participants par rapport aux objectifs fixés dans l’accord de partenariat. Ce
+document permet également d'analyser la participation au fil du cycle d’ateliers, d'évaluer le
+niveau de satisfaction et de mesurer l'évolution de la compréhension des enjeux et de
+l’appropriation citoyenne de la transition énergétique.
+        Selon ce document, le spectacle n'a pas favorisé l'inscription dans les ateliers prévus
+dans le dispositif, seuls deux personnes faisant un lien entre leur participation aux ateliers et la
+représentation théâtrale.
+        Sans que ce soit spécifique à la communauté de communes, certains objectifs n’ont pas
+été atteints.
+                                    Profil des participants aux ateliers
+              sur le territoire de la communauté de communes Champagne-Boischauts
+
+    -   Quarante-neuf personnes ont été mobilisées sur l’ensemble du cycle, soit la moitié de
+        l’objectif de 100 participants.
+    -   Une participation importante pour les deux premiers ateliers (37 et 35 présents),
+        qui s’est ensuite érodée (14 et 25 présents).
+    -   Les personnes âgées de moins de 65 ans représentent 63 % des participants (objectif
+        50 %), les jeunes (moins de 25 ans) sont sous-représentés (2 %).
+    -   Les retraités constituent 41 % des participants, les cadres ou professions
+        intellectuelles supérieures et intermédiaires 25 %. Ces deux catégories sont
+        surreprésentées par rapport à leur poids dans la population.
+    -   Les participants proviennent de presque toutes les communes du territoire.
+
+        À l’issue du cycle, 71 % des participants ont acquis de nouvelles connaissances sur la
+transition énergétique et 95 % ont exprimé un désir accru d'agir individuellement et
+
+
+
+
+                                                       17
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+collectivement pour la transition énergétique. Soixante-deux pour cent sont certains de
+s'engager dans un collectif.
+        En octobre 2024, l’EPCI a organisé un atelier supplémentaire afin de maintenir le lien
+entre les différents collectifs et faire émerger des collaborations possibles.
+       La dernière étape de la phase de sensibilisation du public consistait en l’organisation de
+conversations carbone. Selon l’accord de partenariat, il était prévu le recrutement de quatre
+binômes, soit huit facilitateurs, chargés d’animer des cycles pour six à dix participants.
+       Ce dispositif n’a pas rencontré de succès. Sur les six cycles prévus, un seul a été réalisé,
+au bénéfice de six personnes seulement. Ce faible résultat s'inscrit dans un constat plus large,
+les objectifs de cette action n'ayant été atteints qu'à 30 % à l'échelle du programme
+(511 participants pour un objectif de 1 728 selon le rapport d’évaluation de décembre 2025).
+        Dans le cadre de la mise en œuvre du projet, la communauté de communes a joué un
+rôle d’appui opérationnel, en facilitant son déploiement territorial et en œuvrant activement à
+la mobilisation des acteurs locaux. La région, pour sa part, en a assuré la coordination globale
+ainsi que le suivi de sa mise en œuvre.
+        La communauté de communes a pleinement mobilisé les outils élaborés par le
+consortium - qu’il s’agisse d’outils numériques, de supports d’animation ou de dispositifs de
+communication - et a bénéficié de l’accompagnement de la chargée de mission d’Agglopolys
+pour anticiper les défis liés à l’engagement citoyen. Des contacts réguliers (visioconférences et
+échanges par courriel) ont été organisés entre les partenaires afin de suivre l’avancement du
+projet, d’ajuster les actions engagées et de garantir la coordination des interventions.
+       Elle met en avant notamment l’association « Énergie Partagée », qui a participé à
+l’animation du dispositif, et l’agence de la transition écologique (ADEME) qui a apporté son
+expertise en soutien du porteur de projet régional, contribuant à la sécurisation méthodologique
+du dispositif et à son articulation avec les politiques nationales de transition énergétique.
+        Le suivi de la région étant concentré sur l’animation, le volet administratif et financier
+était plus restreint et perfectible sur certains aspects. Ce n’est que le 15 octobre 2024 que la
+région Centre-Val de Loire a mis à disposition des territoires un tableau à compléter avec le
+récapitulatif des dépenses. En outre, en septembre 2025, la communauté de communes a été de
+nouveau sollicitée par la région pour un envoi de pièces justificatives, pourtant déjà transmises.
+
+
+
+2.2 Un coût modique
+
+         Les territoires partenaires composant le premier lot participaient à la définition des
+actions et à la création des outils. Le coût agent consacré à la coordination et l’animation
+territoriale était de ce fait éligible à la subvention européenne.
+         Il en va différemment pour les dix territoires bénéficiaires (lots 2 et 3), pour lesquels
+l’accord de partenariat listait limitativement les modalités d’utilisation de la subvention
+(locations de salle, déplacements, frais de réception, actions de communication). Si des
+plafonds de dépenses ou coûts forfaitaires (0,53 €/km pour les déplacements) étaient indiqués,
+les territoires avaient la possibilité, en cas d’économie réalisée sur l’une des dépenses, d’utiliser
+
+
+
+
+                                                 18
+                              COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+    ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                                LIFE EN FRANCE »
+
+
+la somme pour une autre dépense prévue au plan de financement dans la limite de la subvention
+allouée.
+     Comme l’ensemble des territoires des lots 2 et 3, la communauté de communes
+Champagne Boischauts a bénéficié d’une subvention forfaitaire de 8 333 €5.
+        Un acompte de 4 166,50 € a été versé au démarrage du projet le 6 mars 2023. Les
+dépenses effectivement engagées se sont élevées à 5 774 €, dont 249 € refusés par la région,
+pour notamment défaut de présentation de plusieurs devis d’après la communauté de
+communes, ramenant le montant retenu à 5 525 €. Ce refus montre le contrôle effectif exercé
+par la région.
+       Au total, la communauté de communes a perçu 5 747,16 €, soit un montant inférieur à
+la subvention initialement notifiée, avec une légère différence inexpliquée de 222 € entre les
+sommes validées et perçues.
+
+
+                  Tableau n° 2 : Détail des dépenses pour la CC de Champagne Boischauts
+
+                                                     Montants
+                        Objet                                              Informations complémentaires
+                                                      en €
+
+    Frais d’impression et d’expédition de supports
+                                                         2 004                      3 060 courriers
+    de communication
+    Location de salle à Neuvy-Pailloux pour
+                                                          300
+    formation ou atelier
+                                                                                 Formation et ateliers
+    Frais de restauration                                3 341
+                                                                     Dont 1 facture de 120 € refusée par la région
+                                                                 Livres et watt mètres – prise en charge refusée par la
+    Support conversations carbone                         129
+                                                                                        région
+             Total                                       5 774
+
+Source : CRC Centre-Val de Loire d’après les éléments de la communauté de communes
+
+
+        Les dépenses étaient liées à l’organisation du volet opérationnel. L’EPCI n’a pas fait
+valoir de dépenses liées à des déplacements dans ce bilan.
+      Les coûts-agents consacrés à la mise en œuvre du projet n’étaient pas éligibles à la
+subvention européenne. L’EPCI les a néanmoins estimés à 10 647 € (45 jours soit 315 heures).
+
+
+
+2.3 Une pérennité du projet assurée via la création d’une association et des
+    outils institutionnels
+
+       À l’issue des ateliers, quatre collectifs citoyens ont été constitués sur le territoire, résultat
+directement imputable à l'action conduite dans le cadre du projet. La communauté de communes
+
+
+5
+  Une enveloppe de 100 000 € avait été constituée par la région Centre-Val de Loire pour les territoires des lots 2
+et 3, dont le nombre total envisagé initialement était de 12.
+
+
+
+
+                                                         19
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+a concentré son intervention post projet sur leur accompagnement et leur pérennisation.
+L’objectif poursuivi a été de favoriser la concrétisation opérationnelle de leurs initiatives, en
+assurant un appui méthodologique et en recherchant des synergies avec les actions déjà
+engagées dans le cadre du CRTE. Cette articulation a permis d’inscrire la dynamique citoyenne
+issue du projet « LIFE_LETsGO4Climate » dans une stratégie territoriale plus large, évitant
+ainsi un fonctionnement en silo et renforçant la cohérence des politiques publiques locales.
+
+
+                     Schéma n° 4 : Collectifs citoyens créés à l’issue des ateliers
+
+
+
+
+Source : Site internet de la communauté de communes Champagne Boischauts
+
+
+        Le collectif dédié aux énergies renouvelables, désormais inactif, a en réalité atteint
+l’objectif pour lequel il avait été créé, à savoir l’organisation d’une acquisition groupée de
+dispositifs « Plug and Play ». Cette initiative a abouti à la concrétisation de 37 commandes.
+Ainsi, la cessation de ses activités ne saurait être interprétée comme un échec, mais bien comme
+l’aboutissement de sa mission initiale.
+       Les trois autres collectifs se sont regroupés au sein d'une association « chapeau »,
+« Commun’eco en Champagne Boischauts », dont la création, le 23 juillet 2025, a pour objectif
+d’assurer leur structuration juridique, leur coordination et la pérennisation des dynamiques
+engagées au-delà de la phase opérationnelle du programme.
+        Selon la communauté de communes, cette orientation a émergé à l’occasion d’une
+réunion du « café des projets », au cours de laquelle les échanges ont mis en évidence l’intérêt
+d’un portage associatif permettant de maintenir la mobilisation dans la durée et d’offrir un cadre
+juridique adapté aux initiatives citoyennes.
+         Pour l'exercice 2026, la communauté de communes envisage d'attribuer une subvention
+à cette association en soutien à son programme d'actions. Si cette orientation s'inscrit dans le
+cadre légal applicable aux concours financiers aux associations, sa mise en œuvre effective
+supposera que soient réunies les conditions de régularité habituellement requises : définition
+précise de l'objet de la subvention, présentation d'un programme d'actions formalisé, validation
+par les instances délibérantes compétentes et production des justificatifs afférents. Il conviendra
+que la communauté de communes soit attentive au respect de ces exigences.
+        L’association « Commun’eco en Champagne Boischauts » » a pour projet
+l’organisation d’un forum de l’habitat à Neuvy-Pailloux le 30 mai 2026, dont la communauté
+de communes souligne qu’il pourrait être un outil de mise en réseau des collectifs citoyens avec
+les acteurs associatifs, les entreprises locales et les services de l'État. Une rubrique consacrée
+
+
+
+
+                                                  20
+                          COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+au projet figure toujours sur le site internet de la communauté de communes, qui renvoie
+également vers le site du collectif « l’écho du bocal ».
+       Enfin la communauté de communes envisage de poursuivre les conversations carbone
+en s’appuyant sur l’association et en menant une action d’information et de mobilisation à
+l’occasion du forum de l’habitat, afin de relancer la dynamique et d’élargir le public cible.
+       Postérieurement au projet « LIFE_LETsGO4Climate », la communauté de communes a
+continué à structurer son action en lien avec les services de l’État, de la région ou d’autres
+organismes intercommunaux.
+         Par la délibération 2024-90, le conseil communautaire a validé l’adhésion au « Pacte
+territorial France rénov » pour la période 2025-2027, ce qui permettra à l’EPCI de bénéficier
+de ressources et de soutiens financiers pour atteindre ses objectifs en matière de rénovation
+énergétique des logements. De même, la délibération 2025-97 a acté la signature de la
+convention « région territoire ambitions partagées 2030 », qui constitue le cadre partenarial
+structurant les actions publiques régionales et locales, notamment dans les domaines des
+transitions écologique et énergétique.
+         Enfin, le syndicat mixte d’électricité de l’Indre (SDEI) porte à compter de 2025 le
+contrat d’objectif territorial pour le développement des énergies renouvelables thermique
+(COT EnR) sur les territoires du pays d’Issoudun, dont la communauté de communes
+Champagne Boischauts. Lancé par la région Centre-Val de Loire et l’ADEME en 2017, le
+COT EnR est un programme de développement des énergies renouvelables à l’échelle d’un
+territoire (intercommunalité). Ces contrats tripartites (ADEME-Région-territoire) sont signés
+pour trois ou quatre ans afin d’atteindre des objectifs de réalisation et de créer une dynamique
+sur les territoires concernés. La biomasse, la géothermie assistée par pompes à chaleur,
+l’énergie solaire thermique et les réseaux de chaleur associés font partie des filières soutenues.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       Plusieurs collectifs se sont constitués à l’issue des ateliers. L’un d’entre eux a finalisé
+un projet concret dans des délais serrés. Les trois autres se sont regroupés en une association
+pour structurer leurs actions.
+       Pour la communauté de communes, le coût global du projet est resté modeste, hors
+charges de personnel non éligibles aux subventions, ce qui illustre néanmoins la dissémination
+des projets financés par le programme LIFE.
+      Les dépenses ont fait l’objet de contrôles par la région Centre-Val de Loire
+conformément aux dispositions de l’accord de partenariat.
+       La communauté de communes poursuit son action en matière de transition énergétique
+notamment par la signature de conventions ou contrats lui permettant d’obtenir des
+financements externes.
+
+
+
+
+                                               21
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                     ANNEXES
+
+Annexe n° 1. Procédure .................................................................................................. 23
+Annexe n° 2. Table des abréviations .............................................................................. 24
+
+
+
+
+                                                                22
+                          COMMUNAUT֤É DE COMMUNES CHAMPAGNE BOISCHAUTS
+ENQUÊTE RELATIVE À « LA MOBILISATION ET AUX ACTIONS DU PROGRAMME EUROPÉEN
+                                                            LIFE EN FRANCE »
+
+
+                                  Annexe n° 1. Procédure
+
+
+                                                                    Dates de
+                                                                  réception des
+        Objet             Dates                   Destinataire
+                                                                    réponses
+                                                                   éventuelles
+
+Envoi de la lettre    20 février 2026
+                                        M. Éric Van Remoortere,
+d’ouverture de            reçue le
+                                        ordonnateur en fonction
+contrôle              24 février 2026
+
+
+
+Entretien de fin de
+                                        M. Éric Van Remoortere
+contrôle               14 avril 2026
+
+
+
+Délibéré de la
+chambre                13 mai 2026
+
+
+Envoi du rapport        3 juin 2026
+d’observations             reçu le      M. Éric Van Remoortere    25 juin 2026
+provisoires (ROP)      le même jour
+
+
+Délibéré de la
+                      23 juillet 2026
+chambre
+
+
+Envoi du rapport      31 juillet 2026
+d’observations            reçu le       M. Éric Van Remoortere    Sans réponse
+définitives (ROD1)     2 août 2026
+
+
+
+
+                                             23
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                       Annexe n° 2. Table des abréviations
+
+
+
+   Sigle                                           Libellé
+
+ADEME      Agence de l'environnement et de la maîtrise de l'énergie
+
+CAF        Capacité d’autofinancement
+
+CC         Communautés de communes
+
+CGCT       Code général des collectivités territoriales
+           Agence exécutive européenne pour le climat, les infrastructures et
+CINEA
+           l’environnement
+COT EnR    Contrat d’objectifs territorial de développement des énergies renouvelables
+
+CRTE       Contrat régional de transition écologique
+
+EnR        Énergie renouvelable
+
+EnRR       Énergie renouvelable et de récupération
+
+EPCI       Établissement public de coopération intercommunale
+
+GW-h       Gigawatt-heure
+
+INSEE      Institut national de la statistique et des études économiques
+
+PCAET      Plan climat air énergie territorial
+
+PETR       Pôle d’équilibre territorial et rural
+
+PLUi       Plan local d’urbanisme intercommunal
+
+PPRI       Plan de prévention des risques d’inondation
+
+SCOT       Schéma de cohérence territoriale
+
+SDEI       Syndicat mixte d’électricité de l’Indre
+           Schéma régional d’aménagement, de développement durable et d’égalité des
+SRADDET
+           territoires
+
+
+
+
+                                            24
+Chambre régionale des comptes Centre-Val de Loire
+               15 rue d'Escures
+                   45000 Orléans
+                Tél. : 02 38 78 96 00
+          centrevaldeloire@crtc.ccomptes.fr
+   https://www.ccomptes.fr/fr/crc-centre-val-de-loire
+
