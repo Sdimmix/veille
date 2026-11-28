@@ -1,0 +1,3439 @@
+TITRE: Communauté de communes de la Beauce Loirétaine (Loiret)
+PAGE: https://www.ccomptes.fr/fr/publications/communaute-de-communes-de-la-beauce-loiretaine-loiret
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/CVLR-2026-025---CCBeauce-Loir--taine-ROD2_2026.pdf
+
+    RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+    COMMUNAUTÉ DE COMMUNES
+      DE LA BEAUCE LOIRÉTAINE
+     ENQUÊTE RÉGIONALE SUR LA GESTION
+                    DE L’EAU POTABLE
+
+                                                      (Département du Loiret)
+
+                                                                         Exercices 2019 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés,
+                  a été délibéré par la chambre le 8 septembre 2026.
+
+
+
+
+            15, rue d'Escures ◼ 45000 ORLÉANS ◼ T +33 2 38 78 96 00 ◼ centrevaldeloire@crtc.ccomptes.fr
+                                                 www.ccomptes.fr
+                                              COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                              ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+                                      TABLE DES MATIÈRES
+
+SYNTHÈSE...................................................................................................................... 6
+RECOMMANDATIONS ................................................................................................ 8
+INTRODUCTION ........................................................................................................... 9
+     1 LA GESTION DE LA COMPÉTENCE EAU EST DÉSORMAIS BIEN
+       ORGANISÉE POUR RELEVER DE NOMBREUX DÉFIS ................................ 13
+        1.1 Un transfert bien préparé et concrétisé dans un pacte entre l’EPCI et les
+            communes ......................................................................................................... 13
+            1.1.1 La gestion de l’eau potable avant le transfert, un morcellement
+                  préjudiciable à un pilotage de la gestion ................................................. 14
+            1.1.2 Un transfert de compétence bien anticipé ............................................... 15
+            1.1.3 Un pacte pour définir les principes et les modalités de transfert
+                  entre les communes et l’EPCI ................................................................. 16
+        1.2 La création d’une régie intercommunale offre la possibilité d’instaurer
+            une gestion cohérente et performante de l’eau ................................................. 17
+        1.3 Une gouvernance partagée entre le conseil d’exploitation et la
+            commission du cycle de l’eau qui gagnerait à être clarifiée............................. 19
+            1.3.1 Un formalisme à mieux respecter s’agissant de la fréquence des
+                  réunions de ces instances......................................................................... 19
+            1.3.2 Une régie qui répond aux besoins de la gestion de l’eau mais dont
+                  le directeur n’a pas été formellement nommé ......................................... 21
+        1.4 Un contrôle interne et un accompagnement des équipes à renforcer ............... 22
+            1.4.1 Un accompagnement et encadrement des équipes techniques à
+                  renforcer pour une meilleure intégration ................................................. 22
+            1.4.2 Des informations manquantes dans certains contrats de travail .............. 22
+            1.4.3 Les interventions en régie de l’équipe technique, complétées par
+                  des interventions sous-traitées ................................................................. 23
+        1.5 Le contrôle de la délégation de service public d’Artenay à renforcer pour
+            une meilleure information financière ............................................................... 24
+            1.5.1 Des objectifs de performance atteints mais des lacunes demeurent ........ 24
+            1.5.2 Un contrôle de la délégation de service public à améliorer .................... 24
+            1.5.3 Des éléments de rémunération à mieux maîtriser pour en assurer un
+                  meilleur suivi ........................................................................................... 25
+        1.6 Un patrimoine productif souvent vétuste, désormais bien connu, qui
+            nécessite de l’entretien, parfois en urgence, et du contrôle .............................. 27
+            1.6.1 Des forages sans autorisation d’exploiter................................................ 27
+            1.6.2 Un réseau de canalisations ancien ........................................................... 28
+            1.6.3 Des interventions en urgence pour assurer la sécurité des réservoirs ..... 30
+            1.6.4 Le rendement des réseaux d’adduction et de distribution ....................... 30
+
+
+
+
+                                                                   3
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     2 LA QUALITÉ DE L’EAU POTABLE, SOUVENT INSATISFAISANTE,
+       DEMEURE UN ENJEU SOUS-ESTIMÉ .............................................................. 33
+        2.1 Une ressource d’eau brute très exposée à la pollution diffuse ......................... 33
+        2.2 La qualité dégradée de l’eau distribuée invite à renforcer le système
+            d’autosurveillance ............................................................................................ 36
+            2.2.1 De nombreuses non-conformités sont constatées.................................... 36
+            2.2.2 Une réduction du contrôle qualité et des incohérences restent
+                  inexpliquées ............................................................................................. 37
+            2.2.3 Une autosurveillance de la qualité de l’eau à harmoniser ....................... 38
+        2.3 Le contentieux européen a été l’aiguillon pour agir ......................................... 39
+            2.3.1 L’établissement s’est saisi du contentieux pour agir efficacement ......... 40
+            2.3.2 Les réponses apportées par l’EPCI à la mise en demeure de la
+                  préfecture ................................................................................................. 41
+            2.3.3 Le problème de la qualité de l’eau n’est pas résolu pour autant ............. 43
+            2.3.4 Des enjeux sanitaires et environnementaux insuffisamment pris en
+                  compte dans la stratégie intercommunale de l’eau .................................. 44
+            2.3.5 Des choix d’investissement remis en question par la qualité de
+                  l’eau ......................................................................................................... 45
+        2.4 Une information sur la qualité de l’eau à rendre plus transparente .................. 46
+     3 DES INVESTISSEMENTS À MIEUX PLANIFIER ET DES
+       RESSOURCES FINANCIÈRES À MOBILISER POUR RÉPONDRE AUX
+       BESOINS ............................................................................................................... 48
+        3.1 Le transfert des excédents, bien anticipé et préparé, a été essentiel au bon
+            démarrage de l’exercice de la compétence ....................................................... 48
+        3.2 La fiabilité comptable à poursuivre pour permettre une complète analyse
+            des coûts ........................................................................................................... 49
+            3.2.1 Une fiabilité comptable à parfaire ........................................................... 49
+            3.2.2 Les coûts d’exploitation du service de l’eau sont à imputer en
+                  totalité sur le budget annexe .................................................................... 50
+            3.2.3 La facturation unique eau-assainissement n’est pas optimale mais a
+                  permis de fiabiliser la base de données des usagers ................................ 51
+        3.3 Une planification des investissements dont la traduction financière reste
+            à effectuer ......................................................................................................... 51
+            3.3.1 Un plan pluriannuel d’investissement à clarifier et à mettre à jour ........ 51
+            3.3.2 Les investissements réalisés respectent les priorités retenues ................. 52
+        3.4 Des ressources financières à mobiliser ............................................................. 54
+            3.4.1 Après deux ans d’exploitation, des marges de manœuvre qui se
+                  précisent mais restent incertaines ............................................................ 54
+            3.4.2 Des prix de vente encore majoritairement inférieurs au prix de
+                  revient ...................................................................................................... 55
+ANNEXES ...................................................................................................................... 57
+        Annexe n° 1. Procédure .......................................................................................... 58
+        Annexe n° 2. Service de l’eau de la CCBL au 1er décembre 2025......................... 59
+        Annexe n° 3. Forage de la Chapelle-Onzerain ....................................................... 60
+
+
+
+                                                                     4
+                                       COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                       ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+Annexe n° 4. Classification de la qualité des réseaux d’eau .................................. 61
+Annexe n° 5. Coût de la dépollution ...................................................................... 62
+Annexe n° 6. Désignation des forages dans le rapport sur le prix et la qualité
+   du service .......................................................................................................... 63
+Annexe n° 7. Schéma de recouvrement de la facture unique ................................. 64
+Annexe n° 8. Performances financières du budget eau de la communauté
+   de communes Beauce Loirétaine ...................................................................... 65
+Annexe n° 9. État des lieux du service eau ............................................................ 67
+Annexe n° 10. État du patrimoine du réseau eau ................................................... 68
+Annexe n° 11. Table des sigles et abréviations ..................................................... 69
+
+
+
+
+                                                            5
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                      SYNTHÈSE
+
+
+L’essentiel
+Le contrôle de la communauté de communes de la Beauce Loirétaine s’inscrit dans le cadre
+d’une enquête régionale conduite par la chambre régionale des comptes Centre-Val de Loire
+sur la gestion de l’eau potable à la suite d’une saisine d’initiative citoyenne.
+Le transfert de la compétence eau au groupement de communes a été bien anticipé et bien mis
+en œuvre, grâce notamment à l’adoption d’un pacte de transfert et l’implication des équipes.
+Tous les excédents des communes et des syndicats ont été transférés à l’intercommunalité,
+offrant ainsi une assise financière saine.
+Cependant, après deux années de gestion de l’eau potable, des ajustements doivent être menés
+pour que l’ensemble des coûts d’exploitation soient bien imputés au budget annexe eau et pour
+que les tarifs pratiqués soient en adéquation avec les prix de revient.
+Le renouvellement des infrastructures et l’effet de la pollution diffuse sur la qualité de l’eau
+impliquent non seulement que le montant des investissements, aujourd’hui estimés à
+20 millions d’euros, soit mis à jour, mais aussi que des orientations stratégiques plus
+préventives que curatives soient adoptées.
+
+        Frontalière de la métropole orléanaise au nord-ouest, la communauté de communes de
+la Beauce Loirétaine bénéficie du développement économique du territoire, porté par les
+industries agro-alimentaire, pharmaceutique mais aussi militaire. Le nombre de ses habitants
+augmente depuis une cinquantaine d’années.
+       Depuis 2024, la prise de compétence eau potable la met davantage en relation directe
+avec les usagers via la régie intercommunale du service de l’eau.
+
+
+               Un transfert de la compétence eau bien négocié et concrétisé dans
+               un pacte de transfert entre les communes et leur groupement
+
+       Une gouvernance stable a été mise en place grâce au travail préparatoire de l’équipe
+dirigeante qui a abouti à un pacte de transfert comprenant une trajectoire tarifaire et des
+principes de collaboration entre les communes et l’intercommunalité. L’amélioration de la
+connaissance du patrimoine facilitera la planification financière des investissements.
+       La gestion de la régie requiert quelques ajustements pour en améliorer la régularité et la
+performance, notamment pour le contrôle interne, la qualité de l’information financière relative
+aux coûts et aux relations avec le concessionnaire, la régularité comptable ou encore la clarté
+des missions entre les différentes instances.
+       Le patrimoine productif mis à la disposition de l’intercommunalité par les communes
+est, par endroit, très vétuste. Après de nombreuses années de sous-investissement, la
+communauté de communes doit répondre à des besoins d’équipement à la fois importants et
+urgents.
+
+
+
+
+                                               6
+                                  COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                  ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+               Une pollution diffuse de plus en plus prégnante et insuffisamment
+               prise en compte dans les orientations stratégiques
+
+         La pollution diffuse de l’eau aux nitrates et aux pesticides, documentée de longue date,
+a causé des fermetures de forages par le passé et provoque, encore aujourd’hui, de fréquentes
+restrictions de consommation. Trois unités de distribution de ce territoire ont fait l’objet d’un
+contentieux européen relatif à l’application de la directive européenne sur les nitrates. En
+intervenant rapidement et de façon anticipée pour construire des interconnexions et fermer les
+forages en question, le service de l’eau du groupement a permis d’éviter que deux avis de mise
+en demeure soient émis à son encontre par la préfecture. Toutefois ces réponses relèvent
+davantage du curatif que du préventif et ne permettent pas de garantir, sur le long terme, une
+eau de qualité satisfaisante.
+       La protection de certains captages reste défaillante au niveau administratif et
+hydrogéologique ; par ailleurs, les enjeux sanitaires et environnementaux de l’eau potable ne
+sont présentés dans un aucun document stratégique de l’intercommunalité.
+
+
+               Des ressources financières à mobiliser pour réaliser le plan
+               pluriannuel d’investissement
+
+        À partir de l’expérience des deux premiers exercices de gestion de la compétence eau,
+la communauté de communes est désormais en capacité de se projeter pour construire la
+planification financière qui doit permettre de répondre aux enjeux de l’eau sur le territoire.
+        La trajectoire tarifaire prévue pour 2026 n’a pas été respectée et les prix pratiqués
+aujourd’hui restent, majoritairement, inférieurs à la fois à ce qu’ils auraient dû être en vertu du
+pacte de transfert, et à ce qu’ils devraient être au regard du coût de revient. Pour couvrir les
+charges d’exploitation et dégager un financement propre susceptible d’assurer la pérennité du
+service, les tarifs pratiqués doivent, sans délai, couvrir le prix de revient.
+        Un recours à l’emprunt n’est pas à exclure pour réaliser le programme d’investissements
+envisagé avant le transfert et qui doit être mis à jour. Du fait de son actuel faible stock de dettes,
+la régie eau dispose d’une bonne marge pour augmenter son endettement.
+        Compte-tenu des conséquences que peut avoir une eau d’une qualité défaillante sur la
+santé humaine mais aussi sur les finances publiques des organismes qui ont la responsabilité de
+la produire et de la distribuer, la lutte contre la pollution diffuse devrait faire l’objet d’une
+attention particulière. Cet objectif ne figure pas encore au programme de la communauté de
+communes de la Beauce Loirétaine qui est pourtant tenu d’offrir à ses abonnés une eau propre
+et salubre.
+
+
+       À l’issue de son contrôle, la chambre a émis six recommandations. Elle examinera
+leur mise en œuvre dans un délai d’une année, après présentation au conseil
+communautaire, conformément aux dispositions de l’article L. 243-9 du code des juridictions
+financières (CJF).
+
+
+
+
+                                                  7
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                            RECOMMANDATIONS
+
+Recommandation n° 1. : Conformément à l’article R. 2221-9 du code général des collectivités
+territoriales, réunir le conseil d’exploitation au moins une fois tous les trois mois (p. 21).
+
+Recommandation n° 2. : Porter le rapport annuel du délégataire à l’ordre du jour de la séance
+du conseil de communauté la plus proche de sa réception conformément à l’article L. 1411-3
+du code général des collectivités territoriales (p. 25).
+
+Recommandation n° 3. : Solliciter sans délai et conformément aux articles R. 1321-6 et
+suivants du code de la santé publique une autorisation d’exploiter auprès de l’État pour le forage
+de Bucy-le-Roi (p. 28).
+
+Recommandation n° 4. : Intégrer aux futurs plans de gestion de la sécurité sanitaire de l’eau,
+qui seront obligatoires à partir de juillet 2027, des plans de protection de la ressource pour les
+deux captages de Cercottes et Saint-Péravy-la-Colombe (p. 46).
+
+Recommandation n° 5. : Utiliser l’unité de distribution comme unité de compte dans le cadre
+de la mission d’autosurveillance qui incombe à tout producteur d’eau destinée à la
+consommation humaine (p. 47).
+
+Recommandation n° 6. : Veiller à la bonne imputation comptable au budget annexe des
+quotités de travail des agents de l’EPCI intervenant pour la régie eau (p. 51).
+
+
+
+
+                                                8
+                                       COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                       ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+                                       INTRODUCTION
+
+        La communauté de communes Beauce Loirétaine (CCBL) est une des
+16 intercommunalités à fiscalité propre du Loiret. Elle a été créée par arrêté préfectoral du
+21 décembre 2012. Son siège social est basé à Sougy, commune de 842 habitants.
+      Elle réunit aujourd’hui 23 communes et 17 4061 habitants sur près de 400 km2.
+La commune la plus importante est Chevilly avec 2 690 habitants. Elle ne compte que quatre
+communes de plus de 2 000 habitants.
+       Au-delà des sept compétences obligatoires, l’intercommunalité assume les compétences
+optionnelles suivantes :
+  - la mise en valeur de l’environnement ;
+  - l’élaboration du programme local de l’habitat et la mise en œuvre d’opérations
+    programmées de l’amélioration de l’habitat ;
+  - la voirie d’intérêt communautaire et l’aménagement de pistes cyclables d’intérêt
+    communautaire ;
+  - la gestion d’un relais petite enfance ;
+  - le développement de services pour le maintien à domicile des personnes âgées ;
+  - la gestion d’équipements sportifs d’intérêt communautaire ;
+  - la mobilité.
+       Au regard de ces compétences optionnelles, le champ d’intervention intercommunal
+apparait assez peu développé, l’assemblée communautaire ayant fait le choix de laisser aux
+communes les compétences en lien avec l’usager (comme les écoles, les centres de loisirs, etc.).
+        Située au nord-ouest de la métropole d’Orléans en limite de l’Eure-et-Loir, le territoire
+est traversé par la ligne ferroviaire Paris-Orléans qui dessert trois gares et par trois grands axes
+routiers, l’A10 et RD2020, du nord au sud, et l’A19, transversale entre Orléans et Montargis.
+
+
+
+
+         1
+          Cf. BANATIC, base de données nationale gérée par la direction générale des collectivités locales du
+ministère de l'Intérieur, fournissant des informations sur les groupements de collectivités territoriales en France.
+
+
+
+
+                                                         9
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Carte n° 1 : Carte de la CCBL avec la base militaire de Bricy et les axes de communication
+
+
+
+
+Source : CRC Centre-Val de Loire
+
+
+       Le conseil communautaire est composé de 42 délégués et présidé depuis le 23 avril 2014
+par M. Thierry Bracquemond, maire de Huêtre, avec cinq vice-présidents dont une vice-
+présidence en charge du cycle de l’eau assurée par Mme Fabienne Legrand, élue à Sougy. Le
+bureau est composé des vice-présidents et de cinq autres membres du conseil communautaire.
+
+
+                  Un territoire en développement
+
+       Depuis 1968, à périmètre géographique identique, le territoire voit sa population croître
+de façon continue après une baisse importante entamée à la fin du 19e siècle. En 2022, il y avait
+25 % d’habitants en plus par rapport à 1990 et sa densité est passée de 34,4 à 42,6 habitants par
+km2, ce qui reste néanmoins faible comparativement à la densité moyenne française de
+107 habitants par km2. La population est plutôt jeune puisque la part des 0-44 ans s’élève à
+58 % de la population totale (alors qu’elle ne représente que 53,6 % de la population du
+département du Loiret) et que l’on compte 66 personnes de plus de 65 ans pour 100 jeunes de
+moins de 20 ans, contre 89 en France.
+       La population active est de 82 %, et composée pour près de 60 % par des employés et
+ouvriers et des professions intermédiaires (26 %). Le taux de chômage est de 6,8 % en 2022
+contre 11 % à l’échelle départementale2.
+
+
+        2
+            Source : INSEE.
+
+
+
+
+                                                10
+                                     COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                     ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+       Les revenus annuels médians disponibles par unité de consommation en 2021 s’élèvent
+à 24 010 euros soit une valeur comprise entre la médiane départementale (23 090 euros) et la
+médiane nationale (25 760 euros). Par ailleurs, 58 % des ménages du territoire intercommunal
+sont imposés contre 52,7 % de ménages du Loiret et 48 % de l’ensemble des ménages français3.
+         Le taux de pauvreté4 s’élève à 7,9 % soit une valeur très inférieure au taux de certains
+territoires voisins comme la métropole d’Orléans (15,8 %), la communauté de communes du
+Grand Châteaudun (14,6 %) ou de Cœur de Beauce (9,4 %).
+
+
+                 Un territoire agricole qui alimente les circuits longs de l’industrie
+                 agroalimentaire
+
+         Le territoire est fortement orienté vers l’agriculture qui occupe 83,7 % de la superficie
+totale (contre 51 % en moyenne en France) soit 33 473 hectares. À l’inverse, seul 11,2 % du
+territoire est occupé par des forêts ou des milieux semi-naturels.
+        Le secteur agricole comptait 274 exploitations agricoles5 en 2020 et 51 établissements
+agricoles. Sur ce territoire, la moyenne par exploitation de la production brute standard6 (PBS)
+est en légère augmentation depuis 2010 (+0,2 %) à 206 200 euros contre 156 600 euros en
+France (en baisse de 5,4 % depuis 2010) et 174 000 euros en région Centre-Val de Loire.
+        La culture des céréales et des oléagineux est dominante avec plus de 80 % de la surface
+agricole utile (SAU) dédiée à cette production7. La betterave sucrière est la deuxième culture
+majoritaire du territoire avec près de 10 % de la SAU et une centaine d’exploitations. Alors que
+l’objectif inscrit dans la loi d’orientation pour la souveraineté alimentaire et le renouvellement
+des générations en agriculture du 24 mars 2025 est d’atteindre 21 % de la SAU certifiée
+agriculture biologique (AB) en 2030, le territoire ne compte que 1,3 % de sa surface agricole
+utile certifiée AB en 2024, avec sept exploitations certifiées sur les 274 en activité.
+
+
+                 Un territoire prospère
+
+       L’ensemble du territoire appartient à l’aire d’attractivité (AAV) de la métropole
+d’Orléans. Le nombre d’emplois dans l’intercommunalité est de 8 363, et l’indicateur de
+concentration d’emploi8 est de 101,8. Selon le schéma de développement économique, ce sont
+les communes de Bricy, Artenay et Gidy qui concentrent la majorité des emplois.
+        La coopérative agricole Tereos France, située à Artenay, est le second employeur privé
+du territoire avec 275 emplois, après les laboratoires Servier (820 emplois sur la commune de
+
+
+
+        3
+           Source : l'Observatoire des Territoires.
+        4
+           Taux de pauvreté à 60 % du revenu médian.
+         5
+           Source : recensement agricole 2020.
+         6
+            La production brute standard représente la valeur de production potentielle par hectare à partir de
+coefficient, hors de toute aide et exprimé en euros, toutes filières de production confondues (source Agreste).
+         7
+           Source : recensement agricole 2020.
+         8
+           L’indicateur de concentration d’emploi est le nombre d’emplois dans la zone pour 100 actifs résidant
+dans la zone.
+
+
+
+
+                                                      11
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Gidy). Au niveau local, le groupe Tereos représente le deuxième débouché pour les producteurs
+agricoles après Axereal (autre groupe mondial, basé à Olivet) 9.
+       Le secteur agricole rassemble 3,5 % des 8 417 emplois du territoire, en baisse par
+rapport à son niveau de 2011 (4,7 %), soit 296 emplois, selon l’INSEE. Toutefois, selon le
+diagnostic agricole territorial réalisé en 2017, chaque emploi agricole induit sept emplois hors
+exploitation en amont et en aval de la chaine de valeur (agro fournitures, équipement, services,
+négociant, etc.).
+       Le territoire accueille une importante base aérienne militaire à Bricy, et la création
+d’entreprises est très soutenue sur le territoire. Entre 2019 et 2024, le nombre de création
+annuelle a doublé, passant de 104 à 208 par an. Pour l’essentiel, il s’agit d’entreprises
+individuelles.
+
+
+                 Une intercommunalité disposant de solides bases financières sur son
+                 budget principal
+
+        La communauté de communes dispose d’un budget principal et de trois budgets annexes
+pour la gestion de services publics à caractère industriel et commercial (SPIC) dont un budget
+pour l’assainissement non collectif, un autre pour l’assainissement collectif et un dernier pour
+la gestion de l’eau potable.
+       Le budget principal de l’EPCI peut compter sur des recettes fiscales en croissance
+continue depuis quatre exercices, au premier rang desquels figure la cotisation foncière sur les
+entreprises (CFE). Sur l’ensemble de la période 2019 à 2024, les produits de gestion dont
+bénéficie l’intercommunalité ont augmenté de 58 %.
+        Dans le même temps, les charges de gestion n’ont augmenté que de 20 %. La capacité
+d’autofinancement nette croit de 23 % entre 2019 et 2024 pour atteindre 1 452 255 €. Le stock
+de dettes s’élève à 853 938 €, soit une dette par habitant de 50 € contre une moyenne de 204 €
+pour les communautés de communes (et de 409 € pour l’ensemble des groupements à fiscalité
+propre)10. La capacité de désendettement représente 0,6 année.
+       Pour le financement de ses investissements, l’EPCI dispose en 2024 d’un fonds de
+roulement net global de 9,8 M€ pour un besoin en fonds de roulement de 609 726 €.
+La différence entre les deux constitue la trésorerie qui, avec 9,2 M€, au 31 décembre 2024,
+représente plus de 24 mois de charges courantes.
+       Les investissements du budget principal sont modestes comme en témoigne la variation
+annuelle moyenne + de 3,5 % des emplois immobilisés au bilan entre 2019 et 2024.
+Les dépenses d’équipement affichent une valeur moyenne de 759 707 € sur la période 2019 à
+2024 alors que la valeur moyenne du financement propre disponible est de 1 569 810 €.
+
+
+
+
+        9
+            Le groupe Tereos, créé en 1932 dans l’Aisne par quelques agriculteurs distilleurs, est aujourd’hui le
+deuxième plus grand groupe producteur de sucre au monde. Il développe ses activités dans 15 pays à travers le
+monde, emploie 24 000 personnes dont 4 300 en France, et a réalisé un chiffre d’affaires de près de
+6 milliards d’euros en 2024-2025 pour un bénéfice de 800 millions d’euros.
+         10
+            Valeur 2023. Source : Association des maires de France et La Banque Postale, novembre 2024.
+
+
+
+
+                                                       12
+                                     COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                     ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+                 Une prise de compétence eau récente
+
+        La communauté de communes de la Beauce Loirétaine a pris la compétence de gestion de
+l’eau potable le 1er janvier 2024. Seuls les exercices 2024 et 2025 ont été budgétisés et exécutés
+ce qui n’offre pas un recul suffisant pour déployer des analyses financières poussées. À cela
+s’ajoute le fait que figurent dans les comptes d’exploitation de la première d’année à la fois les
+transferts des excédents des communes et des syndicats, mais aussi les dettes des anciens
+gestionnaires. Par ailleurs, aucune dotation aux amortissements n’est intégrée dans les charges
+202411 alors que les infrastructures ont été mises à disposition au 1er janvier 2024, ce qui modifie
+le niveau des résultats. L’EPCI justifie cette absence par le fait que le travail préparatoire, réalisé
+conjointement avec le comptable public, n’était pas achevé lors de l’adoption du budget 2024.
+Cette dotation n’a pas fait l’objet d’un rattrapage au cours de l’exercice suivant. Les comptes
+disponibles ne reflètent donc ni les choix de gestion de l’équipe actuelle ni les réalités économiques.
+        La chambre a examiné les conditions de réalisation du transfert de compétence, sur la
+gouvernance du service, le contrôle interne, la planification financière des investissements à
+venir ainsi que sur le rôle et la responsabilité de l’EPCI dans le contentieux européen sur
+l’application de la directive nitrates.
+
+
+
+
+1 LA GESTION DE LA COMPÉTENCE EAU EST DÉSORMAIS
+  BIEN ORGANISÉE POUR RELEVER DE NOMBREUX DÉFIS
+
+
+1.1 Un transfert bien préparé et concrétisé dans un pacte entre l’EPCI et
+    les communes
+
+        La loi 2018-702 du 3 août 2018 relative à la mise en œuvre du transfert des compétences
+eau et assainissement aux communautés de communes, dite « loi Ferrand », modifiée par la loi
+2019-1461 du 27 décembre 2019 relative à l’engagement dans la vie locale et à la proximité de
+l’action publique, a prévu le mécanisme d’un report du transfert de la compétence
+« alimentation en eau potable » des communes membres qui ne l’auraient pas déjà transférée à
+leur communauté de communes au plus tard au 1er janvier 2026.
+        Ainsi, en 2019, les communes du territoire se sont saisies de cette opportunité et ont
+manifesté le souhait de reporter le transfert de la compétence « eau potable », comme l’ont fait
+l’ensemble des autres intercommunalités du Loiret, à une exception près12. Cependant, dès
+2018, l’EPCI a anticipé ce transfert de compétence en s’engageant dans plusieurs études en vue
+du transfert de la compétence eau potable au 1er janvier 2024, soit deux ans avant la date limite
+fixée par le législateur pour finaliser ce transfert de la compétence.
+
+
+
+        11
+           La dotation aux amortissements est une dépense obligatoire en application des articles L.2321-2 et
+R.2321-1 du code général des collectivités territoriales.
+        12
+           La communauté de communes de la Forêt exerce la compétence eau depuis le 1er janvier 2018.
+
+
+
+
+                                                     13
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        En raison d’une gestion historique à l’échelle communale, le réseau d’eau potable de la
+communauté de communes se caractérise par une très faible connexion entre les sept unités de
+distribution. Aucun programme de sécurisation intercommunale liée à la dépendance extérieure
+ou à la qualité, n’est intervenu avant la prise de compétence en 2024.
+
+
+1.1.1 La gestion de l’eau potable avant le transfert, un morcellement préjudiciable
+      à un pilotage de la gestion
+
+        Comme le montre le tableau n° 1 ci-dessous, seules six des 23 communes disposaient de
+l’intégralité de la compétence eau potable avant le transfert de 2024. La compétence distribution
+était cependant assurée par 16 des 23 communes de l’actuel établissement public de coopération
+intercommunales (EPCI) et parmi ces 16 communes, trois importaient la totalité de l’eau
+distribuée à partir d’autre territoire.
+
+
+  Tableau n° 1 : Organisation de la compétence eau potable au sein des 23 communes membres de
+                               l’EPCI Beauce Loirétaine avant 2024
+
+
+Communes                          Production             Transfert             Distribution
+
+Bucy-le-Roi                           X                      X                      X
+Chevilly                              X                      X                      X
+La-Chapelle-Onzerain                  X                      X                      X
+Saint-Péravy-la-Colombe               X                      X                      X
+Trinay                                X                      X                      X
+Villeneuve-sur-Conie                  X                      X                      X
+Artenay                                                                             X
+                                    SPEP                   SPEP
+Sougy                                                                               X
+Bucy-Saint-Liphard                                                                  X
+Coinces                                                                             X
+                                    SPEP                   SPEP
+Patay                                                                               X
+Lion-en-Beauce                       SE                      SE                     X
+Ruan                                 SE                      SE                     X
+Gémigny                             SIAEP                  SIAEP                  SIAEP
+Saint-Sigismond                     SIAEP                  SIAEP                  SIAEP
+Gidy
+Cercottes                           SIAEP                  SIAEP                  SIAEP
+Huêtre
+
+Boulay-les-Barres
+                                    SIAEP                  SIAEP                  SIAEP
+Bricy
+
+
+
+
+                                               14
+                                    COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                    ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+ Communes                            Production                 Transfert                Distribution
+
+ Rouvray-Sainte-Croix                Eau importée             Eau importée                    X
+ Tournoisis                          Eau importée             Eau importée                    X
+ Villamblain                         Eau importée             Eau importée                    X
+
+Source : Altereo, Étude patrimoniale, rapport de phase 1 du 11 octobre 2019
+Note de lecture : jusqu’au 1er janvier 2024, la commune de Bucy-le-Roi est compétente pour la production, le
+transfert et la distribution de l’eau potable sur son territoire communal
+SPEP : syndicat de production d’eau potable
+SE : syndicat des eaux
+SIAEP : syndicat intercommunal d’adduction d’eau potable
+
+
+        Ce morcellement se traduit par une grande hétérogénéité des responsabilités mais aussi
+des équipements, avec des infrastructures vétustes qui côtoient des équipements neufs.
+L’annexe 4 de la phase 1 de l’étude patrimoniale de 2021 présente la synthèse des 17 indicateurs
+règlementaires pour l’ensemble des 22 autorités organisatrices intervenant sur le territoire. Il
+ressort de ce tableau qu’aucune de ces 22 autorités organisatrices ne dispose de données
+complètes pour l’ensemble des indicateurs sur les trois années 2019, 2020 et 2021. Pour cinq
+d’entre elles, aucune donnée n’est disponible pour aucune des années.
+
+
+1.1.2 Un transfert de compétence bien anticipé
+
+        Le transfert de compétences des communes et des syndicats à l’intercommunalité a fait
+l’objet d’une bonne anticipation et d’une exécution soignée, tant au niveau politique que
+technique.
+        La préparation au transfert de compétence a réellement débuté en 2018 avec le
+lancement de la première étude patrimoniale, comme le rappelle la délibération approuvant le
+pacte de transfert. Cette étude met en évidence, à la fois le grand nombre d’intervenants
+opérationnels sur les questions de l’eau, à un titre ou à un autre, dans l’ensemble des communes,
+mais aussi l’absence de professionnalisation (comme le non-respect des règles de sécurité,
+l’intervention directe des maires sur des éléments techniques, etc.) ainsi que la vétusté de
+certains équipements. Le tableau n° 3 infra présente le nombre d’intervenants avant et après le
+transfert de compétence.
+        Une seconde phase préparatoire a été lancée début 2022 avec la commande d’une étude
+de transfert à laquelle les communes et les syndicats ont été largement associés, à travers des
+entretiens et des restitutions régulières. Au niveau politique, la recherche d’un large consensus
+a été un objectif recherché et atteint. La volonté de constituer une solide légitimité politique est
+perceptible dans les nombreux échanges préparatoires. La conférence des maires, la
+commission du cycle de l’eau et celle des finances ont été associées, consultées et bien
+informées, comme en témoigne la conférence des maires élargie du 4 mai 2023, mais aussi la
+visite organisée le 19 octobre 2020 par une délégation de la Beauce Loirétaine, présidée par
+Mme Fabienne Legrand, présidente de la commission du cycle de l’eau, à la communauté de
+communes du Bonnevalais, ou encore les présentations faites en conseil communautaire, par
+exemple lors de la séance du 30 mars 2023.
+
+
+
+
+                                                    15
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Au niveau technique, dès son arrivée en 2021, la nouvelle directrice générale des
+services a été missionnée pour conduire ce transfert. Les travaux relatifs à la rédaction du pacte
+de transfert débutent en 2022. Des réunions, organisées par la direction générale de l’EPCI,
+avec l’ensemble des secrétaires de mairie, se tiennent régulièrement sous forme de groupe de
+travail notamment avant chaque conseil communautaire de façon à expliquer les points à l’ordre
+du jour.
+       Le transfert de compétence a été formalisé par l’arrêté préfectoral du 11 septembre 2023
+par lequel les compétences de la communauté de communes sont élargies à l’eau potable.
+Conformément au décret n° 2001-184 du 23 février 200113 relatif aux régies chargées de
+l’exploitation d’un service public, le conseil communautaire a approuvé cette modification par
+une délibération adoptée lors de sa séance du 16 novembre 2023. Les statuts de la régie dotée
+d’une autonomie financière mais sans personnalité morale ont été adoptés par cette même
+délibération.
+
+
+                    Tableau n° 2 : Liste des études réalisées préparatoires au transfert
+
+ Livrables                                                                                  Date de livraison
+
+ Étude patrimoniale (1re phase)                                                              Novembre 2019
+
+ Étude d’accompagnement au transfert des compétences eau potable                             Novembre 2022
+
+ Étude patrimoniale (2e phase et rapport de fin d’étude)                                        Mars 2023
+
+Source : CRC Centre-Val de Loire selon les données de l’EPCI
+
+
+
+1.1.3 Un pacte pour définir les principes et les modalités de transfert entre les
+      communes et l’EPCI
+
+         Les travaux préparatoires, dirigés par les équipes intercommunales et associant les
+communes membres et les syndicats compétents en matière d’eau, se sont concrétisés dans le
+pacte de transfert adopté lors de la séance du conseil communautaire, le 25 mai 2023.
+S’articulant autour d’une dizaine d’articles, ce document clarifie les engagements réciproques
+et propose une vision commune entre l’EPCI, ses communes et les syndicats compétents.
+Il traite des questions financières autant que des questions organisationnelles, qu’il s’agisse du
+transfert des excédents, de la clôture des comptes des budgets annexes, des investissements
+passés et à venir, ou de la tarification. Ce pacte s’appuie sur trois principes : la solidarité entre
+les communes membres ; l’information et la communication aux élus et aux agents ; la mise en
+place d’une gouvernance équilibrée et représentative de l’ensemble du territoire de la
+communauté de communes.
+       Les expériences de transfert de la compétence « eau » d’autres intercommunalités
+voisines, où les excédents financiers n’avaient pas été transférés et ont conduit à une situation
+de blocage sur les investissements à venir, a été prise en compte, de même que la propre
+
+
+         13
+           L’ensemble des dispositions s’appliquant aux régies sont codifiés dans le CGCT aux articles
+L. 1412-1, L. 2221-1 et suivants pour les textes législatifs et R. 2221-1 et suivants pour les textes réglementaires.
+
+
+
+
+                                                        16
+                                       COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                       ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+expérience de transfert de la compétence assainissement en 2018 au sein de la Beauce
+Loirétaine.
+         Le préambule de ce pacte indique les objectifs sur lesquels reposent les engagements de
+la communauté de communes. Outre l’harmonisation du service sur l’ensemble du territoire et
+la tarification, figurent plusieurs principes : l’amélioration des rendements et de la connaissance
+du patrimoine et des ressources, le renouvellement des infrastructures, la sécurisation des
+réseaux et la conformité aux obligations réglementaires.
+        Le sujet de la préservation de la ressource en eau n’y est en revanche pas expressément
+identifié ; celui de la qualité de l’eau potable n’est présent dans le pacte de transfert qu’au regard
+du respect des obligations réglementaires.
+
+
+
+1.2 La création d’une régie intercommunale offre la possibilité d’instaurer
+    une gestion cohérente et performante de l’eau
+
+        Avec le transfert, la gestion de l’eau sur le territoire passe d’une organisation morcelée
+entre de nombreux acteurs et peu professionnalisés, à une organisation simple et
+compréhensible pour les abonnés, adaptée aux réalités du terrain, et capable de bâtir une
+stratégie qui intègre toute la chaine de valeur, depuis le forage souterrain jusqu’au robinet du
+consommateur. Le tableau ci-dessous présente le nombre d’autorités compétentes et intervenant
+dans la gestion de l’eau, avant et après le transfert.
+
+
+     Tableau n° 3 : Nombre d’intervenants dans la gestion de l’eau, avant et après le transfert de
+                                           compétence
+
+                              Production               Transfert                 Distribution
+
+ Avant                          10                      11                         19
+
+ Après                           5                      3                           3
+
+Source : Étude patrimoniale, phase 1
+
+
+       Pour des raisons historiques, l’EPCI a fait le choix de créer une régie pour la gestion de
+la compétence eau de la production jusqu’à la distribution. Ce choix n’a pas été précédé d’une
+étude comparative sur les modes de gestion possibles. Avant le transfert de compétence, sa
+gestion était organisée majoritairement en régie par les communes et les syndicats.
+        Même si elle n’est pas dotée d’une personnalité juridique distincte, contrairement aux
+autres services de l’EPCI, cette régie bénéfice d’une organisation administrative et financière
+spécifique.
+
+
+
+
+                                                  17
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                      Une régie dotée de la seule autonomie financière
+Une régie dotée de la seule autonomie financière est créée par délibération de l’organe
+délibérant. Elle est administrée par un conseil d’exploitation et un directeur sous l’autorité
+territoriale (maire ou président) et de l’organe délibérant (conseils municipal ou
+communautaire). Selon le choix de la collectivité, le conseil d'exploitation peut être amené à
+délibérer sur les catégories d'affaires pour lesquelles l’organe délibérant ne s'est pas réservé le
+pouvoir de décision ou seulement avoir un avis consultatif et d’orientation stratégique sur le
+fonctionnement et des affaires précises de la régie conformément au CGCT (ressources
+humaines, finances, tarification, exploitation…). Dans ce cas, l’organe délibérant, après avis du
+conseil d’exploitation et dans les conditions prévues par le règlement intérieur, délibère sur
+toutes questions intéressant le fonctionnement de la régie. Les membres du conseil
+d’exploitation sont nommés par l’organe délibérant. Le directeur est nommé par l’autorité
+territoriale dans les conditions prévues à l’article L. 2221-14 du CGCT sur avis du conseil
+d’exploitation.
+Contrairement à une régie dotée de la personnalité morale et de l’autonomie financière, elle ne
+dispose pas de conseil d’administration qui administre et gère directement la régie sans avoir
+recours à l’organe délibérant.
+Dans les deux cas de figure, les régies sont soumises aux principes de la commande et
+comptabilité publiques. Elle dispose d’un budget propre, distinct de celui de la collectivité, avec
+une section pour les opérations d’exploitation et l’autre pour les opérations d’investissement.
+
+
+       Ainsi, la régie intercommunale produit et distribue l’eau potable pour 20 des
+23 communes. La commune d’Artenay est restée en délégation de service public tandis que
+deux communes (Saint-Sigismond et Gémigny) bénéficient des services du syndicat mixte
+d’adduction d’eau potable inter-communautaire avec la communauté de communes des Terres
+du Val de Loire. Tous les syndicats de gestion d’eau infra-communautaires ont été dissouts.
+
+
+
+
+                                                18
+                                   COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                   ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+            Carte n° 2 : Modes de gestion de l’eau sur le territoire de l’intercommunalité
+
+
+
+
+Source : CRC Centre-Val de Loire
+
+
+
+
+1.3 Une gouvernance partagée entre le conseil d’exploitation et la
+    commission du cycle de l’eau qui gagnerait à être clarifiée
+
+
+1.3.1 Un formalisme à mieux respecter s’agissant de la fréquence des réunions de
+      ces instances
+
+       La régie eau potable dispose d’un conseil d’exploitation, comme le prévoit les articles
+R. 2221-3 et R. 2221-64 du CGCT. Le président de l’EPCI et la vice-présidente en charge de
+l’eau en sont membres de droit. Au sein de ce conseil d’exploitation est formé un bureau
+exécutif composé d’un président et trois vice-présidents élus en son sein.
+        Les élus ont souhaité qu’il ne soit pas décisionnaire (article R. 2221-64), mais qu’il soit
+obligatoirement consulté « sur toutes les questions d’ordre général intéressant le
+fonctionnement de la régie » en émettant un avis simple sur les attributions prévues par le CGCT
+(article R. 2221-72). Il intervient ainsi en amont en préparant et émettant des propositions sur
+les dossiers financiers, budgétaires, de ressources humaines et administratifs de la régie qui
+seront ensuite décidés au conseil de communauté. Les sujets traités sont très opérationnels et
+spécifiques, et portent parfois sur des situations individuelles d’usagers.
+
+
+
+                                                 19
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Le bureau du conseil d’exploitation se réunit tous les mois. En revanche, le conseil
+d’exploitation ne s’est réuni que trois fois en 2024 et une seule fois en 2025, alors qu’il doit se
+réunir au moins quatre fois par an selon l’article R. 2221-9 du CGCT. Lors de l’entretien de
+fin de contrôle, le président reconnaît que le bureau du conseil d’exploitation a joué un rôle
+important au détriment du conseil d’exploitation lui-même. Ce choix a été fait, selon le
+président de l’EPCI, pour des questions de fond, afin « d’asseoir administrativement le
+démarrage de la régie » grâce à une réunion mensuelle du bureau et de façon à prévenir le
+risque que le conseil d’exploitation ne joue un rôle de direction de la régie, mais aussi pour des
+questions de forme car il est plus simple de réunir le bureau que de mobiliser le conseil en
+entier.
+        L’article L. 5211-1 du CGCT transpose certaines dispositions applicables au
+fonctionnement du conseil municipal aux EPCI, en particulier l’article L. 2121-22 du CGCT
+sur la possibilité de créer des commissions chargées d’étudier les questions relatives au conseil.
+Ainsi, lors du renouvellement du conseil de communauté, des commissions de travail ont été
+créées dont une dénommée commission « cycle de l’eau ». Ces commissions interviennent en
+amont du conseil de communauté en formulant des propositions et des avis sur le
+fonctionnement de l’intercommunalité (finances, eau, et autres compétences de
+l’intercommunalité).
+        Le périmètre de compétence de la commission du cycle de l’eau inclut, comme son nom
+l’indique, l’ensemble du cycle de l’eau, depuis les eaux de pluie jusqu’à l’assainissement. Cette
+instance se réunit plusieurs fois par an notamment lors de la préparation du budget, ou lorsqu’il
+y a des décisions d’évolutions tarifaires à prendre ou des travaux importants à lancer. Elle se
+réunit parfois conjointement avec le conseil d’exploitation ou avec la commission des finances,
+lorsque les sujets s’y prêtent. Les sujets abordés sont préparés en amont avec les services de la
+régie qui assistent également aux réunions. Le président de l’intercommunalité y participe bien
+que la séance soit présidée par la vice-présidente en charge de l’eau.
+        La distinction de ces deux instances, conseil d’exploitation et commission du cycle de
+l’eau, n’est pas aisément perçue ni comprise par tout le monde, et mériterait d’être clarifiée afin
+de renforcer leur complémentarité.
+        La vice-présidente bénéficie d’une délégation de fonctions et de signature pour traiter
+les affaires du cycle de l’eau de façon large, en revanche sa délégation et subdélégation de
+signature sont restreintes à des documents administratifs courants (sans décision), à l’exécution
+des délibérations et à des réponses aux usagers. De plus, l’article 4 de cet arrêté de délégation
+prévoit que la vice-présidente doit informer le président de toute situation susceptible de générer
+un conflit d’intérêts, ce qui constitue une bonne pratique à souligner.
+        La chambre relève que les sujets relatifs à la qualité de l’eau, à l’autosurveillance et à la
+protection de la ressource en eau sont très peu abordés en conseil d’exploitation.
+        La chambre invite l’EPCI à clarifier les rôles respectifs de la commission du cycle de
+l’eau et de conseil d’exploitation dans le règlement intérieur qui sera renouvelé à la suite des
+dernières échéances électorales (article L. 2121-8 du CGCT et L. 5211-1).
+       Conformément à l’article R. 2221-8 du CGCT, les membres du conseil d’exploitation
+ne peuvent pas avoir de lien, intervenir ou faire partie d’une entreprise qui intervient en
+rapport avec la régie. Interrogé à ce sujet, l’EPCI estime qu’il n’y a pas de lien entre les élus
+siégeant au conseil d’exploitation et les entreprises intervenant pour les travaux de la régie
+mais reconnait n’avoir pas investigué ce sujet. Le directeur des services techniques a indiqué
+
+
+
+
+                                                 20
+                                          COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                          ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+que lors des commissions d’appel d’offres ou de marchés à procédure adaptée, il interroge les
+élus sur leurs éventuels liens avec les entreprises ayant répondu aux marchés. La chambre
+invite l’EPCI à s’assurer que les élus n’ont pas de liens avec les entreprises intervenant au
+sein de la régie.
+        En application de l’article R. 2221-4 du CGCT, l’article 9.1 des statuts de la régie
+prévoit que le conseil d’exploitation soit composé de 21 membres issus en partie du conseil
+communautaire et en partie de personnalités qualifiées (en ce sens, que ces personnes
+n’appartiennent pas au conseil municipal), sans préciser la répartition entre les deux. Après
+vérification, il apparaît qu’aucun membre du conseil d’exploitation ne participe au titre de
+personnalité qualifiée. Les 21 membres sont tous élus communautaires, à l’exception d’un seul
+qui est élu du conseil municipal de Gidy. La chambre invite l’EPCI à appliquer les dispositions
+relatives aux membres du conseil d’exploitation prévues par les statuts de la régie.
+
+
+ Recommandation n° 1. : Conformément à l’article R. 2221-9 du code général des
+ collectivités territoriales, réunir le conseil d’exploitation au moins une fois tous les trois
+ mois.
+
+
+1.3.2 Une régie qui répond aux besoins de la gestion de l’eau mais dont le directeur
+      n’a pas été formellement nommé
+
+        Avant le transfert de la compétence, l’EPCI a délibéré afin de créer les postes au sein de
+la régie. Elle devait être composée 9,4 ETP de droit privé (trois administratifs et 6,4 ETP sur la
+partie technique issus du SIAEP) et un agent mis à disposition par la commune de Chevilly).
+       Au 1er décembre 2025, la régie eau se compose de sept agents de droit privé dont les
+fonctions sont présentées dans l’organigramme n° 1 (cf. annexe n° 2). Ils sont placés sous la
+responsabilité du directeur des services techniques, qui est également directeur du service de
+l’eau.
+         Conformément aux articles L. 2221-14 et R. 2221-67 du CGCT, une régie doit être dotée
+d’un directeur qui ne soit pas rattaché au directeur général des services. Sa nomination par le
+président du conseil de communauté intervient après avis du conseil d’exploitation et
+approbation par délibération du conseil de communauté. Il relève du droit public contrairement
+aux agents de la régie qui sont nommés sur des emplois de droit privé14. La chambre relève que
+la fonction de directeur de la régie est assurée par le directeur des services techniques sans qu’il
+ait été formellement nommé directeur de la régie. L’établissement estime cette nomination non
+nécessaire.
+
+
+
+
+         14
+              Rep. Min. n° 37483, JO AN 22/06/2021 p. 5058. La réponse ministérielle n° 37483 publiée au journal officiel des
+AN le 22 juin 2021 précise que le poste de directeur de régie pour un SPIC ne relève pas du statut de la fonction publique
+territoriale et doit être occupé par un contractuel de droit public ou un fonctionnaire en détachement.
+
+
+
+
+                                                            21
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1.4 Un contrôle interne et un accompagnement des équipes à renforcer
+
+        Le contrôle interne peut être défini comme l’ensemble des dispositifs mis en place au
+sein d’une organisation pour maitriser le fonctionnement de son activité, c’est-à-dire s’assurer
+de la fiabilité des comptes, de la conformité aux lois et règlements, de l’application des
+instructions et des orientations fixées par les instances dirigeantes. S’appliquant au service de
+l’eau de la Beauce Loirétaine, la chambre a vérifié le niveau de contrôle interne exercé sur
+l’activité des équipes et la gestion du temps de travail.
+
+
+1.4.1 Un accompagnement et encadrement des équipes techniques à renforcer pour
+      une meilleure intégration
+
+        Dans le cadre du transfert de compétence et conformément aux articles L. 5211-4-1 du
+CGCT, L. 5212-33 du CGCT et L. 1224-1 du code du travail, les agents techniques de l’ancien
+syndicat Gidy-Cercottes-Huêtre ont été repris et transférés dans les conditions de statut et
+d’emploi qui étaient les leurs au syndicat. En procédant ainsi, l’EPCI a repris un accord collectif
+interne sans le formaliser dans un écrit. Par ailleurs, l’EPCI a adhéré à la convention collective
+nationale des entreprises des services d’eau et d’assainissement du 12 avril 2000 (articles
+L. 2211-1 et L. 2261-3 du code du travail (cf. infra).
+       De par ses statuts, la régie autonome eau potable est un service public industriel et
+commercial dont le personnel est soumis à un statut de droit privé. Actuellement, l’EPCI
+dispose d’un règlement des astreintes mais qui ne s’applique pas aux agents de la régie eau.
+L’EPCI indique que règlement sera révisé en 2026 pour les y intégrer.
+        Le changement de locaux techniques à Chevilly, à proximité de leurs collègues du
+service assainissement, est une occasion de mutualiser les ressources, de renforcer le sentiment
+d’appartenance à un collectif et d’améliorer le contrôle interne.
+
+
+1.4.2 Des informations manquantes dans certains contrats de travail
+
+       La rédaction des contrats de travail des agents de la régie de l’eau appelle certaines
+observations de la chambre.
+       En effet, la convention collective prévoit la mention obligatoire d’un certain nombre
+d’informations dans les contrats de travail, comme l’indication du nombre de jours de congés
+annuels, l’obligation de se soumettre à une visite médicale d’aptitude effectuée par la médecine
+du travail ainsi que le nom et l’adresse de la caisse de retraite complémentaire et de l’organisme
+de prévoyance. Or ces informations ne figurent pas dans les contrats des agents techniques.
+        Par ailleurs, les contrats de travail prévoient, en leur article 5, que « les agents peuvent
+être autorisés par l’autorité hiérarchique dont ils relèvent à exercer à titre accessoire une
+activité, lucrative ou non ». L’EPCI a inséré des clauses relatives au cumul d’activités relatives
+au statut de la fonction publique en accord avec le centre de gestion du Loiret. Plusieurs agents
+techniques ont oralement informé l’équipe encadrante qu’ils exerçaient des activités d’auto-
+entrepreneur. Toutefois la chambre constate qu’aucune autorisation formelle n'a été accordée
+par l’autorité hiérarchique aux agents concernés pour exercer une activité accessoire. La part
+
+
+
+
+                                                22
+                                    COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                    ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+de la rémunération que représenteraient ces activités n’est pas connue de l’équipe encadrante,
+ni les éventuels conflits d’intérêt qui en résulteraient.
+        La chambre invite la régie à intégrer dans les contrats de travail, les éléments manquants
+et exigés par la convention collective. Elle invite également la communauté de communes à
+mettre en place des outils de contrôle interne pour s’assurer que l’équipe technique soit en
+capacité de respecter les objectifs qui lui sont assignés et les règles internes comme celles
+relatives au cumul d’activités ou à l’usage personnel du matériel professionnel.
+
+
+1.4.3 Les interventions en régie de l’équipe technique, complétées par des
+      interventions sous-traitées
+
+       L’équipe assure la réalisation de travaux en régie comme les branchements et leur
+remplacement, la réparation des fuites sur le réseau et chez les particuliers et l’entretien des
+espaces verts autour des réservoirs. Elle intervient sur toutes les communes de l’EPCI, à
+l’exception des communes d’Artenay (délégation de service public), et de Saint-Sigismond et
+de Géminy (SIAEP de Huisseau-Géminy).
+        Quatre contrats de prestation de service ont été conclus avec les entreprises SAUR
+(Coinces/Patay), SOGEA (Forage de la Couarde) et SUEZ (Boulay-les-Barres, Bricy), ainsi
+qu’un marché de travaux sous forme d’accord-cadre à bon de commande « travaux de création,
+d’entretien et de réparation sur les réseaux et branchements d’eau potable et d’assainissement ».
+Ce marché de travaux a été signé en juillet 2024 pour une durée reconductible jusqu’à fin 2027
+et s’exécute au fur et à mesure des besoins, par l’émission de bons de commande, pour des
+besoins ou opérations estimés à moins de 500 000€HT. En 2024 et 2025, le montant des
+réalisations de ce marché s’est élevé à, respectivement, 142 000 € TTC et 146 000 € TTC en
+fonctionnement. Ce sont également les entreprises titulaires de ce marché qui ont réalisé deux
+des trois interconnexions (cf. infra).
+       Selon la communauté de communes, les équipes techniques ont réalisé 82 interventions
+durant l’année 2025, sur un total de 102 interventions, le reste ayant été effectué par des
+entreprises. Les interventions se répartissent entre quatre objets différents, comme le montre le
+graphique n° 1 ci-dessous :
+
+
+               Graphique n° 1 : Les interventions de l’équipe technique selon leur objet
+
+
+
+
+                                                                 Compteurs
+                                                                 Paragel
+                                                                 Fuite
+                                                                 Interventions diverses
+
+
+
+
+Source : CRC Centre-Val de Loire d’après le planning 2025 de l’équipe technique
+
+
+
+
+                                                    23
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+         Le changement des compteurs est pour l’équipe dirigeante du service une priorité qui,
+au-delà des interventions en urgence pour réparer des dysfonctionnements, a pour objectif de
+faciliter la relève de la consommation des abonnés et donc la facturation.
+
+
+
+1.5 Le contrôle de la délégation de service public d’Artenay à renforcer
+    pour une meilleure information financière
+
+
+1.5.1 Des objectifs de performance atteints mais des lacunes demeurent
+
+       La gestion de l’eau sur la commune d’Artenay est en délégation de service public en
+vertu d’un contrat de concession conclu avec la SAUR du 1er janvier 2021 jusqu’au
+31 décembre 2026. Il a été transféré à l’EPCI au 1er janvier 2024. Le délégataire gère le stockage
+(deux ouvrages de stockage d’une capacité de 700 m3) et la distribution de l’eau aux usagers
+(exploitation du réseau, travaux, facturation et relations à l’usager). L’eau est achetée par ce
+délégataire au forage de La Couarde, appartenant au groupement mais situé sur le territoire de
+la communauté de communes de la Forêt, et au forage de Chevilly. En contrepartie de cette
+exploitation, le délégataire se rémunère auprès des usagers par la vente de l’eau.
+        Trois objectifs principaux sont assignés au délégataire de service public. Le premier
+concerne la performance du réseau, avec l’objectif d’atteindre un taux de rendement de 85 %
+et un indice linéaire de pertes de 2,7 sur la durée du contrat. À ce titre, le délégataire doit réaliser
+au minimum 40 heures de recherche de fuite par an. Le second objectif concerne la qualité de
+l’eau avec le remplacement des branchements en plomb. À la date de la signature de la
+concession de service public, 25 branchements en plomb subsistent et devront être changés par
+le délégataire. Le troisième objectif est lié à la qualité du service rendu avec l’engagement du
+délégataire d’établir des devis pour des raccordements d’abonnés en moins de huit jours ouvrés
+et de réaliser des branchements en 15 jours.
+        Au regard du rapport annuel du délégataire, les objectifs de performance fixés par le
+contrat de concession sont atteints avec un taux de rendement du réseau qui passe de 85,5 % en
+2023 à 90 % en 2024 et un indice linéaire de pertes qui passe de 2,53 en 2023 à 1,45 en 2024,
+soit en-dessous du seuil fixé à 2,7 au contrat. En revanche, le délégataire ne mentionne aucun
+élément sur les travaux liés aux branchements en plomb. En vertu de l’article L. 2224-11-3 du
+CGCT, le délégataire doit rendre compte dans son rapport annuel, du programme prévisionnel
+de travaux annexé au contrat qui met à sa charge les renouvellements et les grosses réparations
+à caractère patrimonial. Le délégataire mentionne dans son rapport annuel 2024 l’avancement
+des travaux de renouvellement qui est bien conforme aux prévisions de renouvellement inscrites
+dans son contrat.
+
+
+1.5.2 Un contrôle de la délégation de service public à améliorer
+
+       Dans le cadre du suivi de l’exploitation quotidienne, le directeur des services techniques
+indique qu’il organise des réunions trimestrielles avec le délégataire pour connaître l’état
+d’avancement des travaux et s’assurer du bon déroulement de la délégation ainsi qu’une réunion
+
+
+
+
+                                                  24
+                                         COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                         ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+consacrée à la présentation du rapport annuel. Avec la vice-présidente en charge de l’eau, ils
+sont régulièrement en lien avec le délégataire pour limiter toute défaillance mais ils estiment se
+heurter à des difficultés de communication et d’anticipation du délégataire pour obtenir les
+plannings relatifs aux purges trimestrielles. Malgré les relances effectuées et les obligations du
+délégataire, le directeur des services techniques n’a pas obtenu la communication des travaux
+prévus pour le changement des branchements en plomb.
+       Face à ces manquements, l’article 13.2 du contrat de délégation de service public prévoit
+des pénalités financières lorsque le délégataire ne respecte pas ses engagements. L’EPCI a
+indiqué ne pas avoir appliqué de pénalités15 à la suite du non-respect des obligations du
+délégataire comme le renouvellement des branchements en plomb.
+       Aux termes de l’article L. 3131-5 du code de la commande publique, le délégataire doit
+produire et transmettre, avant le 30 juin, un rapport annuel pour rendre compte de sa gestion
+aux autorités concédantes afin qu’elles apprécient les conditions d’exécution du service public.
+En vertu de l’article L. 1411-3 du CGCT, ledit rapport doit être mis à l’ordre du jour dès la
+prochaine réunion de l’assemblée délibérante qui suit sa réception. Le délégataire a bien fourni
+le rapport annuel à l’EPCI, incluant le rapport sur le prix et la qualité du service. L’EPCI a
+délibéré en décembre 2025 sur le rapport sur le prix et la qualité du service (RPQS) de la
+délégation de service public. En revanche, il n’a pas délibéré pour prendre acte du rapport
+annuel du délégataire.
+       Le contrat de concession se termine fin 2026. L’EPCI n’a pas anticipé la fin du contrat
+au motif des élections et a indiqué que le contrat serait prolongé d’un an par un avenant.
+       L’EPCI admet la difficulté à obtenir des documents de la part du délégataire et concède
+ne pas suffisamment bien maîtriser son suivi.
+
+
+ Recommandation n° 2. : Porter le rapport annuel du délégataire à l’ordre du jour de la
+ séance du conseil de communauté la plus proche de sa réception conformément à l’article
+ L. 1411-3 du code général des collectivités territoriales.
+
+        L’ordonnateur indique à la chambre que les rapports 2024 et 2025 du délégataire doivent
+être présentés au conseil communautaire de septembre 2026.
+
+
+1.5.3 Des éléments de rémunération à mieux maîtriser pour en assurer un meilleur
+      suivi
+
+       Dans le cadre du contrat de concession, le versement de trois éléments de rémunération
+est prévu par le délégataire à la communauté de communes. Il s’agit d’une surtaxe16
+correspondant à la rémunération liée à la mise à disposition du patrimoine productif au
+
+
+
+
+         15
+             Exemple de pénalité liée au non-respect des engagements sur les branchements en plomb :
+350 €/engagement (page 70).
+         16
+            Il s’agit de la « surtaxe » stipulée à l’article 8.3 du contrat de concession sans que les parties au contrat
+aient nécessairement voulu lui donner le sens strict d'une imposition.
+
+
+
+
+                                                          25
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+délégataire ; d’une redevance pour occupation du domaine public ; et d’un partage des gains
+réalisés sur l’achat d’eau dès lors que le rendement est égal ou supérieur à 85 %17.
+        La redevance d’affermage qualifiée de « surtaxe » est calculée sur le prix de l’eau et
+payée par l’usager pour les investissements que le groupement doit réaliser18. Elle est fixée
+à 0,62 € HT/m3 en 2024 par l’établissement concédant et 0,63 € HT/m3 en 2025. À ce titre, la
+communauté de communes a perçu 122 694 € TTC sur les deux exercices en 2024-2025.
+Toutefois, dans le cadre du rapport annuel sur la DSP qui doit être présenté aux élus, des
+précisions devront être apportées sur le détail de ces versements de façon à donner aux élus une
+information claire et compréhensible.
+        Selon les termes du contrat de concession, cette redevance doit faire l’objet d’une
+facturation de la part du groupement. Interrogé à ce sujet, l’établissement indique qu’il ne
+procède pas de cette manière mais que le délégataire fait parvenir à la communauté de
+communes les éléments financiers justifiant cette redevance.
+        Par ailleurs, la comptabilité ne retrace pas le versement de la redevance d’occupation du
+domaine public19 2025 au titre de l’exercice 2024. L’établissement justifie cette absence par le
+fait d’avoir reçu tardivement des communes les conventions d’occupation du domaine public,
+après le transfert de compétences, et il précise que la régularisation a été effectuée en mai 2026.
+        Enfin, concernant l’élément de rémunération soumis à la performance, selon le rapport
+annuel 2024, le rendement primaire s’élevait à 90 % en 2024 ce qui correspond à une nette
+progression par rapport à sa valeur de 2021 (71 %). Cette performance étant supérieure à 85 %,
+elle devrait se traduire financièrement par l’ouverture du droit au versement de la rémunération
+prévue à l’article 12.6 du contrat de concession. Avec les informations disponibles, et malgré
+les demandes adressées à la communauté de communes et les recherches dans la comptabilité,
+la chambre n’a pas pu constater de versements effectués à ce titre.
+        Le document financier du délégataire, intégré au rapport annuel et intitulé « compte
+annuel de résultat de l’exploitation (CARE) », comprend une ligne de charges nommée
+« collectivités et autres organismes publics » qui affiche un montant de 86 000 € en 2023 et de
+70 300 € en 2024 pour le sous-total « collectivité », sans autre précision. Ce montant ne
+correspond pas à ce qui est enregistré dans la comptabilité de l’EPCI (cf. supra).
+        Les informations financières mises à la disposition de l’EPCI ne lui permettent pas
+d’avoir une idée claire du montant annuel qui lui est versé par le délégataire au titre des trois
+éléments de rémunération précités. Ces informations, destinées aux élus communautaires,
+devraient être davantage accessibles et compréhensibles. La chambre invite l’EPCI, en lien avec
+le délégataire, à améliorer la qualité de l’information financière destinée aux élus notamment
+pour ce qui concerne les contributions versées à l’EPCI.
+
+
+
+
+       17
+          Article 12.6 du contrat de concession.
+       18
+          Article 8.3 page 53 du contrat de concession.
+       19
+          Article 10.3 du contrat page 58.
+
+
+
+
+                                                     26
+                                 COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                 ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+1.6 Un patrimoine productif souvent vétuste, désormais bien connu, qui
+    nécessite de l’entretien, parfois en urgence, et du contrôle
+
+        Comme sur l’ensemble du territoire de la Beauce, l’intégralité de l’eau potable produite
+sur le territoire provient du sous-sol. Pour produire de l’eau potable, l’EPCI dispose de 11
+forages en activité sur son territoire. L’eau distribuée aux abonnés de l’intercommunalité
+provient également de six autres forages situés sur d’autres territoires. Le réseau est constitué
+de 380 kilomètres de canalisation, de 22 réservoirs et de quatre usines de traitement. Avec le
+transfert de compétence, la communauté de communes a hérité d’un patrimoine important, en
+partie très dégradé, à l’image du patrimoine de la Chapelle-Onzerain (cf. annexe n° 3), mais
+surtout très mal connu. À titre d’exemple, cette méconnaissance du réseau était telle que le
+service technique a dû creuser le sol d’une place publique à trois endroits différents avant de
+trouver l’emplacement exact de la canalisation défectueuse qui nécessitait une intervention en
+urgence, car les plans ne correspondaient pas à la réalité de l’implantation. L’étude patrimoniale
+précitée a mis fin à cette situation. Un système d’information géographique est désormais
+disponible.
+
+
+1.6.1 Des forages sans autorisation d’exploiter
+
+
+                     Les obligations en matière de fermeture de forage
+   (Arrêté du 11 septembre 2003 portant application du décret n° 96-102 du 2 février 1996)
+Le principe général de la gestion d’un forage consiste à se prémunir de tout risque de pollution,
+par le choix de la localisation et par l’évitement de la migration de la pollution entre les
+différents niveaux aquifères et entre la surface et le sous-sol.
+Une inspection au minimum tous les dix ans est requise en vue de vérifier l’étanchéité de
+l’installation concernée et l’absence de communication entre les eaux prélevées et les eaux de
+surface ou d’autres couches aquifères.
+Tout forage abandonné doit être comblé afin notamment de garantir l’absence de circulation
+d’eau entre les différentes couches souterraines.
+Un captage qui n’est pas plus exploité par l’autorité compétente en matière de production d’eau
+potable retourne à son propriétaire initial, la commune.
+
+        La première exigence relative à l’exploitation d’une ressource naturelle consiste en
+l’autorisation administrative délivrée par la préfecture sous forme d’arrêté de déclaration
+d’utilité publique (DUP). En la matière, plusieurs carences sont constatées. Selon le PLUi,
+datant de mars 2021, cinq des onze forages du territoire en activité ne disposent pas de DUP
+(Chevilly, Bucy-le-Roi, La Chapelle-Onzerain, Villeneuve-sur-Conie et Trinay). En février
+2022 un arrêté de DUP a été pris pour le captage situé sur la commune de Chevilly, réduisant
+de ce fait à quatre le nombre de forages sans DUP au 31 décembre 2025.
+       Trois de ces quatre forages sans DUP ont, très récemment, cessé d’être exploités du fait
+de non-conformités récurrentes de la qualité de l’eau et des interconnexions réalisées
+(La Chapelle-Onzerain, Villeneuve-sur-Conie et Trinay). Les procès-verbaux de mise à
+disposition des biens communaux à la communauté de communes précisent bien, en leur
+
+
+
+                                               27
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+article 5, que si un bien est désaffecté, la commune qui l’a mis à disposition recouvre l’ensemble
+de ses droits et obligations. Il appartient, dès lors, à la communauté de communes de s’entendre
+avec les communes concernées sur le devenir, encore incertain, de ces forages désaffectés. Si
+ces forages cessent toute activité, la personne publique qui en est responsable devra respecter
+les obligations en matière de comblement. Si ces forages sont maintenus en activité à un titre
+ou un autre (piézomètre, secours incendie, etc.) alors leur régularisation administrative
+s’avèrera nécessaire. La chambre invite l’EPCI à clarifier le devenir de ces installations et à le
+formaliser juridiquement.
+        En conclusion, seul le forage de Bucy-le-Roi demeure en activité et sans autorisation
+administrative. Le coût de la procédure administrative pour l’EPCI peut être évalué à 30 000 €
+sur la base de l’estimation produite par le schéma départemental d’alimentation en eau potable
+du Loiret. L’ordonnateur indique toutefois étudier la possibilité de réaliser une interconnexion
+qui lui permettrait de ne plus utiliser ce forage dont les analyses présentent des non-conformités
+à la réglementation relatives à la consommation d’eau potable20.
+       La communauté de communes compte en outre, 14 captages abandonnés selon la
+première version de l’étude patrimoniale Phase 1 mais ces informations ne sont confirmées ni
+par la seconde étude, ni par les services techniques intercommunaux. En 2019, sur ces
+14 captages abandonnés, un seul était comblé conformément à la règlementation. Le schéma
+départemental d’alimentation en eau potable précité estime le coût d’un comblement à 40 000 €
+pour les forages ayant une profondeur supérieure à 50 mètres.
+        Le degré de protection de la ressource par la collectivité responsable d’un service d’eau
+potable est mesuré, au niveau national, par l’indicateur P108.3. Cet indicateur reflète le degré
+de mise en œuvre de la procédure prévue à l’article R1321-6 et suivants du code de la santé
+publique qui comprend notamment la déclaration d’utilité publique. Alors qu’au niveau
+national, ce taux atteint 78,6 % en 2026, il n’est que de 65 % au niveau intercommunal, ce qui
+témoigne d’importantes lacunes héritées de la gestion passée. Il appartient au gestionnaire
+actuel de prendre les mesures administratives destinées à protéger la ressource en eau.
+
+
+ Recommandation n° 3. : Solliciter sans délai et conformément aux articles R. 1321-6 et
+ suivants du code de la santé publique une autorisation d’exploiter auprès de l’État pour
+ le forage de Bucy-le-Roi.
+
+
+1.6.2 Un réseau de canalisations ancien
+
+       Le réseau de distribution compte 371 km selon l’étude patrimoniale de mars 2023.
+Comme le montre le graphique n° 2, plus de la moitié des canalisations ont été installées au
+début des années 1960. Or la durée d’amortissement d’une canalisation est de 60 ans. Par
+conséquent, 50 % des canalisations devront être renouvelés dans un avenir proche. Dans le plan
+pluriannuel d’investissement, un montant de 850 000 € annuel est inscrit pour le
+renouvellement du patrimoine mais ce montant peine à trouver une traduction en autorisation
+budgétaire comme cela sera analysé dans la dernière partie.
+
+
+
+       20
+            Non-conformité au chloridazone methy-desphenyl et au perchlorate.
+
+
+
+
+                                                     28
+                                      COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                      ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+        Concernant la qualité de ce réseau, environ 40 % des canalisations utilisent du
+polychlorure de vinyle qui est susceptible de générer des émissions de gaz appelés chlorure de
+vinyle monomère (CVM) et de contaminer ainsi l’eau potable distribuée. Le risque de
+contamination est lié à l’ancienneté du matériau utilisé (avant 1980) mais aussi au volume d’eau
+distribué (plus il y a de flux moins le CVM est susceptible de se propager), ainsi qu’à la
+température (plus il fait chaud, plus le risque de contamination est élevé). Les fins de réseau
+desservant peu d’abonnés sont donc potentiellement à risque. Le CVM a été classé substance
+cancérogène en 1987 par le Centre international de recherche sur le cancer et le seuil de
+potabilité a été fixé à 0,5 μg/L par arrêté ministériel. L’étude patrimoniale conclut que huit
+secteurs, correspondant à 16 % des 380 km de réseau, présentent des risques liés au CVM (soit
+environ 60 km) et, grâce au système d’information géographique, une carte précise des points
+sensibles a pu être établie.
+       Le plan pluriannuel d’investissement adopté par l’EPCI prévoit d’effectuer des analyses
+de conformité CVM chaque année et pendant dix ans. Un montant de 6 000 € a été inscrit au
+plan pluriannuel d’investissement (PPI) à cette fin en priorité.
+
+
+                      Graphique n° 2 : Répartition des canalisations selon leur âge
+
+
+
+
+Source : Étude patrimoniale mars 2023
+Lecture :
+- la courbe orange indique l’évolution de la construction du réseau dans le temps, exprimé en pourcentage sur
+(échelle de droite). En 1963, la moitié (50%) du réseau était construit.
+- les barres bleues indiquent le nombre de kilomètres linéaires construit chaque année (échelle de gauche). En
+2005, 23 km de linéaires de canalisation ont été construits.
+
+
+
+
+                                                      29
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+1.6.3 Des interventions en urgence pour assurer la sécurité des réservoirs
+
+        La communauté de communes de la Beauce Loirétaine dispose de 22 réservoirs répartis
+en 17 tours (communément appelés « château d’eau ») et cinq réservoirs semi-enterrés. 10 des
+17 châteaux d’eau datent de la première moitié du 20e siècle, dont la moitié d’avant la première
+guerre mondiale, comme en témoigne l’architecture caractéristique du style art déco. De façon
+prévisible, ces équipements sont vieillissants. Neuf des 17 châteaux d’eau présentent un état
+jugé mauvais sur au moins deux des huit critères pris en compte par l’étude patrimoniale. Cinq
+des 17 châteaux d’eau n’étaient pas pourvus ni d’instrument de mesure du niveau d’eau, ni
+d’outil de télégestion permettant de gérer l’installation à distance. Cette lacune a été comblée
+par le service de l’eau de la communauté de communes, dès la première année de prise de
+compétence. Ce service exerce un contrôle assez sommaire de ces équipements qu’il consigne
+dans un tableau de suivi.
+        Au terme de l’étude patrimoniale, l’état de certains réservoirs était jugé préoccupant en
+termes de sécurité, alors même que tous les problèmes n’avaient pas pu être décelés estime
+l’ordonnateur qui rappelle que certains réservoirs étaient entretenus directement par les élus. La
+communauté de communes a lancé une consultation sous forme de procédure adaptée21 en
+février 2025 pour effectuer les travaux de sécurité les plus impérieux sur les châteaux d’eau
+(installation de garde-corps, échelles…). Quatre entreprises ont répondu avec un niveau correct
+de technicité pour des prix allant de 275 706 € TTC à 512 157 € TTC. La chambre souligne la
+clarté et la pertinence des documents du marché réalisé par l’EPCI, à l’image du cadre de
+mémoire technique qui obligeait les candidats à synthétiser les principaux éléments de leur offre
+en fonction des critères de jugement et qui est devenu une pièce contractuelle.
+
+
+                 Tableau n° 4 : Opération de sécurisation des réservoirs (châteaux d’eau)
+
+ En euros (TTC)                                                                     Montant réalisé
+
+ Marché de sécurisation après négociation                                                        248 710,48
+
+ Devis plâtrier-plaquiste                                                                         31 792,64
+
+ Devis de l’électricien (anti-intrusion)                                                          57 839,90
+
+ Montant total                                                                                   338 343,02
+
+Source : CRC Centre-Val de Loire d’après les données de la communauté de communes
+
+
+
+1.6.4 Le rendement des réseaux d’adduction et de distribution22
+
+       L’établissement a produit, en régie, 1 158 393 m3 d’eau potable en 2024 selon le rapport
+sur le prix et la qualité du service 2024, dont 151 668 m3 ont été exportés. Reste donc
+1 086 749 m3 mis en distribution et 890 755 m3 consommés par ses 6 355 abonnés au
+
+        21
+            Articles L. 2123-3 et R. 2123-1 du code de la commande publique.
+        22
+            L’adduction désigne le transport de l’eau depuis le forage jusqu’au château d’eau. La distribution
+désigne le transport de l’eau depuis le château d’eau jusqu’à l’abonné.
+
+
+
+
+                                                     30
+                                       COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                       ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+31 décembre 2024. Sachant que le réseau compte 380 km de canalisations début 2026, le taux
+d’indice linéaire de perte, pour l’ensemble du réseau, est donc de 1,41 m3/j/km. Selon la grille
+d’appréciation de l’agence de l’eau (annexe n° 4), ce résultat est bon mais il ne doit pas masquer
+des réalités locales plus contrastées. En considérant les données de la consommation moyenne
+annuelle des années 2015 à 2019, sur les 27 secteurs de distribution, neuf sont jugés médiocres
+ou mauvais selon l’étude patrimoniale, et pour les 14 unités de distribution23, il est constaté un
+rendement inférieur à 80 % pour neuf d’entre elles24. La récente prise de compétence ne permet
+pas d’apprécier l’évolution de ces deux indicateurs (rendement et indice linéaire de perte) dans
+le temps et selon les secteurs de distribution.
+
+                                 La mesure des performances
+L’agence de l’eau utilise un indice linéaire de perte (ILP) et un indice linéaire de consommation
+(ILC) dont les valeurs sont appréciées en fonction des types de territoires urbains ou rurales
+selon le tableau présenté dans l’annexe n° 4.
+                    𝑉𝑜𝑙𝑢𝑚𝑒 𝑝𝑟𝑜𝑑𝑢𝑖𝑡 + 𝑉𝑜𝑙𝑢𝑚𝑒 𝑣𝑒𝑛𝑑𝑢
+Rendement = 𝑉𝑜𝑙𝑢𝑚𝑒 𝑐𝑜𝑛𝑠𝑜𝑚𝑚é + 𝑉𝑜𝑙𝑢𝑚𝑒 𝑎𝑐ℎ𝑒𝑡é ∗ 100
+
+                      𝑉𝑜𝑙𝑢𝑚𝑒 𝑑𝑖𝑠𝑡𝑟𝑖𝑏𝑢é −𝑣𝑜𝑙𝑢𝑚𝑒 𝑐𝑜𝑛𝑠𝑜𝑚𝑚é
+ILP (m3/j/km) =              365∗𝐿𝑜𝑛𝑔𝑢𝑒𝑢𝑟 𝑑𝑢 𝑟é𝑠𝑒𝑎𝑢
+
+                         𝑉𝑜𝑙𝑢𝑚𝑒 𝑐𝑜𝑛𝑠𝑜𝑚𝑚é
+ILC (m3/j/km) = 365∗𝐿𝑜𝑛𝑔𝑢𝑒𝑢𝑟 𝑑𝑢 𝑟é𝑠𝑒𝑎𝑢
+                                                      ***
+La mesure de la performance s’effectue sur le réseau d’adduction et sur le réseau de distribution.
+
+
+  Tableau n° 5 : Résultats de l’indice linéaire de perte pour les 27 secteurs de distribution en régie
+                                     (base : consommation 2017)
+
+                     Classification du réseau                                     Distribution
+
+ Bon                                                                                15
+
+ Acceptable                                                                          2
+
+ Médiocre                                                                            4
+
+ Mauvais                                                                             3
+
+Source : CRC Centre-Val de Loire à partir des données de l’étude patrimoniale SAFEGE mars 2023
+
+
+        Selon le premier volet de l’étude patrimoniale de 2022, pour neuf autorités
+organisatrices sur 19, faute de données disponibles pour l’année 2021, un indice linéaire de
+perte n’est pas calculable. Pour les dix autres communes ou syndicats, les valeurs oscillent entre
+0,2 et 1,8, soit des valeurs bonnes ou acceptables.
+
+
+
+        23
+             Cf. tableau n° 3 de l’étude patrimoniale.
+        24
+             À titre de comparaison, le rendement moyen en France au 1er janvier 2024 est de 82,4 %.
+
+
+
+
+                                                        31
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       Grâce à une préparation anticipée, le transfert de compétence a permis une réelle
+amélioration de la connaissance du réseau d’eau potable mais aussi de son rendement. La
+gestion est désormais cohérente sur l’ensemble du service de l’eau, depuis la production
+jusqu’à la distribution. La vétusté du patrimoine nécessite cependant des efforts financiers
+importants, une solide gouvernance et un contrôle interne renforcé au regard des enjeux relatifs
+à la qualité de l’eau.
+
+
+
+
+                                              32
+                                  COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                  ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+2 LA QUALITÉ DE L’EAU POTABLE, SOUVENT
+  INSATISFAISANTE, DEMEURE UN ENJEU SOUS-ESTIMÉ
+
+
+2.1 Une ressource d’eau brute très exposée à la pollution diffuse
+
+       D’un point de vue géologique, la ressource prélevée pour produire de l’eau potable
+provient de quatre aquifères différentes (calcaire d’Étampes, calcaires de Beauce, craie du
+sénonien et calcaire de Pithiviers).
+        Sur les treize points d’approvisionnement en eau potable qui étaient en activité au
+moment de la prise de compétence, sept présentent des problématiques de qualité, ponctuelles
+ou récurrentes, qu’il s’agisse de l’excès de nitrate, de pesticides, ou d’autres substances comme
+le sélénium ou les perchlorates, selon l’étude patrimoniale.
+         Plusieurs sources permettent d’estimer l’exposition de la ressource brute à la pollution
+diffuse. En 2022, le schéma directeur d’aménagement et de gestion des eaux (SDAGE) du
+bassin Loire-Bretagne a classé 33 captages du département du Loiret comme étant « sensibles »
+(pour la définition retenue cf. la note de bas de page n° 25) dont cinq sont situés sur le territoire
+de la Beauce Loirétaine (cf. tableau n° 6). Par ailleurs, depuis la conférence environnementale
+de 2013, l’État qualifie de « prioritaires » certains captages sensibles. Cette qualification
+implique la mise en place d’une démarche concertée avec toutes les parties prenantes, à
+l’échelle de l’aire d’alimentation du captage, pour élaborer un plan d’action. Bien que n’ayant
+pas, sur son territoire, de captage ayant reçu cette qualification de prioritaire, l’EPCI est
+néanmoins concerné à deux titres par cette catégorie. D’une part, il achète de l’eau à deux
+captages dits prioritaires (Ormes, sur le territoire de la métropole d’Orléans et Terminiers, sur
+le territoire de la communauté de communes Cœur de Beauce), et d’autre part, huit communes
+de la Beauce Loirétaine sont situées, en tout ou partie, sur l’aire d’alimentation du captage
+prioritaire de la commune d’Ormes, selon l’arrêté préfectoral du 22 décembre 2023. Enfin, les
+trois territoires qui font l’objet d’une procédure contentieuse au niveau européen (cf. partie 2.3)
+peuvent légitimement être considérés comme exposés à la pollution diffuse. En tenant compte
+de l’ensemble de ces déterminants, il apparaît que seuls quatre forages intercommunaux ne sont
+pas exposés à la pollution (Bucy-le-Roi, Moulin Brulé, les Coulinières et la Couarde), comme
+le montrent les tableaux n° 6 et 7 ci-dessous.
+
+
+
+
+                                                 33
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                    Tableau n° 6 : Évaluation de l’exposition de la ressource à la pollution diffuse
+
+                                                                                                                Territoir   UDI visées    Captages
+                                                                                 Vulnérabilité
+                                               Communes                                           Captages      es situés      par le     sensibles
+                                                                    Forage        selon étude
+                                               desservies                                        prioritaires   sur une     contentieux    selon le
+                                                                                 patrimoniale
+                                                                                                                 AAC         européen     SDAGE25
+                                               LA CHAPELLE-    LA CHAPELLE-
+                                                                                       1                                        X
+                                               ONZERAIN        ONZERAIN
+                                               BUCY-LE-ROI     BUCY-LE-ROI          Inconnu
+                                               GIDY,
+                                                               CUNEAUX et
+                                               CERCOTTES,                              3                           X                         X
+                                                               ÉPINETTE
+                                               HUÊTRE
+                                               VILLENEUVE-     VILLENEUVE-
+                                                                                    Inconnu                                     X
+                                               SUR- CONIE      SUR-CONIE
+                                               CHEVILLY        CHEVILLY                2                                                     X
+                                                               SAINT-
+                                               SAINT-PÉRAVY
+                                                               PÉRAVY LA               3                           X                         X
+                                               LA COLOMBE
+                                                               COLOMBE
+                                               TRINAY          TRINAY                  2                                        X            X
+                                               BOULAY LES
+                                               BARRES          MOULIN
+                                                                                       2                           X
+                                                               BRÛLÉ
+                                               BRICY
+                                               PATAY et        LES
+                                                                                       1                           X
+                                               COINCES         COULINIÈRES
+                                                               ATRAPS
+                                               CHAUSSY         NOUVEAU                 1
+
+
+
+
+  Hors du territoire de la Beauce Loirétaine
+                                                               FORAGE
+                                               BUCY-SAINT-
+                                                               ORMES                Inconnu           X            X
+                                               LIPHARD
+                                                               LES GROSSES
+                                               PÉRONVILLE                              1
+                                                               BORNES
+                                               TERMINIERS      LA PERRIÈRE             3              X            X
+                                               HUISSEAU SUR    HUISSEAU SUR
+                                                                                       2
+                                               MAUVES          MAUVES
+                                               SAINT-LYÉ LA
+                                                               LA COUARDE              1
+                                               FORÊT
+                                                               LES GROSSES
+                                               VILLAMBLAIN                             1
+                                                               BORNES
+
+Source : CRC Centre-Val de Loire à partir des données de l’étude patrimoniale de 2019 (phase 1)
+Note : Le captage de La Couarde appartient bien à l’EPCI de la Beauce Loirétaine mais il est situé sur la
+communauté de communes de la Forêt ce qui réduit la capacité de l’EPCI à agir sur l’environnement.
+Légende : 1 = peu vulnérable ; 2 = vulnérable ; 3 = très vulnérable.
+
+
+
+
+            25
+               Les points de prélèvements destinés à la consommation humaine sont identifiés comme sensibles aux pollutions
+diffuses lorsqu’ils remplissent les critères suivants :
+- nitrates : percentile 90 supérieurs à 40 mg/L sur la période 2013-2019 ;
+- pesticides : moyenne inter-annuelle des moyennes annuelles supérieure à 0,8 μg/L ou 0,4 μg/L pour la somme des pesticides.
+
+
+
+
+                                                                                           34
+                                     COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                     ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+                        Tableau n° 7 : L’eau brute exposée à la pollution diffuse
+
+                                                                                         % de l’eau
+                                                                             Nombre
+                                                                                        consommée
+ Forages totaux en activité au 29 février 2026                                  13       100 %
+ Forages totaux exposés à la pollution diffuse
+                                                                                8        52,5 %
+ selon le SDAGE, le contentieux européen et le grenelle de l’environnement
+ Forages intercommunaux exposés à la pollution diffuse
+                                                                                3         49 %
+ (Chevilly, Cercottes, Saint-Péravy-la-Colombe)
+ Forages non exposés à la pollution diffuse                                     5        47,5 %
+
+Source : CRC Centre-Val de Loire
+
+
+       Bien que le forage de Bucy-le-Roi ne réponde à aucun des quatre indicateurs retenus
+dans le tableau n° 6, les données issues des prélèvements d’eau souterraine de ce captage
+montrent une augmentation continue des taux de nitrate dans l’eau brute depuis 2012, après une
+décennie de stabilité. Il apparaît que depuis une dizaine d’années les taux sont toujours
+supérieurs à 30 mg/L et dépassent 35 mg/L à partir de 2021, alors qu’ils étaient compris entre
+25 et 30 mg/L durant les 30 dernières années.
+       Trois autres captages présents sur le territoire et exposés à la pollution diffuse méritent
+une attention particulière. Il s’agit du forage de Saint-Péravy-la-Colombe qui alimente les
+abonnés de la Chapelle-Onzerain, ainsi que des forages de Cercottes et de Chevilly.
+
+
+ Graphique n° 3 : Évolution des taux de nitrates et de pesticides de 1991 à 2024 dans les eaux brutes
+                              du forage de Saint-Péravy-la-Colombe
+
+
+
+
+Source : ADES, https://ades.eaufrance.fr/
+
+
+       Le taux de nitrates à Saint-Péravy-la-Colombe suit la même tendance qu’à Bucy-le-Roi
+avec toutefois une croissance plus marquée encore de la concentration en nitrates dont la valeur
+a doublé en 16 ans, passant de 15 mg/L en 2008 à plus de 30 mg/L en 2024. Si le rythme de
+croissance des cinq dernières années se poursuit, alors dans cinq ans le taux de nitrates
+dépassera les seuils règlementaires de l’eau distribuée. Concernant les pesticides, le taux est
+multiplié par 3,5 entre 2012 et 2024.
+
+
+
+
+                                                     35
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Concernant Cercottes, la courbe du taux de nitrates montre une croissance lente mais
+constante qui conduit à un dépassement des seuils de conformité aux nitrates depuis une dizaine
+d’années. Les valeurs de pesticides, bien que modestes, sont en hausse.
+       Concernant enfin Chevilly, la même tendance haussière est constatée, avec des écarts
+de valeurs erratiques ces dernières années liés aux substances recherchées. Toutefois les
+analyses issues de l’autosurveillance du service de l’eau ne montrent aucune non-conformité en
+2024 et 2025.
+        En conclusion, en considérant les qualifications appliquées par le SDAGE, le
+contentieux européen et le grenelle de l’environnement, 52,5 % de l’eau consommée est issue
+de forages exposés à la pollution diffuse (cf. tableau n° 7). Cette exposition, associée à la vétusté
+du patrimoine, constitue une vulnérabilité importante susceptible de fragiliser
+l’intercommunalité d’un point de vue financier mais aussi du fait de la mobilisation des équipes
+sur les mesures curatives, à l’exemple du contentieux européen.
+
+
+
+2.2 La qualité dégradée de l’eau distribuée invite à renforcer le système
+    d’autosurveillance
+
+
+2.2.1 De nombreuses non-conformités sont constatées
+
+       S’agissant de l’eau distribuée, sa qualité est très dégradée, notamment en comparaison
+à la moyenne observée en France comme le montre le tableau n° 8 ci-dessous. Sur les
+117 prélèvements réalisés en 2024 par l’agence régionale de santé, sur les paramètres physico-
+chimiques, 40 se révèlent non-conformes selon le rapport sur les prix et la qualité du service de
+l’eau 2024, soit un taux de conformité de 30 points inférieur à la moyenne nationale. Pour les
+paramètres microbiologiques, le taux intercommunal est de 17 points inférieur à la moyenne
+nationale et 25 prélèvements, sur les 132 réalisés, ne sont pas conformes à la réglementation.
+
+
+                    Tableau n° 8 : Qualité de l’eau distribuée par la régie en 2024
+
+                                                                 Beauce Loirétaine      France
+
+ Taux de conformité des prélèvements microbiologiques                  81,1 %            98 %
+
+ Taux de conformité des prélèvements physico-chimiques                 65,8 %           95,4 %
+
+Source : RPQS 2024 de l’EPCI Beauce Loirétaine ; SISPEA pour les données France
+
+
+        Concernant le territoire d’Artenay géré en délégation de service public, le rapport des
+prix et de la qualité de service n’indique aucune non-conformité et donc un taux de conformité
+de 100 %.
+
+
+
+
+                                                   36
+                                     COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                     ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+       L’observation des résultats des prélèvements réalisés sur l’eau distribuée des quatre
+communes examinées précédemment pour leur eau brute donne les résultats exposés au
+tableau n° 9.
+
+
+                        Tableau n° 9 : Échantillon d’analyses de l’eau distribuée
+
+                                                                      Nombre de prélèvements totaux
+                                                                        2024                   2025
+ Cercottes                                                               24                      17
+                                                                          0                      6
+ dont prélèvements physico-chimiques non-conformes
+                                                                        0%                     35 %
+ Chevilly                                                                34                      21
+                                                                          0                      3
+ dont prélèvements physico-chimiques non-conformes
+                                                                        0%                     14 %
+ Saint-Péravy-la-Colombe                                                 23                      20
+                                                                          9                      7
+ dont prélèvements physico-chimiques non-conformes
+                                                                        39 %                   35 %
+ Bucy-le-Roi                                                             48                      15
+                                                                          0                      5
+ dont prélèvements physico-chimiques non-conformes
+                                                                        0%                     33 %
+
+Source : CRC Centre-Val de Loire, à partir des données issues du tableau de suivi des analyses 2024 et 2025 de
+l’EPCI
+
+
+       L’année 2025 se caractérise par une augmentation significative du nombre de non-
+conformités, avec une moyenne de 29 % sur l’échantillon, en même temps qu’elle enregistre
+une baisse de nombre de prélèvements qui passent de 129 à 73.
+
+
+2.2.2 Une réduction du contrôle qualité et des incohérences restent inexpliquées
+
+         Depuis sa prise de compétence en 2024 et au titre de l’autosurveillance telle qu’elle est
+prévue par l’article R. 1321-23 du code de la santé publique, le service de l’eau tient à jour un
+tableau qui recense l’ensemble des prélèvements effectués et analysés par le laboratoire CARSO
+et par l’ARS au cours de l’année. En 2024, 367 prélèvements ont été réalisés dans le cadre de cet
+autocontrôle, dont 167 par l’ARS et 197 par le laboratoire CARSO au nom de l’EPCI. En 2025,
+le nombre de prélèvements total a été réduit à 222 prélèvements, cette diminution étant
+principalement imputable à l’ARS Centre-Val de Loire qui a divisé par deux le nombre de ses
+analyses avec 81 prélèvements, dont 141 prélèvements réalisés par le laboratoire CARSO.
+       Les taux de conformité issus de ces données apparaissent bien meilleurs que ceux issues
+des seules données de l’ARS (cf. tableau n° 10 ci-dessous) :
+
+
+
+
+                                                      37
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                              Tableau n° 10 : Taux de conformité comparés
+
+                                                               Selon les données      Selon les données de
+                                                                   du RPQS             l’autosurveillance
+ Taux de conformité des prélèvements microbiologiques                 81,1 %                 87,7 %
+ Taux de conformité des prélèvements physico-chimiques                65,8 %                 85,5 %
+
+Source : RPQS et communauté de communes de la Beauce Loirétaine
+
+
+       Par ailleurs, les données fournies présentent des incohérences inexpliquées. Pour une
+même commune, des prélèvements effectués un même jour peuvent apparaitre conformes pour
+le laboratoire CARSO mais non-conformes pour l’ARS sans que l’on sache sur quels
+paramètres, ni quelles conclusions en sont tirées, comme le montre le tableau n° 11 ci-dessous
+concernant l’unité de distribution Gidy-Cercottes-Huêtre.
+
+
+                     Tableau n° 11 : Analyse du tableau de suivi des prélèvements
+
+                                                                               Commune mentionnée dans
+ Date                   Valeur ARS                Valeur CARSO
+                                                                                  le fichier de la CC
+
+ 17 janvier 2024        Non-conforme                 Conforme                           Cercottes
+
+ 30 août 2024           Non-conforme                 Conforme                              Gidy
+
+ 10 septembre 2024      Non-conforme         Conforme et non-conforme                      Gidy
+
+ 9 octobre 2024         Non-conforme         Conforme et non-conforme                   Cercottes
+
+ 15 octobre 2024        Non-conforme                 Conforme                           Cercottes
+
+ 13 janvier 2025        Non-conforme                 Conforme                           Cercottes
+
+ 22 avril 2025          Non-conforme                 Conforme                              Gidy
+
+ 9 septembre 2025       Non-conforme                 Conforme                           Cercottes
+
+ 6 novembre 2025        Non-conforme                 Conforme                           Cercottes
+
+ 7 novembre 2025        Non-conforme                 Conforme                           Cercottes
+
+Source : CRC Centre-Val de Loire à partir du fichier « Suivi_analyse_2024 et 2025 » transmis par la communauté
+de communes de la Beauce Loirétaine
+
+
+
+2.2.3 Une autosurveillance de la qualité de l’eau à harmoniser
+
+       Le contrôle de la qualité de l’eau est une opération conjointe de l’ARS et de la personne
+responsable de la production d’eau, comme l’indique l’ARS dans sa documentation. Une
+coordination est donc nécessaire entre les prélèvements effectués par les deux entités en charge
+de la surveillance, sachant que ces deux contrôles contribuent aux mêmes objectifs. L’ARS
+déclare que son programme de contrôle sanitaire est transmis « sur demande ». La communauté
+de communes, ne le sachant pas, indique ne l’avoir jamais demandé.
+
+
+
+
+                                                     38
+                                         COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                         ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+         Ces prélèvements et ces analyses n’ont pas pour seuls objectifs de mesurer le respect
+des seuils règlementaires de potabilité. Ils visent à mettre en œuvre une « surveillance
+permanente afin de garantir la qualité des eaux destinées à la consommation humaine » selon
+l’article R. 1321-23 du code de la santé publique. Or les prélèvements effectués et restitués dans
+le fichier de suivi du service de l’eau ne s’intègrent pas dans une démarche programmatique ni
+ne font l’objet d’aucune analyse, ni en amont du côté de l’eau brute, ni en aval du côté de l’eau
+distribuée. Compte-tenu des non-conformités récurrentes que rencontre ce territoire, la chambre
+invite la communauté de communes à mettre en place une surveillance permanente renforcée
+de la qualité de l’eau pour suivre l’évolution des taux de nitrates et de pesticides dans les eaux
+brutes et les eaux distribuées.
+
+
+
+2.3 Le contentieux européen a été l’aiguillon pour agir
+
+
+ Le recours de la Commission européenne contre la France devant la Cour de justice de
+                                l’Union européenne
+L’article 14 du traité de Lisbonne ouvre la possibilité de créer des initiatives citoyennes
+européennes. L’initiative Right2Water26 est la première à satisfaire tous les critères d’éligibilité,
+en recueillant notamment 1,8 millions de signatures, et à être acceptée par la Commission
+européenne, le 10 mai 2012. Parmi les engagements de cette dernière figure le renforcement de
+la législation relative à la qualité de l’eau.
+Comme résultat de cette impulsion, le Parlement européen adopte le 16 décembre 2020, la
+directive révisée sur l’eau potable (2020/2184) qui refonde la directive en vigueur du
+3 novembre 1998 (directive 98/83/CE).
+Par courrier du 30 octobre 2020, la Commission européenne a adressé une lettre de mise en
+demeure à la France dans laquelle elle estime que « la France a manqué aux obligations qui lui
+incombent en vertu de la directive sur l’eau potable en ce qui concerne les niveaux de nitrates
+dans l’eau potable ». Comme le prévoit la procédure et faute d’éléments fournis durant cette
+phase précontentieuse, cette mise en demeure sera suivie le 15 février 2023 d’un avis motivé.
+Estimant les efforts insuffisants, le 21 février 2025 la Commission a introduit un recours devant
+la Cour de justice de l’Union européenne à l’encontre de la France 27. Trois griefs principaux
+sont adressés à la France :
+     ➢ ne pas avoir pris les mesures nécessaires pour assurer la conformité des eaux potables
+       destinées à la consommation humaine aux exigences minimales concernant les seuils
+       de nitrates ;
+     ➢ avoir manqué à son devoir de célérité pour prendre des mesures correctives et rétablir
+       la qualité de l’eau potable ;
+     ➢ ne pas avoir restreint l’usage des eaux qui dépassaient la valeur maximale fixée pour
+       les nitrates ni d’avoir suffisamment bien informé le consommateur.
+
+
+
+       26
+            About us - Right to Water.
+       27
+            CURIA – Documents.
+
+
+
+
+                                                   39
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+Ces vingt dernières années, la France a déjà été condamnée à quatre reprises par la Cour de
+justice de l’Union européenne28 en raison de sa mauvaise application de la directive nitrates.
+
+
+
+2.3.1 L’établissement s’est saisi du contentieux pour agir efficacement
+
+        Sur les 107 unités de distribution d’eau potable en France qui font l’objet du contentieux
+que la Commission européenne a ouvert contre la France devant la Cour de justice de l’Union
+européenne, 22 sont situées en région Centre-Val de Loire, dont neuf dans le département du
+Loiret29 et trois sur le territoire intercommunal30 de la Beauce Loirétaine, sur les communes de
+Trinay, La Chapelle-Onzerain et Villeneuve-sur-Conie. La Beauce Loirétaine est le deuxième
+EPCI de la région Centre-Val de Loire comptant le plus d’unités de distribution faisant l’objet
+de contentieux européen, après la communauté de communes du Bonnevalais qui en compte
+quatre31. Ce contentieux a beaucoup mobilisé les services de l’État, de l’ARS et de
+l’intercommunalité alors même que ces trois unités de distributions représentent 263 abonnés
+au 31 décembre 2024 (soit 4,1 % du total de l’ensemble des abonnés de l’intercommunalité) et
+3,3 % de la capacité productive totale.
+        Dès 2019, comme en atteste le compte-rendu de la réunion qui s’est tenue le 6 novembre
+2019 à la préfecture du Loiret autour notamment des sept présidents d’intercommunalité du
+Loiret, les représentants de l’État estiment que « la gestion de l’eau potable (…) est susceptible
+de faire l’objet d’un contentieux européen ». L’objectif fixé par les représentants de l’État, et
+annoncé lors de la réunion du 24 septembre 2021 autour des élus locaux concernés par cette
+procédure, dont la vice-présidente de la communauté de communes de la Beauce Loirétaine,
+sera « d’éviter la saisine de la Cour de justice européenne et un éventuel contentieux
+européen ».
+         Entre le début de la phase précontentieuse le 30 octobre 2020 et jusqu’à la prise de
+compétence de l’EPCI au 1er janvier 2024, il appartenait aux communes concernées de mettre
+en place les mesures correctives exigées par la Commission et susceptibles d’éviter le
+contentieux. La commune de la Chapelle-Onzerain affirme cependant n’avoir jamais eu la
+capacité financière de remédier seule au problème de non-conformité qu’elle rencontrait.
+Depuis le transfert de compétence, la maire de la Chapelle-Onzerain souligne que la
+communauté de communes a réalisé une première série de diligences. Dès mars 2022, comme
+en atteste le courrier de la préfète au président du groupement de communes, les équipes de
+l’intercommunalité, même si cette dernière n’était non encore compétente en matière d’eau
+potable, se sont engagées dans la résolution opérationnelle de ce contentieux avec le lancement
+et le suivi des études préparatoires aux travaux d’interconnexion. Dans le schéma directeur eau
+potable proposé par l’étude patrimoniale en mars 2023, le contentieux nitrate est identifié
+comme priorité n° 2. Le caractère prioritaire de ce dossier s’est renforcé au fil du temps au point
+devenir la priorité n° 1 pour l’exécutif local.
+
+
+         28
+           Le 28 octobre 2004 par l’arrêt C-505/03 ; le 9 juin 2008 par l’arrêt C-147/07 ; le 13 juin 2013 par l’arrêt
+C-193/12 ; et le 4 septembre 2014 par l’arrêt C-237/12.
+        29
+           La stratégie de l’eau dans le Loiret, DDT, Préfecture du Loiret.
+        30
+           Procès-verbal du 24 avril 2025.
+        31
+           Cf. le rapport d’observations définitives de la communauté de communes du Bonnevalais délibéré le
+12 décembre 2024.
+
+
+
+
+                                                         40
+                                    COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                    ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+        Grâce à l’anticipation des équipes dirigeantes et de leurs services, la communauté de
+communes a rapidement mis en œuvre les solutions attendues par la Commission européenne.
+Ainsi, le forage de Villeneuve-sur-Conie a été fermé après que l’interconnexion avec Patay a
+été mise en service le 3 mars 2025 à l’issue de six mois de travaux réalisés en interne par les
+équipes techniques du service de l’eau. Quelques semaines plus tard, fin mars 2025, le forage
+de Trinay est à son tour fermé après la réalisation de travaux d’interconnexion avec le réseau
+d’eau de la commune Villereau, appartenant à la communauté de communes de la Forêt. Et
+concernant La Chapelle-Onzerain, l’exploitation de ce forage a pris fin grâce à l’interconnexion
+avec le forage de Saint-Péravy-la-Colombe mis en service le 29 janvier 2026, comme
+l’intercommunalité s’y était engagée dans le courrier qu’elle a adressé à la préfecture le 26 mai
+2025 dans lequel elle prévoyait « un retour à la normale » au 1er février 2026. Le tableau n° 12
+présente les montants des investissements prévus et réalisés pour ces trois interconnexions.
+
+
+      Tableau n° 12 : Le financement des interconnexions en réponse au contentieux européen
+
+                                                                        Envisagé HT
+ En euros                                                PPI                             Total réalisé
+                                                                      (source interne)
+
+ Interconnexion de Trinay à Villereau                      375 000             292 505         304 521
+
+ Interconnexion de La Chapelle-Onzerain à
+                                                           480 000             520 375         455 893
+ Saint-Péravy-la-Colombe
+ Interconnexion Villeneuve à Patay (travaux
+                                                           220 000             191 333         203 131
+ réalisés en régie)
+
+Source : communauté de communes de la Beauce Loirétaine. Grands livres 2024 et 2025
+
+
+         La diligence avec laquelle la communauté de communes est intervenue contraste avec
+l’inertie qui a prévalu durant des décennies. La mobilisation du service de l’eau sur cet enjeu a
+permis d’éviter que les deux unités de distribution de Trinay et de Villeneuve ne fassent l’objet
+d’une mise en demeure par l’État. Les chantiers étaient déjà bien engagés lorsque la France a
+reçu la notification du recours engagé contre elle par la Commission européenne. Ainsi, bien
+que trois unités de distribution de la Beauce Loirétaine soient mises en cause dans le recours de
+la Commission, seule l’unité de distribution de la Chapelle-Onzerain a fait l’objet d’un arrêté
+préfectoral de mise en demeure adressé à la communauté de communes le 1er juillet 2025.
+
+
+2.3.2 Les réponses apportées par l’EPCI à la mise en demeure de la préfecture
+
+        L’arrêté préfectoral précité exige que la communauté de communes prenne deux types
+de mesures. Des mesures pour réaliser des travaux permettant de fournir une eau conforme aux
+exigences de qualité, et des mesures pour mieux informer les consommateurs de la situation et
+des restrictions d’usage à adopter. Outre l’affichage en mairie des bulletins sanitaires, une info-
+facture doit être diffusée aux abonnés. Le service de l’eau de l’intercommunalité reconnait que
+cette Infofacture, éditée par l’ARS, n’est pas envoyée aux abonnés par courrier avec la facture
+mais qu’elle est affichée en mairie.
+
+
+
+
+                                                   41
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Consultée sur la façon dont les habitants ont été informés des restrictions d’usage
+imposées aux abonnés de la Chapelle-Onzerain du fait des non-conformités aux nitrates, la
+direction de l’EPCI indique que c’est « la commune elle-même qui prévenait directement ses
+habitants par affichage en mairie et en allant au contact direct des foyers pour les femmes
+enceintes et ayant des enfants ». Par ailleurs, un message de restriction de l’usage de l’eau a
+bien été diffusé sur panneaupocket32 le 11 juillet 2025 par la commune de La Chapelle-
+Onzerain. Une information porte-à-porte des 56 abonnés de la commune est possible, mais elle
+ne garantit pas, à elle seule, une information complète et effective de tous les usagers concernés
+par la restriction. La commune indique être attentive à l’enjeu de leur information mais n’a pas
+mis en place un protocole d’information formalisé et documenté permettant d’assurer une
+traçabilité des actions entreprises.
+         Depuis le 1er janvier 2024, l’information des usagers relève, comme le précise l’arrêté
+préfectoral de mise en demeure, de la responsabilité de l’intercommunalité. Dans la fiche action
+demandée par l’arrêté préfectoral précité33 le service intercommunal de l’eau apparaît bien
+comme le responsable de l’information des usagers en cas de non-conformités, toutefois, en
+pratique, c’est la commune qui a informé les usagers des restrictions de l’usage de l’eau en
+juillet 2025.
+       Enfin, un plan de surveillance portant sur la qualité de l’eau à la Chapelle-Onzerain a
+bien été élaboré en réponse à l’article 2 de l’arrêté préfectoral de mise en demeure, mais ce
+document n’est pas coordonné avec le contrôle sanitaire exercé par l’ARS.
+       La chambre invite l’EPCI à mettre en œuvre la fiche action communication décrivant
+les modalités d’information des consommateurs en cas de non-conformités et à s’assurer que
+toutes les parties prenantes du service de l’eau connaissent les outils d’intervention et de
+communication relatifs à la qualité de l’eau.
+
+
+   Tableau n° 13 : Réponse de l’EPCI à l’arrêté préfectoral de mise en demeure du 1er juillet 2025
+                                 concernant La Chapelle-Onzerain
+
+  Actions exigées                                                     Réalisations de l’EPCI
+
+  Réaliser des travaux d’interconnexion            Mise en service entre le 3 mars 2025 et le 29 janvier 2026
+  Distribuer de l’eau conforme aux exigences       Les derniers résultats disponibles en ligne (28 janvier 2026)
+  de qualité                                       indiquent des non-conformités aux pesticides
+  Rédiger une fiche-action décrivant les
+                                                   Cette fiche-action a été réalisée mais elle apparaît
+  modalités d’information des abonnés en cas
+                                                   insuffisamment connue des services et appliquée
+  de non-conformités
+  Afficher en mairie les résultats des bulletins
+                                                   Fait au siège de l’EPCI et à la mairie concernée
+  sanitaires
+  Informer les usagers des restrictions de
+                                                   Fait en porte-à-porte et sur panneaupocket le 11 juillet 2025
+  consommation d’eau
+
+
+
+
+         32
+            PanneauPocket est un service de communication entre les collectivités territoriales et les habitants.
+L'application permet aux utilisateurs d'être prévenu instantanément de l’actualité de la commune.
+         33
+            Fiche transmise par l’EPCI à l’ARS dans son courriel daté du 28 août 2025.
+
+
+
+
+                                                        42
+                                     COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                     ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+  Actions exigées                                               Réalisations de l’EPCI
+
+  Transmettre aux usagers les Info-factures
+                                              Non réalisé.
+  produites par l’ARS
+                                              Fait mais la complémentarité demandée avec l’ARS n’est
+  Rédiger un plan de surveillance de la
+                                              toutefois pas établie. L’EPCI indique qu’elle le sera lorsque
+  qualité de l’eau à la Chapelle-Onzerain
+                                              la station de traitement des pesticides sera construite.
+
+Source : EPCI
+
+
+
+2.3.3 Le problème de la qualité de l’eau n’est pas résolu pour autant
+
+        Une interconnexion constitue une réponse satisfaisante pour autant que l’eau issue du
+nouveau forage présente une qualité elle-même satisfaisante. C’est le cas du forage de Patay
+dans lequel aucune non-conformité n’est constatée au cours de l’année 2024 et une seule en
+2025, selon le tableau de suivi du service de l’eau. C’est aussi le cas du forage de Villereau. En
+revanche, concernant Saint-Péravy-la-Colombe, ce forage, ouvert en 1937, est exposé à la
+pollution diffuse aux pesticides de longue date. En 2014, aucun des huit prélèvements réalisés
+sur l’eau distribuée ne respecte les paramètres physico-chimiques selon le RPQS 2014 de la
+commune. Dix ans plus tard, en 2024, le taux de conformité atteint 60 % selon l’ARS
+(infofacture 2024) et même 66 % selon le tableau de suivi du service de l’eau de
+l’intercommunalité. En 2022, selon l’ARS, ce taux n’est que de 38 %. En 2022, ce forage est
+classé « sensible » par le SDAGE du fait de son exposition aux pesticides et, en mars 2023, le
+rapport final de l’étude patrimoniale prévoit la mise en place d’une usine de traitement des
+pesticides pour ce forage.
+        L’interconnexion de la Chapelle-Onzerain avec Saint-Péravy est présentée dans la
+délibération C2024_113 du 12 décembre 2024 comme la solution « définitive » au problème de
+nitrates « dans le cadre de la mise en demeure de la France par la Commission Européenne ».
+Toutefois, la présence de pesticides montre que cette solution ne garantit pas, à elle seule, la
+conformité de l’eau distribuée aux exigences de l’article L. 1321-1 du code de la santé publique
+et de l’arrêté ministériel du 30 décembre 2022, qui fixent des seuils pour les nitrates comme
+pour les pesticides. Cette situation révèle par ailleurs une carence préjudiciable dans les mesures
+de protection de la ressource en eau.
+                    Les mesures à prendre pour préserver la ressource en eau
+       Depuis le 1er janvier 2023, des actions de protection de la ressource en eau doivent être
+élaborées et mises en œuvre. En vertu de l’article L. 2224-7-6 du CGCT, il incombe à toute
+personne publique responsable de la production d’eau d’élaborer et de mettre en œuvre un plan
+d’action dès lors que le captage en question est considéré comme sensible. Le contenu de ce
+plan consiste notamment à :
+• sensibiliser, informer et mobiliser les acteurs du territoire pour préserver la qualité de la
+  ressource en eau et les accompagner dans la mise en œuvre d'actions contribuant à cet
+  objectif ;
+• réaliser toute étude nécessaire pour mettre en œuvre, compléter ou actualiser le plan d'action ;
+• suivre la qualité de la ressource en eau ;
+
+
+
+
+                                                   43
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+• soutenir et favoriser la transition agro-écologique ;
+• assurer la maîtrise foncière pour la mise en œuvre d'actions destinées à protéger ou restaurer
+  la ressource en eau ;
+• mettre en place des aménagements limitant le transfert de pollutions vers la ressource en eau ;
+• signer des conventions d'engagement avec les partenaires du plan ;
+• suivre et évaluer l'efficacité de la démarche.
+       Selon le code de l’environnement (article L.211-11-1), un point de captage est considéré
+comme sensible lorsque les résultats d'analyses de la qualité de l'eau issue directement d'un
+point de prélèvement, utilisée pour la production d'eau destinée à la consommation humaine,
+font apparaître, pour les paramètres définis par arrêté des ministres chargés de l'environnement
+et de la santé, des niveaux excédant des seuils fixés par ce même arrêté compte tenu des
+exigences mentionnées au deuxième alinéa du I de l'article L. 1321-1 du code de la santé
+publique.
+        Par ailleurs, l’article R.1321-22-1 du code de la santé publique prévoit que soient
+adoptés des plans de gestion de la sécurité sanitaire de l’eau, dont l’échéance a été fixée par
+l’arrêté ministériel du 3 janvier 2023, au 12 juillet 2027 pour la partie à la zone de captage et
+au 12 janvier 2029 pour la partie production et distribution.
+
+
+2.3.4 Des enjeux sanitaires et environnementaux insuffisamment pris en compte
+      dans la stratégie intercommunale de l’eau
+
+        Reprenant les orientations formulées par les différentes instances (la commission du
+cycle de l’eau, la conférence des maires et le conseil communautaire), le préambule du pacte
+de transfert énonce les objectifs que le futur service de l’eau devra poursuivre. Ils portent sur la
+réduction des pertes et l’amélioration des rendements, l’amélioration de la connaissance du
+patrimoine, la sécurisation des réseaux et la conformité aux obligations règlementaires. Les
+enjeux sanitaires et environnementaux n'apparaissent pas dans ces orientations ni d’ailleurs
+dans aucun autre document d’orientation stratégique de l’intercommunalité. Pourtant, comme
+le prévoit l’article L.2224-7-5 du CGCT, préserver la ressource en eau « est obligatoire lorsque
+l’eau est produite en tout ou partie à partir d’un point de prélèvement sensible ».
+        En considérant à la fois les résultats issus des prélèvements effectués sur l’eau brute et
+les prélèvements effectués sur l’eau distribuée, il apparaît que seules trois unités de distribution
+représentant 38 % du volume d’eau consommée ne sont pas ou peu exposées à la pollution
+diffuse34. Les forages intercommunaux de Cercottes et de Saint-Péravy-la-Colombe peuvent
+être qualifiés de sensibles, si ce n’est au sens de l’article L. 211-11-1 du code de
+l’environnement, du moins en pratique du fait des taux de nitrates et de pesticides élevés et en
+constante augmentation, dans les eaux brutes autant que dans les eaux distribuées. À ce
+diagnostic qualitatif, s’ajoute le fait que ces deux forages représentent un volume important
+avec 37 % de la consommation de l’ensemble du territoire.
+
+
+
+
+       34
+            Patay-Coinces, Boulay-les-Barres et Artenay-Sougy-Chevilly.
+
+
+
+
+                                                     44
+                                      COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                      ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+       Par conséquent, un plan d’action pour protéger les ressources de Cercottes et de Saint-
+Péravy-la-Colombe devrait être élaboré, approuvé et mis en œuvre dans une démarche
+préventive.
+        Le programme pluriannuel d’investissement comprend des mesures relatives à la
+« protection de la ressource ». Ces mesures sont mêmes classées en priorité zéro et donc à
+réaliser sans délai mais elles portent sur la « clôture autour des forages » ou sur les systèmes de
+protection « anti-intrusion » des réservoirs, et non pas sur la protection de la ressource exposée
+à la pollution diffuse au sens où l’entendent les codes de la santé publique, de l’environnement
+et des collectivités territoriales. Le périmètre de protection récemment déployé dans le cadre de
+la déclaration d’utilité publique (DUP) de Chevilly, par exemple, est certes nécessaire car il
+constitue une étape administrative obligatoire mais il n’est cependant pas suffisant pour
+protéger la ressource en eau contre les pollutions diffuses d’origine agricole. Seul un périmètre
+plus étendu est susceptible d’avoir un impact pour protéger la ressource. La règlementation35
+retient l’aire d’alimentation de captage comme échelle d’intervention à partir de laquelle doit
+être élaboré le plan de gestion de la sécurité sanitaire de l’eau.
+         Toutefois, seuls trois des huit forages exposés à la pollution diffuse relèvent directement
+de la responsabilité du groupement de communes36, les cinq autres n’étant pas situés sur le
+territoire intercommunal.
+        D’ici le 12 juillet 2027, un plan de gestion de sécurité sanitaire de l’eau doit être élaboré,
+en application de la directive européenne 2020/2184 et de l’article L.1321-4 du code de la santé
+publique. Selon le directeur des services techniques, une consultation est en préparation pour
+choisir un prestataire pour réaliser ce travail. Compte-tenu des contentieux nitrates et de la
+pollution diffuse aux pesticides auxquels le territoire est exposé, la chambre invite
+l’établissement à planifier d’ores et déjà ces travaux afin d’éviter tout retard et de profiter de
+cette période transitoire pour mettre en place des outils de pilotage à la hauteur des enjeux.
+
+
+2.3.5 Des choix d’investissement remis en question par la qualité de l’eau
+
+        La France s’est dotée d’une feuille de route de planification écologique, intitulée France
+nation verte, qui comprend un certain nombre d’objectifs et de moyens dont une partie concerne
+l’eau potable. Le principal objectif affiché relatif à la qualité de l’eau est « le nécessaire
+accompagnement de la transition des pratiques agricoles pour réduire les pollutions diffuses »37.
+Le document précité indique que le traitement d’une eau polluée coûte 2,5 fois plus cher que la
+protection des captages. Les instances intercommunales de la Beauce Loirétaine ne s’inscrivent
+ni dans une démarche préventive ni dans une approche reliant l’activité agricole de surface aux
+non-conformités de l’eau prélevée et distribuée. Les réponses apportées aux non-conformités
+se limitent à la fermeture des forages contaminés et à leur interconnexion avec d’autres
+ressources, une logique qui revient à déplacer le problème, comme hier à Bucy-Saint-Liphard
+et aujourd’hui à Saint-Péravy-la-Colombe.
+
+
+
+        35
+           Article R1321-22-1 du code de la santé publique.
+        36
+           Il s’agit des forages de Cercottes, Bucy-le-Roi et Saint-Péravy-la-Colombe.
+        37
+           Source : Gestion résiliente et concertée de l’eau, 17 mars 2023, Secrétariat général à la planification
+écologique.
+
+
+
+
+                                                       45
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        En 2012, la commune de Bucy-Saint-Liphard a été mise en demeure par la préfecture
+d’agir pour fournir à la population une eau conforme à la réglementation. Le forage de Bucy-
+Saint-Liphard a été fermé et une interconnexion a été créée avec la commune voisine d’Ormes.
+Or, peu de temps après, ce forage d’Ormes a été classé comme prioritaire par la conférence
+environnementale de 2013 en raison de ses non-conformités récurrentes. Selon l’établissement,
+la métropole d’Orléans réalise des études pour la réalisation d’un nouveau forage à Ormes,
+ce qui vise à rendre conforme les analyses d’eau de la commune de Bucy-Saint-Liphard.
+
+
+ Recommandation n° 4. : Intégrer aux futurs plans de gestion de la sécurité sanitaire de
+ l’eau, qui seront obligatoires à partir de juillet 2027, des plans de protection de la
+ ressource pour les deux captages de Cercottes et Saint-Péravy-la-Colombe.
+
+
+
+2.4 Une information sur la qualité de l’eau à rendre plus transparente
+
+        Le règlement du service de l’eau de la Beauce Loirétaine exprime avec une grande clarté
+les droits et obligations réciproques du service et de l’abonné. La relation clientèle est soignée
+avec, outre l’assistance technique 24 heures sur 24 et 7 jours sur 7, l’engagement de répondre
+dans les 30 jours à toute question écrite, ainsi qu’un accueil téléphonique et physique.
+        L’article 1 dudit règlement indique que les résultats du contrôle régulier de la qualité de
+l’eau sont affichés en mairie et disponible sur le site internet de la communauté de communes.
+Sur le site internet de la communauté de communes, la rubrique consacrée à la qualité de l’eau
+des communes de la Beauce Loirétaine renvoie vers le site internet de l’ARS qui lui-même
+renvoie vers le site du ministère de la santé. L’information n’est pas directement disponible.
+        Le rapport sur les prix et la qualité de service (RPQS) est un instrument de pilotage
+démocratique, introduit dans le droit français par la loi NOTRé afin de rendre compte de la
+gestion de l’eau devant les assemblées délibérantes. En application des articles L. 2224-5
+du CGCT et L131-9 du code de l’environnement, toutes les personnes responsables de la
+production d’eau destinée à la consommation humaine (PRPDE) doivent transmettre au
+système d’information dénommé SISPEA les données relatives à la qualité de l’eau, au prix,
+aux volumes consommés et à l’organisation du service public. Le paragraphe 1.6.2 du RPQS
+doit permettre à son lecteur d’identifier la provenance de l’eau destinée à la consommation
+humaine. Or, la présentation proposée dans le RPQS 2024 de la communauté de communes de
+la Beauce Loirétaine ne le permet pas car l’indication de la provenance est insuffisamment
+précise (cf. annexe n° 6 : cinq des 12 ressources mentionnées dans ce rapport s’intitulent
+« forage en nappe souterraine » ou « prélèvement d’eau »). Le service de l’eau de
+l’établissement public indique à la chambre être conscient du problème.
+        La chambre invite l’EPCI à indiquer le nom exact des forages dans le rapport sur le prix
+et la qualité du service.
+         Une unité de distribution se définit, selon EauFrance, par une unité technique (c’est-à-
+dire un seul réseau), une unité de la qualité de l’eau (qu’elle soit issue d’un seul forage ou de
+plusieurs) et une unité de gestion (qui signifie un même gestionnaire pour toute l’unité). L’ARS
+utilise cette unité pour informer les consommateurs à travers les info-factures ou dans son bilan
+annuel. Les cabinets d’étude l’utilisent pour réaliser les analyses, notamment relatives à la
+
+
+
+
+                                                46
+                                 COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                 ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+qualité de l’eau, comme cela a été le cas dans l’étude patrimoniale. La Commission européenne
+l’utilise pour s’assurer de la bonne application de la règlementation en vigueur.
+     Le service de l’eau de la Beauce Loirétaine, quant à lui, utilise l’échelle communale
+comme le montre le fichier de contrôle sanitaire tenu par le service de l’eau.
+        Cette divergence d’unité de comptage crée une certaine confusion à la fois pour le
+consommateur qui peut difficilement appréhender la qualité de l’eau qui lui est distribuée, mais
+aussi pour le service de l’eau qui ne dispose pas d’une vision uniforme de la ressource dont il
+est le gestionnaire. Cette situation fragilise la cohérence des analyses relatives à la qualité de
+l’eau et ne permet pas d’exploiter les données des différents acteurs pour bâtir des stratégies
+d’actions.
+
+
+ Recommandation n° 5. : Utiliser l’unité de distribution comme unité de compte dans le
+ cadre de la mission d’autosurveillance qui incombe à tout producteur d’eau destinée à la
+ consommation humaine.
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        La prise de compétence eau par l’intercommunalité a permis d’agir rapidement pour
+créer des interconnexions et fermer l’exploitation des forages qui font l’objet d’une procédure
+contentieuse entre la France et la Commission européenne concernant le respect de la directive
+nitrates. Mais face à la constante dégradation de la qualité de l’eau, seule une démarche
+préventive, associant toutes les activités se déployant en surface au-dessus des aires
+d’alimentation de captage, permettra de répondre au défi sanitaire.
+        Cela suppose de prendre en considération la pollution diffuse dans la stratégie eau de
+l’établissement public mais cela implique aussi de pouvoir compter sur des données fiables et
+harmonisées permettant d’initier un dialogue de toutes les parties prenantes. Les conséquences
+financières des solutions à élaborer devront être évaluées et intégrées à la planification
+budgétaire.
+
+
+
+
+                                               47
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3 DES INVESTISSEMENTS À MIEUX PLANIFIER ET DES
+  RESSOURCES FINANCIÈRES À MOBILISER POUR
+  RÉPONDRE AUX BESOINS
+
+
+3.1 Le transfert des excédents, bien anticipé et préparé, a été essentiel au
+    bon démarrage de l’exercice de la compétence
+
+        Un transfert de compétences entre une commune et son groupement entraine le transfert
+de l’actif (patrimoine mobilier, immobilier, financier), du passif (dette) ainsi que du personnel
+de la commune vers l’établissement public afin que ce dernier puisse exercer cette compétence.
+Le transfert des excédents des budgets annexes communaux n’est pas une obligation, mais la
+Cour des comptes observe dans son rapport sur les finances publiques locales 2022, « qu’il est
+de bonne gestion de transférer ces excédents ».
+      Avant même le transfert de la compétence, l’étude de transfert (phases 1 et 2)
+recommandait que ces excédents soient transférés.
+        Un important travail préparatoire a été effectué par la direction générale et le président
+auprès de chaque commune pour expliquer les enjeux et négocier les modalités de transfert des
+excédents. L’expérience du transfert de la compétence de l’assainissement collectif qui a eu lieu en
+2018 a été prise en compte. Les excédents n’avaient pas été transférés et le groupement a été mis
+en difficulté financière pour réaliser ses investissements. Pour la compétence eau potable, plusieurs
+éléments de contexte ont rendu le transfert des excédents nécessaire dont, principalement, la
+nécessité de répondre au contentieux nitrates que les communes n’avaient pas pu résoudre elles-
+mêmes, faute de capacités financières et de moyens humains permettant de suivre de tels chantiers.
+      Le résultat de ce travail préparatoire a été formalisé dans le pacte de transfert adopté en
+mai 2023 dans lequel les communes s’engagent à prendre une délibération pour transférer leurs
+excédents (article 4).
+         La fiabilisation voire la reconstitution du montant des excédents a impliqué un important
+travail réalisé par les services de l’intercommunalité et les communes. C’est ainsi le cas pour
+les communes de Tournoisis et de Trinay qui, ayant une population inférieure à 500 habitants
+et en vertu de l’article L. 2221-11 du CGCT38, n’avaient pas l’obligation de tenir un budget
+annexe eau. En accord avec ces dernières, le pacte de transfert, à son article 4, indique « qu’une
+quote-part du résultat de clôture sera transférée en s’appuyant sur la reconstitution d’un résultat
+lié à l’eau potable évalué sur les trois derniers exercices », ce qui explique l’absence d’excédent
+d’investissement.
+      La totalité des excédents a été transférée, pour les communes et pour les syndicats. Le
+montant, net des déficits cumulés, s’élève à 3,135 M€ dont 2,198 M€ en fonctionnement et
+937 298 € en investissement.
+
+
+
+         38
+            Absence d’obligation de tenir un budget annexe eau dès lors qu’elles produisent, « en annexe budget
+principal en annexe au budget et au compte financier unique, un état sommaire présentant, article par article, les
+montants de recettes et de dépenses affectés à ces services ».
+
+
+
+
+                                                       48
+                                        COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                        ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+         Sans le transfert des excédents, la situation financière du budget annexe eau aurait été
+très critique. En isolant uniquement les excédents des communes39, la CAF nette aurait été de
+194 951 € au lieu de 1 801 381 € et le fonds de roulement de 730 910 € au lieu de 3 006 150 €,
+ce qui n’aurait pas permis de faire face aux investissements prioritaires.
+
+
+
+3.2 La fiabilité comptable à poursuivre pour permettre une complète
+    analyse des coûts
+
+
+3.2.1 Une fiabilité comptable à parfaire
+
+        Les dépenses liées aux travaux d’interconnexion de Villeneuve, réalisés en régie,
+auraient pu faire l'objet d'un retraitement comptable. Le montant de 191 333 € a été comptabilisé
+à la fois en dépenses d’investissement et en dépenses d'exploitation (pour ce qui relève des
+charges générales et des dépenses de personnel), car les travaux ont été effectués en régie.
+Cependant, il s'agit de dépenses d'investissement destinées à enrichir le patrimoine
+intercommunal qui aurait pu être transférées à la section d'investissement par le biais du
+compte 72 « production immobilisée ». En procédant ainsi, l'EPCI aurait pu récupérer la TVA
+payée sur une partie de ses charges, ce qui aurait permis d'avoir une information financière plus
+juste et plus précise.
+        La chambre a comparé l’état de l’actif, tenu par le comptable, et l’inventaire, tenu par
+l’ordonnateur, et constate que ces deux documents ne sont pas totalement concordants. L’écart
+entre les valeurs brutes et nettes comptables des deux documents varie de plus ou moins 10 %.
+La différence la plus importante porte sur l’amortissement avec un écart de 16 %.
+
+
+                           Tableau n° 14 : Comparaison entre l’inventaire et l’actif
+
+          En euros
+                                                     État de l’actif 2025
+            Valeur brute                          Amortissements                      Valeur nette comptable
+              25 007 443                              9 587 537                               15 419 905
+                                                  État de l’inventaire 2025
+            Valeur brute                          Amortissements                      Valeur nette comptable
+              22 494 017                              8 260 681                               14 233 336
+                                    Écarts entre les valeurs de l’actif et de l’inventaire
+              2 513 426                               1 326 856                               1 186 570
+
+Source : CRC Centre-Val de Loire d’après les éléments du comptable et de l’EPCI
+
+
+          39
+             Les excédents des communes ont été intégrés dans les recettes d’investissement (1068) et de
+fonctionnement (compte 778) qui sont des opérations semi-budgétaires et budgétaires donnant lieu à l’émission
+d’un titre de recettes et qui interviennent dans les résultats de l’exercice. Les excédents des syndicats ont été repris
+lors de l’affectation du résultat (opération non budgétaire de transfert ne donnant pas lieu à un titre de recettes).
+
+
+
+
+                                                          49
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+         Un sondage effectué sur trois communes (Saint-Péravy-la-Colombe, la Chapelle-
+Onzerain et Villeneuve-sur-Conie) montre que les forages figurent bien dans les procès-verbaux
+de mise à disposition signés entre les communes et l’EPCI, mais qu’ils ne sont valorisés ni à
+l’actif du comptable ni à l’inventaire du groupement. Selon l’ordonnateur, certaines communes
+ne pratiquaient pas les amortissements soit en raison de leur taille inférieure à 3 500 habitants
+soit du fait que leur valeur brute n’était pas connue en raison de l’ancienneté de certaines
+constructions (le forage de Saint-Péravy-la-Colombe, par exemple, date de 1937, celui de la
+Chapelle-Onzerain de 1944).
+       Même si un important travail d’intégration des actifs a été fait à l’occasion du transfert,
+la chambre invite l’ordonnateur à compléter la liste des actifs devant figurer à l’inventaire ainsi
+que leur durée d’amortissement, et à réduire l’écart avec l’état de l’actif tenu par le comptable.
+L’inventaire transmis par l’ordonnateur ne recense que les biens amortissables, les biens non
+amortissables (comme les terrains), n’y figurent pas, ce qui explique ces écarts et donne une
+information partielle du patrimoine intercommunal. Conformément à l’instruction budgétaire
+et comptable M4, l’ordonnateur doit tenir un inventaire détaillé des biens dont le service est
+propriétaire ou qu’il a reçu à disposition ou en affectation.
+        Le conseil communautaire a, par une délibération de 2022, harmonisé les durées
+d’amortissement relatives à l’assainissement. Si l’EPCI l’applique aux actifs de la compétence
+eau alors certains biens sont manquants (par exemple les forages ou les canalisations) ou
+insuffisamment spécifiés. La chambre invite l’EPCI à harmoniser et clarifier le champ
+d’application de cette délibération entre les deux services eau et assainissement.
+       Enfin, à l’exception du rattachement des charges financières de ses emprunts, l’EPCI ne
+pratique pas systématiquement le rattachement des charges et des produits alors que cela est
+obligatoire pour les budgets relevant de la nomenclature M49, quel que soit le nombre
+d’habitants. La chambre invite l’intercommunalité à pratiquer le rattachement des charges et
+des produits à l’exercice et produire ainsi une information comptable et financière fiable.
+
+
+3.2.2 Les coûts d’exploitation du service de l’eau sont à imputer en totalité sur le
+      budget annexe
+
+        Les agents de droit privé du service de l’eau sont rémunérés sur le budget eau mais ce
+budget n’intègre pas la rémunération du directeur du service de l’eau, ni toutes les charges
+correspondantes aux prestations dont bénéficie la régie et qui restent imputées au budget général
+(la direction générale et le service des moyens généraux pour la passation des marchés publics,
+l’élaboration du budget eau, le suivi son exécution, etc.). Le budget annexe doit comprendre
+l’ensemble des coûts d’exploitation du service et, pour ce faire, verser au budget général le
+montant correspondant aux quotités de temps de travail passé à son profit. Les services ont
+chiffré le coût de cette quotité à 82 594 € et indiquent à la chambre que ce montant sera reversé
+dès le budget 2026.
+       Par ailleurs, le coût d’exploitation de l’usine de traitement des pesticides, dont le
+montant n’est pas connu de la chambre, affectera le budget de la communauté de communes à
+compter de l’exercice 2027, date de sa mise en service. La chambre invite l’EPCI à intégrer les
+coûts d’exploitation de cette usine aux futurs budgets.
+
+
+
+
+                                                50
+                                   COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                   ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+ Recommandation n° 6. : Veiller à la bonne imputation comptable au budget annexe des
+ quotités de travail des agents de l’EPCI intervenant pour la régie eau.
+
+
+3.2.3 La facturation unique eau-assainissement n’est pas optimale mais a permis de
+      fiabiliser la base de données des usagers
+
+        L’EPCI a été confronté, après le transfert de compétence, à une base de tiers redevables
+dont 712 abonnés étaient mal libellés (ou avec présence de doublons, de numéros de SIRET
+inexistants, etc.) ce qui a entrainé des difficultés lors de la facturation. Un agent communal a
+dû venir en renfort auprès des équipes de l’EPCI quelques heures par semaine pour mettre de
+l’ordre dans cette base.
+        De son côté, la comptable indique qu’un travail conjoint a été fait avec l’EPCI pour
+limiter le nombre de rejets suite à des erreurs sur la répartition entre les services eau et
+assainissement ainsi que pour la fiabilisation de la base des tiers. Ce travail semble avoir porté
+ses fruits car les annulations de titres en 2025 (toutes confondues y compris sur les tiers) sont
+bien moins importantes qu’en 2024.
+        Enfin, même si cette facturation unique présente des inconvénients, le taux de
+recouvrement des factures est passé de l’ordre de 80 % à un peu plus de 90 % entre 2024 et
+2025 traduisant ainsi une plutôt bonne couverture du paiement des usagers. Sur les deux
+exercices depuis la reprise de compétences, le compte 4161 « créances douteuses », qui
+correspond aux créances impayées pour lesquelles existe un risque de non-recouvrement,
+s’élève en moyenne, sur les deux années 2024 et 2025, à 32 347 €. De plus, un travail de relance
+des factures non-payées est bien suivi par la comptable publique (cf. compte 411 clients et
+compte 4161). L’EPCI a également indiqué que le suivi et toute problématique liée aux factures
+impayées sont abordés en comité restreint lors de la réunion du bureau du conseil d’exploitation.
+
+
+
+3.3 Une planification des investissements dont la traduction financière
+    reste à effectuer
+
+
+3.3.1 Un plan pluriannuel d’investissement à clarifier et à mettre à jour
+
+         En mars 2023, le rapport final de l’étude patrimoniale comprend un plan pluriannuel
+d’investissement (PPI) sur 10 ans. Ce plan classe, en trois priorités, toutes les opérations du
+territoire à réaliser sans délai (priorité 0), entre un et cinq ans (priorité 1), et entre six et dix ans
+(priorité 2 et 3). Le montant total de ce plan pluriannuel d’investissement s’élève à 19,496 M €
+HT. Ces investissements comprennent la réparation de fuites, la conformité CVM, le traitement
+des pesticides, les interconnexions, les réhabilitations des forages et des ouvrages et le
+renouvellement des canalisations. Au-delà de la gestion patrimoniale, ces opérations
+comportent un enjeu sanitaire relatif à l’amélioration de la qualité de l’eau.
+       La communauté de communes a adopté par délibération en décembre 2022 les
+conclusions de l’étude patrimoniale et a admis que le plan pluriannuel d’investissement « en
+
+
+
+
+                                                   51
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+cours d’élaboration » tiendra compte de ces conclusions. Toutefois, cette délibération ne
+comporte aucun élément chiffré contrairement auxdites conclusions. Pourtant, dans le
+document support de la conférence des maires du 4 mai 2023, il est bien indiqué qu’un PPI eau
+potable a été adopté en conseil communautaire le 15 décembre 2022. De même, interrogé par
+l’équipe de contrôle sur l’existence d’un plan pluriannuel d’investissement, l’EPCI transmet le
+plan précité prévu par l’étude patrimoniale.
+         Ainsi, le plan pluriannuel d’investissement souffre, dès le départ, d’un triple handicap,
+car il n’est pas formellement adopté, il est présenté comme inachevé et surtout il est amputé de
+ces éléments financiers. Il peine, de ce fait, à constituer une feuille de route claire pour les
+investissements à venir.
+
+
+                   Tableau n° 15 : Enveloppes par priorités selon l’étude patrimoniale
+
+ En euros HT                    Priorité 0          Priorité 1           Priorité 2             Priorité 3
+
+ Travaux identifiés              310 000            3 610 000            1 465 000              5 005 000
+ CVM                                                6 000/an recherche des non-conformités
+  Renouvellement                                  850 000/an pour renouveler les canalisation
+  Coût total sur 10 ans                                          19 496 000
+
+Source : PPI de la communauté de communes de la Beauce Loirétaine d’après l’étude de patrimoine
+
+
+        Par ailleurs, concernant l’opération de construction d’une usine de traitement des
+pesticides le coût d’investissement estimé à 1,115 M€ et inscrit dans le plan pluriannuel
+d’investissement, approuvé lors de la séance du 12 décembre 2024, apparait bien inférieur au
+coût estimé par le schéma départemental d’alimentation en eau potable pour une telle station de
+traitement qui s’élève à 1 778 125 €, soit 60 % plus cher. Le service de l’eau indique être en
+train de rédiger un cahier des charges pour une assistance à maitrise d’ouvrage.
+       La chambre invite l’EPCI à tenir compte dans sa planification financière des évaluations
+de prix proposées par le département et d’ajuster le plan pluriannuel d’investissement en
+conséquence.
+
+
+3.3.2 Les investissements réalisés respectent les priorités retenues
+
+        Le rapport d’orientations budgétaires 2024, présenté devant le conseil communautaire
+du 16 novembre 2023, expose de façon synthétique la nature des investissements à réaliser tels
+qu’ils sont prévus par le plan d’investissement mais il n’en chiffre pas le coût et n’en tire pas
+toutes les conséquences financières. Ainsi un montant de 628 000 € de dépenses
+d’investissement annuelles est inscrit pour 2024, 2025 et 2026 dans le rapport d’orientations
+budgétaires alors que le coût de réalisation des seules priorités zéro et un du plan
+d’investissement s’élève à 793 000 € annuel durant les dix prochaines années. La prise en
+compte de l’ensemble des priorités se traduit par un montant annuel de 2,143 M€ durant les six
+prochaines années.
+
+
+
+
+                                                   52
+                                    COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                    ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+        L’intercommunalité s’est saisie des travaux en priorité dite P0, soit ceux à réaliser sans
+délai, mais aussi de ceux en priorité P1, notamment les travaux d’interconnexion relatifs au
+contentieux qui ont été réalisés dès 2024. Le tableau n° 17 compare la planification financière
+issue du plan pluriannuel d’investissement avec la préparation puis l’inscription budgétaire et
+enfin la réalisation des investissements. Sur la nature des dépenses, la liste des investissements
+à réaliser établie en 2023, n’a pas fait l’objet d’ajustement.
+
+
+        Tableau n° 16 : Dépenses annuelles d’investissement envisagées, autorisées et réalisées
+
+ En euros                                                        2024
+
+                                             PPI restreint        Rapport
+ Prévision et réalisation   PPI complet                         orientations        BP             CA
+                                            (P0, P1, CVM)       budgétaires
+ Dépenses d'équipement
+                               2 388 500          1 038 000             628 000   1 379 000        694 730
+ (c/20, 21, 23)
+ dont restes à réaliser                                                                            312 911
+ Taux d’exécution
+ (CA hors restes à                                                                                28 %
+ réaliser/BP)
+                            2025
+
+                                             PPI restreint        Rapport
+ Prévision et réalisation   PPI complet                         orientations        BP            CFU
+                                            (P0, P1, CVM)       budgétaires
+ Dépenses d'équipement
+                               2 078 500            728 000             628 000   1 997 222      1 370 175
+ (c/20, 21, 23)
+ dont restes à réaliser                                                                             89 051
+ Taux d’exécution
+ (CA hors restes à                                                                                64 %
+ réaliser/BP)
+
+Source : CRC Centre-Val de Loire à partir des données de l’étude patrimoniale, rapport d’orientation
+budgétaire (ROB) 2024 et 2025, budget principal (BP) 2024 et 2025, compte administratif (CA) 2024 et compte
+financier unique (CFU) 2025
+
+
+        La chambre invite la communauté de communes à évaluer les dépenses d’investissement
+envisagées dans leur totalité et leur durée, et à fournir des informations financières complètes
+aux élus communautaires, de façon à maintenir le rythme des investissements engagés en 2025
+et à répondre ainsi aux enjeux sanitaires et environnementaux.
+
+
+
+
+                                                    53
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.4 Des ressources financières à mobiliser
+
+
+3.4.1 Après deux ans d’exploitation, des marges de manœuvre qui se précisent mais
+      restent incertaines
+
+        Des analyses financières complètes ne peuvent être engagées sur la base des deux seuls
+résultats d’exercices disponibles (2024 et 2025). Néanmoins quelques remarques peuvent être
+formulées.
+        Sur les aspects budgétaires, la communauté de communes a ajusté les dépenses et
+recettes de son budget 2025 en fonction de la reprise des excédents des budgets annexes des
+communes intégrés aux résultats de clôture d’exploitation et d’investissement. En procédant
+ainsi, elle a minoré les recettes d’exploitation (recettes prévues de 1,694 M€ et recettes
+réalisées de 2,048 M€) et majoré ses dépenses d’exploitation (3,396 M€ de dépenses
+budgétisées mais seulement 1,319 M€40 de dépenses réalisées) ainsi que ses charges
+d’amortissement (1,035 M€ de prévu contre 592 755 € de réalisé). Côté investissement, elle
+affiche un taux de réalisation de ses dépenses d’investissement satisfaisant de 65 % en 2025.
+En revanche, côté recettes d’investissement, elle a fait le choix d’inscrire 720 000 € d’emprunt
+qu’elle n’a pas réalisé. Elle aurait pu utiliser son excédent de fonctionnement reporté de
+2,60 M€, en le capitalisant en partie au compte 1068 qui permet de financer des investissements.
+De plus, comme cette affectation est une opération semi-budgétaire se traduisant par l’émission
+d’un titre, cela aurait minoré ou évité le résultat déficitaire de la section d’investissement pour
+l’année 2025 de 776 002 €. L'enregistrement en recettes d'un emprunt destiné à équilibrer les
+comptes, sans intention de le réaliser et alors que des réserves sont disponibles, affecte les
+comptes d'une forme d'insincérité.
+        Sur l’exécution des dépenses et des recettes, entre 2024 et 2025, les charges de personnel
+restent stables, de l’ordre de 340 000 €. En revanche, les consommations intermédiaires
+baissent d’environ 25 %, passant de 804 242 € à 608 025 €, notamment celles qui relèvent de
+la sous-traitance (-61 %), des assurances et frais bancaires (-43 %) et des achats (fournitures,
+petit équipement, -34,5 %). Du côté des recettes d’exploitation, la vente d’eau aux abonnés a
+généré 1 672 349 € de recettes d’exploitation en 2025, en hausse de 14 % (+200 837 €) par
+rapport à l’exercice 2024 durant lequel les ventes ont rapporté 1 471 512 €. Toutefois, cette
+variation est à nuancer car environ 259 000 € de recettes de vente d’eau concernent l’exercice
+2024 comptabilisés sur l’exercice 2025.
+        À la suite du transfert, l’encours de dette hérité des communes et des syndicats au 31
+décembre 2025 s’élève à 1 376 696 €. Ces derniers sont classés A-1 sur la charte Gissler soit
+un niveau de risque très faible. Sa capacité de désendettement est passée de six mois à deux ans
+entre 2024 et 2025. Elle n’a pas contracté de nouvel emprunt en 2025 mobilisant ainsi une partie
+de son fonds de roulement issu du transfert (645 994 €) pour financer ses investissements.
+      Cette légère dégradation de sa capacité de désendettement s’explique par la chute de sa
+CAF brute qui passe, en 2025, de 2 M€ à 722 764 €, en raison du transfert des excédents des
+
+
+
+         40
+             À titre d’exemple, sur les charges à caractère général (prévues : 2,231 millions € et réalisées : 871 014
+€), sur les charges de personnel (prévues : 791 500 € et réalisées : 348 928 €).
+
+
+
+
+                                                         54
+                                 COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                 ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+communes comptabilisés en recettes exceptionnelles en 2024. Déduction faite des annuités
+d’emprunt, sa CAF nette s’établit à un peu de moins de 530 000 €.
+        Enfin, pour les années à venir, afin de pouvoir continuer à investir et répondre aux
+objectifs d’une eau distribuée de qualité, la communauté de communes ne pourra faire
+l’économie d’un recours à l’emprunt. Pour être à la hauteur des enjeux financiers attendus, elle
+devra également compter sur une augmentation de son autofinancement qui passe
+nécessairement par une hausse des tarifs de l’eau auprès des usagers.
+       La chambre invite la communauté de communes à améliorer la sincérité de ses budgets
+de façon à fournir une information financière fiable aux conseils communautaires.
+
+
+3.4.2 Des prix de vente encore majoritairement inférieurs au prix de revient
+
+         La conférence des maires du 4 mai 2023, à l’initiative de l’intercommunalité, a adopté
+un certain nombre de principes et de conditions pour la réalisation du transfert de compétence.
+Le résultat de ce consensus, formellement intégré au pacte de transfert consiste à aboutir à une
+convergence tarifaire « à l’issue d’une période raisonnable », à admettre que les tarifs doivent
+être suffisamment élevés pour « couvrir le coût du service et dégager un autofinancement » et
+à mettre en place une augmentation différenciée pour tenir compte à la fois de l’hétérogénéité
+des prix actuels et de l’état du patrimoine. Une évolution différenciée des tarifs a été décidée.
+Elle prévoit une augmentation plus forte pour les communes dans lesquelles le prix est inférieur
+à 1,85 € et une augmentation plafonnée à 2 % lorsque le prix est supérieur à 1,85 €.
+        Au cours des débats du conseil communautaire du 18 septembre 2025, mais aussi en
+entretien avec l’équipe de contrôle, la vice-présidente en charge de l’eau reconnait que le prix
+actuel de vente de l’eau « ne couvre pas les travaux ni les interventions ». Cependant la chambre
+n’a pas connaissance d’analyses de coût qui auraient été effectuées par l’EPCI ou le service de
+l’eau à partir des résultats d’exploitation des deux premiers exercices.
+        Afin d’estimer la soutenabilité économique des prix actuellement pratiqués, la chambre
+a estimé un prix de revient, pour la régie eau, à partir des charges constatées de l’exercice 2024
+mais corrigées des éléments exceptionnels liés à cette première année de prise de compétence
+(intégrant notamment les amortissements et le déficit du résultat d’exploitation hors transferts
+des excédents). Il en ressort que le prix de revient s’élève en 2024 à 2,04 € par mètre cube d’eau.
+En deçà de ce prix, le principe de « l’eau paie l’eau » n’est pas respecté car les produits ne
+couvrent pas les charges d’exploitation. Ce prix de revient correspond aux charges constatées
+de l’exercice 2024.
+         Le graphique n° 4 ci-dessous présente les prix pratiqués en 2024, 2025 et 2026 tels
+qu’ils ont été adoptés par le conseil communautaire du 12 décembre 2024, ainsi que les prix qui
+étaient envisagés pour 2026 dans le cadre du pacte de transfert adopté le 25 mai 2023. La ligne
+rouge pointillée marque le seuil du prix de revient.
+        En 2026, seules quatre communes sur dix-huit (Bucy-Saint-Liphard, Lion-en-Beauce,
+Rouvray et Ruan) pratiquent des tarifs supérieurs à leur prix de revient, une situation déjà
+observée en 2024. Pourtant, toutes ont augmenté leurs tarifs entre 2024 et 2026, passant d’un
+prix moyen de 1,63 € à 1,80 € (+17 centimes). Aucune n’atteint cependant le prix cible prévu
+par le pacte de transfert pour 2026. Dans 11 cas sur 18, la trajectoire tarifaire initialement
+envisagée était, dès 2024, inférieure au seuil de rentabilité.
+
+
+
+
+                                                55
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                       Graphique n° 4 : Prix pratiqués, prix cibles et prix de revient
+
+     3,5
+
+       3                                                                                            Prix de revient 2024
+     2,5
+
+       2
+
+     1,5
+
+       1
+
+     0,5
+
+       0
+
+
+
+
+                         2024      2025     2026      Tarif 2026 envisagés par Pacte de transfert
+
+
+Source : CRC Centre-Val de Loire à partir des données votées par le conseil communautaire
+Lecture : À Bucy-le-Roi en 2024, le prix du m3 d’eau était de 1,33 €, en 2026 il était de 1,7 € alors qu’il aurait
+dû être de 1,85 € selon les tarifs cibles prévus par le pacte de transfert. Ces quatre niveaux de prix restent tous
+inférieurs à la ligne symbolisant le prix de revient.
+
+
+        La chambre invite donc la communauté de communes à s’engager dans une démarche
+d’analyse des coûts à partir de laquelle une trajectoire tarifaire économiquement soutenable
+pourra être adoptée et mise en œuvre dans un horizon temporel précis à définir.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        Le service de l’eau de la communauté de communes a pris les mesures nécessaires pour
+combler le retard d’investissement du patrimoine productif transféré au groupement. Toutefois,
+le plan d’investissement reste à actualiser et à déployer. Sans une hausse des tarifs alignée sur
+le prix de revient ou un recours à l’emprunt, l’établissement public de coopération
+intercommunale ne disposera pas des ressources indispensables pour répondre aux enjeux
+sanitaires et patrimoniaux liés à la production et à la distribution d’eau potable.
+
+
+
+
+                                                         56
+                                             COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                             ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+                                                      ANNEXES
+
+Annexe n° 1. Procédure ................................................................................................... 58
+Annexe n° 2. Service de l’eau de la CCBL au 1er décembre 2025.................................. 59
+Annexe n° 3. Forage de la Chapelle-Onzerain ................................................................ 60
+Annexe n° 4. Classification de la qualité des réseaux d’eau ........................................... 61
+Annexe n° 5. Coût de la dépollution ............................................................................... 62
+Annexe n° 6. Désignation des forages dans le rapport sur le prix et la qualité
+            du service.................................................................................................... 63
+Annexe n° 7. Schéma de recouvrement de la facture unique .......................................... 64
+Annexe n° 8. Performances financières du budget eau de la communauté
+            de communes Beauce Loirétaine................................................................ 65
+Annexe n° 9. État des lieux du service eau ..................................................................... 67
+Annexe n° 10. État du patrimoine du réseau eau ............................................................ 68
+Annexe n° 11. Table des sigles et abréviations .............................................................. 69
+
+
+
+
+                                                                57
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                    Annexe n° 1. Procédure
+        Le tableau ci-dessous retrace les différentes étapes de la procédure telles qu’elles ont
+été définies par le code des juridictions financières (articles L. 243-1 à L. 243-6) :
+
+
+                                                                                  Dates de
+                                                                                réception des
+ Objet                      Dates                    Destinataire
+                                                                                  réponses
+                                                                                 éventuelles
+
+ Envoi de la lettre   27 novembre 2025
+                                            M. Thierry Bracquemond,
+ d’ouverture de             reçue le
+                                            ordonnateur
+ contrôle             1er décembre 2025
+
+
+ Entretiens de fin
+                        25 février 2026     M. Thierry Bracquemond
+ de contrôle
+
+
+ Délibéré de la
+                         2 avril 2026
+ chambre
+
+ Envoi du rapport        26 mai 2026
+ d’observations             reçu le         M. Thierry Bracquemond              22 juin 2026
+ provisoires (ROP)        même jour
+
+ Délibéré de la
+                       8 septembre 2026
+ chambre
+
+ Envoi du rapport
+ d’observations       21 septembre 2026
+                                            M. Thierry Bracquemond              Sans réponse
+ définitives          reçu le même jour
+ (ROD1)
+
+
+
+
+                                               58
+                                       COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                       ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+             Annexe n° 2. Service de l’eau de la CCBL au 1er décembre 2025
+
+
+                       Vice-Présidente en charge               Président de l’EPCI               Président du Conseil
+                               de l’eau                                                             d’exploitation
+
+                                                             Direction générale des
+                                                                    Services
+
+
+
+
+             Responsable                                                                     Directeur du service de
+        des moyens généraux                                                                   l’eau = DST 37h30
+
+
+                                                         Agent chargé de la relève,
+             Responsable                                     espaces verts et                       Responsable
+         facturation 37h30                               maintenance eau potable                  technique 37h30
+                                                                   37h30
+
+     Facturation eau potable                                                                       Conducteur de
+                                                                                                   travaux 39h00
+      Un agent chargé de la
+         clientèle 37h30
+                                                                                                Chef d’équipe 39h00
+
+
+
+                                                                                              Deux agents en charge
+                                                                                                 de l’eau 39h00
+
+
+Source : CRC Centre-Val de Loire d’après les documents de la communauté de communes de la Beauce Loirétaine
+Lecture : en italique sont indiqués les agents relevant de droit privé et rattachés à la régie. En orange, les agents
+de l’EPCI mais intervenant pour la régie.
+
+
+
+
+                                                        59
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                    Annexe n° 3. Forage de la Chapelle-Onzerain
+
+
+
+
+    Source : CRC Centre-Val de Loire
+
+
+
+
+                                        60
+                                  COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                  ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+               Annexe n° 4. Classification de la qualité des réseaux d’eau
+
+        Tableau n° 17 : Grille d’appréciation de la qualité des réseaux par l’agence de l’eau
+
+                                             Type de desserte
+
+ Classification du
+                               Rural              Semi-rural        Urbain          Hyper urbain
+ réseau
+
+ Bon                         ILP < 1,5              ILP < 4         ILP < 9           ILP < 13
+
+ Acceptable                  ILP < 2,5             ILP < 6,5       ILP < 13           ILP < 20
+
+ Médiocre                  2,5 < ILP < 4,5      6,5 < ILP < 10   13 < ILP < 19      20 < ILP < 25
+
+ Mauvais                      ILP > 4              ILP > 10        ILP > 19           ILP > 25
+
+Source : Étude patrimoniale SAFEGE mars 2023
+
+
+
+
+                                                   61
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                    Annexe n° 5. Coût de la dépollution
+
+
+
+                                               Le coût de la dépollution
+En France, les dépenses engagées pour prévenir et surveiller les pollutions ont été multipliées
+par 4,7 entre 2003 et 2023, passant de 0,3 Md€ à 1,4 Md€. Les dépenses totales de protection
+et de dépollution des eaux se sont élevées, en 2022, à 2,3 Md€ dont 85 % de ce montant
+correspond à des dépenses d’investissement, sur un total de dépenses de protection de
+l’environnement de 63,7 Md€. En termes de volume de dépense, la protection de l’eau est
+l’avant-dernier secteur environnemental comme le montre le graphique ci-dessous.
+Pour le bassin de Loire-Bretagne, seules 19,44 % des surfaces de masses d’eau souterraine de
+niveau 1 ne connaissent aucun dépassement des seuils de qualité41.
+
+
+               Répartition des dépenses de protection de l’environnement par domaine en 2020,
+                                en France, en milliards d’euros et en %
+                                           Protection et dépollution
+                                             des sols et des eaux
+                                                      2,3
+                                                      4%
+                                                                       Gestion des déchets
+                 Lutte contre le bruit
+                                                                           radioactifs
+                  et les vibrations
+                                                                               0,9
+                          3
+                                                                               1%
+                         5%
+        Biodiversité et paysage
+                 3,5                                                               Gestion des déchets
+                 5%                                                                       21,6
+                         R&D                                                              34%
+                           5
+                          8%
+
+                   Autres
+                    5,6
+                    9%
+
+                                                                             Gestion des eaux usées
+               Protection de l'air extérieur
+                                                                                      14,1
+                           7,6
+                                                                                      22%
+                          12%
+
+Source : dépenses de protection de l’environnement en France en 2020 – Synthèse, Données et études statistiques
+
+
+
+
+        41
+             Source : statistique publique de l’énergie, des transports, du logement et de l’environnement, SDES
+2020.
+
+
+
+
+                                                             62
+                               COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                               ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+Annexe n° 6. Désignation des forages dans le rapport sur le prix et la qualité
+                                du service
+
+
+
+
+          Source : RPQS 2024
+
+
+
+
+                                         63
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+               Annexe n° 7. Schéma de recouvrement de la facture unique
+
+
+
+
+Source : CRC Centre-Val de Loire à partir des données du budget annexe et du service de gestion comptable de
+l’EPCI
+
+
+
+
+                                                     64
+                                         COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                         ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+    Annexe n° 8. Performances financières du budget eau de la communauté
+                         de communes Beauce Loirétaine
+
+
+                                                                                       Retraitement excédents
+En euros                                                       2024         2025
+                                                                                            commune24
+
+Chiffre d'affaires (c 70)                                      1 845 722   2 040 155                 1 845 722
+
++ redevances versées par les fermiers                                 0                                         0
+
+= Ressources d'exploitation                                    1 845 722   2 040 155                 1 845 722
+
+= Produit total                                                1 845 722   2 040 155                 1 845 722
+- Consommations intermédiaires (Chap. 011 -impôts et
+                                                                804 242     608 025                    804 242
+taxes)
+- Impôts taxes et versements assimilés (sauf personnel)
+                                                                270 051     262 989                    270 051
+(C6358 + 6371 + 6378)
+= Valeur ajoutée                                                771 429    1 169 141                   771 429
+
+- Charges de personnel                                          347 553     348 928                    347 553
+
++ Autres produits de gestion (C75)                                6 291            0                     6 291
+
+- Autres charges de gestion (c65)                                12 109      10 672                     12 109
+
+= Excédent brut d'exploitation (avant subventions
+                                                                418 059     809 541                    418 059
+d'équipement versées - M43)
+
+= Excédent brut d'exploitation                                  418 059     809 541                    418 059
+
++/- Résultat financier                                           -61 718     -34 951                   -61 718
+
++/- Résultat exceptionnel (réel, hors cessions)                1 638 463     -51 826                    32 032
+
+= CAF brute avant impôts sur les bénéfices (M4)
+                                                               1 994 803    722 764                    388 373
+(M43)
+
+= CAF brute                                                    1 994 803    722 764                    388 373
+
++ Ventes de produits, services et marchandises                 1 845 722   2 040 155                 1 845 722
++ Autres produits de gestion courante (hors
+                                                                  6 291            0                     6 291
+redevances)
+= Produits de gestion courante                                 1 852 014   2 040 155                 1 852 014
+
++ Charges de personnel                                          347 553     348 929                    347 553
+
++ Autres charges de gestion                                      12 109      10 672                     12 109
+
++ Charges d'intérêt et pertes nettes de change                   61 718      34 951                     61 718
+
+= Charges courantes                                            1 495 673   1 265 567                 1 495 673
+
+CAF brute                                                      1 994 803    722 764                    388 373
+
+- Dotations nettes aux amortissements                                 0                                         0
+
+- Dotations nettes aux provisions                                 6 739       2 119                      6 739
+
+= Résultat section d'exploitation                              1 988 065    720 645                    381 634
+
+CAF brute                                                      1 994 803    722 764                    388 373
+
+
+
+
+                                                          65
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                                                       Retraitement excédents
+  En euros                                                     2024         2025
+                                                                                            commune24
+  - Annuité en capital de la dette (hors autres dettes)         193 422     193 227                    193 422
+
+  = CAF nette ou disponible (C)                                1 801 381    529 537                    194 951
+
+  Fonds de compensation de la TVA (FCTVA)                         1 428                                  1 428
+
+  + Subventions d'investissement                                 42 358     105 593                     42 358
+
+  = Recettes d'inv. hors emprunt (D)                             43 786     105 593                     43 786
+
+  = Financement propre disponible (C+D)                        1 845 167    635 130                    238 736
+
+  - Dépenses d'équipement (y compris travaux en régie)          381 820    1 281 124                   381 820
+
+
+  = Besoin (-) ou capacité (+) de financement propre           1 463 347   -645 994                   -143 083
+
+  +/- Solde des opérations pour compte de tiers                       0                                         0
+
+   - Reprise sur excédents capitalisés et réserves de
+                                                                  3 620                                  3 620
+  réévaluation
+
+  = Besoin (-) ou capacité (+) de financement                  1 459 727   -645 994                   -146 703
+  Nouveaux emprunts de l'année (y compris pénalités de
+                                                                      0            0                            0
+  réaménagement)
+  Mobilisation (-) ou reconstitution (+) du fonds de
+                                                               1 459 727   -645 994                   -146 703
+  roulement net global
+
+Source : CRC Centre-Val de Loire d’après les comptes de gestion
+
+
+
+
+                                                          66
+                                    COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                                    ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+                           Annexe n° 9. État des lieux du service eau
+
+ Caractéristiques du service                                                        2023        2024
+ Population raccordée                                                                               17 339
+ Nombre de raccordements domestiques                                                                 7 188
+ Nombre de raccordements industriels
+ Nombre d'abonnés                                                                                    7 188
+ dont abonnés domestiques
+ dont services publiques
+  dont industriels
+ Volume fournis et facturés en m3                                                                  863 137
+ volumes fournis                                                                                   890 755
+ Volumes facturés domestiques
+ Volumes facturés industriels et gros consommateurs
+ Consommation moyenne / hab.                                                                         51,37
+
+
+ Caractéristiques du réseau                                                          2023              2024
+ Nombre de km de canalisation                                                                           380
+ Nombre de branchements                                                                              7 188
+
+
+ Caractéristiques Production et Stockage                                             2023              2024
+ Nombre de m3 de stockage                                                                            6 750
+ Nombre de jour de stockage de secours
+ Nombre d'unité de production alimentant le service (hors dérogation)                                    10
+ Capacité de production en pointe des unités de production (y compris dérogation)           Cf. annexe n° 1
+ Capacité de production en pointe des unités de production (hors dérogation)
+ Volume d’eau acheté                                                                                80 024
+
+
+ Performance qualitative                                                             2023              2024
+ Taux de conformité des prélèvements microbiologiques                                                  81,1
+ Taux de conformité des prélèvements physico-chimiques                                                 65,8
+ Indice d’avancement de la protection de la ressource en eau                                         65,31
+
+Source : Communauté de communes de la Beauce Loirétaine
+
+
+
+
+                                                      67
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                        Annexe n° 10. État du patrimoine du réseau eau
+
+
+Travaux réalisés                                               2023          2024
+Linéaire de réseau renouvelé en km                                             0
+Taux moyen de renouvellement du réseau d’eau potable                           0
+Nombre de branchements renouvelés                                             72
+Dont branchements plomb                                                       57
+Nombre de compteurs remplacés                                                 161
+Total des fuites réparées                                                     55
+
+
+Typologie des travaux                                          2023          2024
+Travaux curatifs                                                             Régie
+Travaux préventifs
+Travaux prédictifs
+
+
+Typologie des investissements (M€)                             2023          2024
+Production                                                                     0
+Stockage                                                                       0
+Transport                                                                  483 396,00
+Distribution                                                                   0
+Système d'information                                                          0
+Branchements plomb                                                           Régie
+
+
+Performance du réseau                                          2023          2024
+Taux de fuite (nbre fuites/nbre cpt)                                        0,86 %
+
+Perte par mètre linéaire de réseau                                       1,4 m3/km/jour
+
+Total des interruptions de service                                             5
+
+Source : Communauté de communes de la Beauce Loirétaine
+
+
+
+
+                                                  68
+                             COMMUNAUTÉ DE COMMUNES DE LA BEAUCE LOIRÉTAINE
+                             ENQUÊTE RÉGIONALE SUR LA GESTION DE L’EAU POTABLE
+
+
+
+                Annexe n° 11. Table des sigles et abréviations
+
+Sigle                                             Signification
+AAC      Aire d’Alimentation de Captage
+ADES     Accès aux données sur les eaux souterraines
+ARS      Agence régionale de santé
+BSS      Banque du sous-sol
+CAF      Capacité d'autofinancement
+CCBL     Communauté de communes Beauce Loirétaine
+CGCT     Code général des collectivités territoriales
+CVM      Chlorure de vinyle monomère
+DETR     Dotation d’équilibre des territoires ruraux
+DOB      Débat d’orientations budgétaires
+CLE      Commission Locale de l’Eau
+DSP      Délégation de service public
+EDCH     Eau destinée à la consommation humaine
+EPCI     Établissement public de coopération intercommunale
+ITV      Inspections télévisées
+PAR      Programme d’action nationale et régionale
+PEHD     Polyéthylène haute densité
+PETR     Pole d’équilibre territorial et rural
+PLUI-H   Plan Local d’Urbanisme Intercommunal – Habitat
+PPI      Plan pluriannuel d'investissement
+PRPDE    Personne responsable de la production d’eau
+ROB      Rapport Orientations budgétaires
+RPQS     Rapport sur le prix et la qualité du service
+SAGE     Schéma d’aménagement et de gestion des eaux
+SDAGE    Schéma directeur d’aménagement et de gestion des eaux
+SDEP     Schéma de distribution d'eau potable
+SGC      Service de gestion comptable
+SIAEP    Syndicat intercommunal d’adduction d’eau potable
+SIG      Système d’information géographique
+SISPEA   Système d’information des services publics de l’eau et d’assainissement
+SPEP     Syndicat de production d’eau potable
+UDI      Unité de distribution d'eau potable
+
+
+
+
+                                                 69
+Chambre régionale des comptes Centre-Val de Loire
+                15, rue d’Escures
+                 45000 Orléans
+              Tél. : 02 38 78 96 00
+        centrevaldeloire@crtc.ccomptes.fr
+     www.ccomptes.fr/crc-centre-val-de-loire
+

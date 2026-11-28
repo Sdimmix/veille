@@ -404,5 +404,45 @@
   "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/CC_CHAMPAGNE_BOISCHAUTS_ROD2_2026.pdf",
   "file": "2026-11-27_ccomptes_communaute-de-communes-champagne-boischauts-enquete-relative-a-la-mobilisation-e.txt",
   "chars": 53640
+ },
+ "/fr/publications/commune-de-saint-maurice-val-de-marne-0": {
+  "title": "Commune de Saint-Maurice (Val-de-Marne)",
+  "first_seen": "2026-11-28",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/IDR2026-36.pdf",
+  "file": "2026-11-28_ccomptes_commune-de-saint-maurice-val-de-marne.txt",
+  "chars": 176912
+ },
+ "/fr/publications/mission-locale-de-bastia-haute-corse": {
+  "title": "Mission locale de Bastia (Haute-Corse)",
+  "first_seen": "2026-11-28",
+  "pdf": null
+ },
+ "/fr/publications/etablissement-public-de-cooperation-culturelle-maison-des-metallos-ville-de-paris": {
+  "title": "Établissement public de coopération culturelle \"Maison des Métallos\" (Ville de Paris)",
+  "first_seen": "2026-11-28",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/IDR2026-44.pdf",
+  "file": "2026-11-28_ccomptes_etablissement-public-de-cooperation-culturelle-maison-des-metallos-ville-de-pari.txt",
+  "chars": 170216
+ },
+ "/fr/publications/les-entrepots-de-donnees-de-sante-hospitaliers-edsh": {
+  "title": "Les entrepôts de données de santé hospitaliers (EDSH)",
+  "first_seen": "2026-11-28",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261127-S2026-1156-Entrepots_donnees_hospitalieres.pdf",
+  "file": "2026-11-28_ccomptes_les-entrepots-de-donnees-de-sante-hospitaliers-edsh.txt",
+  "chars": 419352
+ },
+ "/fr/publications/communaute-de-communes-de-la-beauce-loiretaine-loiret": {
+  "title": "Communauté de communes de la Beauce Loirétaine (Loiret)",
+  "first_seen": "2026-11-28",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/CVLR-2026-025---CCBeauce-Loir--taine-ROD2_2026.pdf",
+  "file": "2026-11-28_ccomptes_communaute-de-communes-de-la-beauce-loiretaine-loiret.txt",
+  "chars": 191128
+ },
+ "/fr/publications/les-marches-interministeriels-de-formation-des-agents-de-letat-un-usage-recentrer": {
+  "title": "Les marchés interministériels de formation des agents de l’État : un usage à recentrer",
+  "first_seen": "2026-11-28",
+  "pdf": "https://www.ccomptes.fr/sites/default/files/2026-11/20261126-S2026-1176-Marches-interministeriels-formation-agents-Etat.pdf",
+  "file": "2026-11-28_ccomptes_les-marches-interministeriels-de-formation-des-agents-de-l-etat-un-usage-a-recen.txt",
+  "chars": 336620
  }
 }

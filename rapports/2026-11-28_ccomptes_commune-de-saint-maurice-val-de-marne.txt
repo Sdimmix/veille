@@ -1,0 +1,3254 @@
+TITRE: Commune de Saint-Maurice (Val-de-Marne)
+PAGE: https://www.ccomptes.fr/fr/publications/commune-de-saint-maurice-val-de-marne-0
+PDF: https://www.ccomptes.fr/sites/default/files/2026-11/IDR2026-36.pdf
+
+       RAPPORT D’OBSERVATIONS DÉFINITIVES
+                           ET SA RÉPONSE
+
+
+
+       COMMUNE DE SAINT-MAURICE
+
+                                                                                 (Val-de-Marne)
+                                                                            Exercices 2019 et suivants
+
+
+
+
+Le présent document, qui a fait l’objet d’une contradiction avec les destinataires concernés,
+                               a été délibéré par la chambre le 9 juin 2026.
+
+
+
+                            6 cours des Roches – Noisiel – BP 187 – 77315 Marne-la-Vallée Cedex 2
+Standard : 01.64.80.88.88 – Courriel : iledefrance@crtc.ccomptes.fr – Site : https://www.ccomptes.fr/fr/crc-ile-de-france
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                      TABLE DES MATIÈRES
+
+SYNTHÈSE...................................................................................................................... 3
+RECOMMANDATIONS ................................................................................................ 5
+PROCÉDURE.................................................................................................................. 6
+INTRODUCTION ........................................................................................................... 7
+        Caractéristiques géographiques, économiques et sociales de la commune .............. 7
+        Des projets portant essentiellement sur la rénovation d’équipements existants............ 8
+        Environnement institutionnel ................................................................................... 9
+     1 ORGANISATION DE LA COMMUNE ............................................................... 10
+        1.1 Un conseil municipal dont le fonctionnement s’est récemment amélioré........ 10
+        1.2 L’organisation administrative ne comprend pas de pôles et de directions
+            générales adjointes ........................................................................................... 10
+     2 INFORMATION BUDGÉTAIRE ET COMPTABLE .......................................... 11
+        2.1 L’organisation des fonctions budgétaire et comptable à davantage
+            formaliser.......................................................................................................... 11
+        2.2 Un contrôle insuffisant des régies comptables par la commune ...................... 12
+        2.3 La qualité de l’information financière est perfectible ...................................... 13
+            2.3.1 Le rapport d’orientation budgétaire doit être complété ........................... 13
+            2.3.2 Les annexes aux documents budgétaires et comptables à compléter
+                  ou corriger ............................................................................................... 13
+            2.3.3 L’accès à l’information budgétaire a progressé ...................................... 14
+        2.4 Une tenue des comptes qui s’est récemment améliorée ................................... 14
+            2.4.1 Les délais de paiement qui excédaient largement le seuil
+                  réglementaire des 30 jours ont été réduits en 2025 ................................. 14
+            2.4.2 La mise en place d’un provisionnement comptable ................................ 15
+            2.4.3 La fiabilité de l’actif patrimonial est à renforcer..................................... 16
+            2.4.4 Les opérations de fin d’exercice.............................................................. 18
+     3 ANALYSE FINANCIÈRE .................................................................................... 20
+        3.1 Architecture budgétaire .................................................................................... 20
+        3.2 Une stratégie financière formalisée résultant de difficultés financières sur
+            l’exercice .......................................................................................................... 22
+        3.3 Bien qu’en amélioration depuis 2024, la situation financière
+            de la commune reste fragile.............................................................................. 23
+            3.3.1 Les produits de gestion en hausse résultant de l’augmentation des
+                  taux de fiscalité en 2024 .......................................................................... 23
+            3.3.2 Les charges de gestion dynamiques en 2023 .......................................... 25
+
+
+
+
+                                                                     1
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+             3.3.3 Bien qu’en hausse en 2024, la capacité d’autofinancement reste
+                   fragile, après avoir été négative en 2023 ................................................. 28
+             3.3.4 Des investissements limités mais qui ont augmenté en 2022 et 2023
+                   mettant la commune dans une situation financière fragile ...................... 29
+             3.3.5 La commune s’endette de manière limitée sans disposer d’un fonds
+                   de roulement suffisant ............................................................................. 32
+        3.4 Une prospective financière imprécise et fragile ............................................... 34
+     4 LES DÉTERMINANTS DE LA MASSE SALARIALE ...................................... 36
+        4.1 Le pilotage des ressources humaines................................................................ 36
+            4.1.1 La commune dispose de documents cadres mais n’a pas de
+                  stratégie prospective formalisée faisant l’objet d’un suivi ...................... 36
+            4.1.2 Le renforcement récent du suivi des effectifs est à poursuivre ............... 37
+            4.1.3 L’évolution de la masse salariale a fait l’objet de mesures en 2024
+                  pour en limiter la croissance.................................................................... 41
+        4.2 Les rémunérations ............................................................................................ 45
+            4.2.1 Le régime indemnitaire ........................................................................... 45
+            4.2.2 Les prises en charge spécifiques ............................................................. 46
+        4.3 Le temps de travail ........................................................................................... 47
+            4.3.1 L’encadrement du temps de travail ......................................................... 47
+            4.3.2 Les heures supplémentaires ..................................................................... 48
+        4.4 Les agents contractuels ..................................................................................... 48
+            4.4.1 Une part croissante des emplois permanents de la collectivité ............... 48
+            4.4.2 Un mode de gestion identique aux titulaires ........................................... 50
+     5 SÉCURITÉ INFORMATIQUE ............................................................................. 51
+        5.1 Organisation, mission et gouvernance de la direction des services
+            informatiques .................................................................................................... 51
+            5.1.1 Un système informatique dont la gestion est largement déléguée au
+                  syndicat informatique Infocom 94 .......................................................... 51
+            5.1.2 Une gouvernance informatique qui n’est pas formalisée ........................ 52
+        5.2 La protection des données personnelles ........................................................... 52
+ANNEXES ...................................................................................................................... 54
+
+
+
+
+                                                                   2
+                             COMMUNE DE SAINT-MAURICE
+
+
+
+
+                                     SYNTHÈSE
+
+        La chambre régionale des comptes d’Île-de-France a contrôlé les comptes et la gestion
+de la commune de Saint-Maurice pour les exercices 2019 et suivants. Ses diligences ont porté
+sur la fiabilité comptable et financière, la situation financière, la gestion des ressources
+humaines et la sécurité informatique de la commune.
+       Située dans le département du Val-de-Marne, la commune de Saint-Maurice compte
+14 400 habitants. Les données socio-économiques du territoire communal sont au-dessus
+de la moyenne de celles de la région Île-de-France.
+
+
+              Une fiabilité des comptes insuffisante, mais des progrès récents
+
+        L’organisation budgétaire et comptable gagnerait à être davantage formalisée.
+Le contrôle interne reste embryonnaire. La commune doit mettre en place le suivi plus régulier
+et rigoureux des régies d’avances et de recettes.
+       Le rapport d’orientation budgétaire est à enrichir d’une approche prospective
+pluriannuelle s’agissant des informations relatives aux ressources humaines. Les annexes
+aux documents budgétaires ou comptables sont incomplètes et devront faire l’objet
+d’une amélioration.
+       Malgré une amélioration de ses délais de paiement en 2025, la commune devra
+poursuivre cette réduction, ces derniers demeurant supérieurs au délai de trente jours fixé par
+le code de la commande publique. L’émission des titres de recettes doit être plus rapide. La
+bonne tenue des inventaires physique et comptable, exhaustive et cohérente, est également à
+mettre en place.
+       Par ailleurs, l’exécutif devra présenter annuellement au conseil municipal le rapport
+des administrateurs pour la société publique locale dans laquelle la commune détient
+une participation.
+
+
+              Une amélioration de la situation financière en 2024 mais un fonds
+              de roulement qui demeure insuffisant
+
+        La commune, déjà dotée d'équipements tels que des crèches, une salle polyvalente
+et des infrastructures sportives, privilégie la restauration de son patrimoine existant
+à la construction de nouveaux équipements. En 2023, des difficultés financières l’ont conduite
+à recourir à un cabinet de conseil.
+        La capacité d'autofinancement (CAF) nette, déjà fortement diminuée en 2022,
+est devenue négative en 2023, atteignant - 1,5 M€. Cette chute s'explique par une augmentation
+des charges de gestion (5,4 % en 2022 et 7,6 % en 2023) alors que l’évolution des ressources
+de gestion restait faible (2,3 % par an).
+
+
+
+
+                                              3
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        En 2024, la restauration de la CAF nette à 1,4 M€ a été rendue possible
+par l'augmentation des produits fiscaux (16,1 %), des ressources d'exploitation (14,7 %)
+et une dynamique moindre des charges de gestion (3,3 %). Cependant, la CAF nette
+par habitant (93 €) reste inférieure à la moyenne des communes de même strate du département
+(108 €) et de la région (110 €).
+        La capacité de désendettement s’est détériorée entre 2019 et 2024, passant de 0,5
+à 2,4 années, ce qui reste un niveau satisfaisant. Toutefois, en raison de ses difficultés
+de gestion, la commune a dû fortement creuser son fonds de roulement net global, jusqu’à
+un niveau particulièrement bas en 2024 et sera difficilement capable de faire face à de potentiels
+imprévus financiers à venir.
+        L'analyse prospective à l'horizon 2028, insuffisamment étayée, prévoit une trajectoire
+financière fragile, ne permettant pas de rétablir les comptes communaux tout en finançant
+les investissements prévus sauf à envisager un accroissement de l'endettement dans
+des proportions significatives.
+
+
+                      Des efforts récents de la commune pour limiter le dynamisme de la masse
+                      salariale
+
+        Si le pilotage des ressources humaines est formalisé dans des documents-cadres, il ne
+comporte pas de dimension prospective ce que la commune explique partiellement par
+des difficultés de recrutement. Elle met en ligne les rapports sociaux et dispose de lignes
+directrices de gestion qui comportent un plan d’actions et leurs échéances. Le bilan de
+ces actions devra annuellement être présenté au comité social territorial.
+       Le suivi des effectifs, bien qu'existant, présente des marges d'amélioration certaines.
+Les annexes des comptes sur les effectifs ne sont pas conformes à la maquette réglementaire,
+présentent des rubriques incomplètes et reposent sur une méthode de comptage erronée.
+       La mise à jour récente du tableau des postes et des effectifs, portant sur les postes
+budgétaires et les emplois pourvus, constitue une avancée notable. Ce tableau et ses évolutions
+pourront être présentés annuellement en conseil municipal, permettant ainsi une vision
+consolidée qui facilite le suivi des ressources humaines.
+        Entre 2019 et 2024, la masse salariale a augmenté de 10 %, avec une limitation
+de la hausse en fin de période en raison des contraintes budgétaires. Le nombre d'équivalents
+temps plein (ETP) a diminué de 4,5 % entre 2019 et 2024. La commune a également recouru
+aux mutualisations, notamment avec la commune de Charenton-le-Pont. En 2024, elle a mis
+en place des gels de postes, réduit de 10 % le montant versé des heures supplémentaires et
+de vacation, mesures reconduites en 2025. La progression en glissement annuel n’était ainsi
+que de 0,3 % en 2024, contre 5,7 % en 2022.
+       La commune a mis en œuvre le Rifseep1 et l’indemnité spéciale de fonction
+et d’engagement des policiers municipaux (ISFE) conformément à la réglementation.
+Cependant, ce régime indemnitaire ne prend pas en compte l'engagement professionnel
+des agents. Seul le présentéisme est encouragé par la prime d'assiduité.
+
+
+
+1
+    Régime indemnitaire tenant compte des fonctions, des sujétions, de l'expertise et de l'engagement professionnel.
+
+
+
+
+                                                                4
+                                           COMMUNE DE SAINT-MAURICE
+
+
+
+
+                                       RECOMMANDATIONS
+
+
+          Recommandations de régularité :
+
+
+                                               : Présenter annuellement au conseil municipal le rapport
+des administrateurs pour la société publique locale dans laquelle la commune détient une
+participation, conformément aux articles L. 1524-5 et D. 1524-7 du code général des
+collectivités territoriales. .......................................................................................................... 10
+
+                                      : La commune s’engage à se doter d’une procédure de
+contrôle plus régulier de ses régies, distinct de celui du comptable public sans en préciser le
+délai. : Mettre en place un contrôle régulier des régies, distinct de celui du comptable public,
+conformément à l'article R. 1617-17 du code général des collectivités territoriales................ 12
+
+                                             : Joindre des annexes complètes aux documents budgétaires
+et comptables conformément aux articles L. 2313-1 et R. 2313-3 du code général des
+collectivités territoriales. .......................................................................................................... 14
+
+                                    : Poursuivre la réduction du délai global de paiement tels
+que défini dans les articles L. 2192-10 à L. 2192-13 et R. 2192-10 du code de la commande
+publique et mandater le cas échéant les intérêts moratoires conformément aux articles
+L. 2192-13 et L. 2192-14 du même code. ................................................................................ 15
+
+                                      : Tenir un inventaire physique et comptable exhaustif et
+cohérent avec l’état de l’actif conformément à l’instruction budgétaire et comptable M57.... 17
+
+
+          Recommandation de performance :
+
+
+Recommandation performance n°1 : Renforcer à court terme la capacité d’autofinancement
+de la commune. ........................................................................................................................ 29
+
+
+
+
+                                                                    5
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                    PROCÉDURE
+
+        La chambre régionale des comptes d’Île-de-France a inscrit à son programme 2025
+le contrôle des comptes et de la gestion de la commune de Saint-Maurice (Val-de-Marne).
+Le contrôle a porté sur les exercices 2019 et suivants.
+       Le contrôle a été notifié le 8 avril 2025 au seul ordonnateur en fonctions sur la période,
+M. Igor Semo.
+       Un entretien d’ouverture de contrôle a été effectué sur place avec l’ordonnateur
+le 7 mai 2025.
+        En application de l’article L. 243-1 du code des juridictions financières, l’entretien
+de fin de contrôle a été tenu avec l’ordonnateur le 29 juillet 2025.
+       La chambre régionale des comptes a adopté un rapport d’observations provisoires lors
+de sa séance du 21 août 2025, notifié le 23 mars 2026 à M. Igor Semo, maire de la commune
+ainsi qu’à la même date, sous forme d’extraits, à un tiers mis en cause. Une communication
+administrative a été adressée à Mme Caroline Cuif, comptable.
+       Après examen des réponses reçues, la chambre régionale des comptes d’Île-de-France
+a adopté dans sa séance du 9 juin 2026 le présent rapport d’observations définitives.
+
+
+
+
+                                               6
+                                      COMMUNE DE SAINT-MAURICE
+
+
+
+
+                                         INTRODUCTION
+
+Caractéristiques géographiques, économiques et sociales de la commune
+
+       La commune comprend 14 400 habitants en 2022 sur une surface d’1,4 km2.
+La population a baissé d’1,2 % entre 2011 et 20222. Elle est voisine des communes de
+Charenton-le-Pont à l'ouest, de Joinville-le-Pont à l'est, de Maisons-Alfort au sud, et de Paris
+au nord avec le Bois de Vincennes. Un quart de la superficie est occupé par les hôpitaux de
+Saint-Maurice (site des hôpitaux de Paris Est Val-de-Marne).
+
+
+                    Carte n° 1 : Situation géographique de la commune de Saint-Maurice
+
+
+
+
+Source : Mappy
+
+
+       Les indicateurs socio-économiques de la commune sont favorables en 2021 : Le revenu
+médian disponible par unité de consommation supérieur des habitants de la commune est
+supérieur à celui du département et de la région de même que le taux de ménages fiscaux
+imposés. En outre, le taux de pauvreté est inférieur à ceux du département et de la région.
+
+
+
+
+2
+    Institut national de la statistique et des études économique (Insee), dossier complet, commune de Saint-Maurice.
+
+
+
+
+                                                          7
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                              Tableau n° 1 : Indicateurs socio-économiques en 2021
+                                                                        Département du
+             En € ou %                                  Saint-Maurice                     Région Île-de-France
+                                                                         Val-de-Marne
+    Médiane du revenu disponible par unité
+                                                          28 510           24 270               25 210
+    de consommation (en €)
+      Taux de ménages propriétaires de leur résidence
+                                                            38,3             44,8                  47
+                                   principale (en %)
+             Taux de ménages fiscaux imposés (en %)            70            62,4                 64,1
+                             Taux de pauvreté (en %)           11           17,20                 16,10
+               Taux de chômage des 15-64 ans (en %)         10,60           11,70                 11,40
+
+Source : Insee
+
+
+       Avec un taux de 25,6 % en 2024 (contre 24,5 % en 2023), la commune respecte le taux
+de logement social de la loi, dite « SRU »3.
+       La commune ne dispose d’aucun arrêt de métro ni de gare de RER4. Néanmoins,
+les communes limitrophes telles que Joinville-le-Pont, Maisons-Alfort et Charenton-le-Pont
+disposent d’accès au RER A et à la ligne 8 du métro.
+
+
+Des projets portant essentiellement sur la rénovation d’équipements existants
+
+       La commune n’a pas connu d’opération d’aménagement depuis 2019. Elle dispose, en
+2026, de trois crèches5, quatre écoles maternelles, de deux écoles élémentaires, d’une salle
+polyvalente, d’équipements sportifs et culturels. Sur le plan immobilier, la commune n’a pas
+de grands projets de nouveaux investissements mais prévoit plutôt des rénovations.
+        Les deux opérations les plus importantes de la période sous revue sont la réhabilitation
+de la crèche Delacroix pour un montant total de 1,8 M€, et la rénovation du centre municipal
+des sports « COSEC6 », pour un montant total de 4,4 M€. Deux autres opérations ont dû être
+décalées en raison du temps de montage des procédures d’obtention des financements et des
+difficultés financières de la commune en particulier en 2023.
+        La réhabilitation de la crèche Delacroix, qui avait des objectifs de performance
+énergétique, d’amélioration de la qualité de l’air et du confort d’accueil des enfants et
+du personnel, a été réalisée en 2024. La crèche a été réouverte en septembre 2024. L’opération
+de rénovation du centre municipal des sports « COSEC », initialement prévue en 2024,
+a été lancée en 2025.
+       Avant de procéder aux opérations de rénovation, la commune a eu recours à plusieurs
+audits énergétiques afin de déterminer l’impact des travaux prévus sur les performances
+énergétiques et une projection sur ses dépenses de fonctionnement.
+
+
+3
+  Loi n° 2000-1208 du 13 décembre 2000 relative à la solidarité et au renouvellement urbains (codifié aux articles
+L. 302-5 et suivant du code de la construction et de l’habitation).
+4
+  Réseau express régional.
+5
+  Deux établissements en gestion directe et un établissement en délégation de service public (regroupement de
+deux structures en une crèche plus grande en 2025). La crèche des goélands a été fermée en 2022. La commune
+ne dispose d’aucune crèche départementale.
+6
+  Complexe sportif évolutif couvert.
+
+
+
+
+                                                           8
+                                   COMMUNE DE SAINT-MAURICE
+
+
+
+
+        La commune a mené également d’autres investissements de moindre envergure tels que
+la mise en accessibilité des bâtiments entre 2021 et 2023 pour 1,4 M€ et le verdissement de son
+parc automobile pour un montant de 370 000 €.
+       La commune prévoyait de rénover l’ancien cinéma de quartier « le Capitole » acquis par
+voie de préemption. Après avoir analysé les offres faites dans le cadre d’un marché
+de conception réalisation, ce projet a été abandonné au vu du reste à charge incombant
+à la commune (près de 7 M€).
+
+
+Environnement institutionnel
+
+       Saint-Maurice a fait partie, entre 2003 et 2015, de la communauté de communes
+de Charenton-le-Pont Saint-Maurice, qui comprenait uniquement ces deux communes.
+Cet établissement public de coopération intercommunal (EPCI) à fiscalité propre, exerçait
+les compétences suivantes : aménagement, action de développement économique et aide
+à l’emploi, production et mise en valeur de l’environnement, culture, transport, actions
+commémoratives et festives, archives.
+        Depuis le 1er janvier 2016, la commune de Saint-Maurice a intégré l’établissement
+public territorial (EPT) Paris-Est-Marne-Bois (PEMB) qui s’est substitué à cet EPCI. Cet EPT
+regroupe 13 communes7, s’étend sur 56,3 km2 et comprend 516 281 habitants en 2022.
+      Outre les compétences obligatoires qui lui sont assignées par la loi8, l’EPT exerce
+également les compétences d’habitat, de logement, et de développement économique.
+        La commune de Saint-Maurice dispose d’un centre communal d’action sociale (CCAS).
+        La commune adhère aux syndicats intercommunaux pour le gaz et l’électricité en
+Île-de-France (Sigief), de la périphérie de Paris pour l’électricité et les réseaux
+de communication (Sipperec) et au syndicat intercommunal funéraire de la région parisienne
+(Sifurep). Elle est membre du syndicat informatique Infocom 94 et du syndicat mixte Autolib’
+et vélib’.
+        La commune ne détient pas de participations dans des sociétés d’économie mixte.
+Elle détient des actions au sein de la société publique locale (SPL) Île-de-France construction
+durable9, En tant qu’actionnaire minoritaire, elle détient à ce jour 2 030 actions, soit 1,03% du
+capital de la société publique locale, d’une valeur nominale de 16 € à la suite d’une cession de
+250 actions à la commune de Sucy-en-Brie en 2021 et d’une autre de 250 actions à
+la communauté d’agglomération de Roissy Pays de France.
+      La commune fait régulièrement des bilans de l’action communale (en fin de mandat et
+à mi-mandat) ainsi que des bilans d’activité des services annuels.
+
+7
+  Bry-sur-Marne,     Champigny-sur-Marne,      Charenton-le-Pont,       Fontenay-sous-Bois,      Joinville-le-Pont,
+Le Perreux-sur-Marne, Maisons-Alfort, Nogent-sur-Marne, Saint-Mandé, Saint-Maur-des-Fossés, Saint-Maurice,
+Villiers-sur-Marne et Vincennes.
+8
+  Politique de la ville, équipements culturels, socio-éducatifs et sportifs d’intérêt territorial, eau et
+d’assainissement, déchets ménagers et action sociale d’intérêt territorial, élaboration du Plan local d’urbanisme
+intercommunal (PLUi) et plan climat-air-énergie territorial (PCAET).
+9
+  La SPL Île-de-France construction durable était anciennement la société d’aménagement et d’équipement de
+la région parisienne (SAERP). Crée en 1956, il s’agissait d’une des premières sociétés d’économie mixte
+d’aménagement en France.
+
+
+
+
+                                                        9
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Les représentants communaux aux conseils d’administration des sociétés d’économie
+mixte ou de SPL (par l’article L. 1531-1 du code général des collectivités territoriales-CGCT)
+doivent présenter au conseil municipal une fois par an un rapport conformément aux articles
+L. 1524-5 et D. 1524-7 du CGCT. Or, malgré la demande de la chambre, la commune n’a pas
+transmis le rapport des administrateurs présents.
+
+
+                                      : Présenter annuellement au conseil municipal le
+rapport des administrateurs pour la société publique locale dans laquelle la commune
+détient une participation, conformément aux articles L. 1524-5 et D. 1524-7 du code
+général des collectivités territoriales.
+
+
+
+
+1 ORGANISATION DE LA COMMUNE
+
+
+1.1 Un conseil municipal dont le fonctionnement s’est récemment amélioré
+
+        Le conseil municipal du 1er avril 2026 a actualisé son règlement intérieur, dont
+la précédente version datait de septembre 2022. Le rythme de réunions du conseil municipal est
+fréquent (cinq à sept séances par an) et conforme à l’article L. 2121-7 du CGCT. Il a donné
+délégation de pouvoirs au maire dans les domaines prévus à l’article L. 2122-22 du CGCT.
+       La commune met en ligne l’ensemble des délibérations votées depuis septembre 2022
+conformément à l’article L. 2121-25 du CGCT. Les délibérations du conseil municipal sont
+disponibles sur une plateforme spécialisée.
+       À la faveur du contrôle de la chambre, la commune met également en ligne l’intégralité
+des procès-verbaux des séances du conseil municipal, conformément à l’article L. 2121-15 du
+CGCT.
+
+
+
+1.2 L’organisation administrative ne comprend pas de pôles et de
+    directions générales adjointes
+
+         La commune a fourni l’organigramme des services communaux passé en comité social
+territorial le 17 octobre 2024. Cet organigramme est caractérisé par un rattachement de tous les
+responsables de service (16 directeurs ou chefs de service) directement à la directrice générale
+des services, sans qu’il y ait de pôle de regroupement ou de direction générale adjointe.
+       La commune est libre de son organisation administrative. L’emploi de directeur général
+des services est le seul emploi fonctionnel communal.
+
+
+
+
+                                              10
+                                     COMMUNE DE SAINT-MAURICE
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+       Les réunions du conseil municipal n’appellent pas d’observation. La commune met
+en ligne l’ensemble des délibérations votées. À la faveur des travaux de la chambre elle met
+désormais en ligne les procès-verbaux des séances, se conformant ainsi à la réglementation.
+       L’organisation administrative, qui n’a pas évolué depuis 2019, comprend des services
+presque intégralement rattachés directement la directrice générale des services.
+
+
+
+
+2 INFORMATION BUDGÉTAIRE ET COMPTABLE
+
+
+2.1 L’organisation des fonctions budgétaire et comptable à davantage
+    formaliser
+
+        Les fonctions budgétaire et comptable sont assurées par la direction des finances,
+rattachée à la direction générale des services. Elle est constituée, compte tenu de la création
+d’un poste en 2025, de sept agents : une directrice, une directrice adjointe, trois gestionnaires
+et deux régisseurs. Dans un contexte budgétaire contraint, la commune indique privilégier les
+réorganisations internes pour améliorer la qualité du suivi comptable.
+        Le poste de direction a fait l’objet de deux périodes de vacances au cours de la période
+sous revue : d’octobre 2023 à février 2024 puis de septembre 2024 à mai 2025, avec à chaque
+fois un intérim exercé par la directrice générale des services, soutenue lors du premier intérim
+par le recours au cabinet de conseil pour la clôture du budget, puis par la directrice adjointe qui
+occupe la fonction de directrice des finances.
+        Un règlement budgétaire et financier a été adopté par le conseil municipal
+en décembre 202110 dans le cadre de la mise en œuvre de l’instruction budgétaire et comptable
+M57, effective depuis le 1er janvier 2021. Compte tenu du caractère général et succinct du
+document qui ne définissait pas précisément les circuits et la répartition des tâches entre les
+différents acteurs, la commune a adopté le 23 avril 2026, à la faveur du contrôle de la chambre,
+un nouveau règlement budgétaire et comptable plus adapté.
+        De même, si l’organigramme fonctionnel transmis par la commune documente
+le caractère déconcentré de l'exécution budgétaire (engagement des dépenses et des recettes
+au niveau des directions et services opérationnels), il manque de clarté sur l’organisation
+du contrôle interne à l’œuvre dans la commune, notamment au regard de la dispersion
+des fonctions de validation. La chambre invite la commune à clarifier cet organigramme
+fonctionnel.
+
+
+
+
+10
+     Délibération n° 275 du 15 décembre 2021 portant approbation du règlement budgétaire et financier.
+
+
+
+
+                                                        11
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        S’agissant plus globalement de la démarche de contrôle interne, la direction des finances
+a progressivement mis en place des fiches de procédures sur les sujets qu’elle estimait les plus
+à risque11. Ce dispositif, partiel et hétérogène sur la forme, gagnerait à être étoffé et rassemblé
+dans un guide organisé. La commune reconnaît l’utilité d’un tel guide sans s’engager à en
+réaliser un, malgré le travail d’ores et déjà réalisé.
+         La préparation budgétaire s’effectue sur la base d’une lettre de cadrage du maire, qui
+fixe la trajectoire financière du budget à construire et les éléments de calendrier. Depuis 2025,
+les services opérationnels formulent leurs propositions budgétaires directement dans le
+progiciel budgétaire et comptable, amorçant un cycle de réunions d’arbitrage en présence des
+responsables de chaque service et des élus concernés.
+
+
+
+2.2 Un contrôle insuffisant des régies comptables par la commune
+
+        Par dérogation au principe de séparation entre les fonctions d’ordonnateur et
+de comptable public12, la commune dispose de trois régies de recettes et deux régies d’avances
+actives13 rattachées au budget principal auxquelles s’ajoutent une régie de recette pour
+un budget annexe (résidence de Presles -Serges Cas).
+          L’ensemble des régies comptables dépend de la direction des affaires financières. Les
+régisseurs sont régulièrement contrôlés, le suivi de leurs activités fait l’objet de tableaux de bord
+et le titrage est réalisé par les agents de la direction des finances. La commune n’a toutefois pas
+mis en place de procédure écrite et formalisée encadrant leur fonctionnement.
+        Si chacune de ces régies ont fait l’objet de contrôles diligentés par la comptable publique
+entre 2023 et 2025 aboutissant à des plans d’actions (hormis celle du marché alimentaire), il
+résultait de ces contrôles externes des irrégularités dans la tenue des comptes, des difficultés
+concernant le remplacement des régisseurs et un manque de communication général de la
+commune à l’égard de la comptable publique. Ainsi le suivi de certains plans d’actions n’avait
+pas fait l’objet de réponse de l’ordonnateur depuis plusieurs mois et jusqu’à deux années : cela
+concernait les régies de recette du stationnement, de la résidence pour personnes âgées et celle
+d’avance du théâtre du Val d’Osne. Le procès-verbal de la régie d’avance principale (« régie
+unique ») du 19 octobre 2023 indique des sommes manquantes. Une somme de 3 146,82 € reste
+à mandater au titre de 2022 et 2023 selon les services de la comptable publique, en l’absence
+de justificatifs.
+
+
+                                     : La commune s’engage à se doter d’une procédure de
+contrôle plus régulier de ses régies, distinct de celui du comptable public sans en préciser
+le délai. : Mettre en place un contrôle régulier des régies, distinct de celui du comptable
+public, conformément à l'article R. 1617-17 du code général des collectivités territoriales.
+
+
+11
+   Traitement des factures après rejet ou annulation, gestion de l’état prévisionnel des recettes et des dépenses de
+la résidence des Presles, gestion du budget provisoire, titrage des recettes de la régie, traitement des avoirs,
+régularisation des comptes d’attente.
+12
+   Le comptable public est seul chargé du recouvrement des recettes et du paiement des dépenses communales.
+13
+   La commune a en outre clôturé trois régies de recettes, une régie d’avance temporaire et deux régies mixtes.
+
+
+
+
+                                                        12
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+2.3 La qualité de l’information financière est perfectible
+
+
+2.3.1 Le rapport d’orientation budgétaire doit être complété
+
+       Conformément à l’article L. 2312-1 du CGCT, la commune organise un débat
+d’orientation budgétaire (DOB) dans les deux mois précédant le vote du budget primitif.
+       La tenue de ces débats est formalisée par une délibération du conseil municipal, sur la
+base d’un rapport d’orientation budgétaire (ROB) préalablement transmis aux membres
+du conseil. Ce rapport doit répondre à un certain nombre d’exigences14.
+        Les informations du ROB relatives aux ressources humaines, obligatoires pour
+les communes de 10 000 habitants et plus, répondent en partie aux attendus : la décomposition
+financière de la masse salariale donne à voir le poids des traitements indiciaires, des régimes
+indemnitaires et des nouvelles bonifications indiciaires (NBI), ainsi celui des avantages
+en nature et des heures supplémentaires rémunérées. La structure des effectifs présentée
+est détaillée et chiffrée (filière, catégorie, âge), mais elle reste cependant statique, n’offrant pas
+de projection au titre de l’exercice auquel se rapporte le projet de budget. La chambre invite
+la commune à opérer une telle projection dans les prochains ROB.
+       Une approche prospective est en revanche bien présente s’agissant des dépenses
+d’investissement et de l’endettement de la commune.
+
+
+2.3.2 Les annexes aux documents budgétaires et comptables à compléter
+      ou corriger
+
+        En vertu des articles L. 2313-1 et R. 2313-3 du CGCT, les états annexés aux documents
+budgétaires et comptables doivent être complétés et conformes aux maquettes prévues par
+les instructions réglementaires. En l’espèce, de nombreuses lacunes sont relevées.
+(Cf. annexe n° 1).
+         Les annexes budgétaires et comptables suivantes15 sont absentes ou non complétées :
+     - la liste des concours attribués sous forme de prestations en nature ou de subvention
+       (annexe B8), présentée à compter de l’exercice 2021 reste sans précision sur les aides
+       en nature ;
+     - l’annexe B10 ne mentionne pas les délégataires de service public ;
+     - l’annexe B7.1 ne retrace pas l’encours des emprunts garantis par la commune ni
+       l’échéancier de leur amortissement ;
+     - l’annexe B3 ne recense pas l’état des provisions ;
+     - l’annexe B3.1 ne mentionne pas les organismes de regroupement dont la commune
+       est membre ;
+
+14
+   Introduites pas la loi n° 2015-991 du 7 août 2015 portant nouvelle organisation territoriale de la République, dite
+loi « NOTRé », notamment son article 107, et précisées par le décret n° 2006-841 du 24 juin 2016, codifié à l’article
+D. 2312-3 du CGCT
+15
+   Les références des annexes renvoient à la codification prévue dans la maquette compte financier unique (CFU).
+
+
+
+
+                                                         13
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     - l’annexe F ne présente pas les décisions en matière de taux des contributions directes ;
+
+La commune n’a pas transmis de projet de maquette de compte financier unique.
+
+
+                                      : Joindre des annexes complètes aux documents
+budgétaires et comptables conformément aux articles L. 2313-1 et R. 2313-3 du code
+général des collectivités territoriales.
+
+
+2.3.3 L’accès à l’information budgétaire a progressé
+
+        Aux termes des articles L. 2313-1 et R. 2313-8 du CGCT, la commune est tenue
+de mettre en ligne, sur son site internet, ses principaux documents budgétaires un mois après
+leur adoption par le conseil municipal dans des conditions garantissant leur accessibilité,
+leur gratuité et leur facilité d’accès pour le public.
+       Jusqu’en 2025, le site internet de la commune ne contenait que peu d’éléments :
+une présentation synthétique des budgets 2021, 2022 et 2025, ainsi que la maquette du compte
+administratif 2021 et son rapport de présentation. À la faveur du contrôle de la chambre,
+la commune a complété l’information concernant le budget 2025 et réalisé une présentation
+synthétique des orientations budgétaire, dont le contenu permet au citoyen de comprendre
+aisément les enjeux, conformément à l’article L. 2313-1 du CGCT.
+
+
+
+2.4 Une tenue des comptes qui s’est récemment améliorée
+
+
+2.4.1 Les délais de paiement qui excédaient largement le seuil réglementaire des
+      30 jours ont été réduits en 2025
+
+       Les collectivités locales sont soumises à une obligation de respect du délai global de
+paiement de 30 jours16 se partageant entre celui de l’ordonnateur (20 jours) et celui du
+comptable public (10 jours). Ce délai court de la date de réception de la facture par
+l’ordonnateur (ou son maître d’œuvre) jusqu’à son paiement par le comptable public17.
+        En cas de dépassement du délai, des intérêts moratoires sont dus au fournisseur, en sus
+de l’indemnité forfaitaire de 40 € pour frais de recouvrement. Les intérêts moratoires
+et l’indemnité forfaitaire doivent être payés dans un délai de 45 jours suivant la mise
+en paiement du principal. Ils sont de droit, sans possibilité d’y renoncer.
+
+
+
+16
+   Loi n° 2013-100 du 28 janvier 2013 portant diverses dispositions d’adaptation de la législation au droit de
+l’Union européenne en matière économique et financière et décret n° 2013-269 du 29 mars 2013 relatif à la lutte
+contre les retards de paiement dans les contrats de la commande publique.
+17
+   Ce délai est aujourd’hui fixé aux articles L. 2192-10 à L. 2192-13 et R. 2192-10 du code de la commande publique.
+
+
+
+
+                                                        14
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+        Les délais globaux de paiement (DGP) de la commune entre 2019 et 2024 sont
+les suivants :
+
+                       Tableau n° 2 : Délai de paiement moyen sur la période 2019-2024
+
+     Nombre de jours      2019       2020        2021        2022         2023          2024     2025
+     DGP moyen            52,05      48,30       51,31       57,52        52,35         72,54    44,67
+     Ordonnateur          42,45      42,51       46,82       50,89        47,19         68,97    41,88
+     Comptable            9,60        5,79       4,49        6,63         5,16          3,57     2,79
+
+Source : Chambre régionale des comptes (CRC), d’après les données du comptable public
+
+
+        Le DGP de la commune ne respecte pas le délai réglementaire des 30 jours sur
+l’ensemble de la période sous revue, atteignant des niveaux très supérieurs à la norme.
+L’exercice 2024 connait une forte dégradation (72,54 jours au global, dont près de 69 jours
+imputables au seul ordonnateur). En 2025 la commune a pris des mesures pour remédier à cette
+situation. Elle indique avoir audité et simplifié les circuits de validation des factures. Fin 2025,
+le DGP moyen était de 44,67 jours mais était inférieur à 30 jours sur les derniers mois. Il est
+inférieur à 32 jours sur les trois premiers mois 2026.
+       Au regard des dépassements constatés avant 2025, les montants d’intérêts moratoires
+payés, à savoir 170 € sur toute la période sous contrôle18, sont très faibles. La chambre rappelle
+à la commune son obligation de mandater les intérêts moratoires et les indemnités forfaitaires,
+conformément aux articles L. 2192-13 et L. 2192-14 du code de la commande publique.
+          Eu égard aux éléments précédent, la chambre émet la recommandation ci-après :
+
+
+                                    : Poursuivre la réduction du délai global de paiement
+tels que défini dans les articles L. 2192-10 à L. 2192-13 et R. 2192-10 du code de la
+commande publique et mandater le cas échéant les intérêts moratoires conformément aux
+articles L. 2192-13 et L. 2192-14 du même code.
+
+2.4.2 La mise en place d’un provisionnement comptable
+
+       Conformément aux articles L. 2321-2 et R. 2321-2 du CGCT, une commune
+doit constituer des dotations aux provisions dans certains cas tandis que dans d’autres, elle peut
+décider d’en constituer dès l’apparition de risques et les reprendre s’ils ne sont plus avérés.
+Les provisions comptables sont à évaluer et à ajuster régulièrement en fonction de l’évolution
+des risques. Trois types de provisions sont obligatoires pour les communes de plus
+de 3 500 habitants :
+     - pour les garanties d’emprunts, prêts et créances, avances de trésorerie et participations en
+       capital accordés à un organisme faisant l’objet d’une procédure collective ;
+     - pour risques afférents aux litiges et contentieux ;
+
+
+18
+  Comptes 6711 (M14) et 6583 (M57) – « intérêts moratoires et pénalités sur marchés » : 3 € en 2019, 67 €
+en 2020 et 102 € en 2021.
+
+
+
+
+                                                     15
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+     - lorsque le recouvrement des restes à recouvrer sur compte de tiers est compromis malgré
+       les diligences faites par le comptable public.
+        La commune a accordé trois garanties d’emprunt entre juin 2023 et septembre 2024 à
+une entreprise du logement social, dans le cadre de la construction, de l’amélioration ou
+de la réhabilitation de logements sur la rue du Maréchal Leclerc. Ces garanties d’emprunt
+s’élèvent au total à 13,78 M€ et ne donnent pas lieu à des provisions compte tenu de la qualité
+de leur bénéficiaire.
+        La commune est par ailleurs partie à quatre contentieux. Pour deux d’entre eux, en cours
+d’instruction, elle estime le risque nul pour cause d’absence d’intérêt à agir du requérant. Les
+autres affaires donneront en revanche lieu à des provisions au budget supplémentaire 2025.
+Aucune dotation aux provisions pour risques et charges de fonctionnement (compte 6815) n’a
+été passée entre 2020 et 2024.
+       S’agissant des créances douteuses, la commune a constitué des dépréciations sur actifs
+circulants pour un montant total de 49 726 € entre 2019 et 2024. Sur proposition du service de
+gestion comptable (SGC) de Saint-Maur-des-Fossés, elle a amorcé en septembre 2024 une
+démarche de provisionnement selon le principe suivant : des provisions sont constituées pour
+les exercices 2013 à 2019 avec un taux différent selon l’ancienneté de la créance (entre 50 %
+et 100 %). Le barème de calcul proposé par le SGC a été approuvé par le conseil municipal en
+date du 25 septembre 2024. Il aboutit à une provision globale de 128 631 €. Lors de la même
+séance, l’étalement de cette provision a été approuvée, comme l’autorise l’article R. 2321-2 du
+CGCT, sur les exercices 2024 à 2028, soit 49 726,29 € en 2024 puis 19 726,29 € les
+quatre exercices suivants.
+       Les créances des exercices 2020 à 2023 ne font quant à elles l’objet d’aucune provision.
+Le taux de recouvrement sur exercices antérieurs s’élève à 99,01 % au 31 décembre 2024.
+Le maire de la commune a donné à la comptable publique une autorisation générale et
+permanente de poursuites depuis le 7 septembre 2022.
+       La chambre relève que les admissions en non-valeur sont traitées chaque année à l’appui
+d’une délibération du conseil municipal, conformément à la réglementation.
+
+2.4.3 La fiabilité de l’actif patrimonial est à renforcer
+
+           2.4.3.1 Un état d’inventaire non concordant avec l’état de l’actif
+
+        La commune précise dans son rapport de présentation du compte financier
+unique 202219 qu’« un long travail est à engager avec la trésorerie afin d’obtenir une
+concordance entre l’actif de la trésorerie [ndlr le SGC de Saint-Maur-des-Fossés] et celui de
+la ville. Certains éléments n’ont pas été mis à jour depuis le changement du système
+d’information de la trésorerie. À la lecture de la balance, certains éléments n’ont pas été apurés
+depuis de nombreuses années (avances sur commandes …). »
+
+
+
+
+19
+     Page 7 du rapport de présentation du compte financier unique sur les comptes 2022.
+
+
+
+
+                                                        16
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+        La commune indique ne pas effectuer de rapprochement de son état d’inventaire avec
+l’actif du comptable public. Ce dernier confirme qu’il subsistait un important travail
+d’ajustement à faire sur l’actif et l’inventaire ; il a en outre transmis une liste d’anomalies
+comptables détectées en 2024 et à régulariser en 2025. Selon la comptable publique, certaines
+anomalies ont été régularisées (notamment les amortissements des immobilisations et les
+avances sur commande) en 2025 et une réunion avec les services de la commune devait se tenir
+en mai 2026 pour prioriser et échelonner les travaux à mener.
+       Au 31 décembre 2024, l’état de l’actif s’établit en valeur brute à 160,41 M€ et en valeur
+nette à 155,49 M€. Seul un document de constatation des amortissements, au demeurant
+incomplet20, a été transmis par la commune qui ne tient pas d’inventaire physique de ses biens,
+affichant une valeur brute de 12,69 M€ (- 147,72 M€ par rapport à l’état de l’actif du
+comptable) et une valeur nette de 6,25 M€ (- 149,24 M€). Compte tenu de ces écarts
+substantiels, la chambre adresse à la commune la recommandation de régularité suivante.
+
+
+                                    : Tenir un inventaire physique et comptable exhaustif
+et cohérent avec l’état de l’actif conformément à l’instruction budgétaire et comptable
+M5721.
+
+
+        2.4.3.2 L’intégration des immobilisations corporelles achevées dans l’actif
+                patrimonial
+
+        Lorsque les immobilisations, inscrites au compte 23 (« immobilisations en cours ») sont
+achevées, elles doivent être comptabilisées au compte définitif concerné (comptes 20
+« immobilisations incorporelles » ou 21 « immobilisations corporelles ») et être ainsi intégrées
+à l’actif patrimonial. Elles feront l’objet, le cas échéant, d’un amortissement pris en compte
+dans le résultat comptable.
+
+
+              Tableau n° 3 : Part des immobilisations en cours dans l’actif immobilisé net
+
+ En €                              2019          2020           2021          2022          2023          2024
+ Immobilisations en cours (A)     6 409 609     6 776 992      7 060 310     7 276 766     8 526 957     9 520 771
+ Actif immobilisé net (B)       129 891 295   131 658 630    133 919 173   135 673 781   139 851 898   142 094 193
+          Ratio (A/B) (en %)       4,93          5,15           5,27          5,36          6,10          6,70
+
+Source : CRC, d’après les comptes de gestion et comptes financiers uniques
+
+
+
+
+20
+   La commune indique que le fichier transmis ne comprend pas les immobilisations antérieures à 1997, pour cause
+de changement de logiciel.
+21
+   Annexe n° 1, page 70.
+
+
+
+
+                                                        17
+ RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+         La part des immobilisations en cours dans l’actif immobilisé net22 reste à un niveau
+ modéré (en comparaison avec la moyenne du bloc communal, qui est de 12,6 % en 2020)23
+ tout au long de la période sous contrôle, ne suscitant pas d’alerte sur le sujet.
+
+
+ 2.4.4 Les opérations de fin d’exercice
+
+
+          2.4.4.1 Les rattachements des charges et des produits à l’exercice)
+
+        En application du principe d’annualité budgétaire, les instructions budgétaires et
+ comptables M14 et M57 prévoient le rattachement des charges et des produits à l’exercice
+ auquel ils se rapportent ; ils sont ainsi pris en compte dans le calcul du résultat comptable
+ de l’exercice.
+          Sur la période sous revue, les rattachements s’établissent comme suit :
+
+
+           Tableau n° 4 : Rattachement des charges et des produits sur la période 2019 à 2024
+
+      En € et en %            2019          2020          2021            2022            2023            2024
+Charges rattachées            958 423      1 288 989        721 828       1 327 773       2 758 862       1 519 905
+Charges de gestion          23 349 282    22 364 945     22 826 554      24 052 058      25 875 043     26 730 039
+ Charges rattachées en %      4,1            5,8            3,2            5,5            10,7             5,7
+Produits rattachés            620 706      1 592 601      1 585 368       1 166 932        873 981        1 108 165
+Produits de gestion         24 887 358    23 506 173     23 642 796      24 190 889      24 739 025     28 367 707
+  Produits rattachés en %     2,5            6,8            6,7            4,8             3,5             3,9
+
+ Source : CRC d’après les comptes administratifs et les comptes financiers uniques
+
+
+         Le niveau des charges et produits rattachés est maitrisé24. La direction générale
+ des services effectue des points réguliers sur les engagements avec les directions et services
+ et leur adresse des notes en prévision de la clôture comptable.
+
+
+
+
+ 22
+    L’actif immobilisé net correspond au solde des comptes 20 (immobilisations incorporelles), 21 (immobilisations
+ corporelles), 22 (immobilisations reçues en affectation) ainsi que 23, diminués des amortissements (compte 28) et
+ des dépréciations (compte 29).
+ 23
+    Cour des comptes, Les finances publiques locales 2021 – Fascicule 2 (ccomptes.fr), pages 99 et 200
+ (tableau n° 23).
+ 24
+    La commune en a produit le détail à la chambre.
+
+
+
+
+                                                       18
+                                      COMMUNE DE SAINT-MAURICE
+
+
+
+
+            2.4.4.2 Les restes à réaliser
+
+        Sur la période sous revue, les comptes du budget principal de la commune présentent
+des restes à réaliser (RAR)25 en section d’investissement, qui sont les suivants :
+
+
+               Tableau n° 5 : Restes à réaliser en dépenses et recettes sur la période 2019 à 2023
+
+               En €                2019          2020               2021          2022          2023          2024
+     RAR dépenses                 1 671 826     1 545 748          1 602 088     2 572 159     1 094 127     1 154 009
+     Dépenses d'investissement    9 623 763     5 699 659          4 686 322     5 901 426     5 740 719     4 074 282
+       Part des RAR dans les
+                                   17,4          27,1               34,2          43,6          19,1          28,3
+       dépenses d’inv. (en %)
+     RAR recettes                 1 317 497       998 019          2 586 165     3 060 923     4 029 855     2 672 200
+     Recettes d'investissement    7 898 464     5 177 624          4 875 734     5 311 146     6 385 002     8 279 288
+       Part des RAR dans les
+                                   16,7          19,3               53,0          57,6          63,1          32,3
+        recettes d’inv. (en %)
+     Solde des RAR               - 8 306 266   - 4 701 640        - 2 100 157   - 2 840 503   - 1 710 864   - 1 402 082
+
+Source : CRC d’après les comptes de la commune (budget principal)
+
+
+       Le montant de ces RAR est élevé, en dépenses et plus encore en recettes. Entre 2021
+et 2023, ils représentent plus de la moitié des recettes d’investissement.
+        La chambre a procédé à la vérification des trois restes à réaliser les plus importants en
+recettes en 2023 et en 2024 (pour des montants totaux qui s’élèvent respectivement à 1,91 M€
+et à 1,92 M€)26. Les pièces justificatives ont été produites par la commune et n’appellent pas
+d’observations.
+
+
+
+
+25
+   Les restes à réaliser en dépenses sont des engagements juridiques donnés à des tiers qui découlent de la signature
+de marchés, de contrats ou de conventions et qui n’ont pas encore fait l’objet d’un mandatement sur l’exercice (n)
+qui vient de s’achever mais qui donneront obligatoirement lieu à un début de paiement sur le prochain
+exercice (n+1).
+26
+   Les restes à réaliser ayant fait l’objet d’une vérification par la chambre sont les suivants : subvention relative à
+l’agenda d’accessibilité programmée (ADAP) pour un montant de 241 774 € en RAR 2023 ; subvention dans le
+cadre du fonds d’accélération de la transition écologique pour un montant de 900 000 € en RAR 2023 puis
+en RAR 2024 ; subvention de la métropole du grand Paris au titre du fonds d’investissement métropolitain pour
+un montant de 767 434 € en RAR 2023 puis en RAR 2024 ; subvention au titre de la dotation de soutien à
+l’investissement local pour la réalisation des travaux de mise aux normes et sécurisation de la crèche Delacroix
+pour un montant de 248 291 €.
+
+
+
+
+                                                             19
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        L’organisation budgétaire et comptable gagnerait à être davantage formalisée. Le
+contrôle interne embryonnaire. Les régies comptables doivent être suivies plus régulièrement
+et rigoureusement par la commune.
+       Le rapport d’orientation budgétaire doit s’enrichir d’une approche prospective
+pluriannuelle s’agissant des informations relatives aux ressources humaines. Les annexes
+aux documents budgétaires ou comptables sont incomplètes et devront faire l’objet
+d’une amélioration.
+       La commune devra poursuivre l’effort de réduction des délais de paiement encore
+supérieurs aux 30 jours fixés par le code de la commande publique. Enfin, un inventaire
+physique et comptable exhaustif et cohérent doit être tenu par la commune, ce qui n’est pas le
+cas actuellement.
+
+
+
+
+3 ANALYSE FINANCIÈRE
+
+
+                                         Précision méthodologique
+        Les chiffres et les pourcentages d’évolution présentés dans le rapport sont en euros courants.
+ Ils ne sont pas corrigés de l’inflation (+ 5,2 % en 2022, + 4,9 % en 2023 et + 2 % en 2024).
+ Les données 2025 sont provisoires dans les tableaux de l’analyse financière.
+
+
+
+
+3.1 Architecture budgétaire
+
+       Sur la période de contrôle, la commune dispose de trois budgets annexes en vigueur
+en 2020 relatifs à la résidence personnes âgées de Presles27, au legs d’un ancien habitant
+(M. Serge Cas)28 et à la gestion du marché alimentaire couvert Émile Bertrand29.
+       La gestion du marché Émile Bertrand a été transférée à la régie intercommunale
+des marchés alimentaires de l’EPT PEMB30 à compter du 1er juillet 2025. Les ressources du
+budget annexe sont de 100 000 € en 2024 avec résultat excédentaire de 30 000 €. Il ne comporte
+pas de dette en 2024.
+
+
+
+
+27
+   Instruction budgétaire et comptable M22.
+28
+   Instruction budgétaire et comptable M57.
+29
+   Instruction budgétaire et comptable M4.
+30
+   Depuis le 1er janvier 2024 les marchés alimentaires de Nogent-sur-Marne, Saint-Mandé et Joinville-le-Pont sont
+gérés en régie par l’EPT PEMB.
+
+
+
+
+                                                      20
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+                     Règles en matière de dons et de legs destinées aux communes
+        Les biens transférés, qu’il s’agisse d’un don (du vivant de la personne) ou d’un legs (réalisé
+après le décès de l’auteur de la libéralité), intègrent le domaine privé de la commune. Ces libéralités
+peuvent être grevées de contreparties ou des charges (rénovation ou entretien pour un bâtiment,
+assurance pour des œuvres d’art, etc.).
+         L’article L. 2242-1 du CGCT dispose que le conseil municipal statue sur l’acceptation des dons
+et legs faits à la commune.
+         Dans le cas d’un don, la commune peut négocier avec le donateur les charges pour obtenir
+un compromis plus adapté. Lors d’un legs est destiné à la commune, elle ne peut qu’accepter l’offre
+en l’état ou la refuser.
+         Les conditions et charges fixées par les donateurs et légataires sont, en cas d’acceptation,
+un engagement de la commune bénéficiaire à exécuter une obligation. L’inexécution partielle ou totale
+de ces charges peut entraîner la révocation du don ou legs, dès lors que le donateur lui-même,
+ses héritiers ou ayants droit la demandent au juge.
+
+        Le budget annexe « legs Serge Cas »31 présente des charges de 289 000 €32 en 2024 et
+ne comporte ni produits, ni dettes. Les ressources, mentionnées dans le rapport de
+la délibération de création du budget annexe du legs, ont été inscrites sur le budget principal
+(en 2019, les « libéralités reçues » concernant les assurances vie et les comptes sur livret pour
+575 000 €, les recettes de dons concernant deux appartements et un garage inscrits par
+la commune pour 391 000 €33 et les « autres produits exceptionnels sur opérations de gestion »
+concernant les bons au porteur de près de 100 000 € soit plus d’1 M€ au total). L’usage fait
+de ce budget annexe apparait peu pertinent puisqu’il ne comporte pas les recettes ni la totalité
+des dépenses liées au legs. La clôture de ce budget a été réalisée le 1er septembre 2025.
+        Malgré la cession des deux appartements et du garage en 2023, ces derniers figurent
+toujours à l’actif de la commune. Le montant de la cession perdure sur un compte d’attente. La
+commune ne pourra retirer les actifs de son inventaire du budget principal qu’après la clôture
+du budget annexe. Dans le cadre de l’utilisation de ce legs, la commune avait initialement prévu
+deux projets : l’acquisition d’un mini bus pour les personnes âgées (60 000 €) effectivement
+réalisée en 2023 et celle d’un car. Ce second projet, dont le coût prévisionnel a dû être réévalué
+à 700 000 € (passage à l’électrique) a été suspendu. La commune a donné le nom du testateur
+à un bâtiment municipal conformément à la délibération précitée d’acceptation du legs.
+
+
+
+
+31
+   Selon la délibération, le legs comprend un actif brut évalué à 201 645 € (liquidités sur comptes courants) et deux
+appartements évalués à 395 000 € et un passif de 20 109 € (frais funéraires, factures de téléphone, impôts et taxes,
+charges de copropriété).
+32
+   Essentiellement constitués par un flux financier au CCAS pour 182 700 € et un flux financier au budget annexe
+de la résidence personnes âgées de Presles pour 85 560 €.
+33
+   La commune a cédé ces deux appartements et le garage en 2023. Si la cession est conforme pour les deux
+appartements à l’avis des domaines, l’avis du domaine du garage est antérieur de deux années or un avis du
+domaine est valable une année. Néanmoins, le montant du garage (15 000 €) est limité et la commune a eu
+des difficultés à céder ces biens et payait des frais de copropriété.
+
+
+
+
+                                                        21
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Les comptes de la résidence pour personnes âgées de Presles présente un déficit brut
+d’exploitation de 30 000 € en 2023 s’aggravant à 40 000 € en 2024 alors qu’antérieurement,
+les comptes étaient excédentaires. La résidence, située sur un terrain communal, a été construite
+par l’office public de l’habitat Valophis habitat. La commune a conclu une convention
+de location auprès de Valophis habitat le 14 février 1978 pour 50 ans (bail emphytéotique).
+La commune, qui deviendra propriétaire du bâtiment à la fin de l’année 2027, verse une
+redevance à Valophis qui a augmenté depuis 2020. En 2024, compte tenu des retards de loyers
+et une augmentation des charges de fluides, les charges ont augmentées de 300 000 € obligeant
+la commune à soutenir les comptes de la résidence par le versement d’une subvention
+d’exploitation de 250 000 €. Ce budget annexe ne porte pas d’emprunt.
+        Étant donné que les budgets annexes relèvent d’instruction budgétaire et comptable
+différentes, que deux d’entre eux sont clôturés en 2025 et que le cumul de leurs charges
+ne représente que 3,3 % des charges de gestion du budget principal pour 2024, l’analyse portera
+que sur le budget principal.
+        Par ailleurs, la commune a délégué deux services publics antérieurement à la période de
+contrôle : la gestion et l’exploitation du stationnement et la gestion de deux établissements
+d’accueil de jeunes enfants. La commune recourt à ces délégations pour des considérations
+de coûts, de savoir-faire et de transfert du risque d’exploitation. La commune a réalisé
+des études comparant le coût d’une gestion en régie directe et celui en gestion déléguée afin de
+choisir le mode de gestion le plus adapté. En 2023, la commune indique, concernant
+la délégation de l’accueil de jeunes enfants, que le coût moyen par berceau en régie est supérieur
+au coût moyen du berceau en gestion déléguée de 6 000 €.
+
+
+3.2 Une stratégie financière formalisée résultant de difficultés financières
+    sur l’exercice
+
+        Disposant déjà d’équipements (crèches, salle polyvalente, équipements sportifs)
+et d’une superficie limitée, la commune n’a pas de projets de nouveaux investissements
+et privilégie la restauration de son patrimoine existant par des investissements de transition
+écologique. Elle n’avait, jusqu’en 2024, pas mis en place de plan pluriannuel d’investissement
+(PPI).
+        Compte tenu de la forte progression de ses charges face à des ressources contraintes, la
+commune a rencontré des difficultés financières à la fin de l’exercice 2023 ainsi qu’un refus de
+prêt bancaire. Elle a eu recours à un prestataire extérieur pour réaliser un audit rendu en
+avril 2024 sur la base duquel elle a notamment augmenté les taux de fiscalité locale.
+
+
+
+
+                                               22
+                                                 COMMUNE DE SAINT-MAURICE
+
+
+
+
+          3.3 Bien qu’en amélioration depuis 2024, la situation financière
+              de la commune reste fragile
+
+          3.3.1 Les produits de gestion en hausse résultant de l’augmentation des taux
+                de fiscalité en 2024
+
+                 Les produits de gestion, de 24,9 M€ en 2019, atteignent 28,4 M€ en 2024, soit
+          une augmentation de 2,7 % par an en moyenne et de 14 % depuis 2019. Leur hausse en 2023
+          (2,3 %) est inférieure à celle de l’ensemble du bloc communal (5,8 %). Leur accroissement
+          en 2024 (14,7 %) est supérieure à celle de l’ensemble du bloc communal (5,7 %)34.
+
+
+                                           Tableau n° 6 : "Évolution des produits de gestion"
+
+                                                                                                                                  Variation
+                                                                                                                                   annuelle
+               En €                 2019        2020          2021              2022         2023         2024       2025 (P)      moyenne
+                                                                                                                                  2019-2024
+                                                                                                                                    (en %)
+Ressources fiscales propres
+                                  13 289 159   12 991 214   13 528 748        13 814 930   14 668 534   17 034 744   17 692 052      5,1
+(nettes des restitutions)
++ Fiscalité reversée               4 733 807    4 648 860    4 630 228         4 731 615    4 563 122    4 652 002    4 534 892     - 0,3
+= Fiscalité totale (nette)        18 022 966   17 640 074   18 158 976        18 546 545   19 231 656   21 686 746   22 226 944      3,8
+ + Ressources d'exploitation
+(dont produits exceptionnels       3 788 562    2 229 900    2 690 744         2 849 529    3 210 343    4 105 796    4 310 720      1,6
+réels)
+ + Ressources
+institutionnelles (dotations et    3 075 829    3 636 199    2 793 076         2 794 815    2 297 025    2 590 946    2 916 359     - 3,4
+participations)
+= Produits de gestion (A)         24 887 358   23 506 173   23 642 796        24 190 889   24 739 025   28 383 487   29 454 023      2,7
+
+          Source : CRC d’après les comptes de gestion et les comptes financiers uniques
+          ( ) :données provisoires au 10 juin 2026
+
+
+                  Les ressources fiscales propres passent de 13,3 M€ en 2019 à 17 M€ en 2024.
+          Elles comprennent le produit des impôts locaux, nets de restitutions, lequel croît de 11,5 M€
+          à 15,8 M€. Cette évolution résulte de l’augmentation des taux de la fiscalité locale par
+          la commune en 2024 (cf. annexe n° 2) : 5,62 points de plus sur le taux de la taxe sur le foncier
+          bâti et 3,86 points sur celui de la taxe d’habitation des résidences secondaires, ce qui équivaut
+          à une hausse de 18 %. Elle résulte aussi de la revalorisation des bases fiscales35. L’effet base
+          concerne 2022 et 2023 et la combinaison de l’effet base et taux s’applique sur l’année 2024.
+          La hausse apparente du taux de la taxe foncière sur les propriétés bâties en 2021 à 38,59 %
+          résulte du transfert de la part départementale (13,75 %) dans le cadre de la réforme de la fiscalité
+          locale36.
+
+          34
+             Sources : rapport sur les finances publiques locales 2025 de la Cour des comptes (fascicule 1, juillet 2025)
+          annexe n° 3.
+          35
+             Les bases locatives ont été revalorisées chaque année en loi de finances (2,2 % en 2019, 1,2 % en 2020, 0,2 %
+          en 2021, 3,4 % en 2022, 7,1 % en 2023 et 3,9% en 2024.
+          36
+             Dans le cadre de la suppression progressive de la taxe d’habitation (TH) sur les résidences principales entre 2020
+          et 2023, les taux de TH ont été gelés dès 2020, à hauteur de ceux appliqués en 2019. La part départementale de
+          la taxe foncière bâti (TFB) a été transférée aux communes en compensation de recettes.
+
+
+
+
+                                                                         23
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Les autres produits fiscaux comprennent les recettes de publicité foncière et des droits
+d’enregistrements, dont les droits de mutation à titre onéreux (DMTO) qui ont été divisé par
+deux sur la période sous revue en passant d’1,5 M€ à 0,7 M€ avec la contraction du marché de
+l’immobilier, l’augmentation des taux d’usure et le durcissement des conditions de prêts. Les
+taxes liées aux transports, véhicules et aux droits de stationnement sont passés de 0,04 M€
+à 0,21 M€, les impôts liés à la production et à la consommation énergétique et industrielles
+(dont l’évolution est fluctuante pour 0,17 M€ en 2024) et les impôts et taxes liés aux activités
+de service37 qui n’ont pas été perçus en 2019 et qui ont augmenté de manière continue pour
+atteindre 0,18 M€ en 2024.
+        La fiscalité reversée entre 2019 et 2024 est composée essentiellement de l’attribution de
+compensation versée par la Métropole du Grand Paris (MGP) pour 4,9 M€ par an, fixe sur la
+période38 atténuée de prélèvements de péréquation et de solidarité. La commune est
+contributrice au fonds national de péréquation des ressources intercommunales et communales
+(passant de 0,21 M€ à 0,29 M€)39.La contribution était plus importante en 2023 (0,45 M€) en
+raison d’une régularisation de FPIC40 de 2022 de 0,15 M€. Elle a bénéficié de dotations de
+solidarité communautaire de la métropole du grand Paris en 2022 (20 000 €) et en 2023
+(65 000 €).
+        Les ressources d’exploitation sont en hausse (4,1 M€ en 2024 contre 3,8 M€ en 2019).
+Ces ressources ont baissé lors de la crise sanitaire et ont ensuite augmenté de manière continue.
+En 2023, la hausse s’explique par l’augmentation des autres produits de gestion courante par le
+versement d’une indemnité pour la servitude de vue accordée à un propriétaire privé41 et la
+régularisation du compte de dépôt en fonds du trésor de la régie principale. En 2024, la hausse
+de 27,9 % s’explique par la réforme des tarifs des droits de voirie et l’augmentation du produit
+des amendes par défaut de stationnement payant42. Le montant du produit du forfait de post-
+stationnement est de 675 000 € en 2024 (260 000 € en 2023).
+         Les recettes institutionnelles fluctuent mais baissent, passant de 3,1 M€ en 2019
+à 2,6 M€ en 2024. Elles comprennent la dotation globale de fonctionnement (0,85 M€ en 2024
+contre 1,1 M€ en 2019) et les participations de la caisse d’allocations familiales (dont il est
+difficile d’effectuer le suivi en raison de nombreuses erreurs d’imputation et d’absence
+de permanence des méthodes) dont le niveau baisse entre 2019 et 2024 bien qu’elles soient
+irrégulières. Elles avaient augmenté en 2020 et 2021 lors de la crise sanitaire puis ont baissé
+en 2023 et en 2024 en raison de la moindre de fréquentation des accueils périscolaires et
+la fermeture temporaire de la crèche Delacroix (réduction de 62 berceaux) réouverte en
+septembre 2024. En outre, la commune a connu des difficultés de recrutement dans le secteur
+de la petite enfance ayant conduit à réduire le nombre de places proposé.
+
+
+
+
+37
+   Notamment la taxe de séjour que la commune ne souhaite pas transférer à l’EPT Paris Est Marne et bois.
+38
+   Aucun mécanisme n’intègre l’évolution du dynamisme des recettes fiscales transférées.
+39
+   Le FPIC est un dispositif de péréquation horizontale au sein du bloc communal, mis en place en 2012.
+40
+   Fonds national de péréquation des ressources intercommunales et communales.
+41
+   La servitude de vue est un droit lié à une propriété, qui permet à son propriétaire de déroger aux distances
+imposées par la loi, pour créer une ouverture ou une vue, vers la propriété voisine. Le propriétaire privé a créé une
+contrainte en construisant un immeuble proche d’un parc de stationnement de la commune. Dans le cas présent, la
+servitude de vue a été accordée au propriétaire privé contre une indemnisation de la commune de 130 000 €.
+42
+   Le contrôle est plus régulier avec la mise en place d’un véhicule opérant des contrôles automatisés dans le cadre
+de la délégation de service public du stationnement.
+
+
+
+
+                                                        24
+                                                COMMUNE DE SAINT-MAURICE
+
+
+
+
+         3.3.2 Les charges de gestion dynamiques en 2023
+
+                 Les charges de gestion progressent de 23,3 M€ en 2019 à 26,7 M€ en 2024 (2,7 %
+         par an en moyenne). La hausse en 2023 (7,6 %) est supérieure à celle constatée dans l’ensemble
+         du bloc communal (6 %), mais celle observée en 2024 (3,3 %) reste inférieure (4,2 %)43.
+
+
+                                            Tableau n° 7 : Évolution des charges de gestion
+
+                                                                                                                              Variation annuelle
+              En €               2019          2020         2021            2022        2023          2024       2025 (P)      moyenne 2019-
+                                                                                                                                2024 (en %)
+Charges à caractère général     5 030 825     4 210 355    4 452 845     5 013 889     5 820 683     6 234 783    5 651 136          4,4
++ Charges de personnel         13 409 115    13 200 431   13 381 031    14 145 143    14 666 350    14 706 320   14 297 087          1,9
+ + Subventions de
+fonctionnement (dont             398 013        359 829     362 003         383 698      373 068      157 695      639 245         - 16,9
+subventions exceptionnelles)
+ + Autres charges de gestion
+(dont charges                   4 511 330     4 594 330    4 630 675     4 509 328     5 014 942     5 647 022    5 564 874          4,5
+exceptionnelles réelles)
+= Charges de gestion (B)       23 349 282    22 364 945   22 826 554    24 052 058    25 875 043    26 745 819   26 152 343          2,7
+Excédent brut de
+                                1 538 075     1 141 229     816 242         138 831   - 1 136 018    1 637 669    3 301 680          1,3
+fonctionnement (A-B)
+
+         Source : CRC d’après les comptes de gestion et les comptes financiers uniques
+         (P) : données provisoires au 10 juin 2026
+
+
+                Les charges de personnel augmentent entre 2019 et 2024, passant de 13,4 M€ à 14,7 M€
+         (soit en moyenne de + 1,9 % par an). Ces dépenses baissent en 2020 44 notamment par
+         la réduction des heures supplémentaires, puis progressent ensuite en glissement annuel
+         de 5,7 % en 2022, 3,7 % en 2023 et 0,3 % en 2024. Elles s’expliquent principalement par
+         plusieurs facteurs (cf. partie n° 4). Ces facteurs comprennent des réévaluations indiciaires
+         notamment en 2022 et 2023, des réformes catégorielles, le glissement vieillesse technicité
+         (GVT) estimé par la commune entre 1,5 % et 2 %45,et des mesures en 2024 visant à atténuer
+         l’augmentation de la masse salariale par la réduction les heures supplémentaires et de vacations
+         ainsi que des gels de postes. La commune a néanmoins versé la prime du pouvoir d’achat.
+         La part des charges de personnel dans les charges de gestion a baissé sur la période passant
+         de 57,4 % en 2019 à 55 % en 2024.
+
+
+
+
+         43
+            Cour des compte, Rapport sur les finances publiques locales 2025 fascicule n° 1, juillet 2025.
+         44
+            Bien que la commune a maintenu la rémunération des vacataires pendant les périodes de confinement (évalué à
+         115 000 € par la commune selon la note CA 2020) et qu’elle a participé à l’achat de masque par une prime pour
+         tous les agents.
+         45
+            Le glissement vieillesse technicité désigne les augmentations ou diminutions de la masse salariale, à effectif
+         constant, liées au seul fait que les agents titulaires sont mieux ou moins bien rémunérés, soit qu'ils occupent des
+         emplois plus ou moins qualifiés qu'avant, soit qu'ils aient une ancienneté plus ou moins importante.
+
+
+
+
+                                                                       25
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Après avoir chuté en 2020 dans le contexte de la crise sanitaire, les charges à caractère
+général atteignent 6,2 M€ en 2024 contre 5 M€ en 2019. Cette hausse se concentre
+essentiellement entre 2022 et 2024 (+ 12,6 % en 2022, + 16,1 % en 2023 et + 7,1 % en 2024
+en glissement annuel) en liaison avec le contexte énergétique inflationniste (coût des fluides,
+du transport) pour les années 2022 et 2023 et une inertie des contrats pour l’année 2024
+selon la commune. La commune étant membre de syndicats pour le gaz et l’électricité,
+elle dépend par conséquent des prix proposés par ces derniers. La commune a néanmoins
+mis en place un plan de sobriété en 2023 en fermant des structures consommant beaucoup
+d’énergie (sur lesquels les travaux de rénovation énergétique n’ont pas encore été mis
+en œuvre)46.
+         Les autres charges de gestion augmentent en passant de 4,5 M€ en 2019 à 5,6 M€
+en 2024. Elles comprennent les contributions aux autres organismes de regroupement en hausse
+principalement à l’EPT Paris est Marne et bois via le fonds de compensation des charges
+territoriales (FCCT). Le compte de contribution au FCCT a fait l’objet de nombreuses erreurs
+d’imputation (entre les années 2019 et 2023, il comprenait les contributions au syndicat
+Infocom 94 et en 2019 la contribution au Sipperec) mais il a été corrigé en 2024, sans aucune
+précision dans le compte financier unique (CFU) ni note explicative, ce qui ne permet pas
+aux élus et aux citoyens de faire des comparaisons d’une année sur l’autre.
+
+
+                         Tableau n° 8 : Détail du compte contribution au FCCT
+
+               En €                     2019           2020            2021           2022           2023
+ FCCT                                3 943 419,00   4 085 038,00    4 039 934,00    3 966 072,40   4 247 840,60
+ Infocom 94 (imputation erronée)      106 316,28      106 050,46      105 744,84      53 427,60     194 123,95
+ Sipperec (imputation erronée)           2 737,14              0                0             0              0
+ Total du C/ 65541 (jusqu'en 2020)
+                                     4 052 472,42   4 191 088,46    4 145 678,84    4 019 500,00   4 441 964,55
+ et C/65561 (à partir de 2021)
+
+Source : CRC d’après les comptes financiers uniques et les comptes de gestion
+
+
+        Le FCCT à 3,9 M€ en 2019 a augmenté à 4,1 M€ en 2020 pour l’achat de masques à
+destination de la population puis a baissé jusqu’en 2022 à 4 M€. En 2023 et en 2024,
+il a augmenté à 4,2 M€. La commune indique qu’en tant que membre d’une ancienne
+communauté de communes, elle bénéficie d’une neutralisation de l’évolution de la contribution
+à une partie du FCCT depuis 2022 : le « FCCT socle »47. Cette partie du FCCT progresse
+conformément à l’évolution de l’indice des prix à la consommation
+       La contribution au syndicat Infocom 94 est stable entre 2019 et 2022 (100 000 €).
+En 2022, elle a été divisée par deux et en 2023 multipliée par quatre pour atteindre 190 000 €
+pour des questions de régularisation.
+        Les autres charges de gestion ont en outre progressé avec l’accroissement
+des contributions incendie (0.34 M€ en 2024 contre 0,24 M€ en 2019). Les indemnités et autres
+frais des élus ont augmenté de 11,4 % sur la période en passant de 0,16 M€ à 0,18 M€.
+
+
+46
+   La salle polyvalente Eugène Delacroix (cinq mois), le centre de loisir sans hébergement des bords de Marne
+(trois mois).
+47
+   Cette mesure a permis des économies (83 478 € en 2022, 78 700 € en 2023, 46 222 € en 2024).
+
+
+
+
+                                                     26
+                                   COMMUNE DE SAINT-MAURICE
+
+
+
+
+        L’augmentation des autres charges de gestion est plus importante en 2023 (11,2 %) et
+en 2024 (12,3 %). En 2023, la progression s’explique par la hausse du FCCT versé à l’EPT
+PEMB, la hausse de la contribution à Infocom 94 et la contribution incendie. En 2024,
+la progression s’explique par l’indemnisation des trois groupements pour le projet de
+restauration du cinéma « Capitole » (270 000 €), l’annulation des rattachements de produits
+d’années antérieures (230 000 €), le financement d’une partie de la subvention d’équilibre versé
+au budget annexe de la résidence autonomie Serges Cas pour un montant de 164 883 €
+(le budget annexe leg Serge Cas finance le reliquat de la subvention d’équilibre pour le montant
+de 85 560 €), la participation auprès du service d’accueil médical initial complémentaire
+du service des urgences hospitalières en commun avec plusieurs communes48 (51 028 €) et
+la participation au financement de l’intervenant social en commissariat et le poste de
+coordonnateur du conseil local de santé mentale mutualisé avec la commune de
+Charenton-le-Pont (24 016 €). Hormis en 201949, le montant d’admission en non-valeur
+est faible sur la période sous revue.
+        Les subventions de fonctionnement baissent entre 2019 et 2025 en passant de 400 000 €
+à environ 297 000 €. La subvention la plus importante est versée au centre communal d’action
+sociale (CCAS) et représente plus de la moitié du montant des subventions de fonctionnement.
+Cette subvention est stable entre 2019 et 2021. Elle a augmenté de 3,3 % en 2022 et a baissé
+de 4,5 % en 2023 pour atteindre 210000 € puis 177 000 € en 202550. La commune précise que
+la baisse apparente des montants (hors année 2024) n’indique pas un repli de l'aide sociale mais
+s'explique par la prise en charge du coût du repas de Noël des séniors par le budget de la
+commune au lieu de celui du CCAS, par la diminution des aides et secours d’urgence aux
+familles depuis la reprise du fonctionnement de l’espace départemental des solidarités
+(assistantes sociales).
+        Le reste des subventions de fonctionnement est essentiellement versé aux associations
+et aux écoles privées. Les subventions aux associations (180 000 € en 2019) ont chuté à
+120 000 € lors de l’épidémie de Covid-19 pour remonter progressivement à 160 000 € en 2023.
+En 2024, la baisse de 12,3 % des subventions aux associations résulterait, selon la commune,
+de l’absence de demande de subventions par les associations ainsi qu’une diminution de la
+subvention accordée au groupement d’entraide communal en 2022 et 2024 en raison, entre
+autres, de l’annulation du repas du personnel pendant la période Covid et d’un excédent de
+trésorerie. Des subventions exceptionnelles accordées en 2023 et 2024 (notamment pour le
+séisme au Maroc et pour les inondations en Charente Maritime) n’ont pas été reconduites.
+
+
+
+
+48
+   Les frais de fonctionnement (location du local médical et Charenton-le-Pont, Alfortville, Maisons-Alfort).
+49
+   Le montant en 2019 résulte d'apurement des créances anciennes datant de 2008 à 2018 et pour lesquelles toutes
+les voies de recours ont été épuisées.
+50
+   En 2024 cette subvention a diminué de 93,5% mais a été compensée par une participation du budget annexe
+Serge Cas à hauteur de 182 700 €.
+
+
+
+
+                                                      27
+  RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+  3.3.3 Bien qu’en hausse en 2024, la capacité d’autofinancement reste fragile,
+        après avoir été négative en 2023
+
+         Différence entre les produits et les charges de gestion, l’excédent brut
+  de fonctionnement (EBF) chute de 1,5 M€ en 2019 à 0,8 M€ en 2022. En 2023, la commune
+  est en déficit brut de fonctionnement de 1,1 M€. En 2024, il revient à un niveau légèrement
+  supérieur à celui de 2019 (1,6 M€).
+       L’EBF représente entre 0,6 % et 6,2 % des produits de gestion entre 2019 et 2024.
+  Même rehaussé, ce niveau reste faible.
+
+                                   Tableau n° 9 : Capacité d’autofinancement (CAF)
+              En €                   2019        2020          2021          2022           2023         2024        2025 (P)
+Charges de gestion (B)             23 349 282   22 364 945   22 826 554    24 052 058     25 875 043    26 745 819   26 152 343
+- Produits de gestion (A)          24 887 358   23 506 173   23 642 796    24 190 889     24 739 025    28 383 487   29 454 023
+Excédent brut de
+                                    1 538 075    1 141 229     816 242       138 831      - 1 136 018    1 637 668    3 301 680
+fonctionnement (A-B)
+   en % des produits de gestion      6,2          4,9          3,5           0,6            - 4,6         5,8          11,2
++/- Résultat financier               - 19 133     - 14 333     - 15 197      - 13 924        - 32 395     - 59 237     - 90 134
+ +/- Titres et mandats annulés
+                                     - 23 846    - 370 510         1 563            444      -40 281       27 313       -33 557
+sur exercices antérieurs
+= CAF brute                         1 495 096     756 385      802 608       125 352      - 1 208 694    1 605 745    3 177 990
+   en % des produits de gestion      6,0          3,2          3,4           0,5            - 4,9         5,7          10,8
+- Annuité en capital de la dette     178 884      169 346      177 548       165 550         249 719      236 024      301 654
+= CAF nette ou disponible (C)       1 316 211     587 039      625 061       - 40 199     - 1 458 413    1 369 721    2 876 336
+
+  Source : CRC d’après les comptes de gestion et les comptes financiers uniques
+  (P) : données provisoires au 10 juin 2026
+
+
+         La CAF brute correspond à l’EBF après prise en comptes des résultats financiers,
+  notamment les charges d’intérêts (qui ont progressé en fin de période avec la hausse de
+  l’encours de dette). Elle passe de 1,4 M€ en 2019 à 0,1 M€ en 2022. Elle devient négative
+  en 2023 à - 1,2 M€ et réaugmente en 2024 à 1,6 M€.
+          La CAF nette51, qui atteignait 1,3 M€ en 2019, a été divisée par deux en 2020 à 0,6 M€
+  et est restée stable en 2021. Elle a fortement baissé en 2022 et surtout en 2023 en devenant
+  négative à respectivement - 40 000 € et - 1,5 M€. En 2024, la CAF nette s’est reconstituée
+  à 1,4 M€.
+
+
+
+
+  51
+     La CAF nette correspond à la CAF brute diminuée des remboursements de dette. Elle mesure la capacité de la
+  commune à financer ses dépenses d’investissement grâce à ses ressources propres, une fois acquittée la charge de
+  la dette.
+
+
+
+
+                                                              28
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+       L’évolution en 2022 s’explique par une augmentation des charges de gestion52 (5,4 %)
+notamment celles à caractère général plus importantes que l’augmentation des ressources de
+gestion (2,3 %). En 2023, le décrochage de la CAF nette s’explique par la combinaison d’une
+amplification de la dynamique des charges de gestion (7,6 %)53 alors que les ressources de
+gestion restaient linéaires (2,3 %) et dans une moindre mesure d’une augmentation de l’annuité
+en capital de 50 %. L’effet de la crise énergétique en 2022 et en 2023 a été sensible sur les
+charges à caractère général qui ont progressé annuellement de 12,6 % en 2022 puis de 16,1 %
+en 2023.
+       La restauration de la CAF nette en 2024 n’a été possible que par la hausse des produits
+fiscaux (16,1 %) au travers de la mobilisation tardive du levier fiscal et, dans une moindre
+mesure, par l’accroissement des ressources d’exploitation qui ont permis d’accroître les
+produits de gestion (14,7 %) alors que les charges de gestion ont été moins dynamiques malgré
+leur augmentation (3,3 %)54.
+        En 2024, le niveau de la CAF est néanmoins faible. La CAF nette par habitant est à 93 €,
+soit un montant inférieur à la moyenne des communes de même strate du département (108 €)
+et de la région (110 €).
+
+
+Recommandation performance n°1 : Renforcer                          à     court       terme      la     capacité
+d’autofinancement de la commune.
+
+3.3.4 Des investissements limités mais qui ont augmenté en 2022 et 2023 mettant
+      la commune dans une situation financière fragile
+
+        Les dépenses d’équipement réalisées diminuent, passant de 2,8 M€ en 2019 à 2,3 M€
+en 2024. Leur évolution est erratique : établies en 2020 à 2 M€, elles doublent ensuite pour
+atteindre 4,3 M€ en 2023 (alors même que la CAF nette est à son minimum) ; puis elles sont
+presque divisées par deux pour revenir à 2,4 M€ en 2024. En 2024, la dépense d’équipement
+par habitant (180 €) se situe en-dessous de celles des communes de même strate du département
+(449 €) et de la région (490 €).
+        Les dépenses d’équipement portent sur des investissements en faveur de la transition
+énergétique et de l’accessibilité. Les principaux investissements sur la période portent sur la
+réhabilitation de la crèche Delacroix, l’aménagement du city stade au sein des hôpitaux de
+Saint-Maurice (300 000 €), des travaux d’accessibilité de la voirie (250 000 €) la participation
+aux travaux de la piscine de Charenton (250 000 €), le développement de la vidéoprotection
+(150 000 €), l’installation de la climatisation à l’école Gravelle (160 000 €).
+        L’augmentation en 2023 s’explique par des travaux suivants : les changements
+de fenêtre du théâtre du Val-d’Osne, rénovation des passerelles du bord de Marne et de l’espace
+sportif Laetitia Guapo, réalisation de travaux d’accessibilité).
+
+
+52
+   En particulier les contrats de prestation de services avec des entreprises, les services extérieurs les transports
+collectifs et de biens.
+53
+   Notamment les charges à caractère général (en particulier les achats, les services extérieurs, les honoraires) et
+dans une moindre mesure la contribution au fonds de compensation des charges territoriales, à Infocom 94 et
+la contribution au service d’incendie.
+54
+   Notamment les charges à caractère général et surtout les autres charges de gestion.
+
+
+
+
+                                                        29
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Le cumul de CAF nette sur 2019-2024 (2,4 M€) ne permet de financer que 14 % des
+dépenses cumulées d’équipement (16,7 M€, hors subventions). Il constitue la troisième source
+du financement hors emprunt des investissements communaux sur la période (19 %). Les deux
+premières sources de financement hors emprunt sont les produits de cession (32 %) grâce à une
+cession datant de l’année 2019 d’une ancienne gendarmerie (4 M€ soit un montant nettement
+supérieur à l’évaluation des domaines réalisée en 201655) et les subventions d’investissements
+reçues (25 %) dont une subvention d’1,6 M€ en 2024. Le fonds de compensation de la taxe sur
+la valeur ajoutée (17 %) et la taxe d’aménagement (5 %) complètent le financement.
+
+
+
+
+55
+     L’évaluation des domaines n’est pourtant valable qu’une année.
+
+
+
+
+                                                        30
+                                           COMMUNE DE SAINT-MAURICE
+
+
+
+
+                                Tableau n° 10 : Financement des dépenses d’équipement
+
+                En €                     2019         2020          2021            2022          2023            2024       2025 (P)
+ = CAF nette ou disponible (C)         1 316 211       587 039         625 061       - 40 199   - 1 458 413      1 369 721   2 876 336
+ Taxe d'aménagement                     130 462        215 491         111 247       115 198        87 518         34 514      100 417
+  + Fonds de compensation de
+                                                0      362 614         459 160       545 053       295 547        517 121      339 434
+ la TVA (FCTVA)
+  + Subventions d'investissement
+ reçues hors attributions de            522 435        115 380              969      572 420       393 167       1 622 268     747 924
+ compensation
+  + Fonds affectés à l'équipement
+                                                0       77 088                0        9 632         1 545         74 188      108 981
+ (amendes de police en particulier)
+ + Produits de cession                 4 000 000        14 441           4 000         2 500                0            0     817 000
+ = Recettes d'inv. hors emprunt
+                                       4 652 897       785 014         575 376     1 244 803       777 776       2 248 090   2 113 755
+ (D)
+ = Financement propre disponible
+                                       5 969 108     1 372 053     1 200 436       1 204 604     - 680 637       3 617 811   4 990 091
+ (C+D)
+    Financement propre dispo /
+ Dépenses d'équipement (y c. tvx         216           67              49            43            - 16           154          155
+ en régie)
+  - Dépenses d'équipement (y
+                                       2 757 399     2 037 485     2 436 752       2 829 407     4 335 146       2 352 076   3 221 870
+ compris travaux en régie)
+  - Subventions d'équipement (y
+ compris subventions en nature)          47 773        336 312         339 551       313 476        52 524        294 787      295 008
+ hors attributions de compensation
+ +/- Dons, subventions et prises
+ de participation en nature, reçus      391 000              0           3 810             0                0            0       3 810
+ ou donnés
+ - Participations et inv. financiers
+                                                0            0          -3 810             0         6 830          4 568       -3 810
+ nets
+  +/- Variation autres dettes et
+                                          1 384          - 164              719        1 022              - 12     - 5 492              0
+ cautionnements
+ = Besoin (-) ou capacité (+)
+                                       2 771 552    - 1 001 581   - 1 576 585     - 1 939 302   - 5 075 125       971 873    1 473 213
+ de financement propre
+  - Reprise sur excédents
+                                                0       54 238                0            0                0            0              0
+ capitalisés
+ = Besoin (-) ou capacité (+)
+                                       2 771 552    - 1 055 819   - 1 576 585     - 1 939 302   - 5 075 125       971 873    1 473 213
+ de financement
+ Nouveaux emprunts de l'année
+ (y compris pénalités de                600 000      1 000 000         628 563       500 002                0    1 686 693   1 300 000
+ réaménagement)
+ Mobilisation (-) ou reconstitution
+ (+) du fonds de roulement net         3 371 552       - 55 819    - 948 022      - 1 439 300   - 5 075 125      2 658 566   2 773 213
+ global
+
+Source : CRC d’après les comptes de gestion et les comptes financiers uniques
+(P) : données provisoires au 10 juin 2026
+
+
+       En 2019, les recettes de don de 391 000 € correspondent aux cessions des deux
+appartements et du garages issus du legs de Serge Cas.
+       Le montant des subventions d’investissement reçues en 2024 concerne l’opération
+de rénovation de la crèche Delacroix.
+        La baisse des subventions d’équipement versées en 2022 s’explique par le report
+d’une subvention d’équipement versée à la commune de Charenton-le-Pont pour la rénovation
+de la piscine.
+
+
+
+
+                                                                  31
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       Un PPI a été mis en place en 2024. Il ne met pas en correspondance les ressources et les
+dépenses des opérations qui y sont prévues, ni ne précise les modalités de financement
+de chaque projet. Néanmoins, la commune indique que cet exercice est complexe tant
+ses investissements dépendent des subventions d’autres collectivités. Ces cofinancements56
+orientent les projets de la commune et sont relativement peu prévisibles de manière
+pluriannuelle.
+
+
+3.3.5 La commune s’endette de manière limitée sans disposer d’un fonds
+      de roulement suffisant
+
+
+         3.3.5.1 La commune s’endette mais conserve une capacité de désendettement
+                 satisfaisante en 2024
+
+        La dette de la commune a quadruplé entre 2019 et 2024. Toutefois, le niveau
+de l’encours (3,8 M€ fin 2024) est limité. Le montant de la dette par habitant (257 €) est
+inférieur à celle des communes de même strate du département (1 136 €) et de la région (815 €).
+       Si la capacité de désendettement57 augmente entre 2019 et 2024 en passant de 0,5 à 2,4
+années, elle retrouve un niveau satisfaisant en 2024 après avoir été très dégradée en 2022 (plus
+de 20 ans). La commune n’a pas obtenu le prêt lui permettant de faire face à son besoin de
+financement ce qui montre une situation financière fragile58. Par conséquent, elle mobilise le
+fonds de roulement dont le niveau reste insuffisant pour couvrir le besoin de financement.
+       En 2024, la capacité de désendettement de la commune reste inférieure à la moyenne
+des communes de même strate du département (5,4 années) et de la région (4,2 années).
+
+
+
+
+56
+   La commune a par exemple reçu des subventions significatives de l’État par le biais du fonds vert pour 900 000 €
+et de la Métropole du Grand Paris pour 767 000 € pour la rénovation du centre municipal des sports dont le coût
+total est de 4,4 M€.
+57
+   Ce ratio de l’encours de la dette sur l’épargne brute permet d’apprécier le nombre d'années qui serait nécessaire à
+une collectivité pour rembourser l’intégralité du capital de sa dette si elle devait y consacrer la totalité de son
+autofinancement brut. La loi du 22 janvier 2018 de programmation des finances publiques pour les années 2018
+à 2022 avait fixé un plafond de capacité de désendettement à 12 ans pour les communes.
+58
+   La commune précise également dans la note du CFU 2022 que pour financer l’investissement, la commune a
+contacté des banques qui ne pouvaient plus prêter à taux fixe en raison d’un taux d’usure faible (le taux d’usure
+est le taux maximal auquel les établissements de crédits peuvent prêter). Elle a par conséquent limiter son emprunt
+à 500 000 € à taux variable (pour limiter le risque d’augmentation des intérêts futurs) ce qui a mobilisé le fonds de
+roulement net global.
+
+
+
+
+                                                         32
+                                             COMMUNE DE SAINT-MAURICE
+
+
+
+
+                                    Tableau n° 11 : Dette et capacité de désendettement
+
+               En €                      2019              2020              2021                2022              2023             2024             2025 (P)
+Encours de dettes du BP au
+                                         537 649           957 381          1 788 198          2 238 495         2 571 924         2 322 217         3 778 378
+1er janvier
+ - Annuité en capital de la dette
+(hors remboursement temporaires          178 884           169 346           177 548             165 550           249 719          236 024            301 654
+d'emprunt)
+ - Var. des autres dettes non
+financières (hors remboursements             1 384             - 164             719                 1 022              - 12            - 5 492                 0
+temporaires d'emprunts)
++ Nouveaux emprunts                      600 000          1 000 000          628 563             500 002                   0       1 686 693         1 300 000
+= Encours de dette du BP au 31
+                                         957 381          1 788 198         2 238 495          2 571 924         2 322 217         3 778 378         4 776 724
+décembre
+Capacité de désendettement BP en
+                                                 0,6               2,4               2,8              20,5              - 1,9               2,4               1,5
+années (dette / CAF brute du BP)
+
+Source : CRC d’après les comptes de gestion et les comptes financiers uniques
+(P) : données provisoires au 10 juin 2026
+
+
+
+           3.3.5.2 Un fonds de roulement insuffisant
+
+                                              Tableau n° 12 : Fonds de roulement
+
+              En €                    2019              2020              2021               2022              2023              2024             2025 (P)
+  Mobilisation (-) ou
+  reconstitution (+) du fonds        3 371 552          - 55 819         - 948 022         - 1 439 300       - 5 075 125        2 658 566         2 773 213
+  de roulement net global
+  = Fonds de roulement net
+                                     5 489 847         5 488 266         4 540 244          3 100 945        - 1 974 180         684 386          3 457 599
+  global
+     en nombre de jours de
+                                      85,7              89,5              72,6                47,0             - 27,8             9,3              48,1
+  charges courantes
+
+Source : CRC d’après les comptes de gestion et les comptes financiers uniques
+(P) : données provisoires au 10 juin 2026
+
+
+        Source possible du financement des investissements, le fonds de roulement net global
+(FRNG) correspond au surplus des ressources durables après financement de l’actif immobilisé.
+Après la reconstitution du FRNG en 2019, la commune a fortement mobilisé ce dernier en 2021,
+2022 et surtout 2023. Le FRNG est même devenu négatif en 2023. S’il est redevenu positif,
+il est demeuré faible en 2024 avec un montant de 0,9 M€ (soit l’équivalent de neuf jours de
+charges courantes59). La commune doit prioritairement continuer à restaurer son fonds de
+roulement, ce que les chiffres prévisionnels de 2025 indiquent.
+
+
+
+
+59
+  Les juridictions financières estiment qu’un FRNG se situe à un niveau satisfaisant s’il est compris entre 60 et
+90 jours de charges courantes.
+
+
+
+
+                                                                          33
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+3.4 Une prospective financière imprécise et fragile
+
+      La prospective financière 2024-2028 transmise par la commune prévoit 18,6 M€ de
+dépenses d’investissement, dont 15,8 M€ seraient financés par des recettes hors emprunt.
+        Le rapprochement avec la programmation pluriannuelle d’investissement indique une
+diversité d’investissements jusqu’en 2028. Les plus importants sont la réhabilitation du centre
+municipal des sports « COSEC » engagé en 2025 et se poursuivant en 2026 (3,5 M€),
+l’entretien de divers bâtiments (3,2 M€), la réhabilitation de la résidence pour personnes âgées
+(3 M€), la rénovation de la voirie (2 M€), l’acquisition de la maison Verdun (2 M€).
+La commune prévoit pour les financer de mobiliser des subventions d’investissement d’autres
+collectivités.
+
+
+                   Tableau n° 13 : Prospective financière de la commune jusqu’en 2028
+
+                                                                                                       Variation 2024-
+            En millions d'euros (M€)             2024    2025 (p)     2026 (p)   2027 (p)   2028 (p)
+                                                                                                        2028 (en %)
+ Recettes réelles de fonctionnement               29,0        28,5        29,3       30,2       31,1         7,4
+ Dépenses réelles de fonctionnement               27,8        27,8        28,3       28,7       29,1         4,7
+ CAF brute                                         1,2         0,7         1,1        1,5        2,0        68,2
+ Annuités en capital de la dette                   0,2         0,4         0,5        0,5        0,6       173,9
+ CAF nette                                         1,0         0,3         0,6        1,0        1,4        43,1
+ FRNG "réserve"                                    0,7         1,0         1,6        2,6        4,0       471,4
+ Dépenses d’investissement                         2,9         6,6          4          4          4            21,5 M€
+ Recettes d’investissement hors emprunt            3,5        4,260        3,0        3,0        3,0           19,3 M€
+ dont virement de la section de fonctionnement     0,9         2,3         0,6        1,0        1,4        55,6
+ Nouveaux emprunts                                 1,7         1,3         1,0        1,0        1,0               5,8 M€
+ Encours de dette au 31 décembre *                 3,8         5,1         5,7        6,4         7                3,2 M€
+ Charge financière (en €)                          0,1         0,1        0,11       0,13       0,15           0,05 M€
+ Capacité de désendettement (en années)            2,4         7,2         5,1        4,2         4          1,6 années
+
+Source : commune
+(P) : données provisoires
+
+
+        Dans la prospective prévisionnelle, le fonds de roulement net global s’accroitrait en
+raison de la CAF nette toujours positive mais à un rythme particulièrement lent. Ainsi,
+la prospective ne permet pas d’atteindre un FRNG suffisant pour faire face à un événement
+imprévu (équivalent à 60 jours de charges courantes, selon une norme communément admise).
+
+
+
+
+60
+   La commune a indiqué 6,8 M€ mais les recettes d’investissement hors emprunt et hors RAR sont de 4,2 M€
+selon le budget 2025 voté (total des recettes d’investissement hors RAR 5,5 M€ auquel est retranché 1,3 M€
+d’emprunt).
+
+
+
+
+                                                         34
+                                           COMMUNE DE SAINT-MAURICE
+
+
+
+
+       La prospective financière paraît peu étayée en ce qui concerne le détail des dépenses et
+des ressources prévisionnelles. Pour les recettes de fonctionnement, il est mentionné les
+éléments suivants, sans en donner plus de détail : l’évolution des valeurs locatives, l’évolution
+physique des assiettes fiscales sur la taxe foncière sur les propriétés bâties (TFPB), la reprise
+du marché immobilier pour les DMTO, l’évolution éventuelle et selon la situation de la hausse
+des taux fiscaux. La commune participe à hauteur de 129 000 € au dispositif de lissage
+conjoncturel des recettes fiscales des collectivités territoriales61. Ce dispositif pourrait être
+reconduit, voire amplifié. Pour les dépenses de fonctionnement, la diminution de la dynamique
+des charges à caractère général et des charges de personnel (réduction de 10 % du montant versé
+des heures supplémentaires et des heures de vacation en 2025 par rapport à celles réalisées
+en 2024). Le GVT prévu pour les charges en personnel est de 1,5 %. La hausse de la cotisation
+CNRACL62 est estimée à 156 000 € en 2025 et à 700 000 € fin 202863.
+        Pour les recettes d’investissement, il est prévu la cession immobilière du cinéma (estimé
+à 2 M€ par France domaine) en 2026 et d’autres biens à envisager en 2027, sans précisions de
+montant. Un risque de gel du fonds vert et de la dotation de soutien à l’investissement local est
+évoqué en 2026, ainsi que celui d’un décalage à deux années de la réception du FCTVA dont
+l’assiette et le montant de remboursement ont été prudemment réduits.
+       Pour les dépenses d’investissement, l’opération de réhabilitation du COSEC y figure
+en 2025 et 2026 pour lequel le reste à charge est évalué 2,3 M€64 la commune précisant qu’il y
+aura une stabilisation des dépenses d'investissement entre 3 et 4 M€ entre 2026 et 2028.
+       La fragilité de la CAF nette sur plusieurs années appelle une plus grande vigilance eu
+égard au fait que le niveau de CAF nette par habitant en 2024 est déjà faible par rapport
+aux communes de même strate du département et de la région.
+       Les dépenses d’investissements augmentent ce qui entraine l’accroissement
+de l’endettement à 7 M€ en 2028. Cela augmente la capacité de désendettement à un niveau
+de quatre années qui reste en deçà du plafond d’alerte de 12 années.
+        Bien que la commune recoure à des subventions d’investissement d’autres collectivités,
+celles-ci pourraient se réduire. Or, la commune ne dispose pas de marges de manœuvre
+suffisantes pour renforcer son FRNG à court terme et financer les investissements qu’elle
+prévoit dans son PPI. Elle devra donc réduire ses dépenses ou/et augmenter ses recettes.
+        Dans ce contexte, la commune a décidé d’engager un cabinet spécialisé pour réaliser un
+travail de prospective financière pour le mandat 2026-2032.
+
+
+
+
+61
+     Article 186 de la loi n° 2025-127 de finances pour 2025.
+62
+     Caisse nationale de retraites des agents des collectivités locales.
+63
+   Selon le ROB 2025
+64
+   Pour cette opération, la commune a reçu en 202, une subvention du fonds vert de 0,9 M€, du fonds
+d’investissement métropolitain de 0,77 M€ et en 2025, une subvention de la région de 450 000 € et du Sipperec
+de 50 000€.
+
+
+
+
+                                                                  35
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        La commune, déjà dotée d'équipements tels que des crèches, une salle polyvalente et
+des infrastructures sportives, privilégie la restauration de son patrimoine existant. En 2023,
+des difficultés financières ont conduit la commune à faire appel à un cabinet de conseil.
+       La capacité d'autofinancement (CAF) nette a fortement diminué en 2022 et est devenue
+négative en 2023, atteignant - 1,5 M€. Cette baisse s'explique par une augmentation
+des charges de gestion (5,4 % en 2022 et 7,6 % en 2023) alors que les ressources de gestion
+restaient faibles (2,3 % par an).
+       En 2024, la restauration de la CAF nette à 1,4 M€ a été rendue possible par
+l'augmentation de la fiscalité (produits fiscaux en hausse de 16,1 %) et des ressources
+d'exploitation (14,7 %) et une moindre dynamique des charges de gestion (3,3 %). Cependant,
+la CAF nette par habitant (93 €) reste inférieure à la moyenne des communes de même strate
+du département (108 €) et de la région (110 €).
+       Bien que la capacité de désendettement ait augmenté entre 2019 et 2024, passant de 0,5
+à 2,4 années, elle reste satisfaisante. Toutefois, en raison de ses difficultés financières,
+la commune a fortement réduit son fonds de roulement net global (FRNG), le rendant
+particulièrement bas en 2024 et incapable d'amortir des aléas financiers potentiels.
+        L'analyse prospective à l'horizon 2028, insuffisamment étayée, prévoit une trajectoire
+financière fragile, ne permettant pas de rétablir le FRNG à court terme tout en finançant
+les investissements. L'accroissement de l'endettement reste cependant en dessous du seuil
+d'alerte de douze années.
+
+
+
+
+4 LES DÉTERMINANTS DE LA MASSE SALARIALE
+
+
+4.1 Le pilotage des ressources humaines
+
+
+4.1.1 La commune dispose de documents cadres mais n’a pas de stratégie
+      prospective formalisée faisant l’objet d’un suivi
+
+        Conformément à la réglementation applicable65, la commune dispose de lignes
+directrices de gestion établies avec le centre interdépartemental de gestion de la petite couronne.
+        La stratégie pluriannuelle formalisée de la commune repose uniquement sur les lignes
+directrices de gestion. Elles comportent des actions avec des échéances.
+
+
+
+
+65
+     Prévues par les articles L. 413-1 à L. 413-7 du code général de la fonction publique.
+
+
+
+
+                                                          36
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+        Un tableau transmis à la chambre atteste qu’un bilan sur l’atteinte des objectifs a été
+réalisé. Cette démarche devra désormais être réalisée et présentée au comité social territorial
+annuellement, conformément à l’article 20 du décret n° 2019-1265 relatif aux lignes directrices
+de gestion66.
+        Par ailleurs, la commune mobilise des leviers pour limiter la progression de la masse
+salariale tout en évitant la suppression de services publics communaux. Elle indique maîtriser
+la masse salariale en ne procédant à la nomination qu’en fin d’année lorsqu’un agent réussit un
+concours. L’encadrement est responsabilisé sur l’évolution de la masse salariale67 et des
+effectifs des services et des directions, notamment au moment des réunions budgétaires
+annuelles. Lors du départ d’un agent (départ à la retraite ou mutation), une réflexion est menée
+pour réorganiser le service pour rationaliser les effectifs en mutualisant les missions, voire en
+supprimant le poste. La collectivité utilise les départs comme moyen de maîtrise de la masse
+salariale68.
+        La commune élabore les rapports sociaux uniques (RSU)69 et met en ligne sur son site
+la dernière synthèse du rapport. Elle a transmis les données sur ses effectifs annexés
+à ses comptes ainsi qu'un tableau d’emploi des effectifs de la commune datant du 2 juin 2025
+et les délibérations modificatives du tableau des effectifs.
+
+
+4.1.2 Le renforcement récent du suivi des effectifs est à poursuivre
+
+       Au 31 décembre 2024, la commune dispose de 309,2 équivalents temps plein (ETP)70,
+soit une baisse de 5,5 % par rapport au 31 décembre 2019. Ces ETP correspondant
+à 456 effectifs physiques selon le ROB 2025 en baisse de 6,4 % depuis le 31 décembre 2019.
+Les emplois permanents sont de 270,6 ETP71, soit une baisse d’1,7 % par rapport au
+31 décembre 2019. Ils représentent 288 personnes physiques selon le ROB précité, en baisse
+de 6,5 % depuis le 31 décembre 2019.
+       Les effectifs font l’objet d’un suivi au travers des annexes des documents budgétaires
+ou comptables, des rapports d’orientation budgétaire annuels et des RSU. En revanche,
+la commune ne présentait pas de tableau des emplois et des effectifs annuellement au conseil
+municipal sur la période 2019 à 2024 si bien que, malgré le vote de délibération modifiant le
+tableau des effectifs, il n’était pas possible d’en effectuer un suivi précis. Par délibération du
+conseil municipal en date du 26 juin 2025, la commune a adopté un tableau des effectifs et
+emplois théoriques et pourvus lui permettant désormais d’effectuer ce suivi.
+
+
+66
+   Cet article dispose qu’un bilan de la mise en œuvre des lignes directrices de gestion en matière de promotion et
+de valorisation des parcours professionnels est établi annuellement sur la base des décisions individuelles et en
+tenant compte des données issues du rapport social unique.
+67
+   Par exemple la réduction de 10 % des heures supplémentaires et des heures de vacation.
+68
+   Par exemple, certains postes n’ont pas été reconduits : le poste de chauffeur du maire, un poste dans le service
+de l’état civil après la forte demande postérieurement aux confinements.
+69
+   Articles L. 231-1 à L. 232-1 et R. 231-1 à R. 231-8 du code général de la fonction publique.
+70
+   Un équivalent temps plein correspond au calcul du produit de l’effectif physique à la quotité de travail. Il est à
+distinguer de l’ETPT qui prend en compte la durée de présence dans l’année. Par exemple, pour un agent recruté
+le 1er juillet sur un emploi à temps partiel (à 50%), il faut totaliser au 31 décembre, un agent physique, 0,5 ETP et
+sur l’année 0,25 ETPT.
+71
+   Chiffre du tableau rempli par la commune lors du contrôle mais qui comporte un écart avec celui du ROB 2025
+qui mentionne 278,83.
+
+
+
+
+                                                        37
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Le décompte des effectifs de toutes les annexes des documents budgétaires et comptable
+est en effectifs physiques. Selon les maquettes de l’instruction budgétaire et comptable M57,
+l’effectif doit être comptabilisé en équivalent temps plein annuel travaillé (ETPT).
+        Un suivi mensuel est réalisé en effectif physique pourvus en fonction des créations et
+des suppressions de postes. Les données sont extraites du système d’information des ressources
+humaines et retraitées manuellement si besoin en raison d’erreur résultant d’une bascule d’un
+logiciel ressources humaines (RH) à un autre.
+        Les tableaux de suivi sont destinés au service chargé des ressources humaines et aux
+différents directeurs. Ils sont utilisés en interne pour réaliser les annexes budgétaires. Les ROB
+de 2023 à 2025 reprennent les données des annexes du budget pour les expliquer malgré
+quelques écarts par filières en 2024.
+       La commune réalise néanmoins une fois par année pour établir le rapport d’orientation
+budgétaire (ROB), une comptabilisation en ETP. La commune devra à court terme compléter
+les annexes budgétaires et comptables en ETP.
+
+
+                           Tableau n° 14 : Effectifs pourvus en ETP par année au 31/12/N
+
+                                                                                                              Évolution
+     En ETP au 31/12/N              2019          2020         2021        2022       2023         2024       2019-2024
+                                                                                                                en %
+ Effectif sur emplois
+                                      275,19       267,03          269,6    273,69     277,24       270,64      - 1,66
+ permanents
+ dont titulaires et stagiaires        217,16       209,16       208,33      199,83     198,61        193,5     - 10,90
+ dont contractuels (332-8 et
+ 332-14 du code général de la          58,03        57,87          61,28     73,87      78,63        77,14      32,93
+ fonction publique-CGFP)
+ Effectif sur emplois non
+                                       48,51        49,97          51,18     40,01      40,18        38,59     - 20,45
+ permanents
+ dont collaborateurs de
+                                             0            0           0           0           0           0
+ cabinet
+ dont assistants maternels /
+                                             8            8           5           4           0           0    - 100,00
+ familiaux
+ dont emplois aidés                          0            0           0           0           0           0       -
+ dont apprentis                            1,83      3,33           1,91      1,01       1,77         1,59     - 13,11
+ dont remplacement
+ temporaire d'un agent
+                                             8           11           9           5          7,8          8     0,00
+ permanent absent (L. 332-13
+ du CGFP)
+ dont accroissement
+ temporaire d'activité                       0            0           0       0,68       0,57         0,17        -
+ (L. 332-23 du CGFP)
+ dont accroissement
+ saisonnier d'activité                       0       0,19           0,44      0,42       0,28         0,18        -
+ (L. 332-23 du CGFP)
+ dont contrats de projet
+                                             0            0         0,63      0,63            0           1       -
+ (L. 332-24 du CGFP)
+ dont vacataires                       30,68        27,45           34,2     28,27      29,76        27,65      - 9,88
+ Effectifs totaux                     323,70       317,00       320,78      313,70     317,42       309,23      - 4,47
+
+Source : commune
+
+
+
+
+                                                              38
+                                           COMMUNE DE SAINT-MAURICE
+
+
+
+
+        Eu égard au nombre d’habitants de la commune, celle-ci ne dispose pas de contrôleur
+de gestion. Le suivi par la DRH72 s’opère par un logiciel interfacé avec celui des finances.
+       Le suivi des effectifs distingue les emplois budgétaires des effectifs pourvus.
+Les emplois budgétaires correspondent à un effectif théorique qui est l’effectif plafond auquel
+la commune est autorisée à recourir par l’assemblée délibérante lors du vote du budget.
+Les effectifs pourvus sont les effectifs qui occupent réellement un poste et qui sont par
+conséquent effectivement financés par le budget.
+        La complétion des annexes aux budgets relatives aux agents non titulaires était
+parcellaire entre 2019 et 202173. La commune a ensuite cessé de compléter ces annexes.
+Concernant les comptes, l’intégralité des annexes comptables sur le personnel n’est pas présente
+pour les années 2019 et 2021. Pour les années restantes, l’état du personnel relatif aux agents
+non titulaires n’est plus rempli à l’exception de l’année 2024, réalisée lors du contrôle,
+et de manière incomplète74.
+
+
+                             Tableau n° 15 : Comparaisons sur les emplois permanents
+
+                      Effectifs (ETP)                       2019     2020      2021    2022     2023     2024     2025
+ Budget primitif (effectifs budgétaires)                     368      371      369      373      373      372     373
+ Budget primitif (effectifs pourvus) (A)                     311      298      291      280      288      288     285
+ Comptes (effectifs budgétaires)                            Absent    370     Absent    373      372      372      -
+ Comptes (effectifs pourvus) (B)                            Absent    301     Absent    288      293      288      -
+              Taux de réalisation budgétaire (B/A) (en %)            101,01            102,86   101,74   100,00    -
+          Taux d’effectifs budgétaires non pourvus (en %)            18,65             22,79    21,24    22,58
+
+Source : comptes administratifs, comptes financiers uniques
+
+
+        Les écarts de suivi pour les postes pourvus entre les annexes des comptes concernant
+les emplois permanents sont faibles. Les emplois budgétaires ont peu évolué sur la période.
+L’écart entre les emplois budgétaires et les effectifs pourvus reste sur l’ensemble de la période
+élevé (près de 20 % des effectifs budgétaires ne sont pas pourvus)
+        La commune ne disposait pas des délibérations de création d’emplois pour certains
+postes anciens. Or, ces pièces justificatives sont obligatoires notamment pour le paiement des
+rémunérations par le comptable public75. La commune a adopté une délibération le 26 juin 2025
+abrogeant toutes les délibérations relatives au tableau des effectifs et actualisant le tableau
+des effectifs et des emplois. Cette délibération créant les emplois constitue une mesure
+de simplification administrative permettant de répondre à l’obligation juridique précitée tout en
+facilitant à plus long terme le suivi des effectifs et des emplois. Les emplois budgétaires y sont
+réduits à 307 emplois et les effectifs pourvus à 279. Le reliquat (28 postes non pourvus)
+est constitué de six postes provisoirement gelés, neuf postes vacants et 13 postes ayant vocation
+à poursuivre en contrat à durée déterminée (CDD) pour certains vacataires.
+
+
+
+
+72
+     Directeur(trice) des ressources humaines ou Direction des ressources humaines.
+73
+   Complétée uniquement la partie sur les emplois permanents mais pas ceux non permanents.
+74
+   Complétée uniquement sur les emplois permanents.
+75
+   Conformément au décret n° 2022-505 du 23 mars 2022.
+
+
+
+
+                                                                39
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+       La commune indique que ce dernier tableau a vocation à être mis à jour annuellement.
+La chambre invite la commune à présenter annuellement le tableau des emplois et des effectifs
+et ses évolutions (et non uniquement les évolutions du tableau) au conseil municipal afin
+d’exposer un document consolidé.
+        Dans la période sous revue, cinq postes de gardiens de police municipale en 2021
+ont été créés ainsi qu’un poste dans le secteur de la santé et des violences faites aux femmes.
+Neuf postes dans le secteur de la petite enfance à la suite de la fermeture d’une structure
+d’accueil en 2023 (20 berceaux) ont été supprimés, mais ceci est compensée par la réouverture
+de la crèche Delacroix en septembre 2024. La suppression de la structure d’accueil en 2023
+s’explique par les contraintes budgétaires de la commune. La configuration des locaux sur
+deux étages nécessitait de dédoubler le personnel.
+       Selon la commune, les déterminants de l’évolution de ses effectifs sont notamment : le
+nombre de naissances et d’enfants scolarisés (pour les secteurs de la petite enfance, scolaire et
+du périscolaire), l’émergence de nouveaux besoins dans le secteur de la sécurité (police
+municipale et agents de surveillance sur la voie publique) et de la santé et la prévention des
+violences faites aux femmes (poste mutualisé d’intervenant social en commissariat et le poste
+de coordonnateur du conseil local de santé mentale). Les principaux types d’emplois créés sont
+des postes de policiers municipaux et d’agents de surveillance de la voie publique.
+Les principaux types d’emplois supprimés sont les postes d’agent technique et de la petite
+enfance en raison de la fermeture d’une crèche76.
+
+
+             Tableau n° 16 : Évolution des effectifs sur les emplois permanents par filières
+
+                      En ETP au 31/12/N           2019           2024         Évolution en %
+                      Technique                   114,8          111,6            - 2,79
+                      Administrative              56,9           56,5             - 0,70
+                      Sociale                     27,4           30,8             12,41
+                      Animation                    30             29              - 3,33
+                      Médico-sociale              24,6           14,8            - 39,84
+                      Culturelle                 20,3438        20,938             2,92
+                      Sécurité                     7              12              71,43
+                      Sportive                     2               3              50,00
+                      Ensemble                  283,0438        278,638           - 1,56
+
+Source : commune
+
+
+       Sur la période, les effectifs sur emplois permanents ont baissé sur la filière
+médico-sociale, en particulier les auxiliaires de puériculture en raison de la fermeture d’une
+crèche et de départs suivis de difficultés de recrutement77.
+        Les effectifs sur la filière sociale, quant à eux, ont augmenté en parallèle avec
+le recrutement d’agents sociaux territoriaux qui réalisent les mêmes fonctions que les auxiliaires
+de puériculture, des agents territoriaux spécialisés des écoles maternelles (Atsem).
+
+
+
+76
+   Par ailleurs la commune signale la suppression du poste de chauffeur du maire.
+77
+   Le service petite enfance a dû fermer une section en raison du manque d’effectifs spécialisés dans le secteur de
+la petite enfance (source note CFU 2022).
+
+
+
+
+                                                           40
+                                      COMMUNE DE SAINT-MAURICE
+
+
+
+
+     Tableau n° 17 : Évolution de la structure des effectifs sur emplois permanents par catégories
+
+                                            2019                    2024                      Évolution en %
+        En ETP au 31/12/N
+                                     A         B     C       A        B       C        A           B             C
+ Effectif sur emplois permanents   27,399   41,788   206   27,213   56,025   187,4   - 0,68       34,07        - 9,03
+ dont titulaires et stagiaires      19,8     30,35   167    17,9     35      140,6   - 9,60       15,32        - 15,81
+ dont contractuels                 7,599    11,438   39    9,313    21,025   46,8    22,56        83,82        20,00
+
+Source : commune
+
+
+        Les effectifs ont augmenté dans la catégorie B et baissé dans la catégorie C en raison de
+la réforme passant les auxiliaires de puériculture de catégorie C en B et des réussites aux
+concours (trois agents devenus rédacteurs).
+        Les effectifs de la catégorie A sont stables en volume mais comportent des évolutions :
+quatre agents de catégorie A ont quitté la commune mais deux agents intègrent un grade
+de catégorie A par promotion interne et deux sont recrutés. L’ancienne directrice de la résidence
+autonomie, cadre de santé catégorie A, a été remplacée par un agent de catégorie B.
+        La commune précise disposer au 31 décembre 2024 de 6,8 ETP à la direction
+des ressources humaines pour gérer 309,23 ETP (soit un ratio de gestion de près de 2,2 %
+en augmentation de 0,3 point sur la période sous revue).
+
+
+4.1.3 L’évolution de la masse salariale a fait l’objet de mesures en 2024
+      pour en limiter la croissance
+
+        Les charges de personnel augmentent entre 2019 et 2024 passant de 13,4 M€ à 14,7 M€
+soit un accroissement de 10 % sur la période sous revue (en moyenne une hausse de 1,9 %
+par an).
+
+
+
+
+                                                           41
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                 Tableau n° 18 : Budget principal – Charges de personnel
+                                                                                                                        Évolution
+                En €                  2019         2020           2021           2022           2023         2024       2019/2024
+                                                                                                                          (en %)
+ Rémunérations du personnel
+                                     6 571 503    6 434 314      6 447 262      6 587 066      6 815 944    6 935 355      5,5
+ titulaire
+ + Rémunérations du
+                                     2 784 439    2 850 737      2 762 385      3 138 469      3 357 811    3 407 238     22,4
+ personnel non titulaire
+ Rémunérations Assistantes
+                                             0              0     151 625        125 409               0            0
+ maternelles
+ + Autres rémunérations                43 980       55 869         38 652         15 361         42 847       35 570      - 19,1
+     - Atténuations de charges        203 644      391 277        312 315        193 936        264 906      234 453      15,1
+ + Charges sociales, impôts,
+ taxes et autres charges (dont       4 133 982    4 164 176      4 175 892      4 364 837      4 631 193    4 554 799     10,2
+ personnel externe)
+ = Charges de personnel
+                                    13 330 260   13 113 819     13 263 500     14 037 206     14 582 889   14 698 509     10,3
+ interne
+  + Charges de personnel
+                                       78 855       86 611        117 532        107 936         83 461        7 811
+ externe
+ = Charges totales de
+                                    13 409 115   13 200 431     13 381 032     14 145 143     14 666 350   14 706 320      9,7
+ personnel
+  - Remboursement de
+                                        7 904        8 028          7 868                 0       8 867             0
+ personnel mis à disposition
+ = Charges totales de
+ personnel nettes des
+                                    13 401 211   13 192 403     13 373 164     14 145 143     14 657 483   14 706 320      9,7
+ remboursements pour Mise
+ à disposition (MAD)
+     en % des charges de gestion      53,8         59,0           58,6           58,8           56,6         55,0          2,1
+ Charges de personnel par
+                                          931             933            948            989       1 000        1 000       7,4
+ habitant
+
+Source : CRC, d’après les comptes de gestion et les données de la direction générale des finances publiques
+
+
+        Ces dépenses baissent en 202078 par la réduction des heures supplémentaires en 2020,
+ces charges progressent ensuite en glissement annuel de 5,7 % en 2022, 3,7 % en 2023
+puis 0,3 % en 2024.
+       L’augmentation de 2022 s’explique par l’augmentation du point d’indice de 3,5 % à
+compter de juillet 2022, le versement de l’indemnité inflation, le relèvement du minimum de
+traitement (avec l’augmentation du salaire minimum interprofessionnel de croissance-SMIC).
+        L’année 2023 est marquée par l’effet en année pleine de l’augmentation du point
+d’indice de 3,5 % en juillet 2022, auquel s’ajoute l’augmentation de 1,5 % en juillet 2023,
+la revalorisation des grilles indiciaires de 9 points pour les premiers échelons des agents
+de catégorie C à la même date ainsi que l’augmentation du minimum de traitement.
+
+
+
+
+78
+  Bien que la commune ait maintenu la rémunération des vacataires pendant les périodes de confinement (évalué
+à 115 000 € par la commune selon la note du CA 2020) et qu’elle a participé à l’achat de masque par une prime
+pour tous les agents.
+
+
+
+
+                                                                  42
+                                             COMMUNE DE SAINT-MAURICE
+
+
+
+
+       En 2024, ces dépenses ont été contenues par la réduction des heures supplémentaires et
+des heures de vacations de plus de 10 %. Les responsables disposent d’une enveloppe d’heures
+de vacation. L’objectif était de réduire ces heures de 10 % en 2024. De même, la commune a
+fixé en 2024 un objectif de réduction de 10 % du montant versé au titre des heures
+supplémentaires. L’objectif a été dépassé pour les vacataires et concernant les heures
+supplémentaires, la réduction est proche de 10 %79. La commune indique reconduire cet objectif
+en 2025. Pour autant en 2024, certains facteurs ont pu augmenter les charges au-delà du GVT
+estimé entre 1,5 % et 2 % par an (selon le rapport d’orientation budgétaire 2025) : l’attribution
+de cinq points d’indice à tous les agents à compter du 1er janvier 202480 et la décision de
+la commune de verser la prime du pouvoir d’achat. Enfin, des postes de direction sont restés
+vacants (direction des finances, direction des services techniques).
+
+     Tableau n° 19 : Réduction des heures de vacation et du montant des heures supplémentaires
+                                                    Réalisation au   Objectif fixé    Réalisation    Écart entre l'objectif
+                                                     31/12/2023       en 2024        au 31/12/2024     et la réalisation
+     Nombre d’heures de vacation                           58 249          52 425           47 270                   5 155
+     Montant des heures de vacation (en €)                749 515                -        633 922                         -
+     Nombre heures supplémentaires                         11 095                -           9 623                        -
+     Montant des heures supplémentaires (en €)            276 407         248 766         255 116                   - 6 350
+Source : commune
+
+
+       Pour déterminer le GVT, la commune dispose de tableaux suivant les avancements
+d’échelon et de grade. Elle indique privilégier autant les promotions au choix que les accès
+par concours pour l’accession à un poste.
+        La commune a chiffré dans le tableau suivant l’impact des mesures nationales.
+Il ne prend en compte que le coût supplémentaire sur l’année mais pas sa répercussion,
+le cas échéant, sur les années suivantes : par exemple en 2022 l’incidence financière de
+la revalorisation du point d’indice de 3,5 % est calculé en 2022 sur six mois (à compter du mois
+de juillet 2022) sans évaluer la répercussion de cette augmentation en année pleine les années
+postérieures.
+
+
+
+
+79
+   Alors que l’élection législative de 2024 a engendré des heures supplémentaires qui n’étaient pas prévisibles
+(1 282 heures représentant un montant de 37 000 €).
+80
+   Cf. décret n° 2023-519 du 28 juin 2023.
+
+
+
+
+                                                             43
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                Tableau n° 20 : Impact financier des mesures nationales
+                        En €                           2019         2020        2021         2022         2023         2024
+ Garantie individuelle du pouvoir d'achat (GIPA)          0,00      3 062,00    2 442,00     8 198,00    14 151,00         0,00
+ Réforme Parcours professionnels, carrières et
+ rémunérations (PPCR) (2019 à 2021) et               26 710,20     23 505,00   53 365,00   145 647,00    77 162,00         0,00
+ revalorisations indiciaires (2022/2023)
+ Augmentation 5 points d'indice                           0,00          0,00        0,00         0,00         0,00   129 478,00
+ Augmentation charges patronales                          0,00          0,00        0,00         0,00         0,00    37 692,00
+ Forfait mobilité durable                                 0,00          0,00        0,00     5 740,00    10 400,00    14 000,00
+ Prime du pouvoir d'achat                            18 586,60          0,00        0,00         0,00         0,00   155 627,00
+ Prime covid 19                                           0,00     42 351,00        0,00         0,00         0,00         0,00
+ Réforme des auxiliaires de puéricultrice passant
+                                                          0,00          0,00        0,00    18 100,00         0,00         0,00
+ en catégorie B
+ Réforme des éducateurs de jeunes enfants
+                                                      1 401,00          0,00        0,00         0,00         0,00         0,00
+ passant en catégorie A
+ Réforme des puéricultrices passant en catégorie A        0,00          0,00        0,00     6 344,00         0,00         0,00
+ Indemnité d'inflation - aide de l'État                       0            0           0      25 400             0            0
+ Total                                               46 697,80     68 918,00   55 807,00   209 429,00   101 713,00   336 797,00
+
+Source : commune
+
+        La commune précise que, pour compenser les mesures nationales parfois en cours
+d’année, elle met en place des plans d’économie, le gel de cinq postes81 et un plan de sobriété
+énergétique avec la fermeture de plusieurs structures. Elle précise avoir mis en place en 2023
+des fermetures temporaires de structures pendant la période hivernale (en rassemblant
+les congés du personnel sur une même période) : le centre des sports, la bibliothèque et
+le conservatoire. Par ailleurs, la commune a fermé plusieurs mois des équipements mal isolés :
+la salle polyvalente Eugène Delacroix (cinq mois), le centre de loisirs sans hébergement
+des bords de Marne (trois mois). En revanche, il n’y a pas eu d’effet direct atténuant
+la revalorisation du régime indiciaire.
+        La commune a également mutualisé des postes avec la commune de
+Charenton-le-Pont82 : une intervenante sociale en commissariat, un coordonnateur du conseil
+local de santé mentale, un responsable de la santé et des violences faites aux femmes. En 2025,
+elle a également un économe de flux mutualisé avec la commune de Joinville-le-Pont
+et l’association de l’agence locale de l’énergie et du climat83.
+        Les ruptures conventionnelles n’ont pas été mises en place dans la collectivité excepté
+un cas isolé en 2022 (pour un montant de près de 17 500 €).
+
+
+
+
+81
+   Un technicien à la direction des services techniques, deux agents administratifs à l'état civil, un agent
+administratif à la direction de la famille et du jumelage et un agent du patrimoine à la médiathèque.
+82
+   Ces postes ne sont pas intégrés dans la masse salariale mais dans les autres charges de gestion.
+83
+   Ce dernier poste est mutualisé avec la ville.
+
+
+
+
+                                                                  44
+                                          COMMUNE DE SAINT-MAURICE
+
+
+
+
+4.2 Les rémunérations
+
+
+4.2.1 Le régime indemnitaire
+
+       Le régime indemnitaire de la commune est en hausse de 20 % depuis 2019. Certaines
+indemnités ont été supprimées avec la mise en place du régime indemnitaire tenant compte des
+fonctions, des sujétions, de l’expertise et de l’engagement professionnel (Rifseep). Ce régime
+a vocation à remplacer la majorité des indemnités antérieures au 1er janvier 2019 et constitue la
+prime dont le montant est le plus élevé. D’autres primes ont été mises en place depuis 2019
+notamment la prime relative à l’épidémie de Covid-19 (mise en place en 2020) et la prime du
+pouvoir d’achat (mise en place en 2024). La commune dispose d’une prime d’assiduité
+antérieure à la période de contrôle qui correspond à un avantage collectivement acquis dont le
+montant dépend de la présence et qui repose sur le traitement brut et l’indemnité de résidence.
+
+
+                           Tableau n° 21 : Montant et composition du régime indemnitaire
+
+                                                                                                                Évolution
+       Intitulé de la prime            2019        2020        2021          2022        2023        2024       2019-2024
+                                                                                                                 (en %)
+ Indemnité d'administration et
+                                        22 713      12 052         22 275     28 082      43 014      37 658       66
+ de technicité (IAT)
+ Indemnités forfaitaires pour
+                                        15 766      17 037         11 971     17 107      12 436      12 513      - 21
+ travaux supplémentaires (IFTS)
+ Indemnité de fonctions,
+                                       619 270     672 600     902 703       908 498     923 782     977 861       58
+ de sujétions et d'expertise (IFSE)
+ Prime d'encadrement forfaitaire           456         946              -           -           -           -
+ Indem. Spécifique de service           60 282      76 918              -           -           -           -
+ Prime de rendement et de
+                                        10 497      13 151              -           -           -           -
+ service
+ Indemnité sujétion spéciale            14 475      14 645              -           -           -           -
+ Prime service filière sociale          57 301      54 098              -           -        269            -
+ Indemnité de suivi et
+                                        22 615      22 776         22 969     23 521      24 785      28 001       24
+ d'orientation
+ Prime forfaitaire mensuelle aux
+                                         3 625       3 568              -           -           -           -
+ puéricultrices
+ Indemnité spéciale agent de
+                                        31 160      20 384         31 536     40 537      66 696      62 226      100
+ police
+ Prime spéciale aux
+                                        38 866      38 470              -           -           -           -
+ puéricultrices
+ Prime d'assiduité                     590 235     588 307     585 207       598 815     631 303     651 309       10
+ Prime Spécifique                        2 160       3 717              -           -           -           -
+ Indemnité d'enseignement                     -        120           284            -           -           -
+ Garantie individuelle du
+                                              -      3 062          2 442      8 198      14 151            -
+ pouvoir d'achat (GIPA)
+ Total                                1 489 420   1 541 848   1 579 387     1 624 758   1 716 437   1 769 569      19
+
+Source : commune
+
+
+       Le régime indemnitaire de certains agents a été révisé en fonction de l’évolution
+des fonctions de direction et des nouvelles missions confiées lors de la réorganisation
+de services et de l’évolution de la technicité liée aux postes de direction.
+
+
+
+
+                                                              45
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+            Tableau n° 22 : Nombre d’agents et montants des révisions du régime indemnitaire
+
+                                     Année           Nombre d'agents          Montant annuel (en €)
+                             2019                            14                              16 906
+                             2020                            4                                1 354
+                             2021                            19                              31 702
+                             2022                            5                               10 980
+                             2023                            14                              25 343
+                             2024                            8                               16 726
+                             Total                           64                             103 011
+
+Source : commune
+
+
+        La commune indique que le régime indemnitaire est utilisé comme levier
+de management. Néanmoins, le complément indemnitaire annuel (CIA), composante du
+Rifseep tenant compte de l’engagement professionnel, n’est pas mobilisé, sauf en 2020 et 2021.
+Le régime indemnitaire des agents de la police municipale mis en place à compter
+du 1er janvier 2025, dénommée indemnité spéciale de fonction et d’engagement des policiers
+municipaux (ISFE)84, comprend une part variable tenant compte de la manière de servir qui
+n’est pas non plus mobilisée. Aucune prime d’intéressement n’a été instauré. Par conséquent,
+l’engagement professionnel de la majorité des agents n’a pas d’incidence sur le régime
+indemnitaire.
+           La commune n’a pas mis en place d’indemnité pour le télétravail.
+
+
+4.2.2 Les prises en charge spécifiques
+
+
+           4.2.2.1 Une prise en charge des frais de transports en commun conforme
+                   à la réglementation.
+
+        La commune a institué une prise en charge partielle du prix des abonnements
+de transports en commun de ses agents comme le permet la réglementation85. D’abord fixée
+à 50 % du montant de l’abonnement, cette prise en charge a été réhaussée à 75 % à compter
+du 1er septembre 2023 conformément à l’évolution de la réglementation.
+
+
+          Tableau n° 23 : Coût de la prise en charge des abonnements de transports en commun
+
+                      2019            2020        2021             2022         2023          2024      Évolution 2019-2024
+ Montant en €        36 420,34       26 370,88   34 167,99        33 727,32    44 747,09    67 259,57                  85 %
+
+Source : commune
+
+
+           L’évolution est aussi due à des agents plus nombreux prenant des abonnements Navigo.
+
+
+84
+     La mise en place de l’IFSE remplace notamment l’IAT, l’IFTS et l’indemnité spécial agent de police.
+85
+     Décret n° 2010-676 du 21 juin 2010 et décret n° 2023-812 du 21 août 2023.
+
+
+
+
+                                                              46
+                                     COMMUNE DE SAINT-MAURICE
+
+
+
+
+         4.2.2.2 La prime de pouvoir d’achat
+
+        Comme le permet la réglementation86, la prime du pouvoir d’achat a été mise en place
+au sein de la collectivité et versée en avril 2024 pour un montant de 155 627 €.
+
+         4.2.2.3 La prime exceptionnelle liée à l’épidémie de Covid-19
+
+       La commune a versé une prime « covid » conformément à la délibération
+du 16 juillet 2020. Cette prime a été versée pour les agents municipaux particulièrement
+mobilisés (en présentiel et en télétravail) et soumis à des sujétions exceptionnelles pour assurer
+la continuité des services publics dans le cadre de l’état d’urgence sanitaire. Le montant
+individuel a été versé aux agents bénéficiaires en une seule fois dans la limite du plafond
+maximum de 1 000 € et au prorata du temps consacré, de l’importance des missions et
+de l’exposition aux risques. La prime a été versée à 100 agents pour un montant total de près
+de 42 000 €.
+
+
+4.3 Le temps de travail
+
+4.3.1 L’encadrement du temps de travail
+
+       Le temps de travail dans la fonction publique est fixé à 1 607 heures par année87
+auxquelles peuvent s’ajouter des heures supplémentaires. La commune s’est alignée sur la durée
+légale du temps de travail par l’adoption de la délibération du 15 décembre 2021 pour
+une application à compter de 2022. Antérieurement, la durée du temps de travail était de
+1 600 heures par année conformément à la délibération du 19 décembre 2001.
+
+            Tableau n° 24 : Incidence financière du temps de travail antérieurement à 2022
+
+                                                                             Écart entre le régime de 1 607 heures
+                                                     Formule de calcul
+                                                                                    et le régime en vigueur
+ Durée de travail théorique                                B = 1607 – A                                       1600
+ Effectif en ETP 2019                                                    C                                 323,704
+ Volume d’heures inférieur à 1 607 heures                     D=AxC                                       2265,928
+ Volume d’heures inférieur à 1 607 heures converti
+                                                           E = D / 1 607                                      1,41
+ en ETP
+ Coût moyen d’un agent (en €)                                            F                               25 476,73
+ Surcoût budgétaire (en €)                                        ExF                                    35 923,12
+
+Source : CRC, à partir des données transmises par la commune
+
+
+
+
+86
+   Décret n° 2023-1006 du 31 octobre 2023 portant création d’une prime de pouvoir d’achat exceptionnelle pour
+certains agents publics de la fonction publique territoriale.
+87
+   Article 47 de la loi n° 2019-828 du 6 août 2019.
+
+
+
+
+                                                      47
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+        Avant la mise en place du temps de travail à 1 607 heures en 2022, le temps de travail
+était de 1 600 heures, cet écart de 7 heures représentait un surcoût de près de 36 000 €.
+
+
+4.3.2 Les heures supplémentaires
+
+       Les dispositions relatives aux indemnités horaires pour travaux supplémentaires (IHTS)
+sont énoncées dans le décret du 14 janvier 200288. Les heures supplémentaires accomplies ne
+font pas l’objet d’un repos compensateur mais sont indemnisées.
+       Les IHTS ont fait l’objet d’une délibération du conseil municipal le 5 décembre 2016.
+Cette dernière fixe les catégories d’agents ouvrant droit au paiement éventuel d'heures
+supplémentaires. À la faveur du contrôle de la chambre, la commune a pris une délibération en
+date du 11 décembre 2025 afin de préciser la liste des emplois ouvrant droit à indemnité,
+conformément à l’article 2 du décret n °91 875 du 6 septembre 1991.
+       Le décret du 14 janvier 2002 mentionne la limite des 25 heures supplémentaires
+mensuelles89. La commune a établi une dérogation au contingent mensuel de 25 heures
+supplémentaires pour certaines services (nettoiement et propreté de la ville, fêtes et cérémonies,
+parc automobile, police municipale, régie son et lumière).
+        La commune dispose de moyens de contrôle automatisé permettant de comptabiliser
+les heures supplémentaires que les agents ont accomplies conformément au décret précité90.
+
+
+
+4.4 Les agents contractuels
+
+
+4.4.1 Une part croissante des emplois permanents de la collectivité
+
+        La part des agents contractuels en ETP dans l’ensemble des emplois est en augmentation
+sur la période sous revue en passant de 32,9 % en 2019 à 37,4 % en 2024. Cet accroissement
+s’explique par l’augmentation de la part des agents contractuels occupants des emplois
+permanents.
+      La part des agents contractuels (ETP) passe de 21,1 % des agents sur emplois
+permanents en 2019 à 28,5 % en 2024.
+
+
+
+
+88
+   Décret n° 2002-60 du 14 janvier 2002 relatif aux indemnités horaires pour travaux supplémentaires. Ce décret a
+depuis été modifié par les décrets n° 2007-1630 du 19 novembre 2007 et n° 2008-199 du 27 février 2008.
+89
+   Le contingent mensuel par agent est fixé à 25 heures, à l’exception des cas suivants : lorsque des circonstances
+exceptionnelles le justifient et pour une période limitée ; à titre permanent, pour certaines fonctions après avis du
+comité technique paritaire.
+90
+   Le décret prévoit des exceptions pour les personnels exerçant leur activité hors de leurs locaux de rattachement,
+pour lesquels un décompte déclaratif contrôlable peut remplacer le dispositif de contrôle automatisé. Un décompte
+déclaratif peut également être utilisé pour les sites dont l'effectif des agents susceptibles de percevoir des
+indemnités horaires pour travaux supplémentaires est inférieur à 10.
+
+
+
+
+                                                        48
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+             Graphique n° 1 : Évolution des agents contractuels au sein des effectifs (ETP)
+                                      sur emplois permanents
+
+           120,0%
+
+           100,0%
+                      21,1%           21,7%       22,7%         27,0%         28,4%             28,5%
+            80,0%
+
+            60,0%
+
+            40,0%     78,9%           78,3%       77,3%         73,0%         71,6%             71,5%
+
+            20,0%
+
+             0,0%
+                       2019           2020        2021          2022           2023             2024
+
+                       Titulaires et stagiaires   Contractuels (art. 332-8 et 332-14 du CGFP)
+
+
+Source : commune
+
+
+       Cette hausse s’explique par une diminution du nombre global d’agents titulaires
+entre 2019 et 2024 (- 10,9 %) et, parallèlement, par une augmentation du nombre d’agents
+contractuels sur la même période (+ 32,9 %).
+        La collectivité indique que la loi n° 2019-828 du 6 août 2019 de transformation de la
+fonction publique n’a pas eu d’incidence sur le recrutement des agents contractuels.
+La commune indique prioriser les fonctionnaires mais elle a recours à des agents contractuels
+sur des emplois permanents dans la mesure où :
+     - aucun fonctionnaire correspondant au profil recherché a fait acte de candidature ;
+     - la situation correspond à un manque de candidatures dans certains métiers en tension
+       et en même temps à des taux d’encadrement obligatoires : animateurs et agents sociaux.
+       Toutefois certaines fonctions nécessitent un diplôme d’État : éducateur de jeunes
+enfants, auxiliaire de puériculture ou encore éducateur sportif.
+        Les postes sont toujours ouverts à la fois aux fonctionnaires et aux contractuels.
+La délibération du 26 juin 2025 relative à l’actualisation du tableau des effectifs et des emplois
+précise que l’ensemble des postes sont ouverts aux agents contractuels.
+        La commune emploie également des agents contractuels pour les emplois non
+permanents très majoritairement vacataires91. Sur la période sous revue la part des contractuels
+sur emplois non permanent dans le total des effectifs a baissé : en 2019, elle représentait 15 %
+du total des effectifs pour atteindre 12,5 % en 2024. Cette baisse s’explique par une réduction
+plus importante des contractuels sur emplois non permanents (- 20,5 %) que la baisse
+de l’ensemble des effectifs (5 %).
+
+91
+   La part des vacataires dans les emplois non permanents est passée de 63,2 % en 2019 à 71,7 % en 2024 avec
+une progression linéaire. En 2024, la part les agents remplaçant temporairement des agents permanents absents
+(article L. 332-13 du CGFP) représente 20,7 % des emplois non permanents.
+
+
+
+
+                                                      49
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+4.4.2 Un mode de gestion identique aux titulaires
+
+       La commune indique avoir une gestion identique des effectifs contractuels et titulaires
+hormis les règles relatives aux recrutements et renouvellements de contrat. La gestion des
+agents contractuels mobilise les mêmes dispositifs que pour les agents titulaires.
+        Si l’augmentation des rémunérations des personnels contractuels depuis 2019 (22,5 %)
+est nettement plus significative que celle des personnels titulaires (5,5 %) cela s’explique en
+raison de l’augmentation des agents contractuels. En effet, tout type de postes confondus,
+l’accroissement de la rémunération par ETP des agents contractuels entre 2019 et 2024 (12,7 %)
+est inférieure à l’accroissement de la rémunération par ETP des agents titulaires entre 2019
+et 2024 (18,4 %).
+        Si la commune indique des différences entre la rémunération des titulaires
+et des contractuels, les écarts sont liés aux heures supplémentaires et aux astreintes faites sur
+la base du volontariat.
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        Si le pilotage des ressources humaines est formalisé dans plusieurs documents-cadres,
+il ne comporte pas de dimension prospective. La commune complète et met en ligne les RSU
+et dispose de lignes directrices de gestion qui comportent des actions avec des échéances.
+Le bilan de ces actions devra annuellement être présenté au comité social territorial.
+       Le suivi des effectifs, bien qu'existant, présente des marges d'amélioration certaines.
+Les annexes des budgets et des comptes ne sont pas conformes à la maquette réglementaire,
+présentant des rubriques incomplètes et une comptabilisation inappropriée. La mise à jour
+récente du tableau des postes et des effectifs, portant sur les postes budgétaires et les emplois
+pourvus, constitue une avancée notable. Ce tableau et ses évolutions pourront être présentés
+annuellement en conseil municipal permettant ainsi une vision consolidée facilitant le suivi
+des ressources humaines.
+        Entre 2019 et 2024, la masse salariale a augmenté de près de 10 %, avec une limitation
+de la hausse en fin de période en raison des contraintes budgétaires. Le nombre d'équivalents
+temps plein (ETP) a diminué de près de 4,5 % entre 2019 et 2024. La commune a également
+recouru à des mutualisations, notamment avec Charenton-le-Pont. En 2024, elle a réduit de
+près de 10 % le montant versé des heures supplémentaires et le nombre d’heures de vacation,
+et a mis en place des gels de postes, mesures reconduites en 2025. La progression en glissement
+annuel n’était que de 0,3 % en 2024, contre 5,7 % en 2022.
+        La commune a mis en place le Rifseep et l’indemnité spéciale de fonction et
+d’engagement des policiers municipaux (ISFE) conformément à la réglementation. Cependant,
+le régime indemnitaire en vigueur ne prend pas en compte l'engagement professionnel,
+et la commune n'a pas mis en place d'intéressement. Seul le présentéisme est encouragé par
+la prime d'assiduité.
+       La commune emploie une part croissante d’agents contractuels notamment sur
+les emplois permanents : leur part dans ces emplois est passée de 21 % à 28,5 % entre 2019
+et 2024. Leur mode de gestion est comparable à celui des fonctionnaires.
+
+
+
+
+                                               50
+                                    COMMUNE DE SAINT-MAURICE
+
+
+
+
+5 SÉCURITÉ INFORMATIQUE
+
+
+5.1 Organisation, mission et gouvernance de la direction des services
+    informatiques
+
+
+5.1.1 Un système informatique dont la gestion est largement déléguée au syndicat
+      informatique Infocom 94
+
+       La direction des services informatiques (DSI), rattachée directement à la direction
+générale des services, compte six postes : un directeur, un directeur adjoint, deux techniciens,
+une personne en charge du service reprographie et un apprenti.
+        Deux directeurs ont été présents dans la période sous revue : un premier entre 2019
+et 2021 et également depuis décembre 2024 et un second (antérieurement directeur adjoint)
+entre 2021 et octobre 2024. La commune a rencontré des difficultés dans la conduite
+de ses projets dont certains ont dû être différés jusqu’en décembre 2024. Un nouveau directeur
+adjoint a été engagé en mai 2025 (ce poste non occupé de manière pérenne depuis 2021)
+pour renforcer cette direction. Entre 2018 et 2020, la mise en œuvre d’un plan de continuité
+d’activité92 qui est lacunaire et l’extension de la vidéoprotection ont été menées.
+       La commune délègue la gestion fonctionnelle de la quasi intégralité des applications
+métiers au syndicat intercommunal informatique Infocom 94. Le maire adjoint de secteur est le
+sixième vice-président du bureau du syndicat informatique et une conseillère municipale est
+membre du comité syndical93.
+        Le syndicat met des logiciels à disposition de la commune et en assure la maintenance94.
+Seul un logiciel ne relève pas du syndicat pour la régie unique de recettes. Les demandes
+d’évolution informatique en interne impliquent en premier lieu de déterminer si le syndicat
+informatique est en mesure de proposer une solution permettant de leur répondre. Le syndicat
+Infocom 94 assure également la formation sur les logiciels et sécurise les données des logiciels
+qu’il propose dont certains sont stratégiques (en gestion financière et ressources humaines).
+Le syndicat apporte également un soutien en matière de cybersécurité sur le réseau et
+d’application du règlement général sur la protection des données (RGPD). Il met à disposition
+des communes membres un responsable de la sécurité des systèmes d’information (RSSI)
+mutualisé et un délégué à la protection des données.
+
+
+
+
+92
+   Le plan de continuité d’activité intervient en cas de crise (attaque informatique notamment) et a pour objectif de
+poursuivre l’activité sans interruption du service et d’assurer la disponibilité des informations.
+93
+   Le comité syndical se réunit tous les trois mois pour valider les décisions prises par le président, discuter
+les orientations stratégiques et assurer le suivi des projets en cours.
+94
+   Mise à jour et implémentation de correctifs. Un correctif (ou « patch ») est une section de code ajouté à
+un logiciel, pour y apporter des modifications (par exemple corriger un bogue informatique).
+
+
+
+
+                                                        51
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+         Le rôle de la DSI de la commune porte plus spécifiquement sur la gestion des postes
+informatiques au quotidien, notamment l’assistance utilisateur de proximité, l’infrastructure
+et les réseaux municipaux, la vidéoprotection et la téléphonie. Elle réalise les modifications
+sur les pares-feux pour permettre aux applications de communiquer entre elles, en relation avec
+le syndicat Infocom 94 et l’EPT PEMB (le logiciel d’urbanisme95).
+        S’il n’y a pas eu d’analyse de risques effectuée pour cette externalisation, l’apport du
+syndicat est évalué par la commune à un équivalent de cinq agents96 soit près de la moitié des
+effectifs de la direction. La mutualisation permet, selon la commune, de négocier des tarifs
+avantageux pour les logiciels et services proposés.
+       La commune fait appel à d’autres partenaires externes pour certains sujets, comme
+la maintenance de la téléphonie ou celle des infrastructures.
+
+
+5.1.2 Une gouvernance informatique qui n’est pas formalisée
+
+        La direction générale des services réunit un comité des directeurs tous les mois et demi.
+Une réunion de suivi de projets entre la direction générale et le DSI se tient chaque mois, sans
+donner lieu à un compte rendu. Une réunion de coordination interne de suivi des projets est
+aussi effectuée mensuellement Un seul compte rendu semble avoir rédigé depuis 2025
+et partagé avec la direction générale des services et l’élu de secteur.
+       Le nouveau DSI fait l’interface entre la commune et le syndicat Infocom 94 : il participe
+au comité des directeurs des systèmes d’information auprès du syndicat et, par délégation, au
+comité des directeurs généraux.
+
+
+5.2 La protection des données personnelles
+
+        Le syndicat Infocom 94 met à disposition un délégué à la protection des données
+mutualisé et la commune a désigné la directrice juridique de la commune en tant que référent
+à la protection des données. La commune n’a pas reçu de bilan du syndicat Infocom 94 sur
+la protection des données contrairement à l’article 38 du règlement général à la protection
+des données (RGPD)97. Le syndicat Infocom 94 indique toutefois avoir transmis ce rapport à la
+commune mais la chambre ne dispose, malgré ses demandes, d’aucun document en attestant.
+       Le délégué à la protection des données a mis en place un registre de traitement
+des données.
+      La commune indique qu’elle n’effectue pas d’analyse d’impact sur la protection des
+données (AIPD) avant le déploiement de dispositifs de traitement de données personnelles.
+        Le syndicat Infocom 94 indique qu’une AIPD est réalisée lorsque certains critères
+limitativement définis sont remplis. La chambre ne dispose d’aucune information sur la mise
+en pratique de cette analyse dans la commune de Saint-Maurice
+
+
+95
+   La compétence urbanisme relève de l’EPT Paris est Marne et bois.
+96
+   Trois chefs de projets fonctionnels, un délégué à la protection des données et un responsable de la sécurité des
+systèmes d’information.
+97
+   Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016.
+
+
+
+
+                                                       52
+                                      COMMUNE DE SAINT-MAURICE
+
+
+
+
+        Le droit de rectification et le droit à l’oubli font l’objet d’une procédure sur le site
+internet de la commune.
+       En cas de violation de données personnelles, la commune informe immédiatement le
+délégué à la protection des données pour faire une déclaration auprès de la CNIL98 dans le délai
+de 72 heures. Bien que la commune n’ait pas transmis de guide ou de procédure formalisée
+en la matière, Infocom 94 précise qu’une procédure existe.
+        La commune n’a pas de procédure ou de guide interne d’archivage. Les délais
+de conservation des données pour la vidéoprotection est de 30 jours conformément à
+la réglementation.
+        Pour les logiciels gérés par le syndicat Infocom 94, la commune indique que les durées
+de conservation des données seraient celles prévues par la loi. Pour les autres fichiers, elle n’a
+pas défini de critères particuliers outre les durées imposées par la loi. Les données personnelles
+étaient conservées 15 jours jusqu’en juillet 2025. Depuis, l’extension de la durée de sauvegarde
+doit amener la commune à mener une réflexion sur la durée de conservation des données.
+Celle-ci doit être limitée à ce qui est nécessaire au regard des finalités pour lesquelles les
+données sont conservées conformément au RGPD (article 5 point c).
+
+
+______________________ CONCLUSION INTERMÉDIAIRE ______________________
+
+        La commune délègue la gestion fonctionnelle de la quasi intégralité des applications
+métiers au syndicat intercommunal informatique Infocom 94 tout en conservant la gestion
+de l’infrastructure et des réseaux municipaux, de la vidéoprotection et de la téléphonie.
+        La sécurité des systèmes d’information a une maturité intermédiaire par rapport
+au secteur des services publics selon un audit de juillet 2025 en partenariat avec la métropole
+du grand Paris. La commune a souscrit une offre mutualisée de sensibilisation et de supervision
+des systèmes d’information auprès d’Infocom 94.
+           Toutefois, la gouvernance et les procédures manquent de formalisation et de mise
+à jour.
+        La commune respecte les obligations issues du règlement général à la protection
+des données (RGPD) mais devra, avec l’augmentation de la durée de stockage des données,
+veiller à ne conserver les données que le temps nécessaire.
+
+
+
+
+98
+     Commission nationale de l'informatique et des libertés.
+
+
+
+
+                                                         53
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+                                                     ANNEXES
+
+Annexe n° 1. Qualité des annexes budgétaires ............................................................... 55
+Annexe n° 2. Taux de fiscalité voté par la commune de Saint-Maurice et bases
+            d’imposition ............................................................................................... 56
+Annexe n° 3. Glossaire des sigles ................................................................................... 57
+
+
+
+
+                                                               54
+                                                COMMUNE DE SAINT-MAURICE
+
+
+
+
+                                      Annexe n° 1. Qualité des annexes budgétaires
+                                            2019           2020            2021         2022           2023            2024           2025
+États annexés aux documents
+budgétaires selon l’article L. 2313-1
+du CGCT
+Données synthétiques sur la situation
+                                           Présent        Présent       Présent        Présent        Présent         Présent        Présent
+financière
+Liste des concours attribués sous                                   Présent (mais Présent (mais Présent (mais      Présent (mais
+forme de prestations en nature ou de                                sans précision sans précision sans précision   sans précision
+                                           Absent      Non complété                                                                 Sans objet
+subventions (CA uniquement) –                                       des avantages des avantages des avantages      des avantages
+État B1.7 (puis B8.1.1 et B8)                                         en nature)     en nature)     en nature)       en nature)
+Présentation agrégée des résultats
+afférents au dernier exercice connu
+du budget principal et des budgets         Absent      Non complété Non complété       Présent        Présent         Présent       Sans objet
+annexes (CA uniquement) –
+État C3.5 (puis A3)
+a) Liste des organismes pour lesquels
+la commune détient une part du
+capital
+b) Liste des organismes pour lesquels
+la commune a garanti un emprunt
+                                                                                                       Non                            Non
+c) Liste des organismes pour lesquels      Absent      Non complété     Absent      Non complété                   Non complété
+                                                                                                     complété                       complété
+la commune a versé une subvention
+supérieure à 75 000 € ou représentant
+plus de 50 % du produit figurant au
+compte de résultat de l’organisme
+État C2 (puis B10)
+Tableau retraçant l’encours des
+emprunts garantis par la commune                                                                       Non                            Non
+                                           Absent       Sans objet     Sans objet     Sans objet                   Non complété
+ainsi que l’échéancier de leur                                                                       complété                       complété
+amortissement – État B1.1 puis B7.1
+Liste des délégataires de service                                                                      Non                            Non
+                                           Absent      Non complété     Absent      Non complété                   Non complété
+public – État C2 puis B10                                                                            complété                       complété
+États annexés au budget et au compte
+administratif selon l’article R. 2313-
+3 du CGCT
+Tableaux récapitulant l'état des
+                                           Absent         Présent       Présent        Présent        Présent         Présent        Présent
+emprunts et dettes – État A2 puis B1.2
+Présentation de l'état des provisions –                                                                Non                            Non
+                                           Absent      Non complété Non complété Non complété                      Non complété
+État A4 puis B3                                                                                      complété                       complété
+Méthodes utilisées pour les
+                                           Absent         Présent       Présent        Présent        Présent         Présent        Présent
+amortissements État A3 puis B2
+Présentation de l'équilibre des
+opérations financières – État A6           Absent         Présent       Absent         Présent        Présent         Présent        Présent
+puis C1.2
+Mode de financement des opérations
+                                          Sans objet    Sans objet     Sans objet     Sans objet     Sans objet     Sans objet      Sans objet
+pour le compte de tiers – État A9
+État du personnel – État C1 puis B9        Absent         Présent       Absent         Présent        Présent         Présent        Présent
+Organismes de regroupement dont la                                                                                                    Non
+                                           Absent         Présent       Absent         Présent        Absent          Absent
+commune est membre – État B3.1                                                                                                      complété
+Décisions en matière de taux des                                                                                                      Non
+                                           Absent         Présent       Absent         Absent         Absent       Non complété
+contributions directes – État F                                                                                                     complété
+États annexés au seul compte
+administratif selon l’article
+R. 2313-3 du CGCT
+Liste des services individualisés dans                                                                                                Non
+                                           Absent      Non complété     Absent         Absent         Absent          Absent
+un budget annexe – État B3.3                                                                                                        complété
+
+    Source : CRC, d’après les budgets primitifs, les comptes administratifs et les comptes financiers uniques
+
+
+
+
+                                                                      55
+RAPPORT D’OBSERVATIONS DÉFINITIVES
+
+
+
+
+          Annexe n° 2. Taux de fiscalité voté par la commune de Saint-Maurice
+                                  et bases d’imposition
+
+            Taux d'imposition, en %           2019        2020        2021        2022     2023    2024
+Taxe d'habitation                            21,45       21,45       21,45       21,45     21,45   25,31
+Taux moyen des communes de la même strate    16,66       16,68       17,49       17,48     17,64   ND
+Taxe sur le foncier bâti                     17,45       17,45        31,2        31,2     31,2    36,82
+Taux moyen des communes de la même strate    22,58       22,56       40,05       40,47     40,93   ND
+Taxe sur le foncier non bâti                 38,34       38,34       38,34       38,34     38,34   38,34
+Taux moyen des communes de la même strate    53,69       53,13       53,26       53,26     53,99   ND
+
+Source : CRC, à partir du site de la direction générale des collectivités locales (DGCL)
+
+
+
+
+                                                       56
+                      COMMUNE DE SAINT-MAURICE
+
+
+
+
+                     Annexe n° 3. Glossaire des sigles
+
+    Sigles                                 Signification
+CAF          Capacité d'autofinancement
+CCAS         Centre communal d'action sociale
+CFU          Compte financier unique
+CGCT         Code général des collectivités territoriales
+CGFP         Code général de la fonction publique
+COSEC        Complexe sportif évolutif couvert
+CRC          Chambre régionale des comptes
+DMTO         Droits de mutation à titre onéreux
+DSI          Direction des systèmes d'information
+EBF          Excédent brut de fonctionnement
+EPT          Établissement public territorial
+ETP          Équivalent temps plein
+ETPT         Équivalent temps plein travaillé
+FCCT         Fonds de compensation des charges territoriales
+FCTVA        Fonds de compensation de la taxe sur la valeur ajoutée
+FRNG         Fonds de roulement net global
+GVT          Glissement vieillesse technicité
+PPI          Plan ou programme pluriannuel d'investissement
+RAR          Restes à réaliser
+             Régime indemnitaire tenant compte des fonctions, des sujétions,
+Rifseep
+             de l'expertise et de l'engagement professionnel
+ROB          Rapport sur les orientations budgétaires
+RSU          Rapport social unique
+SGC          Service de gestion comptable
+             Syndicat intercommunal de la périphérie de Paris pour les énergies et
+Sipperec
+             les réseaux de communication
+
+
+
+
+                                      57
+                       RÉPONSE DE
+              MONSIEUR IGOR SEMO,
+            MAIRE DE SAINT-MAURICE (*)
+
+
+
+
+(*) Cette réponse jointe au rapport engage la seule responsabilité
+de son auteur, conformément aux dispositions de l'article L.243-5
+du Code des juridictions financières.
+    Le 14/09/2026
+    G/0577
+
+
+
+
+Réponse au rapport thématique régi
+nationales
+
+
+
+Monsieur le Président,
+
+Nous avons lu avec attention le rapp
+souhaitons apporter une réponse gé
+particulières.
+
+Nous nous félicitons du constat que
+développement culturel de nos territ
+avons su traverser la crise sanitaire l
+Nous soulignons le fait que la Cham
+conﬁés.
+
+Nous avons pris en compte les di ér
+utilement d’évoluer dans nos gestion
+
+Nous trouvons contestable la notion
+notre budget global par le nombre d’
+tournée, accompagnement d’artiste
+
+Nous partageons enﬁn l’analyse sur
+possibilités de remplir nos missions
+d’augmentation de subvention, noté
+disparates. Il n’y a pas eu d’augment
+scènes nationales, les augmentation
+ou à des projets culturels spéciﬁque
+
+Nous sommes inquiets face aux nou
+pensons que vos préconisations, bie
+les baisses de subvention.
+
+Parmi les préconisations formulées,
+propres, en particulier par le dévelop
+rappeler que les demandes de mécé
+Île-de-France. Si le nombre d’entrep
+montants des dons sont globalemen
+priorité pour ces entreprises. Conce
+démarche volontariste est impulsée
+les programmations au sein du résea
+                         COMMUNE DE SAINT-MAURICE
+
+
+
+
+Chambre régionale des comptes d’Île-de-France
+    6 cours des Roches – Noisiel – BP 187
+    77315 MARNE-LA-VALLÉE Cedex 2
+           Standard : 01.64.80.88.88
+      Courriel : iledefrance@crtc.ccomptes.fr
+ Site : https://www.ccomptes.fr/fr/crc-ile-de-france
+
+
+
+                                          59
+
